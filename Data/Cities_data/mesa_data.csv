@@ -1,0 +1,1140 @@
+,business_id,name,latitude,longitude,address,stars_y,city,is_recommended,attributes.NoiseLevel,attributes.Open24Hours,attributes.BusinessParking.garage,attributes.BusinessParking.validated,attributes.BikeParking,attributes.BusinessParking.valet,attributes.BusinessParking.street,categories_mexican,categories_american,categories_italian,categories_japanese,categories_seafood,categories_chinese,categories_thai,categories_fast_food,categories_vegan,categories_vegetarian
+0,kKx8iCJkomVQBdWHnmmOiA,Little Caesars Pizza,33.3948766,-111.60019380000001,10720 E Southern Ave,2.5,MESA,0,,,,,False,,,0,0,0,0,0,0,0,0,0,0
+1,MTH-AcNyWfsBa9sXp04HcQ,Firehouse Subs,33.3796209,-111.7571603,"3420 E Baseline Rd, Ste 101",3.6707317073170733,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+2,6PwKC0dqP9uI85FEP86iPQ,Red Viet Cuisine - Sushi,33.3210685814,-111.68517183200001,"5221 S Power Rd, Ste 104",3.2560975609756095,MESA,1,quiet,,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+3,SAae44V24aD7y_HpgxjhPA,Nando's Mexican Cafe,33.4658931,-111.68582659999998,6715 E McDowell Rd,3.3125,MESA,1,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+4,1Nq7GxjvEDgAJxBeOjR_9Q,Burrito Express,33.423595399999996,-111.8568585,450 N Alma School R,2.6451612903225805,MESA,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+5,0s0Xthk1JWrBUu74M81Xyg,The Good Egg - Val Vista,33.380479,-111.7533699,1939 S Val Vista Dr,3.963302752293578,MESA,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+6,mI5UYpuYxjiumMLgANoa9A,Filiberto's Mexican Food,33.379467445,-111.75299406100001,3636 E. Baseline Rd,2.657142857142857,MESA,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+7,3c6FN1VrCAV4s60PsWTCLA,Pho All Seasons,33.3944997,-111.8748402,1116 S Dobson Rd,3.0714285714285716,MESA,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+8,ZyIlYBpGnRsLeoEfXo-mxg,On The Green Sports Grill,33.3997189,-111.6841436,801 S Power Rd,3.2857142857142856,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+9,OsuBqr2L0-5W8LGAsg-p8g,Micky's Hot Dogs,33.4080371,-111.83460590000001,108 W Broadway Rd,3.991304347826087,MESA,1,average,,False,False,True,False,False,1,0,0,0,0,0,0,1,0,0
+10,RFj91Y9mk2d824QyD9JTzA,Firehouse Subs,33.3848304749,-111.80675506600001,"1616 S Stapely Dr, Ste 101",3.606060606060606,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+11,SSCH4Z2gw-hh2KZy7aH4qw,Worth Takeaway,33.4154308,-111.8374321,218 W Main St,4.755952380952381,MESA,1,average,,False,False,True,False,True,0,1,0,0,0,0,0,0,0,0
+12,_9VQUKCkYWHfUTnxbn4O_A,Tom's BBQ,33.3937008292,-111.841277964,1140 S Country Club Dr,3.5454545454545454,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+13,9_HgBRUXUg_vKjTT-GSulA,Golden Hawaiian BBQ,33.393802642800004,-111.868804932,"1720 W Southern Ave, Ste C3",3.7976190476190474,MESA,1,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+14,FGaaHr_krwaPGlD0mHPe4Q,Matta's Grill and Cantina,33.4351659963,-111.866054535,"1033 N Dobson Rd, Ste 101",3.25,MESA,1,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+15,yhcgONZE_flFHrTEM60o3g,Barro's Pizza,33.4359141763,-111.684863082,1066 N Power Rd,4.090909090909091,MESA,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+16,YjlCXwWr9xx6TnHmTFCKGQ,P.F. Chang's,33.3855705916,-111.68991655100001,6610 E Superstition Springs Blvd,3.4070796460176993,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+17,NIjZNZCeMwILmFGzXdTLkg,China 1,33.409569899999994,-111.6844493,319 S Power Rd,3.857142857142857,MESA,0,quiet,,False,False,,False,False,0,0,0,0,0,1,0,0,0,0
+18,t_9dmtogyjAocFsNW1igag,Starbucks,33.378931300000005,-111.6873472,"6807 E Baseline Rd, Ste 101",2.8846153846153846,MESA,0,,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+19,TvDsoVbGEGtXBCaVcICKVA,Pub'n Grub,33.3638634,-111.8581176,"2815 S Alma School Rd, Ste 101",4.126984126984127,MESA,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+20,VoJxPSgdVN8en44bLYEbHA,Binh Duong Quan,33.4134626757,-111.876013912,"66 S Dobson Rd, Ste 124",3.2,MESA,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+21,KCD4AuLXNhbG87fJaX9_gw,Port of Subs,33.453007,-111.68823929999999,"6620 E Mckellips Rd, Ste 101",3.608695652173913,MESA,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+22,PTbnuJ1QqeFpRZfPlwY9wQ,Arby's,33.376822499999996,-111.688404,2130 S Power Rd,3.090909090909091,MESA,0,quiet,,,,True,,,0,0,0,0,0,0,0,1,0,0
+23,4STzP1q1uM8ONkKookifsw,Nan Zhou - Hand Drawn Noodle House,33.4125729,-111.8738256,111 S Dobson Rd,3.934959349593496,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+24,L8QF9uWDBujU9rNOzdLfjg,Steve's Krazy Sub,33.4155386,-111.68268020000001,6853 E Main St,3.911764705882353,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+25,9AJcD4UfawSSgc5007SWAw,Ocean Buffet,33.388049699999996,-111.8402882,1450 S Country Club Dr,2.533333333333333,MESA,0,quiet,,False,False,,False,False,0,0,0,0,0,1,0,0,0,0
+26,3qgEB0R-5n5A1hOH83FzhA,Hidalgo Mexican Food,33.407534000000005,-111.81385800000001,801 E Broadway,3.125,MESA,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+27,0kgib8EeCvEerG1R4T1okg,Posidon Greek Restaurant & Market,33.4149317,-111.85010919999999,961 W Main St,3.96,MESA,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+28,32RDYS1pxMytL1rBSF__UA,Papa Murphy's,33.377528399999996,-111.87698600000002,1955 West Baseline Road,4.105263157894737,MESA,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+29,O5jWRmilHqaW54ChJh1oFg,Peter Piper Pizza,33.4300004,-111.8720821,1906 W Rio Salado,2.638888888888889,MESA,0,loud,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+30,10GxV6JOKPoR1w5KC2iZjA,Soda Bun Thai Food,33.3653600592,-111.860603789,"2740 S Alma School Rd, Ste 5",4.655405405405405,MESA,1,quiet,,False,False,True,False,False,0,0,0,0,0,0,1,0,0,1
+31,Yv9zUwWSyig0xhgDsv4qjQ,Popeyes Louisiana Kitchen,33.3173826,-111.68686650000001,5329 S Power Rd,3.4285714285714284,MESA,0,quiet,,False,False,True,False,False,0,1,0,0,1,0,0,1,0,0
+32,uWJ9AtXLAlD9OgvY4ZQlIg,Cafe Rio,33.3648254367,-111.60351769,2748 S Signal Butte Rd,2.46875,MESA,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+33,MrRu3ZE1QKaXfAzfOtAkDw,Durger Dog,33.375057,-111.687177,"2235 S Power Rd, Ste 120",4.05,MESA,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+34,70Y9Czch3unQubjQYiAY7Q,S'Bistro,33.415473999999996,-111.835051,124 W Main St,3.8333333333333335,MESA,0,,,False,False,,False,True,0,1,0,0,0,0,0,0,0,0
+35,5h2DIYpfzc7KDTFg18uuew,China Rice,33.4082532,-111.80146780000001,1352 E Broadway Rd,3.912280701754386,MESA,0,quiet,,False,False,False,False,False,0,0,0,0,0,1,0,0,0,0
+36,IFr8JOyjuMjf0xrmAJmsVg,Paradise Bakery & Cafe,33.393725,-111.68918980000001,"6555 E Southern Ave, Ste 2014, Superstition Springs Mall",3.0,MESA,0,,,,,False,,,0,0,0,0,0,0,0,0,0,0
+37,czzDEma3urPeWdNcItOyPw,Great China Super Buffet,33.3934084,-111.7014499,6005 E Southern Ave,2.625,MESA,0,,,False,False,,False,False,0,0,0,0,0,1,0,0,0,0
+38,ckQdUPdUOX18yOhE2aV8sA,Asi Es Mi Tierra,33.4147447,-111.6288033,9333 E Main St,4.113924050632911,MESA,1,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+39,dv2LfEn4p3ncG_1jYIoZ7g,Sonic Drive-In,33.378748,-111.684592,6935 E Baseline Rd,1.3928571428571428,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+40,djZua1IbMN9KBEWJXKW1MA,Carl's Jr.,33.3811829,-111.8406862,1850 S Country Club Dr,2.25,MESA,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+41,EnDm1TQPMrVvq0nAZqeWaA,Subway,33.3936997,-111.8710014,"1840 W Southern Ave, Ste 12",2.4285714285714284,MESA,0,,,False,False,False,False,False,0,0,0,0,0,0,0,1,0,0
+42,Op-nvSmAKWSG5buIecfaag,Pie Five Pizza,33.3794833,-111.8061875,1230 E Baseline,4.142857142857143,MESA,0,average,,,,True,,,0,0,0,0,0,0,0,0,0,0
+43,7-p1-QG4a1-kWoPFI2mUYg,Annabelle's Dining & Lounge,33.406710600000004,-111.68157279999998,425 S Power Rd,2.6923076923076925,MESA,0,average,,False,False,False,False,False,0,1,0,0,0,0,0,0,0,0
+44,6EYmMjaQU0UHjA8PbQKI7Q,Subway,33.3954461,-111.68415139999999,1145 S Power Rd,3.6666666666666665,MESA,0,average,,,,True,,,0,0,0,0,0,0,0,1,0,0
+45,B-pELAaG6vPfa3eQAUk98A,Sushi Stop Udon & Grill,33.3626731,-111.87802450000001,"2023 W Guadalupe Rd, Ste 14",4.674698795180723,MESA,1,quiet,,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+46,QpSUvreiuTGDjZ8dMKYDTg,Four Points by Sheraton Mesa-Gateway Airport,33.308194131,-111.68498499100001,6850 E Williams Field Rd,3.6774193548387095,MESA,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+47,g8adhQQp3NDCA6GcHJ7szQ,Modern Grove,33.437488300000005,-111.78861450000001,"1958 E Brown Rd, Ste 103",3.3394495412844036,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+48,rYPpbhnucRdLmpmcjUqoFA,El Bigo Taco,33.408596754,-111.822775923,202 E Broadway Rd,4.3076923076923075,MESA,0,loud,,False,False,False,False,False,1,0,0,0,0,0,0,0,0,0
+49,VxgjMl8tQrT4idJW_z8daA,Carrabba's Italian Grill,33.3846806,-111.6795479,1740 S Clearview Ave,3.894308943089431,MESA,1,average,,False,False,True,False,False,0,0,1,0,1,0,0,0,0,0
+50,cAwyXwW_IfaXVCkX_lL25g,Baja Fresh Mexican Grill,33.379618,-111.75704499999999,3420 E Baseline Rd,3.0714285714285716,MESA,0,average,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+51,PoF4lo92h-oREht66m9JSw,Grandma's Kitchen,33.414848,-111.84026580000001,405 W Main St,2.7333333333333334,MESA,0,average,,False,False,,False,True,0,1,0,0,0,0,0,0,0,0
+52,v9EqcuA6eUvriLRwxbxQNw,Amazing Jake's Food & Fun,33.3800841817,-111.79100895799999,1830 E Baseline Rd,2.8444444444444446,MESA,0,very_loud,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+53,2pMT5SBfn4oGr_Ae1tp8vQ,JJ Madisons,33.4238866,-111.68509990000001,430 N Power Rd,3.034782608695652,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+54,QprhQn2o-KbsfG1yKRmEmQ,Jack in the Box,33.414378899999996,-111.873954,1945 W Main St,2.3333333333333335,MESA,0,average,,False,False,False,False,False,0,0,0,0,0,0,0,1,0,0
+55,RF8OASm57WJtWG3tk69qVA,Jimmy John's,33.3933592,-111.86896589999999,1730 W Southern Ave,2.782608695652174,MESA,0,very_loud,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+56,DtSfgYvhcUA1vda_Ypj7cQ,Filiberto's Mexican Food,33.416045399999994,-111.6863577,6728 E. Main St,1.75,MESA,0,,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+57,qdd1DHfeKHE72_djJxCJdQ,Macayo's Mexican Table,33.3796472,-111.87834299999999,1920 S Dobson Rd,3.0046296296296298,MESA,1,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+58,KzCyiOcmnJR08P7PyJ4knQ,Coco's Bakery & Restaurant,33.378957,-111.87573200000001,1862 W Baseline Rd,2.9545454545454546,MESA,0,average,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+59,whTqmbE6OzlJUhm_vMtKqw,Pizza Hut,33.379344,-111.787194,2056 E Baseline Rd,2.411764705882353,MESA,0,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+60,EJs6fYFdecCjXq8pCsA2dA,Papa Kelsey's Pizza & Subs,33.416708,-111.634091,9124 E Apache Trl,3.927536231884058,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+61,R8d_LNHUt7GTZtQSeM-uAg,Wienerschnitzel,33.3918659024,-111.71898365,1225 South Higley,2.875,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+62,QtNvhMHwbSrrRtaOwXeYJA,Pizza Pie Cafe,33.390567,-111.6903269,"6555 E Southern Ave, Ste B44",3.2777777777777777,MESA,0,loud,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+63,uAyXrnFaXw2FBiYnmncDuw,Famous Dave's,33.435509595300005,-111.86912430299999,1011 N Dobson Rd,3.799043062200957,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+64,9PBfeIO-4_oNTJ_pfyesUQ,Subway,33.3940553,-111.75427759999998,3550 E Southern Ave,2.6,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+65,E-rwWFxwtKQm-IoAwnTh2Q,Ariana's Kabob & Gyros,33.394408,-111.718791,1155 S Higley Rd,3.5,MESA,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+66,uFMOQUE4TsxEt7ifnblBpg,Dickey's Barbeque Pit,33.380230600000004,-111.68856140000001,"1914 S Power Rd, Suite 101",2.9130434782608696,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+67,lsKv0IDdj3c6Y8bT6taxSA,Lucky Lou's American Grill,33.4510401,-111.682255,1929 N Power Rd,3.96,MESA,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+68,m6XI2DDUqsg9blBD1IAnNA,Road House Grill,33.416189,-111.67989299999999,7000 E Main St,3.3333333333333335,MESA,0,,,,,False,,,0,1,0,0,0,0,0,0,0,0
+69,3Mc-LxcqeguOXOVT_2ZtCg,Waldo's BBQ,33.4158582417,-111.73241129,4500 E Main St,3.7814814814814817,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+70,YRRB-tAAXYX92KOU7uSg2w,Steel City Pierogi,33.3861257327,-111.61540512,,3.857142857142857,MESA,0,,,,,False,,,0,0,0,0,0,0,0,0,0,0
+71,O-KCkhDi2BKSke4Uvild6g,Jen's Pizzeria,33.415046399999994,-111.74634040000001,"3929 East Main St, Ste 16",3.75,MESA,0,quiet,,,,False,,,0,0,0,0,0,0,0,0,0,0
+72,iJBnqweAPDTCfyMcRrG90w,Giant Hamburgers,33.4064076,-111.77165420000001,"2753 E Broadway Rd, Ste 104",4.282798833819242,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+73,_4UK9z9ycMPd9AWxJBD1Gw,New China Buffet,33.4149073,-111.80579240000002,1159 E Main St,2.6153846153846154,MESA,0,very_loud,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+74,w-SkKR92IBQMJmI_pUjKGw,L & L Hawaiian Barbecue,33.384163,-111.803119,"1641 S Stapley Dr, Ste 103",4.310344827586207,MESA,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+75,Y441_3bKYom62PQWhG_5Gg,Waffle House,33.451508399999994,-111.7212131,5055 E McKellips Rd,3.3461538461538463,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,1,0,0
+76,RvMdC1gcJyVoj3RXPPdAyQ,Jack in the Box,33.451084,-111.840723,427 W McKellips Rd,4.125,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+77,J5lgLvoKPzNqGCGPbznh-Q,China Express,33.379529600000005,-111.87690020000001,1940 W Baseline Rd,3.9,MESA,0,quiet,,False,False,False,False,False,0,0,0,0,0,1,0,0,0,0
+78,82mWTnfbGDE1jJ2NDMxfNw,Pita Jungle,33.3935343,-111.87177820000001,1850 W. Southern Ave.,3.7818930041152266,MESA,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,1
+79,5PwYiNSkeiwmrnyOBj5IMQ,Carl's Jr,33.3815112,-111.7400121,1916 S Greenfield Rd,3.0,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+80,24YIAXzArY1w2GXzoUbcmw,Wok In,33.4158101,-111.66879660000001,7530 E Main St,3.8130841121495327,MESA,1,quiet,,False,False,True,False,False,0,0,0,0,0,0,1,0,0,0
+81,2g6x4ISNiMxFnotBuwmZmw,Dos Gringos,33.3797662984,-111.74095173100001,1958 S Greenfield Rd,2.7155172413793105,MESA,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+82,p-_P8826nhtfqGmhMHW_Jg,Julie's Chicken and Waffles Just Soul Babee,33.3892,-111.86058,1445 W Southern Ave,4.666666666666667,MESA,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+83,pYZnKIv0z-UxrpgBjp_z1w,Kokobelli Bagel Cafe,33.394607,-111.683508,1155 S Power Rd,3.8967741935483873,MESA,1,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+84,OQH2cl8SPWp9HR5S_CXFgA,Subway,33.406608,-111.77298600000002,2753 E Broadway Rd,1.75,MESA,0,,,False,False,,False,False,0,0,0,0,0,0,0,1,0,0
+85,iBvF9Oy9UdOrXvTlxNHyqw,La Casa De Juana,33.393232399999995,-111.8736482,1976 W Southern Ave,3.6875,MESA,0,average,,False,False,True,False,False,1,0,0,0,1,0,0,0,0,1
+86,nOpytM8qazjVf2Gu0bqWmg,Josephine's Italian Restaurant,33.364446,-111.669196,7641 E Guadalupe Rd,3.0,MESA,0,quiet,,False,False,,False,False,0,0,1,0,0,0,0,0,0,0
+87,3yb5khz4PCjiHI4ZbxfitA,Pizza Hut,33.41447,-111.628556,"9333 East Apache Trl, Ste 101",2.1666666666666665,MESA,0,,,,,,,,0,0,1,0,0,0,0,0,0,0
+88,CtIQFYX_XRf3N41LLSpUjg,Mango Thai,33.3880679,-111.841425,"1440 S Country Club Dr, Ste 10",3.1666666666666665,MESA,0,quiet,,False,False,,False,False,0,0,0,0,0,0,1,0,0,0
+89,o1SDx95NHJY47dkSCvRnGQ,Chipotle Mexican Grill,33.3255763881,-111.68760279,"4984 S Power Rd, Ste 107",3.2888888888888888,MESA,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,1,0,0
+90,-oSII3bw90cvyLmgsHgmpg,Mokis Hawaiian Grill,33.395095899999994,-111.75276229999999,3614 E Southern Ave,3.4864864864864864,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+91,05SEa-U2s2EBjfCEuI290Q,Hot Dog on a Stick,33.3892,-111.86058,1445 W Southern Ave,3.8333333333333335,MESA,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+92,kEc9uZmCXyM_XbdQyYBeEw,Long Wong's Dobson,33.408847922,-111.875260212,"502 S Dobson Rd, Ste 16",3.75,MESA,0,average,,,,True,,,0,0,0,0,0,0,0,0,0,0
+93,jnEeU5rAhKt-ORxk9L1LYw,Fat Willy's,33.377353899999996,-111.61995619999999,"9937 E Baseline Rd, Ste 101",2.287878787878788,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+94,ZhO6_8Vc-zfRxvDDvDBynA,Nekter Juice Bar,33.3796235,-111.7559876,"3440 East Baseline Rd, Ste 103",3.9450549450549453,MESA,1,quiet,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+95,iwaxS9C2dDO5ttLdpa2S9g,Ned's Krazy Sub,33.3828992579,-111.59998107700001,"101 S Signal Butte Rd, Ste 101",4.333333333333333,MESA,0,,,,,False,,,0,1,0,0,0,0,0,0,0,0
+96,Aeg__6qMf9-1Fo7TZ1RkHA,The Trough Bar & Grill,33.415113399999996,-111.6302233,9303 E Apache Trl,3.0434782608695654,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+97,qMJCVx6-ZYvZQHlfrZ_cug,Big Bowl Restaurant,33.408271899999995,-111.79028229999999,1910 E Broadway Rd,4.297297297297297,MESA,0,quiet,,False,False,True,False,False,0,0,0,0,0,1,0,1,0,0
+98,EYLT-7qniN0WGrfgVwmwnQ,Rolbertos Restaurante,33.4153368,-111.84436670000001,606 W Main St,4.615384615384615,MESA,0,quiet,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+99,GWv_NfJzBlpEbCTthrWa9Q,The Grill On Main,33.415473999999996,-111.835051,124 W Main St,2.8214285714285716,MESA,0,quiet,,False,False,,False,True,0,1,0,0,0,0,0,0,0,0
+100,H_kmGpsFi5siSe6czjtoCg,China Panda Buffet,33.390451899999995,-111.8411642,1326 S Country Club Dr,2.6666666666666665,MESA,0,,,False,False,,False,False,0,0,0,0,0,1,0,0,0,0
+101,0PO-AN12WzQKh2qnxYNbeg,Contigo Peru,33.363255,-111.86058100000001,"1245 W Guadalupe Rd, Ste B-8",3.8771929824561404,MESA,0,average,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+102,JznTpiPQVpfnV7mEw6PpOQ,Papa Murphy's,33.4520489,-111.8035837,1242 E. McKellips Road,4.111111111111111,MESA,0,average,,,,,,,0,0,0,0,0,0,0,0,0,0
+103,zWLosp9soUtbEAe6oldrqQ,Swan Thai,33.3938467,-111.721011,5110 E Southern Ave,3.52,MESA,0,quiet,,False,False,,False,False,0,0,0,0,0,0,1,0,0,0
+104,Oe6cb42EkFvIWwEIooY-OQ,BJ's Restaurant & Brewhouse,33.385447,-111.68924299999999,6622 E Superstition Spgs Blvd,3.4159663865546217,MESA,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+105,dqSHsdKjsLXP8lqloBDPXg,Sonic,33.451475699999996,-111.8167229,647 E McKellips Rd,1.75,MESA,0,quiet,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+106,cdPnRYnfKrbeEUAoSJONtw,Tqla,33.381723,-111.754566,1840 S Val Vista Dr,3.593073593073593,MESA,1,average,,False,False,True,False,False,1,1,0,0,0,0,0,0,0,0
+107,5g5iV8w6SK9KHtcbhwGirg,Old Chicago,33.3832251,-111.68374640000002,6821 E Superstition Springs,3.25,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+108,-c_MUp1XdJnC8LofTEPLTA,Red Brick Pizza,33.4317278536,-111.84322357200001,"1041 N Dobson Rd, Ste 102",3.1666666666666665,MESA,0,,,False,False,,False,False,0,0,0,0,0,0,0,1,0,0
+109,A-tuGeY27KN2OGE9D-tkbw,Bread Basket,33.4235200243,-111.76999356600001,"2820 E University Dr, Ste 110",4.303030303030303,MESA,0,quiet,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+110,80gdzmn-E3IaXK7Z6qzC6A,Costa Vida Fresh Mexican Grill,33.3836669831,-111.75681193700001,"1744 S Val Vista Dr, Ste 106",3.5527950310559007,MESA,1,average,,False,False,True,False,False,1,1,0,0,0,0,0,0,0,0
+111,mRUVMJkUGxrByzMQ2MuOpA,Beast of Bourbon Bar & Grill,33.3749755,-111.6871525,2235 S Power Rd,3.5555555555555554,MESA,0,,,,,,,,0,1,0,0,0,0,0,0,0,0
+112,7yY_jzvV75Zv52dfn9PIkQ,Sarku Japan,33.389476699999996,-111.86045449999999,"1445 W Southern Ave, Ste 2158",3.8333333333333335,MESA,0,,,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+113,rXskMt3Y_Bs1PiGKN3N3sg,Fat Willy's,33.3837447,-111.74318429999998,"1762 S Greenfield Rd, Ste 111",2.6265060240963853,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+114,Ns4tjgLfqR1qawGlNFROBA,SN Pacific Rim Asian Kitchen,33.3794154,-111.80530949999999,1236 E Baseline Rd,3.7181818181818183,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,1,0,1,0,0
+115,eobkI2jIFXjdUiv-5LCV9w,Pizza Hut,33.3780412,-111.638686,"9053 E Baseline Rd, 105A",2.0833333333333335,MESA,0,,,,,,,,0,0,1,0,0,0,0,0,0,0
+116,vCRgJTNdWcKuN8rxjvo8Xw,Jack in the Box,33.415517699999995,-111.70273929999999,5965 E Main St,2.4285714285714284,MESA,0,quiet,,False,False,False,False,False,0,0,0,0,0,0,0,1,0,0
+117,ISk87T1Va8tV2HlpgWQ8mA,Village Mini Market,33.437863,-111.788255,1224 N Gilbert Rd,3.5,MESA,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+118,bsauQzwixetBDjA7SqUlVA,Crackers & Co Cafe,33.3840839,-111.84369640000001,"535 W Iron Ave, Ste 131",4.3034934497816595,MESA,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+119,y7CMNXCilj1M1U93F7v0KQ,Smashburger,33.378931300000005,-111.6873472,"6807 E Baseline Rd, Ste 101",2.95,MESA,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+120,YHWjW9GLcuNtnh_xdCSOeA,Pizza Fresh,33.3794143,-111.7541038,1940 S Val Vista Dr,4.333333333333333,MESA,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+121,Jhz-8IqPf_2YUWsbGFyDNA,The Cutting Board Bakery & Cafe,33.374984999999995,-111.68716299999998,"2235 S Power Rd, Ste 116",4.2207357859531776,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,1,0
+122,lN7TT9a9k1th0aTyVwfbVw,Hambone Sports Bar and Grill,33.4146651,-111.8118445,903 E Main St,3.689655172413793,MESA,0,loud,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+123,1I555FApTVfQA9QR9GyIMg,Greenfield's Deli,33.3919569997,-111.73568690399999,4437 E Southern Ave,3.769230769230769,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+124,IW2aHAzU5p60T7xUTLPaIw,Kneaders Bakery & Cafe,33.4660512656,-111.68762203600001,6611 E McDowell Rd,2.806451612903226,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+125,66MT1BxbarD_0CzkwQ1--A,R.T. O'Sullivan's,33.3850230057,-111.806143373,1610 S. Stapley Dr,2.5609756097560976,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+126,teTQU7TIPE0O_B1zN_239w,Mimis Cafe,33.3922149,-111.8576895,1250 S Alma School Rd,3.3806451612903228,MESA,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+127,HnpV9DkAV3dF88XgalLFbQ,Pho Viet Nam #2,33.4345275498,-111.71960860700001,"1042 N Higley Rd, Ste 103",3.956989247311828,MESA,1,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+128,XHidP878N9QMg5V-v7QrkQ,Serrano's Mexican Restaurant,33.4517547,-111.7879992,1964 E McKellips Rd,2.9565217391304346,MESA,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+129,kLWWS2n4X8J8Szy_xVTPHQ,Chicagoland Hotdogs & More,33.4365383,-111.6849665,1152 N Power Rd,3.792207792207792,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+130,WKpCl0GBUph7Rb5LKKh71Q,Wendy's,33.382955369099996,-111.742682015,4236 E Juanita Ave,1.9166666666666667,MESA,0,loud,,False,False,True,False,False,0,1,0,0,0,0,0,1,0,0
+131,YorfCHa1phmnIQhEkrOmLA,KFC,33.423,-111.85700000000001,420 North Alma School Rd,1.5555555555555556,MESA,0,loud,,,,False,,,0,0,0,0,0,0,0,1,0,0
+132,hTZSfBGXMeNq0_1_6jdVAQ,Hooters,33.385688099999996,-111.6861017,6730 E Superstition Springs Blvd,2.7,MESA,0,very_loud,,False,False,,False,False,0,0,0,0,0,0,0,1,0,0
+133,Iur8bZ-qKXWl_tvQnaxVzg,Teriyaki Madness,33.3925994,-111.6838716,"1229 S Power Rd, Ste 105",3.3846153846153846,MESA,1,average,,False,False,False,False,False,0,0,0,1,0,0,0,0,0,0
+134,J3H6VSIgUTlACkb_HPFA8w,Broken Yolk Cafe,33.393916600000004,-111.7872721,2034 E Southern Ave,3.758793969849246,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+135,Dp-i-Ai8Ue8hjyVRmYrprw,Burger King,33.4229636,-111.77284399999999,2708 E University Dr,2.9,MESA,0,very_loud,,,,False,,,0,0,0,0,0,0,0,1,0,0
+136,dCa2dBDtuVVnyitJzQmXtg,Little Caesars Pizza,33.3919982,-111.82388229999998,"347 E Southern Ave, Ste 106",2.7777777777777777,MESA,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+137,Pg6t8mG-zWY3pRSdxlFnHg,Bella Pizza & Pasta,33.362574699999996,-111.63523799999999,2905 S Ellsworth Rd,4.176470588235294,MESA,1,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+138,tM_MMrMFwf5rJv9rbu4NQQ,Pete's Fish & Chips,33.414436,-111.8233017,22 S Mesa Dr,2.949275362318841,MESA,0,average,,False,False,True,False,False,0,0,0,0,1,0,0,0,0,0
+139,Sb17eJkjHLjcPKSbpmRxWQ,Buffalo Wild Wings,33.385725,-111.690858,6560 E Superstition Springs Blvd,2.90990990990991,MESA,0,loud,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+140,IiTLzksQAv9U8CW3s0bmlg,Rudy's Mexican Grill,33.364269,-111.655477,"8257 E Guadalupe Rd, Ste 114",4.333333333333333,MESA,1,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+141,tnvZOd2vNCLPQS1KEZxqog,Dim Sum Cafe,33.3658757,-111.85810420000001,"2711 S Alma School Rd, (To the right of McDonald's)",4.571428571428571,MESA,1,average,,False,False,True,False,True,0,0,0,0,0,1,0,0,0,0
+142,7qG2Yt4WOr9rI1v1LyFY-Q,Z-LANTRO Fresh Mexican Grill,33.388085700000005,-111.83985420000002,1423 S Country Club Dr,4.473684210526316,MESA,0,quiet,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+143,DV-tubtrEPacLsTms4CgZA,Gyros Place,33.449214899999994,-111.6827154,1829 N Power Rd,4.1506849315068495,MESA,1,average,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+144,Gv2F-f0mUYhCCUKOshpj3A,Original Cuisine,33.407160499999996,-111.87167420000002,1853 W Broadway Rd,3.212121212121212,MESA,0,average,,False,False,False,False,False,0,0,0,0,0,1,0,0,0,0
+145,4VOxaNfc-YnaT1xamBOKUw,Wok On,33.4091395,-111.8723604,1920 W Broadway Rd,4.285714285714286,MESA,0,quiet,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+146,nbKSPpg3SONk_S_4ZR-t6w,Monsterland Bar & Grill,33.415467,-111.832292,18 W Main St,3.6486486486486487,MESA,0,average,,True,False,,True,True,0,1,0,0,0,0,0,0,0,0
+147,30PeUfYV_Jd4jcQNQxfTKA,BlueMoon Vietnamese Kitchen,33.4134706635,-111.873244557,"1933 W Main St, Ste 8",3.963636363636364,MESA,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+148,ufltmPizIHWx4MjnOzf_Sw,Ichi Ban Japanese,33.3784436,-111.85925379999999,2015 S Alma School Rd,3.35,MESA,0,average,,False,False,,False,False,0,0,0,1,0,0,0,0,0,0
+149,9qIScKnMow7y8li_SsWYEg,Sonic,33.3631145,-111.6351399,2847 S Ellsworth Rd,1.8095238095238095,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+150,YZooKeUCIu4TDCsy59YDHw,My Granny's Banana Pudding,33.3629304866,-111.87535784299999,"1941 W Guadalupe Rd, Ste 118",3.611111111111111,MESA,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+151,sktYwQ-votTQ43po3t6AMg,Arby's,33.3649881,-111.85956200000001,2748 S Alma School Rd,2.3333333333333335,MESA,0,,,,,False,,,0,0,0,0,0,0,0,1,0,0
+152,s_7ALFRcm-tOYM0oH9kaWw,Midwestern Meats,33.416004,-111.73825749999999,4308 E Main St,3.6120689655172415,MESA,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+153,mOFCSkPUPKjISMDhvz02HQ,Streets of New York,33.3793195,-111.6002607,1959 S Signal Butte Rd,3.4464285714285716,MESA,0,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+154,S-Hksc_Hh_dMEbiTWDnblQ,Inside The Bungalow,33.416513,-111.83713999999999,48 N Robson,3.8294573643410854,MESA,1,quiet,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+155,zjQwbwGCxXSlt__t1voGUA,Jack-In-the Box Drive Thru,33.393498699999995,-111.87233290000002,1860 W Southern Ave,1.6666666666666667,MESA,0,,,,,,,,0,0,0,0,0,0,0,1,0,0
+156,Kz7xk9J3YltU-ubNSqm8Tg,El Metate Mexican Food,33.416156300000004,-111.69828159999999,6140 E Main St,3.303030303030303,MESA,0,quiet,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+157,b4dtR83mPAcvmM2a7mqpGw,McDonald's,33.3791717954,-111.83459322899999,146 W Baseline Rd,1.6470588235294117,MESA,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+158,Am8Z5HlNXLO7dVmCNSeMKg,Papa John's Pizza,33.4172761,-111.73515090000001,"63 N Greenfield Rd, Ste 101",2.7857142857142856,MESA,0,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+159,7tztNiPDsiJBWDd1CtY1SQ,Matta's Restaurant,33.4154624,-111.81080159999998,932 E Main Street,3.875,MESA,0,,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+160,5kafliYagjermFOJEoaSYw,Yogis Grill,33.3774406,-111.63549569999999,"2043 S Ellsworth Rd, Ste 104",4.134146341463414,MESA,1,average,,False,False,False,False,False,0,0,0,1,0,0,0,0,0,0
+161,wu5nk3pY1e_ou_Le_U52Sw,Cheba Hut,33.393227,-111.868642,1710 W Southern Ave,4.3674911660777385,MESA,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+162,73cpMzeoX52k3-qilLmWWg,Martha's Kitchen,33.3943265,-111.71877959999999,1155 S Higley Rd,4.561643835616438,MESA,1,quiet,,False,False,False,False,False,1,0,0,0,0,0,0,0,0,0
+163,9wS_BQBh9VGEb0645XBrhA,Casa Ramos,33.4155827,-111.7985166,1526 E Main St,4.051020408163265,MESA,1,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+164,Qa28KVKttuch8opQfVRUAQ,Cup O'Karma,33.393794,-111.8683119,"1710 W Southern Ave, Ste B7",4.0476190476190474,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+165,SDhXmtnSIDgoYZNf10xc2A,Little Caesars,33.4363646137,-111.70252628600001,"1118 N Recker Rd, Ste 120",2.5555555555555554,MESA,0,loud,,,,,,,0,0,0,0,0,0,0,0,0,0
+166,TZRMn3WCmP6oczhDF5OPpA,Arizona Native Frybread,33.414702,-111.800614,1437 E Main St,3.8,MESA,0,,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+167,oUvqwPJkorOnYZFKRt0oEg,Baci Italian Bistro,33.278135999999996,-111.64303000000001,8830 E Germann Rd,4.093220338983051,MESA,1,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+168,ohEnmKpF7i2_ujme1p_vUQ,Cornish Pasty Company,33.3629395,-111.87528229999998,"1941 W Guadalupe Rd, Ste 101",4.300097751710655,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+169,Mp50uBWoZAXqSjaIZB7iow,Del Taco,33.3808311,-111.84074479999998,1864 S Country Club Dr,2.75,MESA,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+170,LVduZGsU7tgiL_IH6igs-w,Mother's Tamales,33.4083701,-111.7890631,1940 E Broadway Rd,4.24,MESA,0,loud,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+171,j1fBzCH7FT8na8v6S3a3xg,Tropical Smoothie Cafe,33.4672621838,-111.684554815,"2832 N Power Rd, Ste 102",3.4583333333333335,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+172,313pOZvjvoi6QI5oXgtRHA,Il Vinaio,33.415521000000005,-111.8389254,270 W Main St,3.7133333333333334,MESA,1,average,,False,False,True,False,True,0,1,0,0,0,0,0,0,0,0
+173,Jgo9tQ0mCTYa-bRRoXSKNg,Long Wong's,33.387955,-111.80467890000001,1455 S Stapley Dr,2.576923076923077,MESA,0,average,,False,False,False,False,False,0,1,0,0,0,0,0,0,0,0
+174,jlugn4wOjRZOLSuO1fyL9g,Subway,33.379529600000005,-111.87690020000001,"1940 W Baseline Rd, Ste 2",1.5555555555555556,MESA,0,,,,,False,,,0,0,0,0,0,0,0,1,0,0
+175,PKuUfy9BUk9LsMgzDIRr8A,McDonald's,33.393481699999995,-111.73599340000001,1213 S Greenfield Rd,3.4444444444444446,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+176,pr5VhK9vBbEIDN2_SIaVVw,Foodies Haven,33.3626731,-111.87802450000001,"2023 W Guadalupe Rd, Ste 14",3.9166666666666665,MESA,0,,,False,False,,False,False,0,0,0,0,0,0,0,1,0,0
+177,K1xl6XvZPCs8BgsbaVWQiA,The Little Kitchen,33.4146257296,-111.67729701100001,"7127 E Main St, Ste B",3.619047619047619,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+178,XaXO9XsxUjAUjXbzLG-Fdw,Pieology Pizzeria,33.382352399999995,-111.739776,"1766 S Greenfield Rd, Ste 103",3.803921568627451,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+179,pw-NzXGzwYkRfL6n2zk5IQ,Souper Salad,33.3830888,-111.80265770000001,1649 S Stapley Dr,1.25,MESA,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+180,9nHpqlu7be1466wdo_t5kQ,Red Robin Gourmet Burgers,33.3854507725,-111.688086949,6632 E Superstition Springs Blvd,3.4095238095238094,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+181,Nl8ph70io2a8VD6R14dIag,Happy Food Restaurant,33.407160499999996,-111.87167420000002,1853 W Broadway Rd,2.923076923076923,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+182,WDIlSjqtRZdFkE3Sv2v0Iw,Geno's Giant Slice,33.4365383,-111.6849665,"1152 N Power Rd, Ste 107",2.688888888888889,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+183,YR5MtaOZHaArB6qTZkngQw,Royyim Thai Cuisine,33.3819141,-111.7384288,"1823 S Greenfield Rd, Ste 105",4.944444444444445,MESA,1,,,False,False,True,False,False,0,0,0,0,0,0,1,0,1,0
+184,3ENOCklTvW26cONNkScJ5Q,Chuck E Cheese's,33.3922836252,-111.67988160700001,7012 E Hampton Ave,2.3863636363636362,MESA,0,very_loud,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+185,oAznEqsk1Q14lbHMenE4vw,Wendy's,33.435563300000005,-111.8395105,1205 N Country Club Dr,2.0,MESA,0,loud,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+186,a9KwOmnTDB0tG720lOUn6w,Chipotle Mexican Grill,33.3895791459,-111.856784044,"1335 S Alma School Rd, Ste 105",3.107142857142857,MESA,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,1,0,0
+187,ivgKHakMYMpsV1RIjQruOQ,Logan's Roadhouse,33.301901199999996,-111.7430967,945 N Dobson Rd,3.049689440993789,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+188,HLaSleAoR2PMF7s5ogqYqA,Village Inn,33.3248801415,-111.68805188799999,5012 S Power Rd,3.4358974358974357,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+189,iEEiRQjRct417O--f6QqZg,Streets of New York,33.3792109,-111.84266809999998,"542 W Baseline, Ste 105",2.9714285714285715,MESA,0,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+190,ovhGOgdvpYsAlKOSayPAAw,That Place Sports Grill,33.415206,-111.8083133,1038 E Main St,3.4444444444444446,MESA,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+191,E6p3Ea3740Uj0jaSA0nCNg,Pies N More,33.3787744,-111.69082720000002,"6671 E Baseline Rd, Ste 117",3.1818181818181817,MESA,0,quiet,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+192,sJItc3LbW4Edp5dK7T-QHA,Pita Kouzina,33.393444099999996,-111.6927543,6447 E Southern Ave,4.75,MESA,0,,,,,,,,0,0,1,0,0,0,0,0,0,0
+193,u9u-E8blEuyEGmtfeLA6Tg,19th Donut Hole,33.4180666,-111.77203940000001,"116 N Lindsay Rd, Ste 17",4.028985507246377,MESA,1,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+194,v68-_x0b4YUWRFRu8x193g,Tom's BBQ,33.4516018,-111.72263319999999,5005 E McKellips Rd,3.450980392156863,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+195,D7ihF-r44rB2aT8k6oGQww,Allison's Texas BBQ,33.416354999999996,-111.685046,"6750 E Main St, Ste 101",3.8562091503267975,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+196,w-eGy1D9PARuSHxbaS_FEA,Henhouse Cafe,33.4307462687,-111.873684022,805 N Dobson Rd,3.4545454545454546,MESA,0,,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+197,VdQCZMAPpamXpEEO0zt0Iw,Woo Chi Super Buffet,33.3814663,-111.59857290000001,"1901 S Signal Butte Rd, Ste 101",3.484848484848485,MESA,0,average,,False,False,False,False,False,0,0,0,0,0,1,0,0,0,0
+198,-zNJQZyjNQT8zymnX_eU0Q,Streets of New York,33.380700399999995,-111.75340049999998,1939 S Val Vista Dr,4.5,MESA,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+199,Mj9msHM8Dncb94VV3TdbTA,Sbarro Italian Eatery,33.390567,-111.6903269,"6555 E Southern Ave, Ste 2512",3.8,MESA,0,,,,,False,,,0,0,1,0,0,0,0,0,0,0
+200,_QkQMs5ZsM0jS5er75yrCg,Orchard Eats,33.452505349,-111.789505601,"2036 N Gilbert Rd, Ste 6",4.0182926829268295,MESA,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+201,Kzo1z1hW6224lNd3al2SbQ,Desert Peaks Pizza & Grille,33.451777,-111.7034094,"5943 E Mckellips Rd, Ste 102",3.3846153846153846,MESA,0,average,,False,False,False,False,False,0,1,1,0,0,0,0,0,0,0
+202,k_TFJp2S1W1l1Op6v5uUYQ,Chick-fil-A,33.38298286,-111.8064244,1664 S Stapley Dr,3.6129032258064515,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+203,OA5D9SMnku0QAq5hFLytng,Jimmy John's,33.451296008,-111.735218892,"4401 E McKellips Rd, Ste 104",2.9130434782608696,MESA,0,average,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+204,BngaEGNRonNnd-Q9PiSjPw,Filiberto's Mexican Food,33.393420299999995,-111.87678740000001,2064 W. Southern Ave,2.4150943396226414,MESA,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+205,IHNSikGzuGgI42DghQtL9Q,Millie's Cafe,33.4155396488,-111.796482017,"1616 E Main St, Ste 104",4.692771084337349,MESA,1,quiet,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+206,yoh_h9I63HdT0XG-2zkQcQ,Village Inn,33.4513559,-111.702021,5961 E McKellips Rd,2.8,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+207,xhzUfaJ9BTa3EbD0bTeKWQ,IHOP,33.393890500000005,-111.6003987,10662 E Southern Ave,3.0,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+208,qXKGW5hvNMRVb3J0Z3cSRw,Flight Deck Cafe,33.3107473,-111.6698695,5803 S Sossaman Rd,3.888888888888889,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+209,9VSg0N2M11Y6aL6LgoBYgQ,McDonald's,33.378195899999994,-111.6355259,2035 S Ellsworth Rd,2.3529411764705883,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+210,yjX5l0UGoFdR4t5q3i2MTQ,Bavarian Point Restaurant,33.4150426535,-111.72620165299999,"4815 E Main St, Ste 32",3.3412698412698414,MESA,0,quiet,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+211,4DBboC1xv7Lr8KYVAw9LRA,Fondita Olvera,33.4150559108,-111.80797465100001,1040 E Main St,3.2,MESA,0,,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+212,Bx8ans3AywDJ-DN-nCKGeA,Denny's,33.39377,-111.840607,1150 S Country Clb,2.8846153846153846,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+213,SxVvADuITM2TDJ4J5B5kVQ,Manna Cafe,33.38081,-111.63461000000001,"721 N Arizona Ave, Ste 103",3.3333333333333335,MESA,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+214,OXbq2xrAN7W15brSAAjqEw,M & D Gyros,33.3897632,-111.8605311,"1445 W Southern Ave, Space 2162",4.2,MESA,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+215,C6MG3vrloHF8h9PPvZNiJA,Thai Patio,33.4510401,-111.682255,"1929 N Power Rd, Ste 101",4.169117647058823,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,0,1,0,0,0
+216,YTv3Joda9CEeIyLMz6jdUQ,The Original Rocco's Famous Philly,33.3943265,-111.71877959999999,1155 S Higley Rd,3.3529411764705883,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+217,2Oz0VGwBgo3Dp5Az5WUoww,Kwan's Sampan,33.450355,-111.78678149999999,1927 N Gilbert Rd,3.257142857142857,MESA,0,quiet,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+218,FscCtUIsAL8cBL-S-A4FEQ,Green Tea Restaurant,33.3921534,-111.7179959,"1239 S Higley Rd, Ste 102",2.6666666666666665,MESA,0,quiet,,False,False,True,False,False,0,0,0,1,0,1,0,0,0,0
+219,hfuuuwuwqe30kbZCZH2s7w,Enchiladas Authentic Mexican Food,33.4061366793,-111.771614648,"2753 E Broadway Rd, Ste A112",3.5,MESA,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+220,2hS8-tlTHGP7AuzTkmfZzw,Oasis Raspados,33.415563,-111.818022,606 E Main St,2.75,MESA,0,,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+221,GIMviyRh15eJ4vvs9Euoew,Subway,33.4159528475,-111.698050669,"6140 E Main St, Ste 2",2.6,MESA,0,,,,,False,,,0,0,0,0,0,0,0,1,0,0
+222,QBh70QudGmFswwhIRCsS2w,Subway,33.4502929,-111.70413490000001,"5901 E McKellips Rd, Ste 108",1.4,MESA,0,,,,,,,,0,0,0,0,0,0,0,1,0,0
+223,HYAI_4AZ88t1lXadrCsZgg,Dairy Queen,33.393116,-111.819208,541 E Southern Ave,3.0,MESA,0,,,False,False,False,False,False,0,0,0,0,0,0,0,1,0,0
+224,zmr6B0JgnzsW9lRFtwWOrQ,The Roadhouse Cafe,33.4149112251,-111.680987477,7000 E Main St,2.6363636363636362,MESA,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+225,5j2ugUALtjsa2nkV1YGq5Q,House Modern Sushi Restaurant,33.384436,-111.80281699999999,"1641 S Stapley Dr, Ste 103",4.170542635658915,MESA,1,average,,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+226,odJzhCY4-FqEvB82sNjNsg,Domino's Pizza,33.394052,-111.822347,1145 S Mesa Dr,1.8666666666666667,MESA,0,very_loud,,,,,,,0,0,1,0,0,0,0,0,0,0
+227,7MTQYugLbY01UO4Kq8NpPw,McDonald's,33.4227785,-111.82336310000001,358 E University Dr,1.0588235294117647,MESA,0,,,,,,,,0,0,0,0,0,0,0,1,0,0
+228,o-cqIwS2nWJGWA6nNPQ2_w,Hot Cookie Truck,33.4151843,-111.83147240000001,,4.222222222222222,MESA,0,,,,,,,,0,1,0,0,0,0,0,0,0,0
+229,ypo9QPXXTkpxzx8jGsxriA,Taco Bell,33.393733000000005,-111.698982,6111 E Southern Ave,3.2,MESA,0,average,,False,False,False,False,False,1,0,0,0,0,0,0,1,0,0
+230,gLqFQmAPDX88Fu3ETbBadw,Egg & I Cafe,33.393916600000004,-111.7872721,2034 E Southern Ave,2.125,MESA,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+231,ZXC9HaHWeHnKKtbqX74Q_A,Señor Taco,33.4510207831,-111.682314962,"1929 N Power Rd, Ste 105",4.03680981595092,MESA,1,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+232,z5t6Cny_wEe37iWHE3A1fA,Fritzs Footlong Bar & Grill,33.4159,-111.79365200000001,"1734 E Main St, Ste 5",3.8,MESA,0,,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+233,J0X8w6E0EHZ0rL5D55pbHA,El Gallo De Lagos Mexican Food,33.4361634,-111.8151189,730 E Brown Rd,3.8095238095238093,MESA,0,loud,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+234,MgzGvq5VKDqXKigty36xRw,What The Hell Bar & Grill,33.414725,-111.67351000000001,7303 E Main St,2.9574468085106385,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+235,cDAaBYERHyhOoX7EovtZMw,Texas Roadhouse,33.385172100000005,-111.8048928,1605 S Stapley Dr,3.6582278481012658,MESA,1,loud,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+236,iPDraG9gpzlOQpQhJdPsfg,Don Camaron,33.414617,-111.86916799999999,1749 W Main St,2.75,MESA,0,loud,,False,False,True,False,False,1,0,0,0,1,0,0,0,0,0
+237,pRVZcwZ-6uhfqRjZyTdCqg,Lenny's Burger,33.3917475,-111.8045885,"1245 E Southern Ave, Ste 11",3.6724137931034484,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+238,iqL35L6AdFMMkRrAcK1uLQ,Aj's Fine Foods,33.381678,-111.75684779999999,1836 S Val Vista Dr,3.59375,MESA,0,,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+239,d07DDzo4um5dqS7_og8Hig,Bill Johnson's Big Apple Restaurants,33.4155617,-111.8099713,950 E Main St,2.7,MESA,0,,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+240,cfm7hTRUtw7p81DYcXlXhg,Sonic Drive-In,33.3939054324,-111.61292699799999,10060 E Southern Ave,2.1052631578947367,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+241,KqoUS4BKtw5S4Rrg79bGgw,Pho Kim,33.4081147091,-111.873979995,"1948 W Broadway Rd, Ste 103",4.25,MESA,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+242,8CYVg6GtuVb4yo0_V2_bQA,Little Caesar's Pizza,33.4522305,-111.77115829999998,2754 E McKellips Rd,2.5714285714285716,MESA,0,average,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+243,g2Y2lnMmnOouvivEie9myw,Church's Chicken,33.3939413,-111.8399527,1151 S Country Club Dr,2.52,MESA,0,average,,False,False,False,False,False,0,1,0,0,0,0,0,1,0,0
+244,i50k1Gkg3Y_2TG-9CAPHjg,Jack in the Box,33.3793332,-111.78653759999999,2120 E Baseline Rd,2.0,MESA,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+245,UO_62NNq1pKY61teaoN2bQ,Ban Chan,33.3620788,-111.87585120000001,2909 S Dobson Rd,3.8,MESA,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+246,Vd9XJZ6A9PXS8S8hDPByHQ,Peter Piper Pizza,33.3790899,-111.78671200000001,2122 E Baseline Rd,2.7777777777777777,MESA,0,very_loud,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+247,IzE7CcTrNjIe7SPDQGrCiA,Jimmy John's,33.3199544,-111.6869216,5229 S Power Rd,2.764705882352941,MESA,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+248,cGGdnQ5IzkvUWYCdlrNCNw,Applebee's Neighborhood Grill & Bar,33.3935677,-111.6957392,6259 E Southern Ave,3.130434782608696,MESA,0,loud,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+249,oVwbbA0JttNp3nNJbKsmJQ,Los Betos Mexican Food,33.4222896,-111.7375023,4353 E University Dr,3.0,MESA,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+250,rXp1D9RSdMZTdhbzs4hIBQ,Subway,33.3805464,-111.60069299999999,"1923 S Signal Butte Rd, Ste 104",3.3333333333333335,MESA,0,,,,,True,,,0,0,0,0,0,0,0,1,0,0
+251,Rgc-qiwjKqxi_au8NibW9A,Dairy Queen,33.4101202,-111.68494,316 S Power Rd,2.5,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+252,cUmYDqGhBLjH2IbZ0GK07Q,Jack in The Box,33.3212928,-111.6862223,5207 S Power Rd,1.4782608695652173,MESA,0,,,False,False,,False,False,0,0,0,0,0,0,0,1,0,0
+253,ZpthE2Fz7IEO6ruTnon0Ng,Outback Steakhouse,33.4522506,-111.79021670000002,1860 E McKellips Rd,3.1927710843373496,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+254,xTVH9u9vuub_v_YHFveDoQ,Arizona Golf Resort & Conference Center,33.4068002,-111.6824236,425 S Power Rd,2.776595744680851,MESA,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+255,nogK5nPAPwRcEyM_PdTwkQ,Black Rock Coffee Bar,33.3185032,-111.6862131,5351 S Power Rd,4.568421052631579,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+256,_myTPlWa8QRN5eavs-hNPg,Pacino's Italian,33.4668525,-111.6825913,2831 N Power Rd,3.6243093922651934,MESA,1,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+257,kCWXBlEURZkBCAYAB5O3kQ,Subway,33.4147741,-111.8364426,161 W Main St,2.857142857142857,MESA,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+258,vlc_yP8dfz8CGE6JRMKBZA,Sbarro,33.389394,-111.86061699999999,"1445 W Southern Ave, Ste 2101",4.4,MESA,0,average,,,,True,,,0,0,1,0,0,0,0,1,0,0
+259,hrooCfjOz1_fItNVbCiYPg,Panda Express,33.452090500000004,-111.68295400000001,2015 N Power Rd,2.75,MESA,0,average,,False,False,False,False,False,0,0,0,0,0,1,0,1,0,0
+260,2OVuHRbdb5GTHUqrCqV-Fg,Picadilly's Square Sandwiches & Sweets,33.3924917,-111.6773685,7143 E Southern Ave,3.5,MESA,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+261,O3UDRFNGWaddyt9O1Mh88w,Five Guys,33.392896,-111.68408500000001,"1229 S Power Rd, Ste 110",3.232142857142857,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,1,0,0
+262,rKBZdPOd-IkRykaeQ56Ngw,Thai Buffet & American Sandwiches,33.405652,-111.87524599999999,"502 S Dobson Rd, Ste 16",4.0978260869565215,MESA,1,quiet,,False,False,,False,False,0,0,0,0,0,0,1,0,0,0
+263,oXr-wAuiMpxdltTbFz0T7g,KFC,33.3793,-111.785,2210 E Baseline Rd,2.3043478260869565,MESA,0,loud,,False,False,False,False,False,0,0,0,0,0,0,0,1,0,0
+264,kzaI1djbpwOEhCjzLneisA,Dub's Family Grill & Bar,33.380378,-111.666182,"1925 S Sossaman Rd, Ste 101",2.75,MESA,0,average,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+265,JGlfMP4mjH_gi8UaosjkUg,Filiberto's Mexican Food,33.4144416,-111.8695932,1755 W. Main St,3.0384615384615383,MESA,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+266,4LDWGXPXAALawRn8Q2KkCg,Carl's Jr.,33.3935429,-111.86271979999998,1440 W Southern Ave,2.125,MESA,0,quiet,,False,False,True,False,False,1,0,0,0,0,0,0,1,0,0
+267,J6VKpVFPlE25NVSt8PUONA,Chipotle Mexican Grill,33.379449526799995,-111.60083770799999,"1955 S Signal Butte Rd, Ste 101",3.6511627906976742,MESA,0,loud,,False,False,True,False,False,1,0,0,0,0,0,0,1,0,0
+268,3Cct2X22fpUSK2ggyK1LYg,The Monastery,33.4521652,-111.7278882,4810 E Mckellips Rd,3.0597014925373136,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+269,e52VGc2dIOoBiDf_gU-kqA,Panda Express,33.3938921,-111.6900355,"6555-2506 E Southern Ave, Ste 2506",2.6,MESA,0,,,,,,,,0,0,0,0,0,1,0,1,0,0
+270,eAuPhflD_h9Xux-LlIWu9A,Old Glory Cafe,33.394484000000006,-111.86148700000001,"American Discount Foods, 1360 W Southern Ave",4.666666666666667,MESA,0,quiet,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+271,f48ilIDSfNyIJFuTIayBhQ,McDonald's,33.3923472,-111.840654,1250 S Country Club Dr,1.92,MESA,0,loud,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+272,D7DLb-G0HJis3Ae4iGsVkQ,Subway,33.377437,-111.63466100000001,9221 E Baseline Rd,3.0,MESA,0,,,,,,,,0,0,0,0,0,0,0,1,0,0
+273,lXpYSMyEujoky4djEJlBSg,Boulders on Southern,33.3933856028,-111.85334428600001,1010 W Southern Ave,4.083916083916084,MESA,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+274,09psTuUYhUMA2ZRzQlm30Q,Five Guys,33.380569,-111.75459270000002,1902 S Val Vista Dr,3.224,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,1,0,0
+275,S09OE4EMl5e7JwkKZ5Hlaw,Fat Boys New York Pizza,33.423984999999995,-111.7197169,446 N Higley Rd,3.878787878787879,MESA,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+276,o8ZDnwTooHfFkw3M_rix3A,Amé's Mexican Kitchen,33.4149358524,-111.80581480299999,1127 E Main St,4.25,MESA,0,,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+277,-7HB0UjguXW8csOH9svG4Q,Sonic Drive-In,33.3937162,-111.8444611,618 W Southern Ave,1.8285714285714285,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+278,1LG6qcTXLCCaZmIEHwSDeg,Pita Licious,33.363280800000005,-111.86043659999999,"1245 W Guadalupe Rd, B7 & B8",4.2105263157894735,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+279,eCpYibtils6Xg_FzBjqe8A,Legends Steak,33.4306568,-111.8776122,860 North Riverview,3.4615384615384617,MESA,0,quiet,,False,False,True,False,False,0,0,0,0,1,0,0,0,0,0
+280,40B7HIv74ZqU9tBxbuol-A,Sonic Drive-In,33.4518011,-111.7664825,3033 E McKellips Rd,1.7916666666666667,MESA,0,quiet,,False,False,True,False,False,0,1,0,0,0,0,0,1,0,0
+281,VeBNqe1pI5QBxVbquv0uoQ,Oregano's Pizza Bistro,33.394295588,-111.875034001,1130 S Dobson Rd,3.8368200836820083,MESA,1,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+282,xGF-FT_Ii8bW8JwUCD_0vQ,Mafia Mike's,33.3518,-111.8036,"1614 N Higley Rd, Ste 101",3.625,MESA,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+283,M3tCYlgvLLbQfU0ybHiing,Barro's Pizza,33.3880332,-111.68371979999999,1545 S Power Rd,3.3454545454545452,MESA,0,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+284,vl4z9uGNc80Xt7qB9V1fdA,What's Crackin Cafe,33.4659014,-111.6863932,"6663 E Mcdowell Rd, Ste 101",3.891891891891892,MESA,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+285,Ks9nrEuLdjmrLH9uXz_G8A,Chipotle Mexican Grill,33.3857959464,-111.690540037,"6602 E Superstition Springs Blvd, Pad C",3.4642857142857144,MESA,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,1,0,0
+286,_epxHMZUc0sNH9W8mUCIBQ,Copper Plate An American Grill,33.307161,-111.6689463,6033 S Sossaman Rd,3.1904761904761907,MESA,0,average,,,,False,,,0,1,0,0,0,0,0,0,0,0
+287,_tW-1Z-GEdQHhkXZ5tiW-Q,Carl's Jr.,33.435708,-111.868178,1015 N Dobson Rd,2.5833333333333335,MESA,0,average,,False,False,False,False,False,0,0,0,0,0,0,0,1,0,0
+288,HWn6UEjunBhWtuUrZFkYKA,Subway,33.4080091,-111.8739807,"1954 W Broadway Rd, Ste 106",2.3333333333333335,MESA,0,average,,,,True,,,0,0,0,0,0,0,0,1,0,0
+289,Uq2mlRObAytzkTIoerN03Q,Pisa Pizza,33.452096600000004,-111.6829159,2015 N Power Rd,3.0,MESA,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+290,_lx0ha2fTaZlbfE_8Y1PIQ,Grand View Steakhouse,33.452831800000006,-111.696707,6210 E McKellips Rd,2.375,MESA,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+291,pkEYhukWbbnvfhcx5B_qmg,Seafood Market and Restaurant,33.3794875,-111.7577811,3406 E Baseline Rd,3.0720720720720722,MESA,0,average,,False,False,True,False,False,0,0,0,0,1,0,0,0,0,0
+292,Ez05DSwlSQC1Lu-ibi-U-w,Inka Fest,33.3620756977,-111.87613005600001,"2909 S Dobson Rd, Ste 21",3.588235294117647,MESA,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+293,X6iU1PGjoztDwFdhV4RumA,Wendy's,33.3900539,-111.6822375,6929 E Hampton Ave,2.380952380952381,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+294,SVAfZ1_2XmGj6Fwhpx9RJw,Little Caesars Pizza,33.3951596,-111.75438179999999,3544 E Southern Ave,2.8,MESA,0,average,,,,True,,,0,0,0,0,0,0,0,0,0,0
+295,h56xmZLDV5jB06PztkWH8g,Steaks R US,33.3652505,-111.8606173,"2740 S Alma School Rd, Ste 5",3.0,MESA,0,,,False,False,,False,False,0,0,0,0,0,0,0,1,0,0
+296,puPY7gVy7RCz8bK1zkzdoQ,Golden Valley Chinese Restaurant,33.3795863,-111.8499629,832 W Baseline Rd,4.230769230769231,MESA,1,quiet,,False,False,False,False,False,0,0,0,0,0,1,0,0,0,0
+297,FlDrZAqMcDVtbxJ19M6EQg,Fatburger,33.384163,-111.803119,"1641 S Stapley Dr, Ste 101",3.4615384615384617,MESA,0,average,False,False,False,,False,False,0,1,0,0,0,0,0,1,0,0
+298,gOpOoZgrF2shRLCBBzO3Mw,Burrito Shack,33.3127686,-111.68635729999998,5663 S Power Rd,4.180487804878049,MESA,1,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+299,By3eFOzWO9Mo0HivLhN8Sg,Jong Wah Chinese Restaurant,33.3639455,-111.8614077,1309 W Guadalupe Rd,3.142857142857143,MESA,0,quiet,,False,False,,False,False,0,0,0,0,0,1,0,0,0,0
+300,c8DO25hR5lNWOwQmz1hhpQ,Domino's Pizza,33.4054213,-111.87504550000001,510 S Dobson Rd,3.5238095238095237,MESA,0,,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+301,ZOXLXDo1C8nlW5a_2RpvKg,Sautee,33.381723,-111.754566,1840 S Val Vista Dr,2.3333333333333335,MESA,0,,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+302,3mlQUErZsFTBizQJiftHmA,Buffalo Wild Wings,33.3904462,-111.8553658,1130 W Grove Ave,3.1578947368421053,MESA,0,loud,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+303,NSmTvGgirPJ4mJ9jzNW-eA,My Arepa,33.377252,-111.8596861,"2057 S Alma School Rd, Ste 4",3.6610169491525424,MESA,0,quiet,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+304,OfqTPtPSQfCVxaSlY4qAxg,Best Hong Kong Dining,33.3944173,-111.8754243,"1116 S Dobson Rd, Ste 123",3.58974358974359,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+305,MN9RMoV35ReHFIHpRv3WZQ,McDonald's,33.4231289,-111.753027,411 N Val Vista Dr,1.7692307692307692,MESA,0,,,,,True,,,0,0,0,0,0,0,0,1,0,0
+306,1pm04v3jhOCDJjSMWiZSTQ,Pineapple Grill,33.4511294,-111.73233190000002,"4545 E McKellips Rd, Ste C108",4.4324324324324325,MESA,1,average,,False,False,True,False,False,1,1,0,0,0,0,0,1,0,0
+307,Lz6QUlFkVKtnzSISk0WUPw,Angry Crab Shack,33.364927088499996,-111.860568544,"2740 S Alma School Rd, Ste 13",4.1255707762557075,MESA,1,loud,,False,False,True,False,False,0,1,0,0,1,0,0,0,0,0
+308,lLutFdM2ZOyVs10S3mhnnw,Quiznos,33.39434,-111.721003,"5110 E Southern Ave, Ste 112",4.2272727272727275,MESA,0,quiet,,False,False,False,False,False,0,0,0,0,0,0,0,1,0,0
+309,fiUpPtW1a7saRB-FaFZE0Q,Rinaldi's Italian Deli,33.43065,-111.84371100000001,"1041 N Dobson, Ste 105",3.6666666666666665,MESA,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+310,2dOS56h2QueEIDAdP9-1TQ,Pho Ao Sen,33.378440000000005,-111.87641599999999,"1955 W Baseline Rd, Ste 114",4.031847133757962,MESA,1,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+311,f5iC98vNAziOiAuWGP6Jww,Rubio's,33.3798949,-111.68868049999999,"6736 E Baseline Rd, Ste 101",4.363636363636363,MESA,1,average,,False,False,True,False,False,1,0,0,0,1,0,0,0,0,0
+312,ESfsx53IbXxAfML8sTEe_w,Shop Kwik Deli,33.4215033,-111.7872034,323 N Gilbert Rd,5.0,MESA,1,,,,,,,,0,0,0,0,0,0,0,0,0,0
+313,9RBH808zVqoMZ-NBSouzjw,Pirates Fish and Chips,33.4239987554,-111.77068379200001,441 N Lindsay,1.868421052631579,MESA,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+314,xhFZir1DWG4mWcEpBQhMUA,Mesa Sports Grill,33.4514442879,-111.732116832,"4545 E McKellips Rd, Ste 108",2.75,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+315,V2yFOyq-4cj7dUvEXyMiGQ,Filiberto's Mexican Food,33.3639667,-111.6695936,2853 S. Sossaman Ave,2.347826086956522,MESA,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+316,eY31R4Fy22ynj-FtnUUeAg,Raging Bull,33.412275199999996,-111.683851,155 S Power Rd,3.492957746478873,MESA,0,average,,False,False,False,False,False,0,1,0,0,0,0,0,0,0,0
+317,rRUMh9qvfW8wA6NUd5Yf8w,Wholly Grill,33.4133505,-111.8759922,66 S Dobson Rd,3.9411764705882355,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+318,PGJLirDJJy3txBB7JVgs7Q,Subway,33.3807228,-111.8367745,240 W Baseline Rd,2.5,MESA,0,,,,,,,,0,0,0,0,0,0,0,1,0,0
+319,c7lAaz-pW58i1h1rSlyqcw,Republica Empanada,33.41346,-111.825846,204 E 1st Ave,4.317972350230415,MESA,1,average,,False,False,True,False,True,0,1,0,0,0,0,0,0,0,0
+320,ul453nviXny8aeNLeI1VTA,Sushi & Song San,33.3906202016,-111.864401624,1310 S Longmore,3.1666666666666665,MESA,0,,,,,,,,0,0,0,1,0,1,0,0,0,0
+321,L-ET62DqrmaXrUTga5Px6A,McDonald's,33.4495793,-111.73380790000002,4505 E McKellips Rd,1.0,MESA,0,,,,,,,,0,0,0,0,0,0,0,1,0,0
+322,VWR1zQYVyHAFRcF1acKczA,Cucina di Vita,33.4154803,-111.8356623,142 W Main St,3.2916666666666665,MESA,0,quiet,,False,False,,False,True,0,0,1,0,0,0,0,0,0,0
+323,NSmoI-d_rMZXp0UCM1vdog,Mylynn Cafe,33.413057300000006,-111.8759932,"66 S Dobson Rd, Ste -106",3.2,MESA,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+324,vRGVXE0CuPq6qA0k_3nVoA,Ned's Krazy Sub,33.39046,-111.789177,"1356 S Gilbert Rd, Ste B-1",3.4583333333333335,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+325,Zto7klfy9Opk65ABzZS1qw,Del Taco,33.3941478,-111.75150390000002,3648 E Southern Ave,2.6842105263157894,MESA,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+326,vk-H15Ags7RQo0HiohTUfw,Barro's Pizza,33.4658394699,-111.68635021899999,6663 E McDowell Rd,3.225,MESA,0,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+327,JUWeWe5W2LuY_cp2mHRTIQ,Wingstop,33.433840895,-111.868414879,937 N Dobson Rd,2.2857142857142856,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+328,iBCMaNm_hv9IlCDa7AWPig,Mango's Mexican Cafe,33.415444300000004,-111.83314479999999,44 W Main St,4.147465437788019,MESA,1,average,,False,False,True,False,True,1,0,0,0,0,0,0,0,0,0
+329,aF5-dQk2Xyto_5j2oBwbLg,Diamonds Sports Grille,33.4190776,-111.8285207,161 N Centennial Way,2.9615384615384617,MESA,0,average,,True,False,True,False,True,0,1,0,0,0,0,0,0,0,0
+330,YneCHzeW6wM3lsq-nb6VyQ,Mius Bistro,33.3658757,-111.85810420000001,2711 South Alma School Rd,3.3333333333333335,MESA,0,,,,,,,,0,0,0,0,0,1,0,0,0,0
+331,Flb_4M6b0sFBWuyowetoag,O'Neill's Place,33.4689358188,-111.68295621899999,2855 N Power Rd,3.5,MESA,0,average,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+332,RckeGBEPQpGv00ivf6tcgw,Cozy Corner Cafe,33.4502929,-111.70413490000001,"5901 E McKellips Rd, Ste 102",4.178807947019868,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+333,acJewWwkFFWkIUF1SBEeqQ,Rincon Peruano Peruvian Restaurant,33.412437,-111.85715900000001,120 S Alma School Rd,3.0,MESA,0,,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+334,JNKb9LgYVwWGW3-Mm6o31g,Cravin' Donuts,33.4160455,-111.6863577,6728 East Main St,2.9473684210526314,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+335,B0785SPM9b805PeWezavmQ,Taco Bell,33.37888,-111.63401,9315 E Baseline Road,2.0,MESA,0,loud,,False,False,True,False,False,1,0,0,0,0,0,0,1,0,0
+336,B2FQX40vJowx0jdLDgjYmg,Subway,33.365779499999995,-111.86003559999999,"2722 S Alma School Rd, Ste 3",1.5714285714285714,MESA,0,,,False,False,False,False,False,0,0,0,0,0,0,0,1,0,0
+337,1tq2OxLMv-yxhdKLa2f8QQ,Grullo's,33.4155298,-111.80705290000002,1110 E Main St,4.392857142857143,MESA,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+338,H0nIjiZNBTIwrNf4_DwNLQ,BBQ House,33.363630021599995,-111.876137294,"1955 W Guadalupe Rd, Ste 105",3.625,MESA,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+339,_LL6zdQBWKIAbNKeg3uBFA,Restaurant Sinaloa,33.4075126,-111.83309779999999,45 W Broadway Rd,3.617021276595745,MESA,0,loud,,False,False,True,False,False,1,0,0,0,1,0,0,0,0,0
+340,v1W1m7MwUASmIc28wyOmkw,Dickey's Barbeque Pit,33.3649886,-111.85955290000001,2748 S Alma School Rd,3.391304347826087,MESA,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+341,rBQ-xYc0GFAV2hqYKTQe6w,Mad Dog Saloon,33.3816086,-111.80706770000002,1860 S Stapley Dr,2.73109243697479,MESA,0,loud,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+342,H069fdb1NOIhFaIuLzAf1g,Panda Express,33.3796235,-111.7559876,3440 E Baseline Rd,2.1379310344827585,MESA,0,quiet,,False,False,True,False,False,0,0,0,0,0,1,0,1,0,0
+343,J7rkQISD48jXgdM6UxNAbw,Yoko Fast Food,33.3932078749,-111.7866217,"1235 S Gilbert Rd, Ste 1",4.414634146341464,MESA,1,quiet,,False,False,True,False,False,0,0,0,1,0,1,0,0,0,0
+344,BJaNkO2aUfNlFVijEM4dYg,Peter Piper Pizza,33.378747100000005,-111.6386423,9047 E Baseline Rd,2.806451612903226,MESA,0,loud,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+345,7_YOEQXlrbGpF9t9TPG_nQ,Filiberto's Mexican Food,33.3931059,-111.8196186,531 E. Southern Ave,2.238095238095238,MESA,0,quiet,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+346,oplwp3MumIb_dJI9fmKbSw,Hunan VIII Oriental Buffet,33.3906411,-111.78815320000001,1343 S Gilbert Rd,3.56,MESA,0,quiet,,False,False,,False,False,0,0,0,0,0,1,0,0,0,0
+347,ix10sks4hVvv-3Jb6sKjvw,Autumn Moon Chinese Buffet,33.417019599999996,-111.8403707,70 N Country Club Dr,3.0714285714285716,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+348,O694V2x8GL6Ff-BMezRb8A,Evapeology Vape & Coffee Lounge,33.385137300000004,-111.74188329999998,"1728 S Greenfield Rd, Ste 104",4.384615384615385,MESA,0,,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+349,NlymcSxDnjtCLyGvmMoyFg,Aloha Kitchen,33.3607307,-111.85983359999999,"2950 S Alma School Rd, Ste 12",4.36036036036036,MESA,1,average,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+350,zdA5QO2gwdaEk5__innayw,Senor Sushi,33.3934822083,-111.86185455299999,1356 W Southern Ave,2.8076923076923075,MESA,0,average,,False,False,True,False,False,0,1,0,1,0,0,0,0,0,0
+351,YbweWBgYj9T3VqMFJcQlOw,Flaming Kabob,33.379512,-111.78441000000001,2252 E Baseline Rd,3.9322033898305087,MESA,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+352,LkH__EQPBEUkFfi2D-GPKQ,Schlotzky's Bakery Cafe,33.436652,-111.721088,"1140 N Higley Rd, Ste 103",3.6666666666666665,MESA,0,average,,,,True,,,0,0,1,0,0,0,0,0,0,0
+353,dU34LGqegjPB6bKKV9TWgg,Pho Wes,33.3892012007,-111.860820875,"Fiesta Mall, 1445 W Southern Ave, Ste 2114",4.75,MESA,0,,,,,,,,0,0,0,0,0,1,0,0,0,0
+354,zzwicjPC9g246MK2M1ZFBA,Sizzler,33.395974,-111.8406513,1050 S Country Club Dr,2.9215686274509802,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+355,u1m3qTIrhZhwNjMT6n-M8g,Rita's Restaurant & Cantina,33.4221659223,-111.857895926,1264 W University Dr,4.189655172413793,MESA,1,average,,False,False,True,False,False,1,0,0,0,1,0,0,0,0,0
+356,c3ukNv4GHicrT6K9G2IW3w,Wing's Express,33.415029600000004,-111.79990320000002,1449 E Main St,3.938775510204082,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+357,HCNKxd0J0pTxAMJwNuYmrQ,Ms Thomas' Lovely Tea House,33.451415000000004,-111.709457,"5609 E Mckellips Rd, Ste 101",3.0,MESA,0,,,,,,,,0,1,0,0,0,0,0,0,0,0
+358,nqPuAhbXJWknRzUXSg8K2g,McDonald's,33.436409000000005,-111.71953789999999,1158 N Higley Rd,2.230769230769231,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+359,RhUrhcgYF8c63SrS-byauQ,Baja Tacos,33.4146004,-111.80064709999999,1437 E Main St,4.142857142857143,MESA,0,quiet,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+360,9ibMbke1qYbmhJ2Qf3tWfA,Dragon Express,33.3783527282,-111.85822319100001,1125 W Baseline Rd,4.0837696335078535,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+361,3UMnOWyvnvnGrcSysb9ImQ,Popeyes Louisiana Kitchen,33.388987,-111.61480300000001,1431 S Crismon Rd,2.2,MESA,0,,,False,False,True,False,False,0,1,0,0,0,0,0,1,0,0
+362,s3AG8m6Pzq-vON729pf0gw,Zushi Japanese Bistro,33.464844,-111.685553,6727 E McDowell Rd,3.579310344827586,MESA,1,average,,False,False,True,False,False,0,0,0,1,0,1,0,0,0,0
+363,cgCvvpYzGaanZP5LGHWWhw,Burger King,33.4143558,-111.85721129999999,1201 W Main St,2.0,MESA,0,,,,,True,,,0,0,0,0,0,0,0,1,0,0
+364,KmsaDVRln9HpsK5vJxFLKA,Barrio Brewing Co.,33.3107473,-111.66986940000001,"5803 S Sossaman Rd, Ste 45",3.7916666666666665,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+365,vT5mKKEcAxhSPj452HHspw,Frutilandia,33.4072906,-111.7877321,437 S Gilbert Rd,4.104477611940299,MESA,1,average,,False,False,True,False,True,1,0,0,0,0,0,0,0,0,0
+366,OJAGq2tKzlwNuWmUX00I5g,Xaviers Casa Reynoso,33.393091,-111.752591,3701 E Southern Ave,4.0,MESA,0,quiet,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+367,5RZt_9lrBSNDuzCyV1zPMw,Good Guys Seafood,33.392844000000004,-111.8423087,"1262 S Country Club Dr, Ste 101",3.727272727272727,MESA,0,average,,False,False,,False,False,0,0,0,0,1,0,0,0,0,0
+368,t1P_vLIyJCIoEaUVcwHdTw,Fran's Place,33.4161322,-111.69480990000001,6320 E Main St,3.898550724637681,MESA,0,average,,False,False,True,False,True,0,1,0,0,0,0,0,0,0,0
+369,QvEoE_oGwHPXvw5IylllNg,New China,33.4363769927,-111.72091926799999,"1130 N Higley Rd, Ste 7-102, Northpoint Village Shopping Center",2.2413793103448274,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+370,IXUwuNjy707wJNW2U4sRVg,Alessia's Ristorante Italiano,33.436137,-111.716897,5251 E Brown Rd,4.297397769516729,MESA,1,quiet,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+371,UtllsEfocRVLB36mR2pTzg,Carbajal's Mexican Food,33.4166043,-111.67381029999999,7302 E Main St,3.861111111111111,MESA,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+372,XjKWDL7usKSaujOfNB_ynQ,Croshaw's Gourmet Pies,33.4363721,-111.6847011,6731 E Brown Rd,4.411764705882353,MESA,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+373,3dw6xhzG08htY5HcL2OjeA,Angry Crab Shack,33.3641608,-111.6557021,8253 E Guadalupe Rd,3.5813953488372094,MESA,1,loud,,False,False,True,False,False,0,0,0,0,1,0,0,0,0,0
+374,mdUjJFZaQoydAGadzFuFtg,In-N-Out Burger,33.383368562,-111.806289059,1650 S Stapley Dr,4.227848101265823,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+375,E9aC5bLfXdQVZ5csvLuLJg,Taiwan Food Express,33.4133505,-111.8759922,"66 S Dobson Rd, Ste 148",3.3191489361702127,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+376,DljmXW8D07LVTA1Y69xosw,Sahuaro's Taco Shop,33.363593300000005,-111.8426466,2828 S Country Club Dr,4.48936170212766,MESA,1,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+377,KhEAQiTeJDvBsXHe-fm0TQ,Yogi's Teriyaki and Grill,33.390725399999994,-111.8552892,1130 W Grove Ave,3.688888888888889,MESA,0,average,,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+378,i_Oe8Qs15GaHM0Szv_XsyA,Nana Dee's Diner,33.3926984,-111.69306499999999,6353 E Southern Ave,4.1923076923076925,MESA,0,,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+379,-yeIdDaCHwXnWfjoGQNYoQ,Matta's Cantina,33.4364793,-111.63081470000002,1157 North Ellsworth Rd,2.176470588235294,MESA,0,,,,,,,,1,0,0,0,0,0,0,0,0,0
+380,XiffGXK18yCfwWb2Qx5vgQ,Sullivan's Pier,33.4158273,-111.79021429999999,1902 E Main St,3.6666666666666665,MESA,0,,,False,False,,False,False,0,0,0,0,1,0,0,0,0,0
+381,vYzcDDVv4MqPOt46rl2kYg,Tasty Joe's Asian Diner Chinese Cuisine,33.4365383,-111.6849665,"1152 N Power Rd, Ste 108",3.5517241379310347,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+382,nJoohOsIiZMgtPV0ttvPxA,Mekong Sandwiches,33.4139012658,-111.875981471,"66 S Dobson Rd, Ste 101",4.408450704225352,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+383,FlJ3Add2GgFaIsWntgum0g,Chick-fil-A,33.327139,-111.68766200000002,4908 S Power Rd,4.053571428571429,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+384,nQ7SjLwN2gqn2Qm9shjc3g,Luna Street Tacos & Hot Dogs,33.4147186836,-111.63246464,9205 E Main St,4.6,MESA,0,,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+385,koeALuQceWSzj453h23nsQ,Piggly's BBQ,33.38449,-111.80411000000001,1633 S Stapley Dr,3.356164383561644,MESA,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+386,KBxus2mJ-AB97eYnIX7Srg,Boca Taqueria,33.4384461,-111.7356413,"1249 N Greenfield Rd, Ste 104",3.923076923076923,MESA,0,loud,,False,False,False,False,False,1,0,0,0,1,0,0,0,0,0
+387,anhk98859Rmo3mL6X41jbg,Panda Express,33.4335836,-111.8697934,921 N Dobson Rd,2.369565217391304,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,1,0,1,0,0
+388,j9cVHTAIkliYQp4XoVcsnQ,The Harp Pub,33.3837049779,-111.756664664,1744 S Val Vista Dr,3.235294117647059,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+389,RD37On83Z4dEMFLgjTPw_g,Pastis,33.3812843,-111.7535064,1935 S Val Vista Dr,3.9,MESA,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+390,rYRx_E8ioNTR4WJKHJVkfg,McDonald's,33.3934196,-111.8778967,2130 W Southern Ave,1.8461538461538463,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+391,DAok30E1R0nPLNFathadTQ,Bak'd,33.4152626,-111.8360987,156 W Main St.,4.666666666666667,MESA,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+392,TcULtaVLDsbKunf3iW7RCQ,Fresh Millions Restaurant,33.3908326,-111.85569579999999,"1130 W Grove Ave, Ste 111",4.2517006802721085,MESA,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+393,1PaQzgrhq-jy-7MMGeLuGw,Popeyes Louisiana Kitchen,33.4073582347,-111.872999999,2005 W Broadway Rd,2.196078431372549,MESA,0,average,,False,False,False,False,False,0,0,0,0,0,0,0,1,0,0
+394,v35sTRP8H8VZ6T9b8jYD6w,MOD Pizza,33.3824036,-111.6003301,"1804 S Signal Butte Rd, Suite 105",4.271604938271605,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+395,XXxscMkHPEdsZtzjesk5zg,McDonald's,33.4157082,-111.78868359999998,1960 E Main,1.45,MESA,0,,,,,True,,,0,0,0,0,0,0,0,1,0,0
+396,2d-bG9IumvPOIwfr9Q4MKQ,Panda Express,33.3770023,-111.6376332,9115 E Baseline Rd,1.375,MESA,0,very_loud,,False,False,True,False,False,0,0,0,0,0,1,0,1,0,0
+397,_33-XWJONocBnsQZX3JGFQ,Grandma's Kitchen,33.4343748,-111.82412,"323 E Brown Rd, Ste 201",4.2,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+398,5DLxa3EQQykWFdIJ-KU5jg,Little Caesars,33.4073001936,-111.78775616,437 S Gilbert Rd,2.2,MESA,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+399,G60mnTWpe1J13fWhIGlmxA,Jimmy John's,33.3798464,-111.838931,"350 W Baseline Rd, Ste 106",3.2432432432432434,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+400,v0bL0-frMFrvHz-5OgUczw,Raising Cane's,33.379381,-111.806728,1945 S Stapley Dr,3.718232044198895,MESA,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,1,0,0
+401,3y4EXDwGbs7bir6yBfgPGg,Pizza Fusion,33.4518585,-111.707131,"5735 E McKellips Rd, Ste 107",3.5714285714285716,MESA,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+402,Rvj6ryvV1Wf-27UT75soMA,J & M Chinese Cuisine Restaurant,33.4349552,-111.6313005,1035 N Ellsworth Rd,3.5625,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+403,XEHACBzEICqYouH1EgN1bA,Serrano's Mexican Restaurant,33.3634626,-111.875948,1955 W Guadalupe Rd,3.32,MESA,0,average,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+404,BG-91xMVSVUQVe4E3Rj7bQ,R T O'Sullivan's,33.3933042,-111.8536943,1010 W Southern Ave,3.2083333333333335,MESA,0,very_loud,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+405,qAJ-denev24k4RN-DMoaGA,1 Eastern Super Buffet,33.3814663,-111.59857290000001,"1901 S Signal Butte Rd, Ste 101",3.1666666666666665,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+406,QeNiUXHqUgiJJnM--UMNNg,Chipotle Mexican Grill,33.390725399999994,-111.8552892,1130 W Grove Ave,3.1785714285714284,MESA,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,1,0,0
+407,V2oe1HVgNK0He9Mf3Q17AA,All Pierogi Kitchen & Euro Market,33.378138899999996,-111.86138020000001,"1245 W Baseline Rd, Ste 101-103",4.291497975708502,MESA,1,quiet,,False,False,True,True,False,0,0,0,0,0,0,0,0,0,0
+408,Nz9Tk-YjE6RHQBOExYbNng,Nielsen's Frozen Custard,33.393819,-111.79003200000001,"1942 E Southern Ave, Ste 1",3.111111111111111,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+409,RJ5XMnAxp0DC4h4dcCECsA,KFC,33.3791,-111.604,10720 E Baseline Road,1.5263157894736843,MESA,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,1,0,0
+410,x99-QiHEUN13aMZEZ4RQKw,Wild Berry Diner,33.4152424,-111.72747340000002,4805 E Main St,4.046296296296297,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+411,O2U1yD8f4UxG6SmDpyL9-Q,Detroit Coney Grill,33.393052240900005,-111.689859554,6555 E Southern Ave,4.25,MESA,0,,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+412,dh9pDbRaBl13yVzgFIJp3Q,Domino's Pizza,33.3797541,-111.6849993,6920 E Baseline Rd,2.857142857142857,MESA,0,quiet,,,,True,,,0,0,0,0,0,0,0,0,0,0
+413,B7lWxgPmJPJJ7Mz2OL6aAg,Native Grill & Wings,33.3636242,-111.8736054,"1837 W. Guadalupe #122, Ste 122",2.9454545454545453,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+414,uVxckFsBlewiDoQgpOafqA,Over Easy,33.393390999999994,-111.69228500000001,6451 E Southern Ave,3.173076923076923,MESA,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+415,Nc4uCzuwPbDr3gs6aGru8g,Romano's Macaroni Grill,33.38179,-111.80518640000001,1705 S Stapley Dr,2.4915254237288136,MESA,0,average,,False,False,,False,False,0,0,1,0,0,0,0,0,0,0
+416,4GNI7HWuzQkkPmPsgHxOtw,Flancer's,33.450123,-111.719349,1902 N Higley Rd,3.91025641025641,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+417,LVXj3iRmP5G79vxQl-hw9Q,J Ruggs Southern BBQ,33.379862,-111.69091499999999,"6610 E Baseline Rd, Ste 109",3.888888888888889,MESA,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+418,fz3JQdD_SYBbkmfSeLGdFg,The Landmark Restaurant,33.414213000000004,-111.848545,809 W Main St,3.582089552238806,MESA,0,average,,False,False,True,False,True,0,1,0,0,0,0,0,0,0,0
+419,-rMJrY16eFTQd4I035G1oQ,El Salsita,33.416182899999995,-111.839574,35 N Country Club Dr,2.5714285714285716,MESA,0,quiet,,False,False,True,False,False,1,0,0,0,0,0,0,1,0,0
+420,15-7ccie0lFEbdsnwFXNZw,Old Country Buffet,33.380894,-111.80686399999999,1855 S Stapley Dr,2.3055555555555554,MESA,0,average,,False,False,True,False,True,0,1,0,0,0,0,0,0,0,0
+421,UXlEtuFrMu4YZKH9M2DRIw,Rubio's,33.383778781,-111.802896069,"1649 S Stapley Dr, Ste 104",3.92,MESA,0,loud,,False,False,True,False,False,1,0,0,0,1,0,0,0,0,0
+422,7VYFL_s1HK1vOU-dzyW1Ew,Z-Cafe,33.37831,-111.861418,"1245 W Baseline Rd, Ste 105",4.652941176470589,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+423,RKyy6qGJCxFM1DOVMYsl3A,Silke's American Grill,33.4527843,-111.7893648,2036 N Gilbert Rd,3.6363636363636362,MESA,0,average,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+424,Sd75ucXKoZUM2BEfBHFUOg,China Gourmet,33.39486287,-111.756035932,"3460 E Southern Ave, Ste 109",3.4375,MESA,0,quiet,,False,False,False,False,False,0,0,0,0,0,1,0,0,0,0
+425,h1Dol2zEw3YtXmRMWfljyA,Paik's Noodle,33.3944711789,-111.872909255,1133 S Dobson Rd,4.4,MESA,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+426,pxRy9F0HwN7zJ7J89AwUpQ,The Good Egg - Dobson,33.3830075,-111.87454199999999,1665 S Dobson Rd,3.688679245283019,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+427,tyvFhEcccdYa74IK0_q-kw,Alfonso's Mexican Food,33.394184292,-111.84129294,"1140 S Country Club Dr, Ste 101",4.111111111111111,MESA,0,quiet,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+428,qm7diuwiwwCWdL5V9s9hsA,Yan Grill And HotPot,33.4125729,-111.8738256,"111 S Dobson Rd, Ste 104",3.9285714285714284,MESA,0,,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+429,xLr2C8RpGgMJyzf1oCWuoQ,Uncle Bear's Grill and Tap,33.3781101,-111.6386664,9053 E Baseline Rd,3.2755905511811023,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+430,JVQL4U_5nETnOQ3S-zOPbA,Papa John's Pizza,33.3798264,-111.6800666,7102 E Baseline Rd,2.4,MESA,0,,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+431,sk6Llx6o8PTsokVOpb0aAA,Paradise Bakery,33.3098443,-111.6691804,5835 S Sossaman Rd,2.2,MESA,0,,,,,False,,,0,1,0,0,0,0,0,0,0,0
+432,mRazvR_U11rLacnSM6vDBw,Manna BBQ,33.3940473,-111.87294270000001,"1135 Dobson Rd, Ste101",4.580952380952381,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+433,fDL6uGbJMZ2gnvTwB91tuA,Steve's Krazy Sub,33.393386199999995,-111.8729754,1936 W Southern Ave,3.6363636363636362,MESA,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+434,kO1-ZswCgQak2beKUMaYRw,Toh Zan Nagasaki Grill,33.3934816,-111.87744579999999,2120 W Southern Ave,4.115151515151515,MESA,1,quiet,,False,False,False,False,False,0,0,0,1,0,0,0,0,0,0
+435,04YqYgoW2ZztLpxmhEJ43Q,Little Caeser's Pizza,33.452222,-111.7712267,2754 E Mckellips Rd,2.8,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+436,sKhLvavlHwQqpwomMzAeAA,HoneyBaked Ham,33.379801,-111.688649,"6736 East Baseline Road, Suite 107",3.0,MESA,0,,,,,True,,,0,0,0,0,0,0,0,0,0,0
+437,s-H3bQMKP-DOkd2HMe-SgQ,QuikTrip,33.408077,-111.875096,2026 W Broadway Rd,4.636363636363637,MESA,0,,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+438,drYgdLcfKwFvB-EMiAVV5w,Pita Jungle,33.3850803981,-111.756374723,"1652 S Val Vista Dr, Ste 128",4.160919540229885,MESA,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,1
+439,YV_QBxAa_uPm0X3Z_jbHAA,Double Overtime Sports Grille,33.375057,-111.687177,2235 S Power Rd,4.333333333333333,MESA,0,,,,,,,,0,1,0,0,0,0,0,0,0,0
+440,XThAmlwDIKoaG6IKrmuLyQ,Cajun Seafood Corner,33.3765345,-111.8778341,"2051 S Dobson Rd, Ste 18",3.127659574468085,MESA,0,average,,False,False,,False,False,0,0,0,0,1,0,0,0,0,0
+441,in1dUkV0SE76X_U-nMEl4g,Mafia Mike's Pizza,33.423962800000005,-111.71975049999999,446 N Higley Rd,2.0,MESA,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+442,K-iF9G-Fbbzpk7E2LXwrMg,Pete's Fish & Chips,33.419736,-111.83356599999999,203 N MacDonald,3.142857142857143,MESA,0,,,False,False,,False,False,0,0,0,0,0,0,0,1,0,0
+443,t2oeG8yZHvogZOHzOE867w,Pedrito's Taqueria 2,33.414803000000006,-111.83956599999999,311 W Main St,2.9714285714285715,MESA,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+444,YIBZ1pU6kOCvp3dSHQcnIg,Gill's Grounds,33.3424439,-111.6849635,4011 S Power Rd,4.796296296296297,MESA,1,,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+445,KK7-mHecrlhTIXxW1eATEw,Los Picos Parrilla Restaurant,33.4224694,-111.86446200000002,1542 W University Dr,4.038095238095238,MESA,1,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+446,_3o05Wdjfc8jOvGZ_q177Q,Mi Amigo's Mexican Grill,33.393567100000006,-111.68956370000001,6465 E Southern Ave,2.509433962264151,MESA,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+447,C7BTKAsOdk5kNdKXrtQdiA,The Brass Tap,33.435727299999996,-111.8695098,"1033 N Dobson Rd, Ste 104",3.49645390070922,MESA,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+448,nevhq5lNNqzoU_WL-yoRfQ,HandleBar Diner,33.3217985656,-111.61524408,5149 S Inspirian Pkwy,4.024390243902439,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+449,eswEA8M7pyx9D_6RI-iZLw,Maskadores Taco Shop,33.4013012,-111.8559375,"753 South Alma School Rd, Ste 5",4.615384615384615,MESA,1,quiet,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+450,7WW0eu1kNgKODLowyhZfSw,Taco Bell,33.415240000000004,-111.83936000000001,310 W Main St,3.8125,MESA,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,1,0,0
+451,j9bWpCRwpDVfwVT_V85qeA,Papaya Thai,33.42370519999999,-111.7728895,2706 E University Dr,2.7448979591836733,MESA,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,1,0,0,0
+452,13KW8P5n1jAxxHB7Bl_obg,Beaver Choice,33.378473994299995,-111.847630708,745 W Baseline Rd,4.030812324929972,MESA,1,average,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+453,4fMwSAmby7wPkkEFw19xdg,Sandey's Broaster Chicken,33.3943265,-111.71877959999999,1155 S Higley Rd,2.6666666666666665,MESA,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+454,P0IY-8h2q--Uiw6vKIJ3QQ,Tsing Tao Chinese Cuisine,33.378861199999996,-111.8430338,"542 W Baseline Rd, Ste 102",3.6491228070175437,MESA,0,quiet,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+455,jpAzk6GILb9ozI_SFf3hAg,Islands,33.3834439,-111.85717779999999,1665 S Alma School Rd,3.111111111111111,MESA,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+456,2KS_UunFuefCdniRrrxIkg,Filiberto's Mexican Food,33.45118239999999,-111.76555819999999,3041 E. McKellips Rd,2.52,MESA,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+457,HodK8_GQYmyrZx0s8j95Uw,Apple Dumpling Cafe,33.380136,-111.763318,3130 E Baseline Rd,2.5,MESA,0,,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+458,sAN_1jFisdABjadmlDV_zA,Asian Star Buffet,33.3933757,-111.7014759,6005 E Southern Ave,2.75,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+459,1z2LH6CeT13o1GD_VkK01g,Cafe Agit,33.3788907,-111.8789221,"1954 S Dobson Rd, Ste 5",3.7857142857142856,MESA,0,loud,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+460,XxXmyN3tlroRQ1SOoSXHAA,Rosita's Fine Mexican Food,33.3626731,-111.87802450000001,2023 W Guadalupe Rd,3.5673076923076925,MESA,1,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+461,Yb2lzZilR6vnx0fffPSx8w,Lost Dutchman Coffee House,33.415382799999996,-111.8314733,12 N Center St,3.65,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+462,lmfyEVKm3CDGWg18LeRhgA,Pink Pepper Thai Cusine,33.3629395,-111.87528229999998,"1941 W Guadalupe Rd, Ste 105",3.1538461538461537,MESA,0,quiet,,False,False,True,False,False,0,0,0,0,0,1,1,0,0,0
+463,V-Yz9Z1wSBcZtRcd-bnIeQ,Subway,33.363991,-111.66880309999999,"7641 E Guadalupe Rd, Ste 114",4.2,MESA,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+464,nL1FdcNZ6liuQ1odNNWVNQ,Top Shelf  Mexican Restaurant,33.3931452,-111.8744982,1976 W Southern Ave,2.875,MESA,0,average,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+465,Uj5BQ1x4ZEi-otME_5bh8w,Painted Mountain Golf Resort,33.452831800000006,-111.696707,6210 E McKellips Rd,2.888888888888889,MESA,0,,,False,False,False,False,False,0,1,0,0,0,0,0,0,0,0
+466,77ooovMlCnakFGZhQGKGRw,Subway,33.4067365,-111.6309631,"439 S Ellsworth Rd, Ste 104",2.0,MESA,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,1,0,0
+467,x7pcgbbZoqKndNEDIHZB8w,Your Pie,33.3784023,-111.85922830000001,2015 S Alma School Rd,3.6666666666666665,MESA,0,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+468,6rYnfSWSkyXnlD3Fjep3PQ,Sassy's Cafe & Bakery,33.416164,-111.7401098,4210 E Main St,4.283950617283951,MESA,1,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+469,_H0QP_8LUYqNeMmB-BRPMA,Steaks R US,33.3922795,-111.7525453,3655 E Southern Ave,2.5,MESA,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+470,HGuHk935tyokX6kveEviJw,Mekong Palace,33.413765999999995,-111.87628899999999,"66 S Dobson Rd, Ste 120",3.4,MESA,1,average,,False,False,True,False,False,0,0,0,0,1,1,0,0,0,0
+471,b7DQpuJ-heKrgEtreYrx8A,Baiz Fresh Foods,33.378699,-111.874145,1858 W Baseline Rd,3.9714285714285715,MESA,0,,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+472,IzBOJTnKQkanSViAn8FX_w,McDonald's,33.366182,-111.85857730000001,2665 S Alma School Rd,1.6296296296296295,MESA,0,very_loud,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+473,_IsXInoow06L5C7fQgg9ww,Robby Bobbys Pizza,33.414716399999996,-111.85209070000002,961 W Main St,3.111111111111111,MESA,0,very_loud,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+474,7o2BZbRWeBIInSCf5b_SvA,D'Vine Bistro & Wine Bar,33.4676501,-111.68280800000001,2837 N Power Rd,3.9160305343511452,MESA,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+475,8wj429RXx2bSpubx-1Fjpg,Los Musicos Sushi-Bar and Grill,33.3902935592,-111.858982064,"1445 W Southern Ave, Ste 1016",3.0,MESA,0,,,,,,,,0,1,0,0,0,0,0,0,0,0
+476,8a9Fyvqyk1ovoojnP_pvRQ,Burger King,33.451474,-111.70353700000001,5859 E McKellips Rd,2.5,MESA,0,,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+477,XDoS2eETLrG53caNkchd3g,Pho Nhat,33.393148,-111.87041709999998,1820 W Southern Ave,3.991304347826087,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+478,qH-Oqr_qZYPSCSrM6QwMOg,Papa John's Pizza,33.465852500000004,-111.6822267,2733 N Power Rd,3.0,MESA,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+479,HI56ArpYEbhEUeRx9Curpw,Asian Cafe Express,33.4140837984,-111.87229639899999,"1911 W Main St, Ste 3",4.249448123620309,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+480,Q1axbtqtLvVrFMpdMl8q-A,Papa Murphy's,33.3940553,-111.7542777,3550 East Southern Avenue,3.533333333333333,MESA,0,quiet,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+481,LWWT__tpo7TzQRDQliApaQ,Fat Willy's,33.374338699999996,-111.66704509999998,2250 S Buttercup Rd,3.75,MESA,0,,,,,False,,,0,0,0,0,0,0,0,0,0,0
+482,9TWjqz8dKelXezZRKW5XMQ,Julio's Too Mexican Food,33.381418599999996,-111.7533797,1935 S Val Vista Dr,2.9047619047619047,MESA,0,average,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+483,ZuAxqdMHXJ1FIO9Oi4P2Jg,Subway,33.395084000000004,-111.71878500000001,"1121 S Higley Rd, Ste 101",1.6666666666666667,MESA,0,quiet,,False,False,False,False,False,0,0,0,0,0,0,0,1,0,0
+484,zuV8bmrmf6fk5ZeQJo9iEg,Rotolo's Pizzeria,33.384163,-111.803119,"1641 S Stapley Dr, Ste 104",2.75,MESA,0,quiet,,,,,,,0,0,0,0,0,0,0,0,0,0
+485,gAT3p2Ooou4lUYiF4OKj7g,Yen Ching,33.4132788,-111.68483810000001,126 S Power Rd,3.422222222222222,MESA,0,quiet,,False,False,False,False,False,0,0,0,0,0,1,0,0,0,0
+486,0AUdqRDyqxOB8TZ8HFettg,Dairy Queen,33.4143225,-111.8396416,33 S Country Club Dr,2.625,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+487,a_tpGkXwqqC_ZeIp59V7Sw,Yu Tian Xia Hot Pot,33.408094,-111.8735183,1948 W Broadway Rd,4.111111111111111,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+488,-9xZZLLxuQabvBDODqpM-g,Lava Cafe and Hookah Lounge,33.3944636,-111.8541437,"1038 W Southern Ave, Ste 2",4.6923076923076925,MESA,0,,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+489,uJ6gauLh5_L3Oi_GNgWPCA,Rally's Hamburgers,33.451064699999996,-111.83863909999998,343 W McKellips Rd,2.1333333333333333,MESA,0,,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+490,P9boIWvSKg3xX00xFPV-lA,Waffle House,33.3817276,-111.8397172,1831 S Country Club Dr,3.3278688524590163,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+491,f97ok_VaMvWYxsZv7iconA,O'Briens,33.3906201,-111.86440159999998,1310 S Longmore,3.3684210526315788,MESA,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+492,fBmyj1okdO1p-GUzfQQohg,Szechuan Express,33.394801799999996,-111.87510420000001,"1116 S Dobson Rd, Ste 132",3.4565217391304346,MESA,0,quiet,,False,False,True,False,False,0,0,0,0,0,1,1,0,0,0
+493,OwYpVa-JnVjfEz4iVZk3ZQ,Olive Garden Italian Restaurant,33.3925899,-111.8590625,1261 W Southern Ave,3.2072072072072073,MESA,0,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+494,Dzm3_K2lnLLcGPVLZBZtog,Empire Asian Bistro,33.3636507,-111.6689196,7641 E Guadalupe Rd,2.7777777777777777,MESA,0,quiet,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+495,QjZQHKP5l_CfX_hM6dh0mA,El Senor Taco,33.450874400000004,-111.82154740000001,415 E Mckellips Rd,4.375,MESA,0,quiet,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+496,eWVgtAQ3Z-bFRBat8nICLg,The Patio At Las Sendas Golf Club,33.4907391,-111.67055220000002,7555 E Eagle Crest Dr,3.25,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+497,Ss37i4feOgX1N3Z_h5wy9A,Rubio's,33.433890000000005,-111.867799,937 N Dobson Rd,3.791208791208791,MESA,1,average,,False,False,True,False,False,1,0,0,0,1,0,0,1,0,0
+498,K3J4zvnQ_G1d5xfffPf2Wg,Kingo Bowl,33.4136484709,-111.87582964200001,"66 S Dobson Rd, Ste 112",4.217391304347826,MESA,1,average,,False,False,True,False,False,0,0,0,1,0,1,0,0,0,0
+499,c3d8QanR2tXM469mgNkipw,Church's Chicken,33.45109,-111.815206,715 E McKellips Rd,3.3333333333333335,MESA,0,,,,,,,,0,0,0,0,0,0,0,1,0,0
+500,dIypqPTxTj-WkIMUTKoVqw,Pescaderia De Guaymas,33.421885100000004,-111.84852430000001,"811 W University Dr, Ste 102",4.666666666666667,MESA,0,,,,,,,,1,0,0,0,1,0,0,0,0,0
+501,hw1g0S9HtNKSH4dJl8-oPw,U-Like World Buffet,33.3905956,-111.78768259999998,1343 S Gilbert Rd,1.75,MESA,0,average,,False,False,,False,False,0,0,0,0,0,1,0,0,0,0
+502,GWDqmVT1_gBEz3B3kgaCdA,Chili's,33.3839304,-111.80509209999998,1637 S Stapley Dr,2.973333333333333,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+503,fwYtVfx-RbpZkph9BxOVFA,Toby Keiths I Love This Bar & Grill,33.4368850166,-111.866226196,1065 N Dobson Rd,2.4656084656084656,MESA,0,very_loud,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+504,a7_loah6BE8V9nJY3tt36g,Mariscos El Rey,33.393601501199996,-111.849741735,830 W Southern St,3.8275862068965516,MESA,0,loud,,False,False,False,True,False,1,0,0,0,1,0,0,0,0,0
+505,jUQmWbY3KSCyxvsKJmPJPQ,Rancho De Tia Rosa,33.450829999999996,-111.76328600000001,3129 E McKellips Rd,3.7037037037037037,MESA,1,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+506,hgJs2Fhby9hLNFZLjrUh9g,Domino's Pizza,33.408467699999996,-111.78876809999998,1960 E Broadway Rd,2.5555555555555554,MESA,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+507,jrCjlm86YP-Tae0n_arz5g,Jack In the Box,33.3893821,-111.6148938,1403 S Crismon Rd,2.4166666666666665,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+508,HESW9RuZLvRAGZEfBOy0zA,Taco Bell,33.40791,-111.77313000000001,2663 E Broadway Rd.,3.5,MESA,0,,,,,,,,1,0,0,0,0,0,0,1,0,0
+509,nsY7J0cdi6usTTswuy8hSA,Olympus Pizza,33.436452,-111.83949140000001,1211 N Country Club Dr,2.1818181818181817,MESA,0,average,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+510,eem6eoAiYL9UcQUE0kMD-g,Adrian's,33.4147889,-111.8529412,1011 W Main St,4.711627906976744,MESA,1,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+511,JiNtFt02pLvjXkqxZL737Q,The Iowa Cafe,33.436432,-111.71848440000001,1129 N Higley Rd,2.929411764705882,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+512,0uBsXOFXBIscojMipiumeA,Ono Hawaiian BBQ,33.3258398984,-111.687473059,4972 S Power Rd,2.7653061224489797,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+513,_wwtLgX4n0jpyVP8jiJ40Q,Pho Winglee,33.4125729,-111.8738256,"111 S Dobson Rd, Ste 106",4.345132743362832,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+514,PMI_22D7bl8MMI6mCqN2qQ,Red Lobster,33.3878485,-111.85658470000001,1403 S Alma School Rd,3.217391304347826,MESA,0,average,,False,False,True,False,False,0,1,0,0,1,0,0,0,0,0
+515,oSBehYlARytl0M1s3_mcLA,Salvadoreno Restaurant,33.409294,-111.7888936,"330 S Gilbert Rd, Ste 20",3.4166666666666665,MESA,0,average,,False,False,False,False,False,0,1,0,0,0,0,0,0,0,0
+516,SKR7zeX_eTngMmE4FjCZFA,Papa Murphy's,33.4170443549,-111.87393684,67 N Dobson Rd,4.916666666666667,MESA,1,quiet,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+517,UZJGHaZ26JQJxuU4u-sVMQ,Downtown Rendezvous,33.4156149553,-111.8309278,20 E Main St,4.45945945945946,MESA,1,quiet,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+518,6XImdD5qH_LFZhHeLjLaGQ,Arbys Restaurant Higley Rd,33.4502837,-111.7183869,1927 N Higley Rd,3.2857142857142856,MESA,0,,,,,,,,0,0,0,0,0,0,0,1,0,0
+519,gek4ySiFtQX53g_AqdONDQ,Mesa Grill Co,33.45214,-111.73272,"4545 E McKellips Rd, Ste 108",3.4516129032258065,MESA,0,average,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+520,mkjIZdBL8IDcBx804P4uZA,Pizza Hut,33.4145121,-111.87208229999999,1901 W Main St,3.0,MESA,0,average,,False,False,False,False,False,0,0,1,0,0,0,0,0,0,0
+521,hbwmFNEosiv1evr6AwlnCA,Chick-fil-A,33.390513,-111.6901459,6555 E Southern Ave,4.133333333333334,MESA,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+522,9njwmO6YzhaQB3-htNMFYQ,The Hub Grill and Bar,33.380424,-111.66622,1925 S Sossaman Rd,4.05955334987593,MESA,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+523,qcZvV6eWhOJ97LtArnk7SQ,Thai Food Corner,33.436295,-111.716849,"5253 E Brown Rd, Ste 104",4.12962962962963,MESA,1,quiet,,False,False,True,False,False,0,0,0,0,0,0,1,0,0,0
+524,7KKHao_bBBy1fBa9uyA9bA,Haris's Pita Grill,33.38323,-111.80269409999998,"1649 S Stapley Dr, Ste 105",3.7777777777777777,MESA,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+525,8xIWCN6PlW8E897gFgyFeg,Ray's Pizza,33.382056899999995,-111.60042050000001,"1804 S Signal Butte Rd, Ste 105",3.2903225806451615,MESA,0,average,,False,False,,False,False,0,0,1,0,0,0,0,0,0,0
+526,IxKZoMCA9VJTl0gaodlcBw,IHOP,33.4328751,-111.8708656,913 N Dobson Rd,2.953488372093023,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+527,EE4nfMjmbE5PIG12UsustA,Subway,33.4355721,-111.7884153,1106 N Gilbert Rd,4.0,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+528,ApG7b6SZpHTTsX3q6NcXgg,Papa John's Pizza,33.3765534,-111.8587169,2111 S Alma School Rd,2.4583333333333335,MESA,0,,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+529,j1fqqRf2Aa6H-igmGJ4eUw,Gangnam BBQ,33.3901772,-111.86431940000001,"1350 S Longmore Rd, Ste 22",3.6863905325443787,MESA,1,loud,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+530,TectsyEvH5vmlgtYQ7Sjsw,Vaqueros Carne Asada,33.4160151481,-111.69217575799999,6430 E Main St,3.875,MESA,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+531,6LVadHqqjWlVnd-T7gAZyA,Garcia's Mexican Restaurant,33.4231465,-111.78887549999999,1940 E University Dr,3.1848739495798317,MESA,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+532,iJfS02AOptwkaWD-vOVRew,India's Grill,33.384637,-111.80688500000001,"1616 S Stapley Dr, Ste 101",4.0,MESA,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+533,kkXTjzgAOL93TFtz9waTPw,Pizza Pit,33.3787775945,-111.878993511,"1954 S Dobson Rd, Ste 5",3.0952380952380953,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+534,ezDMJGONUEy1DyGSJ3vUJw,Copper Kettle-Salads Balti & Taandoori Grill,33.362719,-111.8761389,"1941 W Guadalupe Rd, Ste 102",3.7419354838709675,MESA,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+535,mVr_62FJXajH7u44pyBIOQ,Kneaders Bakery & Cafe,33.3934771554,-111.598454241,1142 S Signal Butte Rd,3.4057971014492754,MESA,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+536,EQcnE5CSswBFgOQS5L0ldw,Goat Head Saloon,33.3880845,-111.8398537,1423 S Country Club Dr,2.6875,MESA,0,average,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+537,Bb-Y-gKgZJak83zfzQoj1g,Zur Kate,33.4149445,-111.726882,"4815 E Main St, Ste 16",4.185393258426966,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+538,sPofLIXU9Ifot1n3iAOZHQ,Salad and Go,33.4373395,-111.7177745,5259 E Brown Rd,4.384615384615385,MESA,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,1,0,0
+539,cKZu_xLYp6lx6jLZ9bHRCQ,Rocky's Pizza and Cheesesteak,33.378413099999996,-111.8722511,"1731 W Baseline Rd, Ste 115",4.222222222222222,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+540,GeGyqtD2uvJlC5Gf1bSQHw,Millie's Cafe,33.3795421971,-111.875960603,1916 West Baseline Rd,4.5588235294117645,MESA,1,quiet,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+541,nyyS63QvEzflDfOd5lLaIg,Donut Worry Coffee & Smoothies,33.3773,-111.63793899999999,9115 E Baseline Rd,4.779661016949152,MESA,1,,,False,False,False,False,False,0,1,0,0,0,0,0,0,0,0
+542,VGmru4jWWUf9ZiwvZBWbdw,Cousins Subs,33.3819141,-111.7384288,"1823 S Greenfield Rd, Ste 105",3.4545454545454546,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+543,gCQscFW3aVBNE-PehZ13ew,Cogburns,33.3209915,-111.68526920000001,"5221 S Power Rd, Ste 107",2.7663551401869158,MESA,0,average,,False,False,False,False,False,0,1,0,0,0,0,0,0,0,0
+544,ShYv4mmgNwrStaFnje3uZQ,SaDec Bistro,33.3209915,-111.68526920000001,"5221 S Power Rd, Are 104",4.2,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+545,TlFm2cjcm9TGERDh5Wqabw,Taylor Rays,33.415942,-111.7256305,4906 E Main St,1.6666666666666667,MESA,0,quiet,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+546,MGiam1wVe77_L7tLHPCyBg,Arby's,33.3956342,-111.8406499,1060 S Country Club Dr,3.3,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+547,7fq6fN58ogXAzXzxywFX1Q,El Asadero,33.415413300000004,-111.81534309999999,720 E Main St,3.6666666666666665,MESA,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+548,id2yO15SnTEDMxNWtZXmFQ,Subway,33.3893462092,-111.860649548,"1445 W Southern Ave, Space 2096",3.3333333333333335,MESA,0,,,,,,,,0,0,0,0,0,0,0,1,0,0
+549,R1ZZk5dR-INpaHw7imNLHg,Big Boys Pizza,33.378413099999996,-111.8722511,"1731 W Baseline Rd, Ste 115",3.993710691823899,MESA,1,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+550,vu_jrjVKFPLW-iFHq6sRCA,Barro's Pizza,33.378332,-111.599682,10861 E Baseline Rd,2.9183673469387754,MESA,0,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+551,smBsHggLvIuABgntBvlYLw,Babbo Italian Eatery,33.3948766,-111.60019380000001,10720 E Southern Ave,3.696629213483146,MESA,1,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+552,VZ8iwm4wllHfkoN-cqi4bw,JB's Restaurant,33.416079898,-111.684157848,6810 E Main St,3.066666666666667,MESA,0,average,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+553,lXZvgVmIz-ko1OiCG-VDTw,Deer Garden Signature,33.4133505,-111.8759922,"66 S Dobson Rd, Ste 107",3.073170731707317,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+554,CLJVMy0DYLfG80B5n-sg2A,McDonald's,33.391523,-111.6991091,6131 E Southern Ave,1.0,MESA,0,,,,,,,,0,0,0,0,0,0,0,1,0,0
+555,9sx7TFwlFj8Klx9R_c0WVA,Subway,33.4065803,-111.66811070000001,450 S Sossaman Rd,2.3333333333333335,MESA,0,,,,,,,,0,0,0,0,0,0,0,1,0,0
+556,Uz1ZV1J-zF7VqH8QKUUNOw,Rosati's Pizza,33.434977049299995,-111.631325755,1035 N Ellsworth Rd,3.375,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+557,VcGyezSNtkNBr2HidcaM1A,Sourdough Pizza Restaurant,33.415535999999996,-111.670367,7440 E Main St,3.988235294117647,MESA,1,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+558,eXIWcOWhl1QiNvbN4Uvisg,Taps Signature Cuisine & Bar,33.3935917993,-111.853329246,1010 Southern Ave,1.9090909090909092,MESA,0,average,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+559,6QjNLbwVBSsRlPD24hL5Ww,Stacy's Smoke House BBQ,33.4159,-111.79365200000001,1734 E Main St,2.870967741935484,MESA,0,average,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+560,S5o2kplwZtc9XWdktq_GcQ,The Cheesecake Factory,33.3914122,-111.6890504,6613 E Southern Ave,3.482587064676617,MESA,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+561,pHQHFMBOPFtJwSEPrgvpYQ,Filiberto's Mexican Food,33.407700982399994,-111.754299626,3565 E. Broadway Rd,2.857142857142857,MESA,0,,,False,False,False,False,False,1,0,0,0,0,0,0,0,0,0
+562,Lu8ueuI4LF5i6_km0ip0xw,Cafe Rio,33.4536270831,-111.68382075,2119 N Power Rd,2.3529411764705883,MESA,0,,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+563,LIHuRVXlR_MPZTJZJQMQGA,Taco Bell,33.3909792204,-111.84070215700001,1256 S Country Club Dr,1.8,MESA,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,1,0,0
+564,cjxPOPcFkpq0cspQ2cHL8w,El Charro Restaurant & Cocktail Lounge,33.4175647,-111.83958770000001,105 N Country Club Dr,3.2916666666666665,MESA,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+565,-3oxnPPPU3YoxO9M1I2idg,Eklectic Pie - Mesa,33.379912100000006,-111.8062972,"1859 S Stapley Dr, Ste 105-3",4.21259842519685,MESA,1,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+566,LmyysENQBd2AgnDBE90cXA,Rockin R Ranch,33.380102,-111.69866999999999,6136 E Baseline Rd,2.5517241379310347,MESA,0,loud,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+567,16d3BlncEyCTzb0GxXrBXQ,Green Corner Restaurant,33.3944636,-111.8541437,"1038 W Southern Ave, Ste 1",4.780281690140845,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+568,WvJNkHE_hcg8Hu8Ffz_Klw,Golden Donuts,33.379036569,-111.873990856,1818 W Baseline Rd,4.564516129032258,MESA,1,,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+569,RlPiIdIdZWZXTWfSxCKrww,Hungry Howie's Pizza,33.450438899999995,-111.80490640000001,"1863 N Stapley Dr Ste 102, Ste 102",2.3,MESA,0,very_loud,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+570,yRLEsYBSKfBpCQgcPsatCw,Rosatis Pizza,33.3772135,-111.85838829999999,2057 S Alma School Rd,2.75,MESA,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+571,fT4dLA7SSqwX_FmXqW5oRQ,Two Hippie Beach House,33.3783069,-111.8611821,1245 N Baseline Rd,4.235294117647059,MESA,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+572,15YuEFO59yXd7BTO5NZgYw,Vito's Pizza & Italian Ristorante,33.4509853,-111.77026950000001,1947 N Lindsay Rd,3.8863636363636362,MESA,1,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+573,taXKuFldSoerm9SXrckh_w,Green Tea Bistro,33.363785,-111.861305,"1309 W Guadalupe Rd, Ste 5",4.1568627450980395,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+574,MP9QXuNTmxmYc39DqI4DYw,MAD Greens - Mesa,33.380087800000005,-111.7546369,"1940 S Val Vista Rd, Ste 101",3.725,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,1
+575,z0NImASe6DNDREiIt8NF-Q,Native Grill & Wings,33.387816432600005,-111.78667919700001,1559 S. Gilbert Road,2.4903846153846154,MESA,0,average,,False,False,False,False,False,0,1,0,0,0,0,0,0,0,0
+576,Sr-DO1Nt8X4I4Pjxapwz-g,Board & Batten,33.4701072,-111.74219840000002,4012 E Palm St,4.754098360655738,MESA,1,quiet,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+577,3Ou9p4zIJg4utQh7MDgKFg,Panda Express,33.393860600000004,-111.804864,1210 E Southern Ave,2.074074074074074,MESA,0,very_loud,,False,False,False,False,False,0,0,0,0,0,1,0,1,0,0
+578,N9noZs9OIQLF2F9TzI_ukQ,Jade House,33.365881099999996,-111.8586047,2711 S Alma School Rd,3.2264150943396226,MESA,0,quiet,,False,False,,False,False,0,0,0,0,0,1,0,0,0,0
+579,jXjglUcr2bDKdoV4lxnJ8A,Benjarong Thai Restaurant,33.3889034,-111.84031270000001,1440 S Country Club Dr,3.7,MESA,0,,,False,False,,False,False,0,0,0,0,0,0,1,0,0,0
+580,j5vOCZEmyEvZa9QBvoUUcQ,Capriotti's Sandwich Shop,33.379629,-111.755457,"3510 E Baseline Rd, Ste 101",3.443396226415094,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+581,x5iQFVJkFl7fSXC6uVjwPw,Matta's Mexican Grill,33.4357539,-111.7185719,1105 N Higley Rd,2.987012987012987,MESA,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+582,ClLRnbf39ghdMM08cVnUNA,BullPen Bar n Grill,33.3749756,-111.6871525,"2235 S Power Rd, Ste 127",2.5964912280701755,MESA,0,very_loud,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+583,EryvpcMxoaOr_BnQVMqQIg,Salsa Cabana Mexican Grill,33.4391409,-111.73620020000001,1309 N Greenfield Rd,4.275510204081633,MESA,1,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+584,zP05w3gjD30Gi9-SCIy2DA,Pho Leo,33.4157124506,-111.793541014,"1734 East Main St, Ste 5",4.5625,MESA,1,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+585,lqfuUf0rybIcy0fyUOhWVg,Loretos Mexican Food,33.4163326,-111.6976866,6144 E Main St,4.269230769230769,MESA,0,average,,False,False,False,False,False,1,0,0,0,0,0,0,0,0,0
+586,tV5PcOIFlB12dpcbCy78VA,India Oven,33.3916092,-111.787729,1315 S Gilbert Rd,4.373996789727127,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+587,B1tsu2zSVlY_g1QS-z4ILg,Pink Pepper Asian Fusion,33.3629395,-111.87528229999998,"1941 W Guadalupe Rd, Ste 105",4.706896551724138,MESA,1,quiet,,False,False,True,False,False,0,0,0,0,0,1,1,0,0,0
+588,4HGVxC-zIeQnR1CsD9GePQ,Tutti Santi Ristorante Italiano,33.3629354,-111.8741736,"1859 W Guadalupe Rd, Ste 101",3.810810810810811,MESA,0,average,False,False,False,,False,False,0,0,1,0,0,0,0,0,0,0
+589,Ouh38adC9WbCRSSyYGtL3Q,Margaritas Grill,33.415424,-111.831961,10 W Main St,2.831932773109244,MESA,0,average,,False,False,True,False,False,1,0,0,0,1,0,0,0,0,0
+590,BteFoOWR-onj3Wh9hN_76A,Dobson's Restaurant,33.3751825,-111.87823390000001,2155 S Dobson Rd,3.8333333333333335,MESA,0,,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+591,TrqCUT9150lXfgN8JXRP7g,LongHorn Steakhouse,33.3885038,-111.8577942,1434 S Alma School Rd,3.4027777777777777,MESA,1,average,,False,False,True,False,False,0,1,0,0,1,0,0,0,0,0
+592,v_6nTF9bTkDcsh1dLnELMA,BT'z Sports Bar,33.452096600000004,-111.6829159,2015 N Power Rd,3.283333333333333,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+593,5v40NaLVbgvuGihm4ECJ0g,Bar Tepo,33.3859602,-111.75379699999999,1625 S Val Vista Drive,2.6666666666666665,MESA,0,,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+594,zNIogTJeIB3O6aMcCmQDVA,Chevys Fresh Mex,33.3905538,-111.8571446,1335 S Alma School Rd,3.3076923076923075,MESA,0,average,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+595,59yp2szUdGsSEmcG0tLnIA,Road House Cafe,33.3996663,-111.6332808,,3.0,MESA,0,very_loud,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+596,NxZt-j74NpvIU5hdb2KJTA,Pizza Hut,33.4507623,-111.77261329999999,"2727 E McKellips Rd, Ste 106",2.142857142857143,MESA,0,quiet,,False,False,,False,False,0,0,1,0,0,0,0,1,0,0
+597,LLWOrt8Vo5kyA9qeo-Y76g,Moreno's Mexican Grill,33.408187100000006,-111.81457490000001,760 E Broadway Rd,3.8815789473684212,MESA,1,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+598,lLindjep86GA3PeKMl55Og,Carl's Jr.,33.4518761,-111.84022639999999,2002 N Country Club Dr,1.6153846153846154,MESA,0,,,,,True,,,1,0,0,0,0,0,0,1,0,0
+599,ZI6CBpptCb1Nw-udZ8wonw,Pizza Hut,33.417347,-111.78863700000001,60 N Gilbert Rd,1.3333333333333333,MESA,0,average,,,,,,,0,0,0,0,0,0,0,0,0,0
+600,FwSiazvHT_BuGYGz5dMt0w,Zuni Grill,33.388131300000005,-111.8538436,1011 W Holmes Ave,3.75,MESA,0,average,,False,False,False,False,False,0,1,0,0,0,0,0,0,0,0
+601,RZNqyKU9b0DWohU50w9LZg,Old Country Buffet,33.3932989,-111.68871100000001,6625 E Southern Ave,2.8780487804878048,MESA,0,average,,False,False,True,False,True,0,1,0,0,0,0,0,0,0,0
+602,pRitNmkahcveSE9XsoEdMw,Wingstop,33.3924816512,-111.863006525,"1457 W Southern Ave, Ste A-8",4.8,MESA,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+603,YrtAT1B8aFp5dKNss1ICbw,Sekai Sushi,33.3966967,-111.7867818,1017 S Gilbert Rd,3.954198473282443,MESA,1,average,,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+604,pmwqeV4NKXCR_Xv0TE1Kcw,Bin 68 Wine & Tapas Cafe,33.3850134,-111.6873703,6638 E Superstition Springs Blvd,3.0,MESA,0,quiet,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+605,-sAfscV-SWC278qqCNxraQ,Mesa Community Family Restaurant,33.4252630602,-111.839565709,535 N Country Club Dr,2.933333333333333,MESA,0,quiet,,False,False,True,False,False,1,1,0,0,0,0,0,0,0,0
+606,g9CkaSV302relUaOnXczyA,McDonald's,33.3204251222,-111.686389446,5255 S Power Rd,2.217391304347826,MESA,0,,,,,True,,,0,0,0,0,0,0,0,1,0,0
+607,_S1vq2OmS5YL5pdb-EF8vw,Chuck E Cheese's,33.3988056,-111.85754469999999,856 S Alma School Rd,2.5,MESA,0,loud,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+608,fi-cvgNbAWUwyeJwM7fwgA,Red Mountain Cafe,33.4239769,-111.7357131,"4410 E University Dr, Ste 106",3.6597938144329896,MESA,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+609,nlwomMElt7sDwF_njfEEIw,Ah-So Teppanyaki & Sushi House of Japan,33.380086,-111.787866,1919 S Gilbert Rd,3.4523809523809526,MESA,0,average,,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+610,trMrmg0EKcxEYAkqLBbRMA,Piggly's At the Fair,33.38449,-111.80411000000001,1633 S Stapley Dr,3.05,MESA,0,average,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+611,pYqP8GnTG8oxj4G2cxx7xQ,Qdoba Mexican Grill,33.3809648,-111.8402013,1855 S Country Club Dr,3.0,MESA,0,,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+612,DT35ycaAVzbq83vVGRCoIQ,Cafe Zupas,33.379618,-111.75704499999999,"3420 E Baseline Rd, Ste 107",3.869158878504673,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+613,fM-TCJ4LlV0tLCyxtaChdw,In-N-Out Burger,33.3816979,-111.5996795,1859 S Signal Butte Rd,4.078125,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+614,9rCln1IgnAqDVYUXmlaY1w,5 Star BBQ & Grill,33.418815,-111.840378,154 N Country Club Dr,3.84,MESA,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+615,LrBDBaGfONR7Kmg8sG38dA,Hacienda De Rosa's Restaurante,33.450829999999996,-111.76328600000001,3129 E McKellips Rd,3.024193548387097,MESA,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+616,VtgFuz3LXsrGB-SzPSQbDg,Jalapeño Buck's,33.4792917767,-111.75320241600001,3434 N Val Vista Dr,4.590163934426229,MESA,1,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+617,azu7ayb7kuQAhpNXjS4M2A,Jersey Mike's Subs,33.380700399999995,-111.75340049999998,1939 S Val Vista Dr,3.0714285714285716,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+618,Ib2KnJRLp-PtyVk6dAatmg,Kruzin Cuisine,33.462175099999996,-111.74616950000001,"3035 N Maple, Unit 1",4.5,MESA,0,,,,,False,,,0,1,0,0,0,0,0,0,0,0
+619,vUUNM7RISc-51Tqx8JzRRQ,El Pollo Loco,33.4339766,-111.865854,949 N Dobson Rd,2.6578947368421053,MESA,0,loud,,False,False,True,False,False,1,0,0,0,0,0,0,1,0,0
+620,SFyQhFEbmRMCJO_Sc_pyXA,The Draft Sports Grill,33.3908326,-111.85569579999999,"1130 W Grove Ave, Ste 106",4.015151515151516,MESA,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+621,uudgwwFZhdWG8CVvmNsGdg,Boeing Aramark Cafeteria,33.4717787,-111.7244135,5000 E McDowell,1.3333333333333333,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+622,bI9_dtXS9qN0Gmi7YbRm5g,MVPita Mediterranean Grill,33.4357051523,-111.684913225,"1066 N Power Rd, Ste 103",4.653968253968254,MESA,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,1,0,1
+623,4byJn6eBAZmkPO8A8Vtxlw,Einstein Bros,33.3801732,-111.78768649999999,1919 S Gilbert Rd,2.2549019607843137,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+624,DfCQhke2ZcaYEUr119O6BA,Talo's Mexican Food,33.378238645,-111.599390991,10861 E Baseline Rd,3.625,MESA,0,,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+625,tnG4_L5bZiffTbaFru9EBg,Princess Mediterranean Market & Deli,33.407996999999995,-111.88789799999999,2620 W Broadway Rd,4.549079754601227,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+626,FqmjFD5UvXz3a_cjm8Unsw,Dairy Queen,33.390567,-111.6903269,"6555 E Southern Ave, Ste 2514",2.3333333333333335,MESA,0,quiet,,,,,,,0,0,0,0,0,0,0,1,0,0
+627,RKV80Bg4ZxVFQXkWDfuYCA,On the Border Mexican Grill & Cantina,33.3833893,-111.8055186,1665 S Stapley Dr,2.3333333333333335,MESA,0,,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+628,heShcmma09uAfwU6yStMjg,Pizza Hut,33.3939286,-111.8413777,"1140 S Country Club Dr, Ste 110",2.2,MESA,0,,,,,,,,0,0,1,0,0,0,0,0,0,0
+629,aRfbdokghfAtpvos_GBk2Q,Crazy Buffet,33.380038899999995,-111.8070834,1859 S Stapley Dr,3.0,MESA,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+630,K5iFoFNnV0o5GbaSp8d38g,Two Seasons Cafe,33.4155576912,-111.69475525600001,6320 E Main St,5.0,MESA,1,quiet,,False,False,,False,True,0,0,0,0,0,0,0,0,0,0
+631,6G0w6rSvl964Lt8qumF3hA,Com Tam Thuan Kieu,33.4133505,-111.8759922,"66 S Dobson Rd, Ste 141",3.9915254237288136,MESA,1,average,,False,False,True,False,False,0,1,0,0,1,0,0,0,0,0
+632,YM0eGFRw4Sio8qBlcIYFoA,Cruisers,33.4081276,-111.7895074,1942 E Broadway Rd,4.1,MESA,0,average,,False,False,,False,False,0,0,0,0,0,0,0,1,0,0
+633,aeYMUiOTCwHA6xDsZgUmcg,Oma's Place,33.394439299999995,-111.8541615,1038 W Southern Ave,4.777777777777778,MESA,1,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+634,UzjCvrNuK4crxi0IS9Jp5A,Maya New York Pizza Bar,33.434384,-111.82608400000001,223 E Brown Rd,2.8526315789473684,MESA,0,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+635,9R4cc0f_sM4V1eT3qBGyUw,Charleys Philly Steaks,33.393886,-111.68981000000001,6555 E Southern Ave,3.3333333333333335,MESA,0,,,,,False,,,0,0,0,0,0,0,0,0,0,0
+636,U3TUTWRqbW9WeLeWMxi2tw,Heng's Kitchen,33.4133505,-111.8759922,"66 S Dobson Rd, Ste 127",4.186046511627907,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+637,ebL8hN0iieaa3rClnDfLlw,Thai Chili 2 Go,33.3257131,-111.6874531,"4984 S Power Rd, Ste 101",3.782178217821782,MESA,1,average,,False,False,True,False,True,0,0,0,0,0,0,1,0,0,0
+638,xZeMt4Vg-P9PTyLgCe5phg,Bellagio Pizzeria,33.451236,-111.73215,"4545 E Mckellips Rd, Ste 103",3.2758620689655173,MESA,0,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+639,j5WF4YpU72tTh39GYETFxg,Papa Murphy's,33.364876109099995,-111.60364531,"2748 S Signal Butte Rd, Suite 105",4.2,MESA,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+640,mEFYW1435KepKLSBcpXkjA,Jack in the Box,33.395303000000006,-111.753355,1105 S Val Vista Dr,3.0,MESA,0,,,False,False,False,False,False,0,0,0,0,0,0,0,1,0,0
+641,O4lGWwE978nAuZQc8ELvgw,Raising Cane's Chicken Fingers,33.381040000000006,-111.74010790000001,1930 S  Greenfield Rd,3.411764705882353,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+642,g4VsFPvLu17iPmARzlEdXQ,Wingstop,33.3849484,-111.8068259,1616 S Stapley Dr,2.849056603773585,MESA,0,quiet,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+643,xYfE1-KKb4Wd9KZAFS4Xgw,Tilted Kilt Pub & Eatery,33.3805696,-111.78881129999999,1910 S. Gilbert Rd.,3.108108108108108,MESA,0,loud,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+644,NlO-h5Dz1P9A8v1bxorbjw,Jalisience Mexican Food,33.408094,-111.8735183,1948 W Broadway Rd,3.6363636363636362,MESA,0,quiet,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+645,BS2nj4dQKvC5oi6ikKvX0A,Korean BBQ,33.3658002784,-111.857758621,"2711 S Alma School Rd, Ste 14",3.1538461538461537,MESA,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+646,1Q812VI7asWrVxtq3BxJiw,Barro's Pizza,33.365881099999996,-111.8586047,2711 S Alma School Rd,3.6153846153846154,MESA,0,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+647,6nmlclYyyLyH5EGLUpsmjw,Dutch Donut Factory,33.4366583,-111.6849761,"1152 N Power Rd, Ste 106",4.715909090909091,MESA,1,,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+648,7ZAQHYwS4SlY2nDkQF54tQ,Sweet Cakes Café,33.4148224,-111.83230400000001,21 W Main St,3.6788990825688073,MESA,1,average,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+649,u3Aeu8v8nnTdIdZHmMK6HQ,Yee-haws,33.423805,-111.73578899999998,4410 E University Dr,4.333333333333333,MESA,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+650,N0XLFVLBqOhRAOMjTVlpzQ,Sonic,33.4372357,-111.74401100000001,4055 E Brown Rd,1.125,MESA,0,quiet,,,,True,,,0,1,0,0,0,0,0,1,0,0
+651,TF9hBlNNJYWrPntt5g1lFg,Dori's Bakery,33.363207,-111.86113600000002,"1305 W Guadalupe Rd, Ste E-3",4.258064516129032,MESA,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+652,_IZyyv0dFfpIy_rI_-nwTQ,Osaka Japanese Steakhouse,33.3857159,-111.6860775,6730 E Superstition Springs Blvd,4.099431818181818,MESA,1,average,,False,False,True,False,False,0,1,0,1,0,0,0,0,0,0
+653,sGC8F-DzJdL1x-pFBnLcvQ,Sonic Drive-In,33.361298600000005,-111.8765459,2935 S Dobson Rd,1.625,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,1,0,0
+654,DhRJJ5aUUuBp3XR1JbLeuw,Sauce Pizza and Wine,33.3811254605,-111.756963466,"3426 E Baseline Rd, Ste 119",3.847682119205298,MESA,1,average,,False,False,False,False,False,0,0,1,0,0,0,0,0,0,0
+655,x3ununfxiaXPT5NcgtHRUw,Mafia Mike's PIzza,33.436419300000004,-111.83970479999999,1211 N Country Club,2.4444444444444446,MESA,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+656,hNv6E08TzL4h8rITgRbzCw,Pho Mesa,33.405652,-111.87524599999999,502 S Dobson Rd,3.0,MESA,0,,False,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+657,R0gfUYIiC5MlLxGjRcYifw,Zita Mediterranean Eatery,33.383932,-111.6849409,Superstition Springs Blvd,2.7142857142857144,MESA,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+658,kep1dCAHZydfHVgjmxl5Bg,Subway,33.3257131,-111.6874531,4984 S Power Rd,1.0,MESA,0,,,False,False,,False,False,0,0,0,0,0,0,0,1,0,0
+659,mGriYfWJcLJGjkuqr0a5OA,Los Favoritos,33.3185013453,-111.68632556799999,"5351 S Power Rd, Ste 105",4.3,MESA,0,,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+660,37n2MtSu1Xe8j1ci8jd-0g,Habanero Mexican Food,33.3906732666,-111.689858752,"6555 E Southern Ave, Fl 2, Ste 2006",4.1,MESA,0,,,,,,,,1,0,0,0,0,0,0,1,0,0
+661,qArjNgZbqgosg5zpguhrgg,Mariscos Cazo de Oro,33.4155244,-111.80946340000001,1002 E Main St,4.333333333333333,MESA,0,quiet,,False,False,True,False,False,0,0,0,0,1,0,0,0,0,0
+662,RdVX4a_uTs007XC3rmofTA,1360 West Grill,33.394484000000006,-111.86148700000001,1360 W Southern Ave,5.0,MESA,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+663,eEfDS8JjpUOoslhJDIbltA,Jimmy and Joe's Pizzeria,33.378843800000006,-111.8771821,1960 W Baseline Rd,2.982142857142857,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+664,iVjdx8diR4cKvtqjcINQ7A,Redline Pizzeria,33.4013012,-111.8559375,753 S Alma School Rd,2.55,MESA,0,average,,False,False,False,False,False,0,0,1,0,0,0,0,0,0,0
+665,ujHQ56fLyqwAGHljUy1mCw,Geno's Pizza & Cheesesteaks,33.377515166900004,-111.61980599600001,9937 E Baseline Rd,2.2,MESA,0,,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+666,1tFY0vj7pT-r2wVBBBrOOA,KFC,33.4371,-111.71700000000001,5249 E Brown Rd,1.1153846153846154,MESA,0,average,,False,False,False,False,False,0,0,0,0,0,0,0,1,0,0
+667,F-ShCqyx2QBgaBQltToMPQ,Chuy's Mesquite Broiler,33.4521126,-111.78887040000001,1948 E McKellips Rd,1.6666666666666667,MESA,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+668,pnYsk9eW1FMxqWQWLdDZeA,Mardenelys Ristorante,33.4349623,-111.8261082,223 E Brown Rd,4.2,MESA,0,,,False,False,,False,False,0,0,1,0,0,0,0,0,0,0
+669,t4P-8drZzj3TMwA_WU-4Zg,Fu Sheng,33.4159841883,-111.725595295,4906 E Main St,3.761904761904762,MESA,0,,,False,False,True,False,False,0,0,0,0,1,1,0,0,0,0
+670,wRx4bvyRc7-jHhs2NmrocQ,Taco 4U Mexican Food,33.3921534,-111.7179959,"1239 S Higley Rd, Ste 101",2.911111111111111,MESA,0,average,,True,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+671,nJNukcrwL5CmCXviiJvcBw,Jimbo's Good Times Grill,33.4157036,-111.6995673,6102 E Main St,3.5,MESA,0,very_loud,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+672,xAxdrUpIVOvxl0wjp45w6A,Roma Cafe Ristorante,33.415692,-111.6739568,7210 E Main St,3.892857142857143,MESA,1,quiet,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+673,U7rDYiB8jyjtb0qYPRIWaw,Souper Salad,33.39038660000001,-111.68191829999999,6910 E Hampton,2.7045454545454546,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+674,dFArFtgDj1rIahUDHU8L7Q,Outback Steakhouse,33.3856312,-111.6791041,1650 S Clearview Ave,2.855855855855856,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+675,f75DXY1ODiLCNASwaFCqfg,Wendy's,33.3936042786,-111.59949493399999,10714 E Southern Ave,1.0769230769230769,MESA,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,1,0,0
+676,jUgOZAXqeayxxXK-2Kgasw,Chinese Dim Sum,33.3891792297,-111.86052703899999,"1445 W Southern Ave, Ste 2114",3.6,MESA,0,,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+677,R-sEoZXf37pGzLnid7s6wA,Taquitos Jalisco,33.407821000000006,-111.854055,1052 W Broadway Rd,4.395498392282958,MESA,1,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+678,JtjXRSvLtZhWeCcZ5aJeZA,Cindy's Arizona Cafe,33.4514695,-111.82906940000001,124 E McKellips Rd,3.6,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+679,r6cTbsmg4MhdHJnKWwefVw,Crackers & Co Cafe,33.439745699999996,-111.73581370000001,"1325 N Greenfield Rd, Ste 101",3.8636363636363638,MESA,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+680,EtZacHzJ2gw0V9Sdm2rLQA,George's Gyros,33.4198793,-111.8394439,205 N Country Club Dr,4.27972027972028,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+681,qUxkVp9PInnds_UruVPiog,Cafe Laguna,33.375057,-111.687177,"2235 S Power Rd, Ste 120",3.888888888888889,MESA,0,,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+682,oe70Wgf1Fx_PcyS_Wb86PA,Cafe Azul,33.4202305748,-111.828472428,200 N Centennial Way,2.9444444444444446,MESA,0,quiet,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+683,qcDMMcAYuGRT5iyic1pIbw,Pizza Hut,33.406940500000005,-111.77408700000001,"2639 E Broadway Rd, Ste 104",2.0,MESA,0,quiet,,,,False,,,0,0,1,0,0,0,0,0,0,0
+684,X4umyF5BPas6qgMXm2XKmA,Glady's Restaurante Salvadoreño,33.3885345,-111.8393416,"1423 Country Club Dr, Ste 1",4.4375,MESA,1,average,,False,False,False,True,True,0,1,0,0,0,0,0,0,0,0
+685,SieL_rcBX-azp4bDLMfO9w,Coco's Family Restaurant,33.390052600000004,-111.68392649999998,1411 S Power Rd,2.5185185185185186,MESA,0,quiet,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+686,kq69Uy8he-mnuCCSgGEcuw,Firehouse Subs,33.4508692,-111.77261770000001,"2727 E McKellips Rd, Ste 114",3.774193548387097,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+687,wyMu0pbOTpZZ297fwIrEEQ,Restaurant Fiesta Bar And Grill,33.3839669,-111.87549340000001,1644 S Dobson Rd,5.0,MESA,1,,,,,,,,1,1,0,0,0,0,0,0,0,0
+688,UlGwSAqsPzi-al84UNONdA,Fry Bread House East,33.3796635,-111.8756759,"1916 W Baseline Rd, Ste 10",4.043956043956044,MESA,1,quiet,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+689,MJIZthCsaL5COrwepEYCdA,Paradise Bakery,33.380421399999996,-111.6362619,Dana Park,4.666666666666667,MESA,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+690,WNXO0rPugvgE5ljccYL7MQ,Riliberto's Fresh Mexican Food,33.3932215965,-111.787217036,2033 E Southern Ave,3.7666666666666666,MESA,0,quiet,,False,False,True,False,False,1,0,0,0,0,0,0,1,0,0
+691,yHHVKa9joZAKiBDUp2SkKw,Volstead Public House,33.4147963,-111.83449399999999,105 W Main St,4.162162162162162,MESA,1,average,,False,False,True,False,True,0,0,0,0,0,0,0,0,1,1
+692,LALkDF_lWDMZPjrmIeIVaw,Del Taco,33.4637387289,-111.683398795,2645 N Power Rd,2.8947368421052633,MESA,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,1,0,0
+693,5UxcmqN8MT7Pzkh32qdPNQ,McDonalds # 2514,33.3782005,-111.63558710000001,2035 S Ellsworth Rd,1.0,MESA,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+694,mJ0CA86roChYwaDkDxFGwg,Papa John's Pizza,33.4329421387,-111.84371100000001,"1225 W Main St, Ste 110",3.2857142857142856,MESA,0,,,,,,,,0,0,0,0,0,0,0,1,0,0
+695,Z-graJvcYCSOGWRs3bDzLQ,Old Chicago,33.384742100000004,-111.85784850000002,1656 S Alma School Rd,3.442953020134228,MESA,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+696,A7gVn077Eb2B-yIKunLVpw,Whataburger,33.4071263873,-111.87349498299999,1947 W Broadway Rd,3.4594594594594597,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,1,0,0
+697,miySsDV_1YKS3EqqGwblQQ,Thai Plates Cuisine,33.4096405,-111.68444950000001,319 S Power Rd,4.629213483146067,MESA,1,quiet,,False,False,True,False,False,0,0,0,0,0,0,1,0,0,0
+698,lTKr5J4nqepyOpOw8auErA,Pho Hien,33.4058218,-111.8752398,"502 South Dobson Rd, Ste 3",4.0,MESA,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+699,5AuwZcLcGIpe1yhSKgSwlw,Phu Thanh,33.3937017,-111.8493508,"830 W Southern Ave, Ste 1",4.022222222222222,MESA,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+700,UywPvignjHoj8ipT7l2OFw,Urban Picnic,33.4154308,-111.8374321,218 W Main St,4.017857142857143,MESA,1,average,,False,False,True,False,True,0,1,0,0,0,0,0,0,1,0
+701,WQAaGMguMmnxQdgMeEFY9g,Little Caesar's Pizza,33.4363934,-111.8153351,730 E Brown Rd,3.4444444444444446,MESA,0,,,,,,,,0,0,0,0,0,0,0,1,0,0
+702,QtLjlLDBLHN52WXQjN_-WA,Little Caesars Pizza,33.3934403,-111.8770178,"2110 West Southern Ave, Ste A",3.4,MESA,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+703,_8URoVfDFkJtuAM53sNyLQ,Waffle House,33.3885345,-111.8393416,"1423 S Country Club Dr, Ste 1",2.25,MESA,0,,,False,False,,False,False,0,0,0,0,0,0,0,1,0,0
+704,6CZGwCpnuLTqqR8SURdw5A,Taco Bell,33.43063,-111.87428999999999,917 N. Dobson Rd.,3.6363636363636362,MESA,0,,,,,False,,,1,0,0,0,0,0,0,1,0,0
+705,e8wPL-2r2F6-7ucb_VOilA,Jimmy John's,33.467116499999996,-111.68247659999999,"2831 N Power Rd, Ste 101",2.235294117647059,MESA,0,,,,,True,,,0,0,0,0,0,0,0,0,0,0
+706,BhB_WwI0TUdacBefXxhGgA,Filibertos,33.4152355,-111.69407679999999,6339 E Main St,3.5714285714285716,MESA,0,quiet,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+707,jnm4Z4ZjCAvDGV6IWnv0Xw,Panera Bread,33.3802398,-111.6026369,1946 South Signal Butte Rd,2.4716981132075473,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+708,4xfYFf__ushFQKncEdSZ0g,Applebee's Neighborhood Grill & Bar,33.3772725,-111.85908899999998,2053 S Alma School Rd,2.903225806451613,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+709,cZgN81lyVLT-Lc-Tm0Jf2g,Mr. Pizza,33.4226881,-111.7729466,2706 E University Dr,3.75,MESA,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+710,B5E_Qp3R1q0oRlzbYaWIkQ,5 R Cha Thai Bistro,33.4521677,-111.7008405,2011 N Recker Rd,3.95,MESA,1,quiet,,False,False,True,False,False,0,0,0,0,0,0,1,0,0,0
+711,ac81NKKaA0Wda9TjOQbjkA,Ub's Restaurant & Bar,33.4071407,-111.87253,"1911 W Broadway Rd, Ste 1",3.0,MESA,0,,,,,,,,0,1,0,0,0,0,0,0,0,0
+712,A8UtlAQem2hPDe-UfsvndQ,Baby Kay's Cajun Kitchen,33.3765345,-111.8778341,"2051 S Dobson Rd, Ste 18",4.386363636363637,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+713,epyhvtf5JH5sAJggINVglg,"J&B's Pizza, BBQ And Deli",33.4081202,-111.61581100000001,9950 E Broadway Rd,5.0,MESA,1,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+714,eurb6L87Fz4icVdbMdQnkA,Pho Bamboo,33.413244,-111.87357970000001,"1933 W Main St, Ste 8",2.6769230769230767,MESA,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+715,vMnB2Cz3c1Io1IEyeLLVOA,Tum Nak Thai,33.3779891872,-111.689758301,"2060 S Power Rd, Ste 102",4.1893939393939394,MESA,1,quiet,,False,False,True,False,False,0,0,0,0,0,0,1,0,0,0
+716,Os1NdWfFCpz9FWa4gDOLRw,Oregano's Pizza Bistro,33.3833139794,-111.683902804,6821 E Superstition Springs Blvd,4.103448275862069,MESA,1,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+717,U05TASwKPZ-BWe5GWekUlw,Freddy's Frozen Custard & Steakburgers,33.3904021,-111.68366840000002,6846 E Hampton Rd,3.6,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+718,L0efPRMk5nO99cJ3yj7Pvw,Rocco's Famous Philly,33.394455094499996,-111.71860642200001,1155 S Higley Rd,2.763157894736842,MESA,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+719,nJGYRnhd-yKZqjQqlFck0Q,Piece Out Pizza,33.378413099999996,-111.8722511,1731 W Baseline Rd,3.3846153846153846,MESA,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+720,oxvHGYrZO15HfNuIvrMuuQ,Saguaro Lake Marina,33.57376179999999,-111.5376716,14011 N Bush Hwy,3.5625,MESA,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+721,QwAJZuJTo36OAj6DJxz14g,The VUE at Augusta Ranch,33.3718656,-111.6314222,2401 S Lansing,4.072164948453608,MESA,1,average,,False,False,True,False,False,1,1,0,0,0,0,0,0,0,0
+722,jqlxOzP3SDGKvPIK-9CwBA,Panda Express,33.3254085,-111.68714109999999,4984 S Power Rd,1.0,MESA,0,,,,,,,,0,0,0,0,0,1,0,0,0,0
+723,u3NZBeTnyP09o2k2paIlCw,DA Milewski Household Cleaning,33.3951613,-111.70184520000001,,2.5,MESA,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+724,9SS3ERbWcYDEzxfs9KxRbA,Taco Bell,33.435432,-111.720031,1148 N Higley Rd,2.6363636363636362,MESA,0,,,False,False,,False,False,1,0,0,0,0,0,0,1,0,0
+725,z9KxcVoe6tQGyB_Zy0Umcg,MV Snacks & Sushi,33.4157507906,-111.799099557,1468 E Main St,4.2727272727272725,MESA,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+726,mgeLg8MBRnfvtGZanl7mUw,Carl's Jr.,33.4511218,-111.7340145,4515 E McKellips Rd,1.6,MESA,0,very_loud,,,,False,,,0,0,0,0,0,0,0,1,0,0
+727,sKy8HkP6X-8dCKq_SzeIpw,Queens Pizzeria,33.414710008,-111.835190021,127 W Main St,3.449781659388646,MESA,1,average,,False,False,True,False,True,0,0,1,0,0,0,0,0,0,0
+728,PEB5GVYIbCgy4g91QYQ-tA,Best Dressed Dog,33.4525494,-111.76742820000001,,3.6666666666666665,MESA,0,,,,,True,,,0,0,0,0,0,0,0,0,0,0
+729,17WMhO7Ygx-T9agjoD6Znw,Famous Sam's Restaurant & Sports Bar,33.379574,-111.772697,2730 E Baseline Rd,2.3333333333333335,MESA,0,loud,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+730,eTPKPzuA46lFpiU1wB7fVg,La Cucina Di Venti,33.434384,-111.82608400000001,223 E Brown Rd,2.923076923076923,MESA,0,quiet,,False,False,,False,False,0,0,1,0,0,0,0,0,0,0
+731,hpvHHl_f4PHk0gc1qcg5qQ,California Pizza Kitchen,33.381225,-111.7544543,1850 S Val Vista Dr,2.8974358974358974,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+732,x_8nHm0P_F62SrZ2enrwTA,Planet Sub Mesa-Grand,33.3846183,-111.80282120000001,"1641 S Stapley Dr, Ste 101",4.6,MESA,0,quiet,,False,False,True,False,False,0,0,0,0,1,0,0,0,0,0
+733,6bXoyIgBNe9WuDSRZGWfag,The Gala Apple,33.3780246,-111.6862872,"2055 S Power Rd, Ste 1065, Creative Ice Cream And Events",4.428571428571429,MESA,0,,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+734,2XTHIR2Fza2XiC54NWiNZg,Panda Express,33.4494697,-111.7349063,4425 E Mckellips Rd,1.875,MESA,0,,,,,False,,,0,0,0,0,0,1,0,1,0,0
+735,2hK5Cvo2JixFv2_neenrMQ,Com Ga Hai Nam,33.378035700000005,-111.87232240000002,Mekong Plz,4.375,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+736,C3vERlSyOOUKL6Wt56G04g,Palee's Crown,33.37831,-111.861418,"1245 W Baseline Rd, Ste 101",4.15,MESA,1,quiet,,False,False,,False,False,0,0,0,0,0,0,1,0,0,0
+737,ps7N38HdTeqRnWxNYcaYWw,Thai Basil,33.378138899999996,-111.86138020000001,"1245 W Baseline Rd, Ste 101",3.6956521739130435,MESA,0,quiet,,False,False,,False,False,0,0,0,0,0,0,1,0,0,0
+738,MhPYEJxc12CcQ4VdBCnyiQ,Rochester's Family Dining & Sports Bar,33.402147,-111.72631299999999,721 S Rochester,4.1,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+739,VG9bPoljSgIBe27yZBsryg,Paradise,33.4145839,-111.86919240000002,1749 W Main St,4.428571428571429,MESA,0,average,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+740,wctvZYbHAo8jufqAFQ457g,The Hub Grill and Bar,33.3816086,-111.80706770000002,1860 S Stapley Dr,3.6455696202531644,MESA,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+741,nfhSzru_fPiB2ZW5kiVxBw,Subway,33.3799806,-111.68721969999999,"1959 S Power Rd, Ste 106",2.5,MESA,0,average,,False,False,False,False,False,0,0,0,0,0,0,0,1,0,0
+742,3akSOcI-uzHOwGQeZD3NHg,Native Grill & Wings,33.435479,-111.824074,318 E. Brown Rd #112,3.6178861788617884,MESA,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+743,n19PRWMwlwMUBykbz1_ftg,Panda King's Buffet,33.4153049,-111.86917700000001,1744 W Main St,2.3846153846153846,MESA,0,quiet,,False,False,,False,False,0,0,0,0,0,1,0,0,0,0
+744,WkkuUaYjhfd8I5ckrrBSMg,El Pollo Loco,33.3846759,-111.6842084,1715 S Power Rd,2.433333333333333,MESA,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,1,0,0
+745,MG0Ek3-yxtprwzY5ruGxRA,Taco Bell,33.4512043326,-111.80452424299999,1215 E McKellips Rd,4.052631578947368,MESA,0,,,False,False,True,False,False,1,0,0,0,0,0,0,1,0,0
+746,KZaebYmt1Ewa6HDUuYbQpQ,Manila Sunrise Gourmet,33.3633210325,-111.87918570299999,2121 W Guadalupe Rd,3.2413793103448274,MESA,0,quiet,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+747,hFK8uBuuwZgyCMYAis60MA,Taco Bell,33.415549,-111.73560900000001,4444 East Main Street,2.6666666666666665,MESA,0,quiet,,False,False,,False,False,1,0,0,0,0,0,0,1,0,0
+748,qDOmZGSjF22RaaUYnePZWg,Golden Canyon Oriental,33.3940572,-111.8731242,1133 S Dobson Rd,3.5789473684210527,MESA,0,quiet,,False,False,False,False,False,0,0,0,0,0,1,0,0,0,0
+749,jacf-rpKO4HbytY4KS_A1Q,EVIT's Bistro 13,33.4143912501,-111.86082389200001,1353 W Main St,3.875,MESA,0,average,,False,False,True,False,False,0,1,1,0,0,0,0,0,0,0
+750,v5zzCmCf1L4Utjit12EMuQ,Rodizio Grill,33.382157899999996,-111.7544675,1840 S Val Vista Dr,3.5348837209302326,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+751,VoWWwSxOe7DwlWOrTIoM1g,Jimmy John's,33.4152336121,-111.82928466799999,68 E Main St,2.193548387096774,MESA,0,loud,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+752,FbMZ0N5iAicep5ssYLZB9w,Chens Chinese Restaurant,33.3781832,-111.63301820000001,9303 E Baseline Rd,3.338235294117647,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+753,5AajNPuScRYr_pM6QJYb6w,Taco Bell,33.3792,-111.7855,2160 Baseline Rd,2.5,MESA,0,average,,False,False,,False,False,1,0,0,0,0,0,0,1,0,0
+754,7_582HYkh5Ki9n5aWK8dmQ,Cicis,33.3969224245,-111.787811816,1011 S Gilbert Rd,2.04,MESA,0,average,,False,False,False,False,False,0,1,0,0,0,0,0,0,0,0
+755,sAu9UJ5tvY6sc9Q_gcVV7Q,La Parrilla Suiza,33.384316999999996,-111.80628100000001,1622 S Stapley Dr,3.3652694610778444,MESA,1,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+756,bcYfyI515Ji9RcMecDCl5A,Pizza Hut,33.4507689,-111.7008915,6017 East McKellips Rd,2.4,MESA,0,quiet,,False,False,True,False,False,0,0,1,0,0,0,0,1,0,0
+757,Z0JT0Ras-kMvJLMdn9iJQQ,Chili Rush,33.389246626900004,-111.841040207,"1440 S Country Club Dr, Ste 10",3.1,MESA,0,,,True,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+758,qNDqXNl38BYYn2JWcXw4OQ,Black Angus Steakhouse,33.390848999999996,-111.682547,6902 E Hampton Ave,3.111111111111111,MESA,0,quiet,,False,False,True,False,False,0,1,0,0,1,0,0,0,0,0
+759,qRqd8bXyAhjYAxisl5e8UQ,Schlotzsky's,33.382765,-111.84057790000001,408 W Juanita Ave,3.2244897959183674,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+760,EnOCjP3wBpoICvEZXil4Cg,Beijing Noodle House,33.389097899999996,-111.84124440000001,1440 S Country Club Dr,3.8556701030927836,MESA,1,quiet,,False,False,True,False,False,0,0,0,0,1,1,0,0,0,0
+761,uoZwJJaplLsktVrRw0JiQw,Pho Number One,33.377582000000004,-111.87701799999999,"1955 W Baseline Rd, Ste 114",3.8776978417266186,MESA,1,quiet,,False,False,True,False,False,0,0,0,0,0,0,1,0,0,0
+762,UYl1E89YKycpAKSDqLso_g,Linda's Hoosier Cafe,33.4231637291,-111.721655628,"5050 E University Dr, Ste 101",3.0869565217391304,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+763,qpBfYbkPmXIFWVQ7pLkQ_w,Olive Garden Italian Restaurant,33.3934973,-111.69726659999999,6201 E Southern Ave,2.9626168224299065,MESA,0,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+764,sHNqKLyr09fbaY2OvGaDVA,Rochester's Family Dining & Sports Bar,33.405121199999996,-111.6591031,500 S 80th St,1.6666666666666667,MESA,0,,,,,True,,,0,1,0,0,0,0,0,0,0,0
+765,M3imbOYGTvZTJzeJVvexPg,Franagan's Cafe,33.4145877,-111.6769616,7145 E Main St,3.727272727272727,MESA,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+766,4dw7ev_MWCgIlK3S2xJi-g,Haven Burgers,33.415557,-111.8180443,"606 E Main St, Ste 101",4.13375796178344,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+767,qiKUvyHkDNmmJkzo-BIaIA,Mi Amigo's Mexican Grill,33.391753,-111.78873700000001,1264 S Gilbert Rd,2.888888888888889,MESA,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+768,gsh-kcWxR7JHWxYEDXmS8Q,Little Caesar's Pizza,33.3798607,-111.6908605,"6610 E Baseline Rd, Ste 106",4.0,MESA,0,average,,,,True,,,0,0,1,0,0,0,0,0,0,0
+769,O85SFzter9loSIy6fHM9kA,Hungry Howie's Pizza,33.3947652,-111.61624199999999,"1116 S Crismon Rd, Ste 101",2.3333333333333335,MESA,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+770,whBcqr34XSx2NmWAYRp1Tg,Spirit's Bar & Grill,33.4150982,-111.6301393,9303 E Apache Trl,1.5714285714285714,MESA,0,very_loud,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+771,nrqN45BQyxDjXy2q3VdolA,Pizza Mart,33.4149375,-111.80270349999999,1329 E Main St,4.020833333333333,MESA,0,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+772,Ted-cvKJ7pojwy416PVRhw,Moreno's Mexican Grill,33.4154869,-111.68369369999999,6819 E Main St,3.490566037735849,MESA,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+773,mHPCB-9f8LYA6J1eZ31qAw,Hero's Sports Bar,33.4683,-111.682974,2855 N Power Rd,2.8,MESA,0,average,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+774,s5TJlFtdXcx_tXC4tlttlw,Thai Spices,33.412708,-111.875803,"66 S Dobson Rd, Ste 133",4.033222591362127,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,0,1,0,0,0
+775,nztjmkY4LZp18kviHIO7ow,China City Super Buffet,33.3749756,-111.6871525,"2235 S Power Rd, Ste 101",2.957983193277311,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+776,QdXe9IRVrISeqEAulHYBTQ,Sahara Express,33.388914542399995,-111.860944927,"1445 W Southern Ave, Space 2162",4.863636363636363,MESA,1,loud,,True,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+777,huMKC8Yns_l9kuyjjhx-dA,Panda Express,33.423339500000004,-111.78874679999998,1950 E University Dr,2.05,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,1,0,1,0,0
+778,LhIiQqDqygoaYCy2RZA82g,Azucar Cuban Restaurant,33.3889034,-111.84031270000001,1440 S Country Dr,3.5714285714285716,MESA,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+779,pF53YGjVeuAB-OtpVGtAgQ,Los Favoritos Mexican Food,33.4234709,-111.7733946,2650 E University Dr,3.5142857142857142,MESA,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+780,SYmlrGAfgHaKhHMn21y7Gw,Ned's Krazy Sub,33.450355,-111.78678149999999,1927 N Gilbert Rd,3.740740740740741,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+781,xY5uR_HCwkdAX3ZLkyjZZQ,Rosati's Pizza Sports Pub,33.4331241538,-111.868780844,"849 N Dobson Rd, Ste 112",2.9871794871794872,MESA,0,average,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+782,aoJQfrlu2btOR8GNpm8N8A,Spice Asian Bistro,33.385161,-111.6872749,"6638 E Superstition Springs Blvd, Ste 101",4.25,MESA,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+783,lVMsHJHxZKI1Wl6izAfJug,Henry's Private Kitchen,33.388529399999996,-111.84125470000001,"1440 S Country Club Dr, Ste 10",3.764705882352941,MESA,0,quiet,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+784,2SedpQ674XBqyw3Wq4kyxQ,McDonald's,33.3907892,-111.68533640000001,1350 S Power Rd,1.6470588235294117,MESA,0,loud,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+785,DV7ayUlg1YMJTcV6giVwHw,Smashburger,33.3897179672,-111.856844835,"1335 S Alma School Rd, Ste 103",3.6666666666666665,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+786,xTW5PkLEdMBs2f2W8RGy0g,Miele's Italian and Banquet Hall,33.3647941,-111.878391,"2050 W Guadalupe Rd, Ste 9",4.045977011494253,MESA,1,quiet,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+787,B8GKsrIRRLChyFioejPINg,.99 Cent Pizza Place,33.378392100000006,-111.8722465,1731 W Baseline Rd,4.125,MESA,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+788,fkfVkLnoPNgVddCy0A41yA,Krispy Kreme Doughnuts,33.4152664996,-111.874110738,1984 W Main St,2.5671641791044775,MESA,0,,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+789,WssZUiPMfcIcM7gdaySlZQ,McGrath's Fish House,33.3851413,-111.8061491,1610 S Stapley Dr,2.1538461538461537,MESA,0,,,False,False,,False,False,0,0,0,0,1,0,0,0,0,0
+790,KUFwCVmFjxiYSvhcJBqi8g,The Notorious P.I.G.,33.4001936,-111.80586310000001,816 S Staply Dr,2.5,MESA,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+791,w3RH9W99ZIKvw0Qgibdn4w,Ginger Zing,33.394911900000004,-111.7559719,"3460 E Southern Ave, Ste 109",4.086956521739131,MESA,1,,,False,False,True,False,True,0,0,0,0,0,1,0,0,0,0
+792,1phJezq7O9-rQRd9HJCqFg,Echo 5 Sports Pub,33.4682812,-111.683097,2855 N Power Rd,3.3529411764705883,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+793,K8Y6VomlTyMBZP-lEfI6qQ,Bagel Nosh,33.435149800000005,-111.7190439,"1112 N Higley Rd, Ste 101",3.309090909090909,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+794,-r-PA7uWXbpRPeuIZzO3bw,Village Inn,33.415171,-111.682493,6813 E Main St,3.0869565217391304,MESA,0,quiet,,False,False,False,False,False,0,1,0,0,0,0,0,0,0,0
+795,D2y7jMJiU5abpRicNpoCww,Starbucks,33.4165848044,-111.872781158,1960 W Main St,2.5,MESA,0,,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+796,h0ac6veyDcX5OsiQd5Y1Rw,Gus's New York Pizza & Bar Mesa,33.4522382964,-111.68291330299999,"2015 N  Power Rd, Ste 106",2.8,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+797,NYTe202AJmEynCj4STfRow,Tia Rosa's Taqueria,33.438446,-111.7356412,"1249 N Greenfield Rd, Ste 104",3.014705882352941,MESA,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+798,32utfLQ5CnaRxGXtEJ0aZA,Simpleton's,33.406778499999994,-111.7731047,"2639 E Broadway Rd, Ste 105",2.6333333333333333,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+799,QO11sjFi4HlqtOVZZ5abyQ,Sunny World,33.4159899,-111.7256221,4906 E Main St,3.4545454545454546,MESA,0,average,,False,False,,False,False,0,1,0,0,0,1,0,0,0,0
+800,R_U8YA_SVt_3z_f6_jEPtA,Panera Bread,33.3902978407,-111.689982973,6555 E Southern Ave,2.0,MESA,0,,,,,True,,,0,0,0,0,0,0,0,0,0,0
+801,vgOzBujwf-bnvlG03WHBvA,Subway,33.4363617,-111.8239669,"322 E Brown Rd, Ste 105",2.3333333333333335,MESA,0,average,,,,,,,0,0,0,0,0,0,0,1,0,0
+802,TggkxsvAxWs5HOfW1N9osw,The Grille,33.4907391,-111.67055220000002,7555 E Eagle Crest Dr,3.642857142857143,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+803,J8hNZEebgXK8-LWBXHVInA,Sarku Japan,33.3905976,-111.6896749,6555 E Southern Ave,4.0,MESA,0,,,,,True,,,0,0,0,1,0,0,0,0,0,0
+804,L3t7UG4cC1-ar1jh96c1KQ,Streets of New York,33.385161,-111.6872749,6638 E Superstition Springs Blvd,1.4,MESA,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+805,XhdshlTyqiLVMpCYt4H2QQ,Salads N Such,33.3939286,-111.8413777,"1140 S Country Club Dr, Ste 101",3.2222222222222223,MESA,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+806,A3KOvIWGMVq1ChqIXMEklA,Culver's,33.379974100000005,-111.83953259999998,1909 S Country Club Dr,3.746153846153846,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+807,bK7DXRrvaoJbivr4y0pH7A,Panda Express,33.3826818,-111.5997597,"1752 S Signal Butte Rd, Ste 111",2.5185185185185186,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,1,0,1,0,0
+808,qYLwo_aPRRD9t2DkLgD9Mw,Julia's Mesquite Mexican Grill,33.3389519986,-111.84239580399999,1925 E Brown Rd,3.9215686274509802,MESA,0,quiet,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+809,9E3-IYSCRHlV4E99zswmVg,QuikTrip,33.314956,-111.68608390000001,5545 S Power Rd,4.583333333333333,MESA,0,,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+810,JO_hCJISMK3sz_RWhg2e0A,Iss' Magic Mixes,33.362933150799996,-111.87532436,"1941 W Guadalupe Rd, Ste 118",4.793103448275862,MESA,1,average,,False,False,False,False,False,0,0,0,0,0,0,0,0,1,1
+811,hRFKKf8jBnn4paxnNUK1hA,Hooters,33.3834439,-111.85717779999999,1665 S Alma School Rd,2.5316455696202533,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+812,NO-kZ9See-AXcZDtssJMmw,Volcano Buffet,33.4304474,-111.8737232,805 N Dobson Rd,3.088888888888889,MESA,0,average,,False,False,,False,False,0,0,0,1,0,1,0,0,0,0
+813,x_yrwPrJACZSiyLrOdODYA,Bisbee Breakfast Club,33.3619794,-111.8756357,"2909 S Dobson Rd, Ste 21",3.4201183431952664,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+814,Kz4WS00PcqOJgxfZawk4dQ,IL Forno Italian Restaurant,33.4523351,-111.68837350000001,"6606 E Mckellips Rd, Ste 104",3.409448818897638,MESA,1,quiet,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+815,lkjgZcgbpbYR_mXoGXWmQw,RA Sushi Bar Restaurant,33.384791,-111.755946,"1652 S Val Vista Dr, Ste 101",3.3360323886639676,MESA,1,average,,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+816,Otn5tFO58w8FQz0TwCJTvA,Wendy's,33.377882,-111.63658500000001,2056 S Ellsworth Rd,2.7333333333333334,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+817,jPQxZTuFhuVHsu-DI4hm2A,Teriyaki Kitchen,33.3640532,-111.87669620000001,2028 W Guadalupe Rd,4.1234567901234565,MESA,1,quiet,,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+818,nhMHfbBSA10d7St6eRHBVw,Max's Mukhaase,33.363280800000005,-111.86043659999999,"1245 W Guadalupe Rd, Ste B7",4.195121951219512,MESA,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+819,K7jOJ3ddscDeQHDHhU_r4g,Hilton Phoenix/Mesa,33.3873202,-111.85377199999999,1011 W Holmes Ave,3.0,MESA,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+820,PM9_-eotWntTW7tLBCsScw,Souper Salad,33.3919247,-111.86254140000001,1457 W Southern Ave,3.5,MESA,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+821,BMknWMDDgwdDtPOc7K4fAw,Chez Nappy,33.3840232,-111.82638429999999,1740 S Mesa Dr,3.75,MESA,0,average,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+822,OmyMY5oUv7NXWptrPZuxXg,Fired Pie,33.4346537,-111.869525,"1003 N Dobson Rd, Ste 106",3.3421052631578947,MESA,0,very_loud,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+823,kUdC_ELKTqxJFtNvNBJ7XQ,Subway,33.3905976,-111.6896749,6555 E Southern Ave,2.6666666666666665,MESA,0,,,,,,,,0,0,0,0,0,0,0,1,0,0
+824,FqEtpS6vzKna9qbjg_vRZw,El Taco Tote,33.395974,-111.8406513,1050 S Country Club Rd,3.8,MESA,0,average,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+825,Eypm-MmwirNTiQCOJPtVBw,Filberto's,33.414681800000004,-111.86977659999998,1755 W Main St,3.5714285714285716,MESA,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+826,9Wc9cypUeTtjkoPLkPsF-g,Native Grill & Wings,33.3795059,-111.59897520000001,"1947 S Signal Butte, Ste A",2.967479674796748,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+827,2RNrD93tdvv691deX3vpWQ,Geno's Giant Slice,33.3937694,-111.8688212,1720 W Southern Ave,4.0,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+828,Z5jtjK4LGIkaARQrLKS-Lg,Jack In the Box,33.3806025,-111.68725230000001,1911 S Power Rd,2.1666666666666665,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+829,tBQOZv_wWXsdzWql09A74Q,KFC,33.4154,-111.684,6837 E Main Street,1.64,MESA,0,,,False,False,,False,False,0,0,0,0,0,0,0,1,0,0
+830,8ltZ8Q8lJKrHaXIRvYO7hA,Bubba Phatz BBQ,33.4153566,-111.8314726,12 N Center,2.923076923076923,MESA,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+831,yJWM768xijAw-MmlROktGA,McDonald's,33.4509641,-111.8383265,"321 W Mckellips Rd, Ste 106",3.3333333333333335,MESA,0,,,,,,,,0,0,0,0,0,0,0,1,0,0
+832,ODjmz6khn1wsa1palLOmmA,Taco Del Mar,33.391749,-111.718769,1239 S Higley Rd,2.7142857142857144,MESA,0,,,False,False,,False,False,1,0,0,0,0,0,0,1,0,0
+833,HkG8Ucn1E1R4acyhFrywEA,"First Watch - Breakfast, Brunch & Lunch",33.380479,-111.7533699,1939 S Val Vista Dr,3.746913580246914,MESA,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+834,uNQFbFnQK-a68S1ktfD_yQ,Rosati's Pizza,33.3749755,-111.6871525,"2235 S Power Rd, Ste 118",4.25,MESA,0,,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+835,OkYwpGy4cHznqStfIQVA_w,Charley's Grilled Subs,33.3892091963,-111.860572536,1445 W Southern Ave,3.0,MESA,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+836,p9JD02WiV5uzVNITH2qvpw,Thai Season,33.378138899999996,-111.86138020000001,1245 West Baseline Rd,3.8181818181818183,MESA,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,1,0,0,0
+837,oDxvrLYe5SiQKdJlGhheoA,Baja Joe's Mexican Cantina,33.450355,-111.78678149999999,"1927 N Gilbert Rd, Ste 6",3.8175438596491227,MESA,1,average,,False,False,True,False,False,1,1,0,0,1,0,0,0,0,0
+838,a9strREjmyUp961wdhhA5w,Taco Bell,33.365244,-111.859,2760 South Alma School,2.6470588235294117,MESA,0,quiet,,False,False,True,False,False,1,0,0,0,0,0,0,1,0,0
+839,kn1moWlLuMgmnHIVyz2PQA,Sonic Drive-In,33.4219656,-111.838078,235 W University Dr,2.4545454545454546,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,1,0,0
+840,LYgAf_vpMQU6JqBcTXg-Sw,Bobby Q - Mesa,33.3850902,-111.80618009999999,1610 S Stapley Dr,4.391304347826087,MESA,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+841,q0hyzge6l3CML1GNAlaFCw,Cactus Moon Sports Grill,33.4352890442,-111.865678281,"1017 N Dobson, Ste 108",2.1777777777777776,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+842,zrMGL9riavdJR4olXaACOQ,Brunswick Zone Mesa Lanes,33.3943613,-111.86960649999999,1754 W Southern Ave,3.388888888888889,MESA,0,,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+843,02d6s2cnDKLllR4f3ykPug,Yogis Grill,33.433887341,-111.868131906,"929 N Dobson Rd, Ste 102",3.1964285714285716,MESA,0,average,,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+844,fMbHYElmKq7NG9AkUk9KBg,Bogey's Steak & Seafood,33.4908904485,-111.670638697,"Las Sendas Golf Club, 7555 E Eagle Crest Dr",3.3333333333333335,MESA,0,loud,,,,,,,0,0,0,0,1,0,0,0,0,0
+845,ikaff3b56-CXzXADJ6uY6w,Mikey's Family Restaurant,33.4147447,-111.6288033,9333 E Main St,3.96,MESA,0,quiet,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+846,Fx-11FHhKpx7inwuT1j_2g,T.G.I. Friday's,33.384488,-111.68517949999999,1720 S Power Rd,3.1666666666666665,MESA,0,loud,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+847,8noITN_wTSpXU2tc9oNwTg,Auntie Pasto's,33.3640786,-111.8738338,"1859 W Guadalupe Rd, Ste 101",4.1,MESA,0,average,,False,False,,False,False,0,0,1,0,0,0,0,0,0,0
+848,m1LOUjVzAAoCS61BTL5i5g,Hodori Restaurant,33.3944172,-111.8754243,1116 S Dobson Rd,3.7210031347962382,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+849,wJiC71DNRiUBQAede-qVEw,Sunnyside Breakfast Lounge,33.46673,-111.682257,"2823 N Power Rd, Ste 101",4.084507042253521,MESA,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+850,aNs7wSLFBu5JtCU4OH5RXw,BurgerFi,33.380437,-111.75336899999999,1939 S Val Vista Dr,3.7509881422924902,MESA,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+851,zIKVlRqz6NeK_zDvTbtX4A,Arby's,33.4342322,-111.86982450000001,953 N Dobson Rd,2.642857142857143,MESA,0,,,,,True,,,0,0,0,0,0,0,0,1,0,0
+852,0H9bomdciJmcqfojkxLnsA,Tokyo Joe's,33.38126210000001,-111.7533744,1935 S Val Vista Dr,3.4444444444444446,MESA,1,average,,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+853,bVPTxKhjj4qyTF7_43nY-g,Red Robin Gourmet Burgers,33.3837664,-111.8063383,1636 South Stapley,2.5795454545454546,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+854,HVDh5T4Nb11pNsV48dfzxg,Subway,33.4363856014,-111.68494119,6731 East Brown Rd,2.0,MESA,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+855,PlIeEj0LRr3p1rX5Svujgw,Firehouse Subs,33.393405840599996,-111.87721113200001,"2110 W Southern Ave, Ste 105",3.590909090909091,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,1,0,0
+856,uB2By0pTXV2JeM_CsMg7xw,Octane Cafe,33.392788,-111.634786,"9107 E Southern Ave, Ste 103",4.851851851851852,MESA,1,quiet,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+857,_dfqxi1krqXmVHoGkfPnXg,Hibachi Grill Super Buffet,33.3939895,-111.856604,1164 W Southern Ave,2.6323529411764706,MESA,0,average,,False,False,True,False,False,0,0,0,1,0,1,0,0,0,0
+858,eI8PuSkycWDpbe7fBgJ1bg,Salad and Go,33.393440999999996,-111.854766,1040 W Southern Ave,4.245614035087719,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+859,wP7rb72w0SMbwQ_tVV5TBw,At My Place Cafe,33.363417063200004,-111.87918438700001,"2121 W Guadalupe Rd, Ste 8",4.522935779816514,MESA,1,average,,False,False,False,False,False,0,1,0,0,0,0,0,0,0,0
+860,Y7gp8KjfxuH7mlsSj9ewQw,Village Inn,33.381273900000004,-111.60028929999999,1863 S Signal Butte Rd,3.0606060606060606,MESA,0,quiet,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+861,JTNdV6u3DK-wcqX7ZXl5hw,Pei Wei,33.3814300813,-111.75678895200001,"3426 E Baseline Rd, Ste 121",2.7,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,1,0,1,0,0
+862,ryUt5vS7nAcsXVhC0jbO_A,Culver's,33.390313493200004,-111.61454887,1263 S Crismon Rd,4.15,MESA,0,loud,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+863,jziUCL-ivgSk_taMqGcGPg,The Seafood Market,33.380515,-111.788963,1910 S Gilbert Rd,3.5,MESA,0,average,,False,False,,False,False,0,0,0,0,1,0,0,0,0,0
+864,rfdMlP5V4p37n3cDDGLFbg,Salty Señorita,33.3809022,-111.8069973,1860 S Stapley Dr,2.5483870967741935,MESA,0,,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+865,p8URfi68QVheLkNlaIG-lA,The Oak Room,33.422067,-111.82926289999999,61 E University Dr,3.5833333333333335,MESA,0,average,,False,False,True,False,False,0,1,1,0,1,0,0,0,0,0
+866,nA3DdgIQVROeQg98YCyeZw,Gordy's Mexican Food,33.3927865,-111.7525371,"3701 E Southern Ave, Ste 3",4.357142857142857,MESA,0,,,,,False,,,1,0,0,0,0,0,0,0,0,0
+867,-uzKpTQrUQMKpNsAk24adg,Bricks Family Sports Grill,33.374249,-111.68713100000001,"2235 S Power Rd, Ste 127",3.826923076923077,MESA,0,quiet,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+868,eBM0sIlZSaMkpQLxkVgrjg,Septembers Bar & Grill,33.3940484951,-111.84192907100001,"500 W Southern Ave, Ste 12",4.214285714285714,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+869,n2PmOO8DyCGY1Tv2NBj4yA,The Egg & I Cafe,33.4671771587,-111.682409048,2823 N Power Rd,1.84375,MESA,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+870,4zHwXpQswfB9_j7X-zw7rA,Pita Island,33.4346351975,-111.719608292,"1042 N Higley Rd, Ste 103",4.2898550724637685,MESA,1,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+871,D4BWyStFZzA7k8hqDmnyFw,Koreatown,33.4082035,-111.8712822,"1832 W Broadway Rd, Ste 100",4.157303370786517,MESA,1,average,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+872,kUz5-7Nm-gzQAmvgvegbLg,Saketini Japanese Sushi Bar and Lounge,33.394249,-111.87504650000001,1120 S Dobson Rd,3.605714285714286,MESA,1,average,,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+873,ZVG4n6LANMW_ahaJH8dlTQ,Arby's,33.4161104,-111.68527279999999,6740 E Main St,4.083333333333333,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+874,TPvVGmT4AY1mloktV-2Dpw,La Famiglia,33.3636902262,-111.874396876,1859 W Guadalupe Rd,3.675675675675676,MESA,1,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+875,9IZX6ctv4ea6mc9gzu1flQ,Los Dos Molinos,33.409735,-111.85726299999999,"260 S Alma School Rd, Ste 137",3.834549878345499,MESA,1,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+876,i066yR2IDP4FWt6p-k9aFg,Ike's Love & Sandwiches,33.3905280312,-111.855760173,"1130 W Grove Ave, Ste 110",4.367088607594937,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,1
+877,WfLSfwsw6iuXxpm4U6nVZQ,Salvadoreno Restaurant,33.392462800000004,-111.8248831,"303 E Southern Ave, Ste 113",3.881188118811881,MESA,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+878,Hy0jGDoUwcudX2IbDGWWEA,Royal Thai Grill,33.45106,-111.8381507,321 W McKellips Rd,3.8333333333333335,MESA,1,quiet,,False,False,True,False,False,0,0,0,0,0,0,1,0,0,0
+879,i_qG7XpQw2ngHa7OdNJoOQ,Burger King,33.384190999999994,-111.6840393,6820 E Superstition Springs,1.631578947368421,MESA,0,average,,False,False,False,False,False,0,0,0,0,0,0,0,1,0,0
+880,mmrnmgfwngI8xe7lYgQvdQ,May Flower Chinese Restaurant,33.3951613,-111.70184520000001,7641 E Guadalupe Rd,4.0,MESA,0,,,,,,,,0,0,0,0,0,1,0,0,0,0
+881,Ybxl-MdPl4BUQ7Fc4xaj7A,Taqueria Cajeme,33.4223674,-111.82339209999999,350 E University Dr,3.3333333333333335,MESA,0,,,,,,,,1,0,0,0,0,0,0,0,0,0
+882,XFhnPpO2x0nS-lVkqZSf_Q,5 & Diner,33.3926904,-111.69307820000002,6353 E Southern Ave,2.7758620689655173,MESA,0,average,,False,False,False,False,False,0,1,0,0,0,0,0,0,0,0
+883,AcnQS_mpbOLFS_bDXRCebA,Pier de Orleans,33.422067,-111.82926289999999,61 E University St,2.9722222222222223,MESA,0,average,,False,False,False,False,False,0,0,0,0,1,0,0,0,0,0
+884,M_DAQgU0DSZS7AzqNa9wkA,Boca 7,33.413158,-111.87577900000001,"66 S Dobson Rd, #133",4.2727272727272725,MESA,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+885,TCCiuifeDJqXXxjtOT7JuA,El Pollo Loco,33.39666210000001,-111.8404987,1036 S Country Club Dr,2.5454545454545454,MESA,0,quiet,,False,False,True,False,False,1,0,0,0,0,0,0,1,0,0
+886,q4TSv7LWvUYTuZxy3-Tu4Q,Drunken Tiger,33.378970100000004,-111.87890700000001,"1954 S Dobson Rd, Ste 5",4.211678832116788,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+887,n4q9ocOlUw6YqGl7oGgQ-A,Sam's Famous Subs,33.4080834349,-111.683719597,6807 E Broadway Rd,4.478260869565218,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+888,Ibd9jfvPecU18-7ocb-1yA,Papa Murphy's,33.3925994,-111.6838716,"1229 S Power Rd, Ste B5",4.75,MESA,0,quiet,,,,True,,,0,0,0,0,0,0,0,0,0,0
+889,gFqLYzm_erOkjDwedVE7QA,Spice Spirit Chinese Cuisine and Bar,33.413333,-111.874052,"1995 W Main St, Ste 101",3.8125,MESA,0,quiet,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+890,T2DvmUw_JUREb-rsDk3LBQ,GMANN'S Restaurant & Lounge,33.4148563732,-111.67312324,"7303 E Main St, Ste 115",2.888888888888889,MESA,0,loud,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+891,04u-szAykldu-caSDHQaKA,Hot Wok Restaurant,33.4071828572,-111.774254146,"2639 E Broadway Rd, Ste C107",3.0,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+892,LIWc7LI1w2GbuEsTLwjWLg,The Ship Yard,33.4141147,-111.83033940000001,"1 Main St, Eastern Point",3.6666666666666665,MESA,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+893,7vPI7feAokYh3ZN9a0drOg,Redstone Grill,33.384830699999995,-111.841052,1600 S Country Club,2.4444444444444446,MESA,0,average,,False,False,False,False,False,0,1,0,0,0,0,0,0,0,0
+894,GzK0oXjFHmjyJDMIEJCFKg,Sassy's Cafe & Bakery,33.4151547,-111.7722893,2729 E Main St,4.0256410256410255,MESA,1,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+895,TulmRC5V0--dnXYd_GOSvA,Golden Gate Chinese Restaurant,33.3785543,-111.89131499999999,2640 W Baseline Rd,4.088888888888889,MESA,1,quiet,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+896,EUhjQecCVsyxPXE20DFsaw,Islamorada Fish Company Restaurant,33.436690999999996,-111.8666152,1133 N Dobson Rd,3.130952380952381,MESA,0,average,,False,False,True,False,False,0,0,0,0,1,0,0,0,0,0
+897,d7S0CLqE_v4fVJLPhY1IDA,McDonald's,33.4520068,-111.83930500000001,2001 N Country Club Dr,1.8148148148148149,MESA,0,average,,False,False,False,False,False,0,0,0,0,0,0,0,1,0,0
+898,pzAOzVbV0zh3_savsdD7-g,Genos Pizza & Cheesesteak,33.3774817833,-111.6197803,"9937 E Baseline Rd, Ste 105",2.5106382978723403,MESA,0,average,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+899,ejXmDLQMhzRI2VkZkvs-RQ,Urban Heat,33.414617,-111.86916799999999,1749 W Main St,3.75,MESA,0,loud,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+900,_rXRnGcU3RFtsehmdL0ucw,Rosa's Mexican Grill,33.4234158,-111.8240737,328 E University Dr,3.8456375838926173,MESA,1,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+901,DwfOyiI7x7ei2mHcoPwljQ,Subway,33.434808600000004,-111.6322395,"1021 N Ellsworth Rd, Ste 101",1.75,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+902,WxNGCzvx10GwJchaeHNfpA,Subway,33.3904322,-111.84074809999998,1332 S Country Club Dr,2.3333333333333335,MESA,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+903,t9KauhVidmeKlJBjdsaY4g,Pirates Fish & Chips,33.421874,-111.849501,835 W. University Ave,1.75,MESA,0,,,False,False,,False,False,0,0,0,0,1,0,0,1,0,0
+904,yk8hg2Q6_m5Rviqq_eAaGA,Thai House Restaurant,33.394607,-111.683508,1155 S Power Rd,3.8714285714285714,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,0,1,0,0,0
+905,yF9G4dJAm94pfnEWzPtPYQ,Organ Stop Pizza,33.3927653,-111.8076814,1149 E Southern Ave,3.75,MESA,1,loud,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+906,hGstBaUTRdrO1IcTLlRQlw,Goodness Gracious Great Balls and Sliders,33.3312297,-111.642224,,3.875,MESA,0,,,False,False,,False,False,0,0,0,0,0,0,0,1,0,0
+907,DgZ-pZUo3drzpiCDlDr9IQ,unPhogettable,33.4133505,-111.8759922,66 S Dobson Rd,4.153589315525877,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+908,q7zN2YFdNvi5mtg3uJ7tLg,Applebee's Neighborhood Grill & Bar,33.3795153,-111.78779409999999,2032 East Baseline Rd,2.4936708860759493,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+909,SYHBqzFwxHNsBmIoVW4ACw,Sonic Drive-In,33.4509780758,-111.816454455,647 E McKellips Rd,2.2,MESA,0,,,,,,,,0,1,0,0,0,0,0,1,0,0
+910,ZvWT-5SzUObzIcNz6VP7XA,Barro's Pizza,33.3910694,-111.85550959999999,1130 W Grove Ave,2.5625,MESA,0,,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+911,hGuyBaY7HUHCzeSzZMBPYw,Wendy's,33.4527977669,-111.68356776200001,2019 N Power Rd,1.6842105263157894,MESA,0,,,,,True,,,0,0,0,0,0,0,0,1,0,0
+912,5Ckj7YURoNqFrsFQTJVVHQ,Hungry Howie's Pizza,33.395095899999994,-111.75276229999999,3614 E Southern Ave,2.0,MESA,0,very_loud,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+913,Swhv4VIfKYm2lvKVlHQK4A,Subway,33.3930711,-111.78777420000002,1221 S Gilbert Rd,3.5,MESA,0,average,,,,,,,0,0,0,0,0,0,0,1,0,0
+914,3Uu92zZVhtV4GVIMS74-7g,Pita Pit,33.382880699999994,-111.7391571,1754 S Greenfield Rd,3.5217391304347827,MESA,0,,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,1
+915,gHuBW6jnL9obWil6DKxpwg,A Savory Affair Cuisine and Catering,33.415248600000005,-111.83610759999999,156 W Main St,3.0,MESA,0,quiet,,,,,,,0,0,0,0,0,0,0,0,0,0
+916,Dd1w7xR7Xs3bthwusgy33Q,Lotus Deli,33.3777544,-111.85969899999999,2043 S Alma School Rd,4.4423076923076925,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,1,1
+917,o2UpKOPWQIOdvHGfQy2gyA,Subway,33.436359561399996,-111.68498647700001,"1152 N Power Rd, Ste 101",2.25,MESA,0,,,,,,,,0,0,0,0,0,0,0,1,0,0
+918,4TpkQBwG4syaxn25jMeiQg,Tous Les Jours Bakery Cafe,33.394278860300005,-111.873074198,1133 S Dobson Rd,4.705882352941177,MESA,1,,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+919,XURVF3UPIfuMbckfcu5Ztg,Thai Kitchen,33.3947882,-111.5997393,10720 E Southern Ave,3.990740740740741,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,0,1,0,0,0
+920,b-bHa-ziECvPpp9AsTBlRw,Taco Bell,33.452196,-111.684205,2028 North Power Road,2.5833333333333335,MESA,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,1,0,0
+921,Ytj0gEttgc_Hi910HjY4Iw,Classic Grille,33.3892,-111.86058,1445 W Southern Ave,2.6,MESA,0,average,,False,False,False,False,False,0,1,0,0,0,0,0,0,0,0
+922,QRSuHZnzHeuS4lHw8RHWWw,Kong  Fu Gyoza,33.413158,-111.87577900000001,66 S Dobson Rd,4.157894736842105,MESA,0,,,False,False,,False,False,0,0,0,0,0,1,0,0,0,0
+923,w31zHo_nneHsYLa0iEPZJw,McDonald's,33.432439815,-111.865360144,857 N Dobson Rd,2.210526315789474,MESA,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+924,HqXL4eRPuMkeBVmSuDm_HQ,Sai Wan Bistro,33.385161,-111.6872749,6638 E Superstition Springs Blvd,3.272727272727273,MESA,0,average,,False,False,,False,False,0,0,0,0,0,1,0,0,0,0
+925,BgQ5ob0QiZfO5YbgI7VyFw,Blue Adobe Grille,33.418372,-111.84035700000001,144 N Country Club Dr,4.067961165048544,MESA,1,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+926,2PCmdNMtG3zLp7dBH4Gxfg,LA Crab Shack,33.408094,-111.8735183,"1948 W Broadway Rd, Ste 101",4.170212765957447,MESA,0,average,,False,False,True,False,False,0,0,0,0,1,0,0,0,0,0
+927,0VGD6b_oSS_k9n4jVIudaA,Jack In the Box,33.4219022,-111.8555547,1145 W University Dr,1.25,MESA,0,,,,,,,,0,0,0,0,0,0,0,1,0,0
+928,bUO7a2oTcynlEwaulDI8_A,de la Cruz Bistro,33.4152355,-111.8319331,10 W Main St,2.8028169014084505,MESA,0,quiet,,False,False,,False,True,0,1,0,0,0,0,0,0,0,0
+929,XOKeMAuRsVkZARAnv2k7Aw,Domino's Pizza,33.4228425,-111.8393594,340 W University Dr,2.4,MESA,0,,,False,False,,False,False,0,0,1,0,0,0,0,0,0,0
+930,rtLYjeiP32wtcYQsUbzJgA,Charlie D's Catfish & Grill,33.3892,-111.86058,"Fiesta Mall, 1445 W Southern Ave",2.0,MESA,0,average,,False,False,,False,False,0,0,0,0,1,0,0,1,0,0
+931,BgwKts4y3DvZGCI0GogLpA,Marco's Pizza,33.4240963216,-111.71966460600001,"446 N Higley Rd, Ste 105",3.933333333333333,MESA,0,,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+932,zo8hCKJPpVTFnhqj08KInQ,Dairy Queen,33.4148742,-111.81762990000001,629 E Main St,3.1,MESA,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+933,U-d9doJXDRpvfozdU5-JrA,Abbey Gardens,33.3636242,-111.8736054,"1837 W Guadalupe Rd, Ste 107",3.0,MESA,0,,,,,,,,0,1,0,0,0,0,0,0,0,0
+934,L_CA24PUcqUPBY5UPF-P9A,Firehouse Subs,33.3948766,-111.60019380000001,"10720 E Southern Ave, Ste 112-D",3.5609756097560976,MESA,0,loud,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+935,p5BiVlgXg8ZQVkHswOG4Bw,Subway,33.4494697,-111.7349063,4425 E McKellips Rd,2.0,MESA,0,,,False,False,,False,False,0,0,0,0,0,0,0,1,0,0
+936,6kRi4YScqY1iK37Xmy2FpQ,Philly Steak & Wings,33.3931618,-111.86152129999999,1450 W Southern Ave,4.021739130434782,MESA,1,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+937,aKsM_Dt1Rpg9zRGdHzTnIw,Caffe Boa Bistro,33.468577,-111.70326499999999,"2837 N Power Rd, Ste 102",3.75,MESA,0,average,,False,False,,False,False,0,0,1,0,0,0,0,0,0,0
+938,0a2fKfP6_PIx0djDrcln6w,Subway,33.413323999999996,-111.87343600000001,"1911 W Main St, Ste 1",2.8333333333333335,MESA,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+939,7aIT103VQokS0cSk1xnTuQ,Burger King,33.4157585,-111.63325459999999,9154 E Main St,1.3333333333333333,MESA,0,,,,,True,,,0,0,0,0,0,0,0,0,0,0
+940,KSh2Vr-nvAsbZqtKibtWSQ,Pizza Patron,33.4220234,-111.8402676,354 N Country Club Dr,1.6666666666666667,MESA,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+941,CIb1HTCKrOJ-BDWQDrkoOw,In-N-Out Burger,33.3901046,-111.8577004,1342 S Alma School Rd,3.513888888888889,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,1,0,0
+942,L2YYajGiMs1j1UXZpcj4Qw,Taco Bell,33.435658000000004,-111.823623,352 E Brown Rd,3.0,MESA,0,average,,False,False,,False,False,1,0,0,0,0,0,0,1,0,0
+943,epWUSVMy4iBNoIyoymTt_g,Pedritos Mexican Food,33.4065892,-111.7715956,2753 E Broadway Rd,3.3076923076923075,MESA,0,average,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+944,8UH1z6wfAwpax4o1slD9EA,Chopstix,33.393062,-111.6842135,"1229 S Power Rd, Ste 102",4.222222222222222,MESA,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+945,-sNi7U9seVfCr8T8nkWd_w,Rumbi Island Grill,33.380569,-111.75459270000002,1902 S Val Vista Dr,3.9405940594059405,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+946,gICgO_5--4_eFosWYL04pQ,International House of Pancakes,33.432875,-111.87086570000001,913 N Dobson Rd,2.25,MESA,0,average,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+947,R_M4P9XetEM-aLE7eHdthw,Crazy Sushi & Crab,33.3906017259,-111.86437849,1310 S. Longmore,3.9565217391304346,MESA,1,average,,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+948,xphMonhn4PxoflUjgE_RXg,Sonic Drive-In,33.437944,-111.68373700000001,1229 N Power Rd,1.8,MESA,0,,,False,False,True,False,False,0,1,0,0,0,0,0,1,0,0
+949,FGzuLQlBWlhcI4lzqe__Mw,Uno Chicago Grill,33.38449,-111.80411000000001,1633 S Stapley Dr,3.6666666666666665,MESA,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+950,C-XK1u2zybUaMODcPOd5mA,My Big Fat Greek Restaurant,33.393444099999996,-111.6927543,6447 E Southern Ave,3.225806451612903,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+951,kctSmjXXK_1laQV7J8-3Cg,R.T. O'Sullivan's,33.3848688,-111.68805309999999,6646 E Superstition Springs Blvd,3.064935064935065,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+952,AAxn6jh7zzMk99TMyWgGkQ,Andrews BBQ,33.3930855,-111.87671740000002,2110 W Southern Ave,3.5,MESA,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+953,B8ym13fwCHn4UdrHe-MUPw,La Tiendita Colombian Restaurant,33.4154777,-111.84258009999999,456 W Main St,4.333333333333333,MESA,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+954,nGqj3Hjx_daTMzFke7g6aQ,Straight A Cafe,33.381632,-111.7034723,5855 E Still Cir,3.3333333333333335,MESA,0,,,,,True,,,0,1,0,0,0,0,0,0,0,0
+955,A3lgV--HMpjGzT5mpyLbJQ,Jack in the Box,33.4158876,-111.7685125,2846 E Main St,2.0,MESA,0,loud,,,,False,,,0,0,0,0,0,0,0,1,0,0
+956,Ty3SvEgWPNOEQoKV8XZ0JA,Subway,33.422797700000004,-111.85538659999999,1130 W University Dr,2.0,MESA,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,1,0,0
+957,yJarohbMh2US0R2gJYkexA,Subway,33.4229592,-111.803674,"425 N Stapley Dr, Ste 104",2.8,MESA,0,average,,,,True,,,0,0,0,0,0,0,0,1,0,0
+958,Ag5FrqOMQGAKXqdIcpklVw,McDonald's,33.4145968,-111.63322659999999,9145 E Main St,1.75,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+959,TtaXPsMrTGyPsAlO5LFQ6w,Tao Yuan Chinese Restaurant,33.414221600000005,-111.7359993,"4419 E Main St, Ste 117",3.5405405405405403,MESA,0,quiet,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+960,5UkLNg3kgxwPBNO6oz5l3Q,B's Fiesta Kitchen,33.4364793,-111.63081470000002,"1157 N Ellsworth Rd, Ste 102",3.909090909090909,MESA,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+961,qablZKWgueQ4UF_QRT46mA,Dairy Queen,33.3646526,-111.8598905,2754 S Alma School Rd,2.6666666666666665,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+962,BBt-5yPqj8frO-BEP3Q3XA,RigaTony's,33.434382799999995,-111.82615020000001,223 E Brown Rd,4.5,MESA,0,,,False,False,,False,False,0,0,1,0,0,0,0,0,0,0
+963,QBN_TcWQ1mZrzekFM4p0LA,Buca di Beppo,33.3837161762,-111.75435125799999,1730 S Val Vista Dr,2.8659217877094973,MESA,0,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+964,V45PfGw6FMrP4FmB8pFnIw,Hollywood Alley,33.379042999999996,-111.8910088,2610 W Baseline Rd,3.9245283018867925,MESA,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+965,01xTdrNUuTOAyH7NaRWcUA,Mellow Mushroom,33.382702,-111.805625,1665 S Stapley Dr,3.3047210300429186,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+966,BnWDUUnDGYK0tIKvtmBP0g,Hungry Howie's Pizza,33.3647941,-111.878391,"2050 W Guadalupe Rd, Ste 6",2.103448275862069,MESA,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+967,jEdBVThIOKJ5rVHy_0nbnA,Subway,33.4338861437,-111.867695598,"937 N Dobson Rd, Ste 105",2.3333333333333335,MESA,0,,,,,True,,,0,0,0,0,0,0,0,1,0,0
+968,4rGj1j9jApydjk8_ALHDWA,Food Court At Fiesta Mall,33.3891424134,-111.860818528,1445 W Southern Ave,2.75,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+969,__IFWGnWgMJV-55JIQfzjw,Chili's,33.3796229,-111.60119879999999,1951 S Signal Butte Rd,2.6296296296296298,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+970,MO-C3o6DFqLBK1Z1qA-f4g,Burger King,33.392732843699996,-111.61477010700001,10025 E Southern Ave,1.3333333333333333,MESA,0,loud,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+971,UirO9lSdO2cELZ3fOg5rOw,Las Sendas Golf Club,33.4890301,-111.67080459999998,7555 E Eagle Crest Dr,3.3125,MESA,0,,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+972,x_9vVfNq3hPAsaa3FdEBhg,Firehouse Subs,33.4507344217,-111.68107867200001,"1829 N Power Rd, Ste 109",3.736842105263158,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+973,bf1N6Kzjy5sWTScBJZjJHw,Logan's Roadhouse,33.434038710100005,-111.866905466,102 Bass Pro Dr,2.5357142857142856,MESA,0,very_loud,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+974,K4LhdoEPzTdN-xghwG-HmQ,Chicken Noodle House,33.4133505,-111.8759922,"66 S Dobson Rd, Ste 106",2.75,MESA,0,very_loud,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+975,Ctg4mWJPyVSMj5IxGo72xA,Pizza Romano,33.377451675100005,-111.634523898,"9221 E Baseline Rd, Ste 101",3.5,MESA,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+976,wCKK5n4Xh4L44gigTpBNZQ,Lakeshore Restaurant,33.57376179999999,-111.5376716,14011 N Bush Hwy,2.6481481481481484,MESA,0,average,,False,False,True,False,False,0,1,0,0,1,0,0,0,0,0
+977,1BCTS8QRO-g1FH_TaP2tBA,Jack in the Box,33.424521999999996,-111.804829,525 N Stapley Dr,2.0,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+978,F6hmPPx5M6gSD_m8GMNX-A,Bread Basket Bakery Cafe,33.4235507,-111.76978009999999,"2820 E University Dr, Ste 110",4.333333333333333,MESA,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+979,_HboH55t0MnGVaDxzuogdQ,Rubio's,33.3823625,-111.6004045,"1804 S Signal Butte, Ste 101",3.617021276595745,MESA,0,average,,False,False,True,False,False,1,0,0,0,1,0,0,1,0,0
+980,xmARZ_MuSfrQCXP4e8RQjg,Nello's Pizza Mesa,33.3607307,-111.85983359999999,2950 S Alma School Rd,4.239130434782608,MESA,1,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+981,S4rayoybNSbkmUBpozG_2A,KFC,33.3785,-111.87700000000001,1950 W Baseline Rd,1.6666666666666667,MESA,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+982,wIMhHjK6LuGsvpXWR4ntPg,Tosinos Mexican Grill,33.3745401014,-111.687216908,"2235 S Power Rd, Ste 120",4.078740157480315,MESA,1,quiet,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+983,HVlDheU0-Vqrv9bhNqyIyw,STATS Sports Grill,33.431472,-111.878445,860 N Riverview,3.3333333333333335,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+984,q1g2AKrd6fTKeylQ1yZwIw,McDonald's,33.393567100000006,-111.8633044,1460 W Southern Ave,1.625,MESA,0,loud,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+985,nxM6jNyKDgAOh7MAG-VJ_g,Charleston's,33.3843872,-111.8051189,1623 S Stapley Dr,4.004065040650406,MESA,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+986,7I6heMTBTG3i_M6zZYJQRQ,China City Super Buffet,33.393419,-111.70141100000001,6005 E Southern Ave,2.4,MESA,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+987,3gHvqo_7ujCC0OAbhJPLWA,Chipotle Mexican Grill,33.4679150061,-111.683503545,2849 N Power Rd,3.75,MESA,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,1,0,0
+988,uYDScUhTHjtnnxmzy4fgPQ,Jack in the Box,33.37903060000001,-111.86080849999999,1232 W Baseline Rd,2.3846153846153846,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+989,h3s8YP-SXkpgJwDzH9XOjw,Chubby Hubby BBQ Sport & Grille,33.412275199999996,-111.683851,155 S Power Rd,1.6363636363636365,MESA,0,average,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+990,fgm7DKVy1wuod6FTPvZqRw,China Palace,33.4368564,-111.7060961,"5761 E Brown Rd, Ste 1",3.25,MESA,0,quiet,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+991,_reykENmCBh03iczpFAufg,Sakana Sushi & Grill,33.3810074687,-111.68665063,1853 S Power Rd,3.9943181818181817,MESA,1,average,,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+992,Wxuym8s_AXGkLtnS7HGbCA,Filiberto's Mexican Food,33.465715100000004,-111.68331950000001,2737 N. Power Rd,2.5625,MESA,0,,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+993,94J5iU3DZzcvBG9DlJubvg,Village Inn,33.3933155,-111.8741772,1155 S Dobson Rd,2.9863013698630136,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+994,GvEjbCm5sNdLZ4fzJ9hvUQ,Bahia De Kino,33.407958984400004,-111.85366058299999,1040 W Broadway Rd,3.3333333333333335,MESA,0,loud,,,,,,,1,0,0,0,1,0,0,0,0,0
+995,cxVqsH6a5ro5PaWssb38kw,Steak And Stone,33.462992,-111.719338,2613 N Thunderbird Cir,4.098092643051771,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+996,YsqOYGnY3p-20sspdOUYSQ,China China Restaurant,33.415543199999995,-111.8086239,1034 E Main St,3.9615384615384617,MESA,0,quiet,,False,False,,False,False,0,0,0,0,0,1,0,0,0,0
+997,VeNmTV_F4xqBeTW7mLGpxw,El Super,33.3933513612,-111.804167926,1251 E Southern Ave,4.0,MESA,0,average,,,,True,,,0,0,0,0,0,0,0,0,0,0
+998,_pJU90C24bdOq19qNvTp7A,Omega Gyros,33.4356478855,-111.864190687,"1055 N Dobson Rd, Ste 106",3.84,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+999,6MpRsUKPpGUXklU2bYHUDg,Chili's,33.4347080564,-111.865804827,1025 N Dobson Rd,2.548076923076923,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+1000,x6KliZhKHW1sD-0fDnp_cQ,The Duchess bar and Grille,33.415046399999994,-111.74634040000001,"3929 E Main St, Ste 2",3.5,MESA,0,quiet,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+1001,tL35ZW613PCPqGLbBuIlEQ,JW's Cafe,33.414638084699995,-111.67659401899999,"The Deserama Plaza, 7145 E Main St",2.5714285714285716,MESA,0,average,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+1002,yynqjo-lHyMVIrhLZ5jGXg,Poke Fuzion,33.3794833,-111.8061875,1230 E Baseline Rd,4.5,MESA,0,average,,False,False,True,False,False,0,0,0,1,1,0,0,0,0,0
+1003,wP8gL4KNYQQktelE-PSeFw,LJ's Pizza Restaurant,33.4159602,-111.8085368,33 N Miller,4.478260869565218,MESA,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+1004,6xUN-6-MKnhRKP3QSu6ZRw,Fat Boys,33.3792725,-111.69104750000001,6671 E Baseline Rd,3.6666666666666665,MESA,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+1005,XmrOZ6iLoPzXfwQesveyTA,Pita Palace,33.3892,-111.86058,1445 W Southern Ave,5.0,MESA,1,very_loud,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+1006,NUoQdhhoGY2KvuutPbQ8GA,Taco Bell,33.394408,-111.87448300000001,1125 S Dobson Rd,3.5,MESA,0,quiet,,False,False,True,False,False,1,0,0,0,0,0,0,1,0,0
+1007,zcgCOV4AYAHG8LkC0ticSA,El Potrero Carniceria,33.4083028,-111.8457318,"624 W Broadway Rd, Ste 205",2.3333333333333335,MESA,0,average,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+1008,vhImhRvHgAsUnBvVcRYRkQ,The Beer Research Institute,33.3846485,-111.80274550000001,"1641 S Stapley Dr, Ste 104",4.15359477124183,MESA,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+1009,IsCbJlfTsZQv6fFSEbzHVQ,The Woodshed II,33.4225832,-111.87517209999999,430 N Dobson Rd,3.305084745762712,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+1010,R7Aq67tp9Ey_V9tGr_oceg,Del Taco,33.381458,-111.6013769,1842 S Signal Butte Rd,2.05,MESA,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+1011,USbeHpw9-zMtGct92LtJYg,Venezia's New York Style Pizzeria,33.451295,-111.72046599999999,5057 E McKellips Rd,4.045714285714285,MESA,1,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+1012,VA8U5fV5rgBix0H5BpkkJA,Oasian Noodle Bar,33.3806084,-111.7537779,1935 S Val Vista Dr,3.6666666666666665,MESA,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+1013,ONc1Rtd9sIxoQdTvO_7pew,Burger King,33.394011199999994,-111.78771299999998,2024 E Southern Ave,2.142857142857143,MESA,0,,,,,True,,,0,0,0,0,0,0,0,1,0,0
+1014,RWMiAe2Pi-7KTMjREoyxdg,Denny's,33.3913250554,-111.685151534,1330 S Power Rd,3.111111111111111,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+1015,VAXp38_w_6L8iHxYIcuGAQ,Jack-In-the Box Drive Thru,33.3936789,-111.8218085,440 E Southern Ave,1.8888888888888888,MESA,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+1016,D3SI5laInjyu2539v4gTnQ,Los Juniors Mexican Food,33.450874400000004,-111.82154740000001,415 E Mckellips Rd,3.7142857142857144,MESA,0,,,,,,,,1,0,0,0,0,0,0,0,0,0
+1017,GRs6OxKZREAwA_Nmp2GmVw,Amados Mexican Food,33.365231099999995,-111.8586223,2729 S Alma School Rd,3.4565217391304346,MESA,0,quiet,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+1018,zWrwVNAvrtVAhcDRWJJMEw,Pachuca - A Healthy Mexican Grill,33.468577,-111.70326499999999,"4545 E McKellips Rd, Ste 108",1.3333333333333333,MESA,0,,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+1019,I3dQmMkfqMsThMAuqIkooA,Smashburger,33.467537,-111.682818,"2837 N Power Rd, Ste 102",3.3088235294117645,MESA,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+1020,x__C_UceKF4bWSRZilWWzw,Subway,33.4510909,-111.8029925,"1229 E Mckellips Rd, Ste 104",2.8333333333333335,MESA,0,,,,,,,,0,0,0,0,0,0,0,1,0,0
+1021,aFJUDxHbALU-a7bfejpF2Q,The Grid: Games & Growlers,33.4059310048,-111.7875503,525 S Gilbert Rd,4.244897959183674,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,1,0
+1022,OYmloVC0p9qfkXvDTZvzcw,Salsita 14,33.414943900000004,-111.79922320000001,1501 E Main St,3.0,MESA,0,average,,,,,,,1,0,0,0,0,0,0,0,0,0
+1023,PE8GYJgLMOyXWV3aACZTCQ,Rosati's Pizza,33.482017641300004,-111.68443424,3654 N Power Rd,2.111111111111111,MESA,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+1024,RbGsqfcW1f8MFo_aKvT8Vw,Hue Gourmet,33.4133505,-111.8759922,"66 S Dobson Rd, Ste 126",3.9423076923076925,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+1025,flCZyw8UBZF41dKMn8k_GQ,Joey's PSG,33.4155922556,-111.808551048,1038 E Main St,4.769230769230769,MESA,1,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+1026,stELNI9yN8wsgWWt0Im_kw,T.C. Eggington's,33.3841971,-111.85936909999998,"1660 S Alma School Rd, Ste 129",4.116625310173697,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+1027,33WmYtQdklKb4OlEjnH6vQ,The Muffin Girl,33.4158192286,-111.842153418,"456 W Main, Ste F",4.933333333333334,MESA,1,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+1028,AwqxDqqodPn57LqnoKtwxA,Wings Express,33.4009410111,-111.85657041299999,761 S Alma School Rd,3.6363636363636362,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+1029,SSg2JXBC-H3-9I_sWW6MQA,Old El Paso Tamales,33.4363934,-111.8153351,"730 E Brown Rd, Ste 109",4.043478260869565,MESA,1,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+1030,Jv5NmXlB3XuLR3yk7B8amw,Anzio Landing Italian Restaurant,33.462255,-111.71879399999999,2613 N Thunderbird Cir,2.88,MESA,0,average,,False,False,,False,False,0,0,1,0,0,0,0,0,0,0
+1031,9vij1n-WqXnnEsgzmwnoXg,Cafe Mix,33.4509365,-111.735452,"4405 E Mckellips Rd, Ste 106",4.333333333333333,MESA,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+1032,NBvckW2yMQQDNfWOzCdCJA,Long John Silver's,33.410095299999995,-111.6840295,313 S Power Rd,2.875,MESA,0,average,,False,False,True,False,False,0,1,0,0,1,0,0,1,0,0
+1033,7IVaamfpMdyVQVkhO9ntEA,KFC,33.4152,-111.772,2757 E Main St,1.3333333333333333,MESA,0,average,,False,False,False,False,False,0,0,0,0,0,0,0,1,0,0
+1034,mHIMBcS1rS77yTW47-77zA,Dinghao Shanghai Bistro,33.365881099999996,-111.8586047,"2711 S Alma School Rd, Ste 2",3.0,MESA,0,quiet,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+1035,2d3XmVrEcMJnf9dv67WGZg,Big City BBQ,33.3871396,-111.85661329999999,"1425 S Alma School Rd, Ste 105",3.8,MESA,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+1036,eoXI7xdnayP2gPN9jkhOdw,Chilero's Mexican Grill,33.436391,-111.63091599999998,"1157 N Ellsworth Rd, Ste 101",3.5384615384615383,MESA,0,quiet,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+1037,_FSuj1Xrlu37MdbA5D7y0Q,Charley's Steakery,33.3830888,-111.80265770000001,"1649 S Stapley Dr, Ste 106",2.75,MESA,0,average,,False,False,False,False,False,0,0,0,0,0,0,0,1,0,0
+1038,n2LK7yX5i2jS_k3uqx6nHg,Steve's Krazy Sub,33.3826818,-111.5997597,1752 S Signal Butte Rd,4.086956521739131,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+1039,Tio3EL8WMRtbmVk0Ga2XFA,Dogos El Yori,33.4083047,-111.80487930000001,1206 E Broadway Rd,4.5,MESA,0,average,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+1040,Rtaca3VZIioxy6N006NKaQ,Sonic - Mesa,33.3923183,-111.7543956,1260 S Val Vista Dr,1.3888888888888888,MESA,0,average,,,,True,,,0,0,0,0,0,0,0,1,0,0
+1041,e4NQLZynhSmvwl38hC4m-A,Backyard Taco,33.4227198,-111.79821229999999,1524 E University,4.290358744394619,MESA,1,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+1042,d0Cd737ndxy5Ornmpd-sGA,La Salsita,33.414803000000006,-111.83956599999999,311 W Main St,3.0,MESA,0,,,False,False,True,False,False,1,0,0,0,0,0,0,1,0,0
+1043,rsi6QZS49aMKQJT3chIhHQ,Dairy Queen,33.4523111,-111.70283400000001,5936 E McKellips Rd,2.4705882352941178,MESA,0,,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+1044,irJto0YhzVc5BDojslyfQg,America's Taco Shop,33.392811503400004,-111.683832295,"1229 S Power Rd, Ste 102",2.5208333333333335,MESA,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+1045,giF_C_zJEdggBLG03nQTKQ,Shaanxi Garden,33.4168863,-111.87385490000001,"67 N Dobson Rd, Unit 109",3.6,MESA,0,average,,False,False,,False,False,0,0,0,0,0,1,0,0,0,0
+1046,XdcRr8R5H8psvf-QxtuLMg,Barro's Pizza,33.4366029604,-111.78944385,1925 E Brown Rd,4.104761904761904,MESA,1,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+1047,9E_-MgxyfWNq-kWmjxSDkA,Chili's,33.4523048,-111.6871763,6648 E McKellips Rd,1.8955223880597014,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+1048,JQwMRgCMZJhIDxec1z7URQ,Sushi Kee,33.4135897405,-111.68395893799999,6825 E Main St,4.122950819672131,MESA,1,average,,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+1049,18Kq9h53nYbmXAIoMtj6HA,Village Inn,33.379912100000006,-111.8062972,1859 S Stapley Dr,2.98,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+1050,2_mMtnHH16EfL-AvQtk8xQ,Nekter Juice Bar,33.467164399999994,-111.6845101,2832 North Power Rd,3.9411764705882355,MESA,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+1051,PRUtZy3DUl4sPOisYfOAuw,Gyro House Mesa,33.3922454,-111.7530435,"3617 E Southern Ave, Ste 4",4.176470588235294,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+1052,n3WPGjxOOEp1qYgOS9mRSw,McDonald's,33.4327408,-111.87110990000002,909 N Dobson Rd,1.7142857142857142,MESA,0,quiet,,,,,,,0,0,0,0,0,0,0,1,0,0
+1053,wRFVfqbMZYsApIIiKn7DcQ,Pancho's Mexican Buffet,33.393234,-111.8620014,1356 W Southern Ave,3.0,MESA,0,loud,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+1054,NJLcn5fACNVzEu3jUpsgOA,Niki's Kitchen- Fry Bread,33.4001474,-111.80541140000001,816 S Stapley Rd,4.369565217391305,MESA,1,quiet,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+1055,hNtCJLsO_pNTZ1nsNxywpA,Mcdonalds,33.4522809,-111.68490449999999,6748 E Mckellips Rd,2.3333333333333335,MESA,0,,,,,,,,0,0,0,0,0,0,0,1,0,0
+1056,ZwbgW8k7hjGPW0x4NiGdjQ,Ruby Tuesday,33.390567,-111.6903269,6555 E Southern Ave,3.727272727272727,MESA,0,average,,,,,,,0,1,0,0,0,0,0,0,0,0
+1057,sZhUzhhj_83lgZFYzMsSfA,IHOP,33.436860700000004,-111.7201239,1150 N Higley Rd,2.3870967741935485,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+1058,D6xj8xnc-R7Y2y18isc0-A,Chick-fil-A,33.432579,-111.871702,905 N Dobson Rd,3.848101265822785,MESA,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,1,0,0
+1059,sWZbbpCt1a-bcKozfgkOQg,Schlotzsky's,33.4365559,-111.72108159999999,"1140 North Higley Rd, Ste 103",3.5238095238095237,MESA,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+1060,R-XlTnuAH4E53QUgFPJAkg,Dooby's Grill Cafe,33.3624072,-111.8763611,2909 S Dobson Rd,3.5384615384615383,MESA,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+1061,GM5rSSrYzw8qpbWD-nM0lA,Subway,33.422202,-111.73705700000001,4355 E University Dr,3.6,MESA,0,,,,,,,,0,0,0,0,0,0,0,1,0,0
+1062,oaNml4cV5D_MHMOVjNS-Bg,Taquitos Jalisco,33.4072906,-111.7877321,"437 S Gilbert Rd, Ste 2",4.197183098591549,MESA,1,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+1063,X0Sr6o_Tx1s6d-o0vRAwHA,Little Mesa Cafe,33.415046399999994,-111.74634040000001,3929 E Main St,3.142857142857143,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+1064,Dc7zk2Vi-55PNAX5KRoFRg,1001 Nights Hookah & Restaurant,33.3939617193,-111.846580344,"706 W Southern Ave, Ste 107",3.836734693877551,MESA,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+1065,9DS9nQCOMVfrFZtVtvspsA,Panda Express,33.3792194,-111.8389834,342 W Baseline Rd,2.142857142857143,MESA,0,average,,False,False,True,False,True,0,0,0,0,0,1,0,1,0,0
+1066,Dsg1yPrT8JxqNOMQf5pt0Q,Filiberto's Mexican Food,33.4155108,-111.7990529,1480 E. Main St 85203,3.4545454545454546,MESA,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+1067,kG9vs2Ks-MqV78cnjqKUGQ,Wendy's,33.4150573,-111.7345006,4433 E Main St,1.3846153846153846,MESA,0,,,,,False,,,0,0,0,0,0,0,0,1,0,0
+1068,jDQIKfsfJU3M8M6n0ESKFg,Carolina's Mexican Food Mesa,33.388167200000005,-111.8406176,1450 S Country Club Dr,3.5041322314049586,MESA,1,loud,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+1069,mNpaGTdKjqGV6xnytlr_Nw,Culver's,33.3811352,-111.7387821,1841 S Greenfield Rd,3.3376623376623376,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+1070,HdlbsjC-7uQTars7399TrQ,Carl's Jr.,33.390303310300006,-111.78883347799999,1352 S Gilbert Rd,2.1333333333333333,MESA,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+1071,8AH0BbxfwLEPR8WE8PBr6g,Panda Express,33.3799806,-111.68721969999999,1959 S Power Rd Space107,2.0,MESA,0,average,,False,False,False,False,False,0,0,0,0,0,1,0,1,0,0
+1072,3S1MilqTzANgLlJj1oQw2Q,Gusto's Pizza,33.4221397,-111.8660527,1620 W University Dr,3.6666666666666665,MESA,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+1073,cqhVOoW72Xsn1nA5yu0dQw,Bosa Donuts,33.4300883,-111.8737313,"805 North Dobson Rd, Ste 108",3.9285714285714284,MESA,0,,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+1074,VYLQ3bMCqmHiNO2FS8aAsg,Venezias New York Style Pizzeria,33.3657827,-111.6350577,"2721 S Ellsworth Rd, Ste 107",3.898989898989899,MESA,1,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+1075,VoHTd4QkPGWXl6IGI72isQ,Guru Palace,33.3813133,-111.78732099999999,2048 E Baseline Rd,3.712041884816754,MESA,1,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+1076,odjlXPSimSwZex3q-IJpeQ,Port of Subs,33.409130876199995,-111.685162336,344 S Power Rd,3.75,MESA,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+1077,5eLnwvMwkzqeeV_NcecYZw,Family Cafe,33.3653686,-111.8591482,2740 S Alma School Rd,3.0526315789473686,MESA,0,quiet,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+1078,a5--WEPUdH7smreNuqj4aQ,New China Buffet,33.3928364,-111.7884327,1230 S Gilbert Rd,1.263157894736842,MESA,0,loud,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+1079,_wmdi3TLw5cGBV33hd0VLw,Subway,33.4220234,-111.8402676,354 N Country Club Dr,5.0,MESA,1,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+1080,Ffs6pDirpl_bpOG3M7IQ8g,Los Favoritos,33.416645,-111.634846,9124 E Main St,3.896551724137931,MESA,0,,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+1081,qEP4pUOMWr3rMTP38QSX2g,Jean's Itsy Bitsy Diner,33.4178919,-111.7092419,5641 E Albany St,3.8333333333333335,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+1082,RHOMlCOwON4Uq-xvShRFWw,Burger King,33.389306,-111.8404923,1440 S Country Club Dr,2.5,MESA,0,,,False,False,,False,False,0,0,0,0,0,0,0,1,0,0
+1083,JMQDqoJHyCCguklrhPQEPw,Xaviers Casa Reynoso,33.39434,-111.721003,"5110 E Southern Ave, Ste 104",3.6904761904761907,MESA,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+1084,EdPpsG0GujcVefs3ANGEGA,Twisted Pies Pizzeria,33.415046399999994,-111.74634040000001,"3929 E Main St, Ste 116",4.472972972972973,MESA,1,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+1085,GAyHbuUTtKAdpHiFGJuezQ,Cracker Barrel Old Country Store,33.4347316964,-111.86773183700001,1007 N Dobson Rd,3.3783783783783785,MESA,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+1086,v4EAzXkZeZud-CzyBG9skw,Starbucks,33.3256713832,-111.687503885,4972 S Power Rd,3.0,MESA,0,,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+1087,W3okXUwaGiJXUBwtoEQfMA,Zio's Pizza & Wings,33.4228607,-111.86598529999999,"1620 W University Dr, Ste 3",3.635514018691589,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+1088,km-AyFIDjsg0_7uabSqClg,Dragonfly Vietnamese Kitchen,33.394801799999996,-111.87510420000001,1116 S Dobson Rd,3.5,MESA,0,quiet,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+1089,7siBs9Z5lc8wEzD62EGszw,Dolce Vita Italian Grocer,33.436023999999996,-111.717178,"5251 E Brown Rd, Ste 103",4.645161290322581,MESA,1,average,,False,False,True,True,False,0,0,0,0,0,0,0,0,0,0
+1090,dUkyIdP5j4vPE0uFnDfaWg,Papa John's Pizza,33.4349556,-111.82220900000002,1063 N Mesa Dr,2.375,MESA,0,average,,False,False,True,False,False,0,0,1,0,0,0,0,1,0,0
+1091,LKOo9nZKMI6WPzSa7wMvOg,Panera Bread,33.3811797288,-111.757395566,3426 E Baseline Rd,2.892857142857143,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+1092,piwrorOBUYQ0n0rNI0OKsw,Got Sushi,33.4668999804,-111.684424805,"6744 E McDowell Rd, Ste 102",3.7672413793103448,MESA,1,average,,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+1093,GQAvKHDfuBws7312iIqX6Q,Buono's Pizza,33.3640435,-111.87749779999999,"2023 W Guadalupe Rd, Ste 12",3.036764705882353,MESA,0,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+1094,TynJUYwpHgIjJqi4Xl8TyQ,Christina's Authentic Mexican Food Restaurant,33.42370519999999,-111.7728895,2706 E University Dr,4.029850746268656,MESA,1,quiet,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+1095,iIFMeiovZ2o7RzJ_1YYVww,Restaurant Huauchinangos Mexican Food,33.422730800000004,-111.8658315,"1620 W University Dr, Ste 5",4.412698412698413,MESA,1,average,,False,False,False,False,False,1,0,0,0,0,0,0,0,0,0
+1096,H6UYKqj0iO_hvvlM76nh0A,Tropical Smoothie Cafe,33.3798686,-111.6904486,6614 E Baseline Rd,2.2289156626506026,MESA,0,,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+1097,Eb_k0Ut7ScXlNEv2QFZujA,Fuddruckers,33.3938864,-111.69121270000001,6455 East Southern Ave,3.7906976744186047,MESA,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+1098,V09mimWe6zc-GKhPnLWbdA,Panda Express,33.3919522,-111.8619259,"2106 Fiesta Mall, Ste 2106",1.4,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,1,0,1,0,0
+1099,RoJ9SBgzyNYlJliyG6YIew,Pizza Hut,33.3788183,-111.6905887,"6671 E Baseline Rd, Ste 121",1.8181818181818181,MESA,0,,,,,,,,0,0,1,0,0,0,0,0,0,0
+1100,YyY4DFr-OFtpN2ThrLHTAQ,Red Lobster,33.393393100000004,-111.6983429,6149 E Southern Ave,2.984126984126984,MESA,0,average,,False,False,True,False,False,0,1,0,0,1,0,0,0,0,0
+1101,kGWj7RgrVBmDzAHz78rwwA,Mesa Drummer,33.4361696,-111.8392662,"1211 N Country Club, Ste 9",3.909090909090909,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+1102,bLhH9B7KbLJb_rvPzPauFw,Jimmy John's,33.393062699999994,-111.6842143,1229 S Power Rd,3.3174603174603177,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+1103,yLMSxHjK56Az-KtMQyG7LQ,Stufrageous Stuffed Burgers,33.3935046,-111.8540733,"1036 W Southern Ave, Ste 104",4.246049661399549,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+1104,JoRw6o4ud6hkpX3IOo_l-Q,Pho Thuan Thanh,33.405652,-111.87524599999999,502 S Dobson Rd,3.9152542372881354,MESA,1,average,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+1105,eMnCAvoCsZ3L1UuI4A0Vtw,Golden Corral,33.4499533,-111.6849621,1868 N Power Rd,3.3333333333333335,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+1106,G4PqbK9aigbAynfrjs38Tw,Denny's,33.4154821305,-111.804935038,1210 E Main,2.8333333333333335,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,1,0,0
+1107,KySn_B1woRIaD5c8_OqHfQ,Domino's Pizza,33.4151877,-111.6905314,6515 E Main St,2.8421052631578947,MESA,0,,,,,True,,,0,0,1,0,0,0,0,0,0,0
+1108,mcGfunYZWPAxiAKQqEN0IQ,Sonic of Mesa #2,33.378748,-111.684592,6935 E Baseline Rd,1.7777777777777777,MESA,0,average,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+1109,549N1BNPDMvnrdb7qOoolQ,"First Watch - Breakfast, Brunch & Lunch",33.3830075,-111.87454199999999,1665 S Dobson Rd,3.7523809523809524,MESA,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+1110,dGhxlcnDVihFBaqJ3yrfMw,Applebee's Neighborhood Grill & Bar,33.4368843,-111.7183679,1143 N Higley Rd,2.6470588235294117,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+1111,R5WkKWo9ae2gN2feWtB_4g,Serrano's,33.3965249,-111.6841491,1021 S Power Rd,3.036363636363636,MESA,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+1112,ujEnNMZRerWlSOKxS6TO1g,Buffalo Wild Wings,33.4494697,-111.7349063,4425 E Mckellips Rd,3.0,MESA,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+1113,Xg7gOJjwtzmFGBxtSfOBlA,Green Lotus Vegetarian,33.413244,-111.87357970000001,"1933 W Main St, Ste 7",3.95,MESA,1,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,1
+1114,luM8KQ2hMsD2r_4WlluUbA,East Valley Cafe,33.4157036,-111.6995673,6102 E Main St,3.452830188679245,MESA,0,quiet,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+1115,gP3N1gZlgxBMVcrG1ZTP2g,McDonald's,33.4153813,-111.85723300000001,1212 W Main St,1.1666666666666667,MESA,0,,,,,,,,0,0,0,0,0,0,0,1,0,0
+1116,8Rh8YTwQjiLQq8ycBrKqkw,Fat Willy's Clubhouse Pub & Grill,33.4176828798,-111.649857759,650 N Hawes Rd,3.8666666666666667,MESA,0,average,,,,True,,,0,1,0,0,0,0,0,0,0,0
+1117,M_JZsxuSquWmqcETqz3bNg,Krazy Sub-Steve's,33.436521,-111.8391989,1211 N Country Club Dr,3.2758620689655173,MESA,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+1118,BrzMb6fe_GxILIJvnh8weA,Arby's,33.4514106,-111.78896670000002,1923 E McKellips Rd,1.6666666666666667,MESA,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+1119,FtW8cRwh_mRT6efsjtWABA,Cafe 8,33.3937103,-111.7180642,"5235 E Southern Ave, Ste 107",4.154545454545454,MESA,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,1,1
+1120,Dj8MfG5-UGbjp9GxaNnGxQ,On The Border Mexican Grill & Cantina,33.3850118,-111.68562220000001,1710 S Power Rd,2.8205128205128207,MESA,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+1121,1QJFpZxLbHbXSKohWp9uIA,Red White & Brew,33.467338,-111.68502,"6740 E McDowell Rd, Ste 102",4.121813031161473,MESA,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+1122,Gl01qPpjC9DKN_Py3IEnpA,Chipotle Mexican Grill,33.3796235,-111.7559876,"3440 E Baseline Rd, Unit 104",3.6862745098039214,MESA,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,1,0,0
+1123,dddUz7IweLuFYelc3ZIyNA,Pollo Picante,33.4261011265,-111.839739382,"635 N Country Club, Ste 3",4.267857142857143,MESA,1,average,,False,False,True,False,False,1,1,0,0,0,0,0,0,0,0
+1124,GPJAacvrxZpbJvJiYvWitQ,Taco Bell,33.415539,-111.68611100000001,6728 Main St,3.4,MESA,0,quiet,,,,,,,1,0,0,0,0,0,0,1,0,0
+1125,vYn0gishV27DpfM_loZITQ,Chili's,33.389268,-111.68421200000002,1435 S Power Rd,2.803030303030303,MESA,0,very_loud,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+1126,xBwE7uIx-yN-n4OpNeAaDQ,Rosati's Pizza,33.4392569,-111.73524270000001,"1309 N Greenfield Rd, Ste 100",2.0625,MESA,0,quiet,,False,False,False,False,False,0,0,1,0,0,0,0,0,0,0
+1127,ihheHS4noJayWgECQpeJ_A,Teharu Sushi,33.385164941599996,-111.68714448799999,"6638 E Superstition Springs Blvd, Ste 101",3.2867132867132867,MESA,1,average,,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+1128,BLML3lO-v_eD2AcTXtBPyg,Pho An An,33.42370519999999,-111.7728895,"2706 E University St, Ste 8",2.2941176470588234,MESA,0,quiet,,,,True,,,0,0,0,0,0,0,0,0,0,0
+1129,dYMaPxIh0ULhJIi3Ck2EGg,McDonald's,33.4522293448,-111.685075164,6748 E McKellips Rd,1.9,MESA,0,,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+1130,_8AlKWBLY9F9zX8siTOr9A,Pita Pit,33.3936568,-111.87717930000001,"2110 W Southern, Ste B",4.421052631578948,MESA,0,quiet,,False,False,False,False,False,0,0,0,0,0,0,0,1,0,0
+1131,2CGXZdCDEyM4Ba0Q-K8WyA,Flip's Burgers & Brews,33.4300883,-111.8737313,"805 N Dobson Rd, Ste 101",3.2857142857142856,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+1132,ZaL3mKpmt1dopkq7bdetbQ,Whataburger,33.4077264514,-111.77157104,2747 E Broadway Rd,2.6666666666666665,MESA,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,1,0,0
+1133,rPk01P-gHFZnBtRyfc7Wrg,Rudy's Burritos,33.377437,-111.63466100000001,9221 E Baseline Rd,4.1521739130434785,MESA,1,average,,False,False,True,False,True,1,0,0,0,0,0,0,0,0,0
+1134,d2JjI5tu_fD9YEP4QhBOww,La Merced,33.4217887,-111.85040520000001,855 W University Dr,3.6315789473684212,MESA,0,loud,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+1135,vEb2SmLVYLm4YoO0uJZzww,Conti's Bar & Grill,33.4126930237,-111.68434143100001,155 S Power Rd,3.0,MESA,0,,,,,,,,0,1,0,0,0,0,0,0,0,0
+1136,AsKb-lUO_3MYFg6df9QTsw,Aliberto's,33.4221474,-111.83895190000001,263 W University Dr,3.764705882352941,MESA,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+1137,xTMkZYKEsPwuDvsjyl3BFQ,El Chavo Mexican Restaurant,33.4349556,-111.82220900000002,1101 N Mesa Dr,4.24,MESA,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+1138,sUAJOwb1yFaSDreFADEO5Q,Nunthaporn's Thai Cuisine,33.4148132752,-111.83220002799999,17 W Main St,3.7403314917127073,MESA,1,average,,False,False,True,False,True,0,0,0,0,0,0,1,0,0,0

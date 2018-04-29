@@ -1,0 +1,100 @@
+{
+  "name": "Imperium Romanorum",
+  "children": [
+    {
+      "name": "Urbs Romae",
+      "children": [
+        { "name": "Regio I Porta Capena","size":10 },
+        { "name": "Regio II Caelimontium","size":10 },
+        { "name": "Regio III Isis et Serapis","size":10 },
+        { "name": "Regio IV Templum Pacis","size":10 },
+        { "name": "Regio V Esquiliae","size":10 },
+        { "name": "Regio VI Alta Semita","size":10 },
+        { "name": "Regio VII Via Lata","size":10 },
+        { "name": "Regio VIII Forum Romanum","size":10 },
+        { "name": "Regio IX Circus Flaminius","size":10 },
+        { "name": "Regio X Palatium","size":10 },
+        { "name": "Regio XI Circus Maximus","size":10 },
+        { "name": "Regio XII Piscina Publica","size":10 },
+        { "name": "Regio XIII Aventinus","size":10 },
+        { "name": "Regio XIV Transtiberim","size":10 }
+
+      ]
+    },{
+      "name": "Italia",
+      "children": [
+        { "name": "Regio I Latium et Campania","size":35 },
+        { "name": "Regio II Apulia et Calabria","size":35 },
+        { "name": "Regio III Lucania et Brutium","size":35 },
+        { "name": "Regio IV Samnium","size":35 },
+        { "name": "Regio V Picenum","size":35 },
+        { "name": "Regio VI Umbria et Ager Gallicus","size":35 },
+        { "name": "Regio VII Etruria","size":35 },
+        { "name": "Regio VIII Aemilia","size":35 },
+        { "name": "Regio IX Liguria","size":35 },
+        { "name": "Regio X Venetia et Histria","size":35 },
+        { "name": "Regio XI Transpadana","size":35 }
+      ]
+    },{
+      "name": "Senatorial Provinces",
+      "children": [
+        { "name": "Sicilia","size":100 },
+        { "name": "Corsica et Sardinia","size":80 },
+        { "name": "Narbonensis","size":100},
+        { "name": "Baetica","size":100},
+        { "name": "Africa Proconsularis","size":150},
+        { "name": "Cyrenaica et Creta","size":150},
+        { "name": "Cyprus","size":50},
+        { "name": "Asia","size":75},
+        { "name": "Bithynia et Pontus","size":75},
+        { "name": "Macedonia","size":60},
+        { "name": "Achaia","size":60},
+        { "name": "Epirus","size":60}
+      ]
+    },
+    {
+      "name": "Imperial Provinces",
+      "children": [
+        { "name": "Alpes Maritimae", "size":30 },
+        { "name": "Alpes Cotiae", "size":30 },
+        { "name": "Alpes Poeniae", "size":30 },
+        { "name": "Germania Superior", "size":30 },
+        { "name": "Germania Inferior", "size":30 },
+        { "name": "Belgica", "size":40 },
+        { "name": "Britannia", "size":50 },
+        { "name": "Lugdunensis", "size":40 },
+        { "name": "Aquitania", "size":40 },
+        { "name": "Tarraconensis", "size":60 },
+        { "name": "Lusitania", "size":50 },
+        { "name": "Mauretania Tingitana", "size":30 },
+        { "name": "Mauretania Caesariensis", "size":30 },
+        { "name": "Aegyptus", "size":70 },
+        { "name": "Arabia Petraea", "size":40 },
+        { "name": "Iudaea", "size":30 },
+        { "name": "Syria", "size":50 },
+        { "name": "Mesopotamia", "size":40 },
+        { "name": "Assyria", "size":40 },
+        { "name": "Armenia", "size":30 },
+        { "name": "Cappadocia", "size":40 },
+        { "name": "Cilicia", "size":30 },
+        { "name": "Galatia", "size":30 },
+        { "name": "Lycia et Pamphylia", "size":30 },
+        { "name": "Thracia", "size":30 },
+        { "name": "Moesia Inferior", "size":30 },
+        { "name": "Moesia Superior", "size":30 },
+        { "name": "Dacia", "size":40 },
+        { "name": "Dalmatia", "size":30 },
+        { "name": "Panonia Inferior", "size":30 },
+        { "name": "Panonia Superior", "size":30 },
+        { "name": "Noricum", "size":30 },
+        { "name": "Raetia", "size":30 }
+      ]
+    },
+    {
+      "name": "Client States",
+      "children": [
+        { "name": "Regnum Bospori", "size":30 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,676 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Yelp Recommender System</title>
+
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+    <!-- Latest compiled JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+
+    <!--CSS FILES-->
+    <link href="CSS/header.css" rel="stylesheet"/>
+    <link href="CSS/chloropeth.css" rel="stylesheet"/>
+    <link href="CSS/googlemap.css" rel="stylesheet"/>
+    <link href="CSS/heatmap.css" rel="stylesheet"/>
+    <link href="CSS/dropdown.css" rel="stylesheet">
+
+
+    <link href="https://netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css" rel="stylesheet"
+          id="bootstrap-css">
+    <link rel="stylesheet" href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+          integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+
+    <!--JavaScript Files and JQuery-->
+    <script src="https://d3js.org/d3.v3.min.js"></script>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+
+    <!--<script src="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>-->
+    <!--<script src="js/jquery-1.11.3.min.js"></script>-->
+    <!--<script src="js/bootstrap.min.js"></script>-->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+            integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+            crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+            integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+            crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+            integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+            crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+    <script src="https://netdna.bootstrapcdn.com/bootstrap/3.1.0/js/bootstrap.min.js"></script>
+
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+
+
+</head>
+
+<body style="background-color: white">
+<section id="container auth">
+    <div class="header" style="background-color: #2A363B">
+        <a href="#default" class="logo">Yelp Recommender</a>
+        <div class="header-right">
+            <a class="active" href="#Map">Home</a>
+            <a href="#restaurant">Restaurant_Info</a>
+            <a href="Top_Restaurant.html">Top Restaurants</a>
+            <a href="team.html">Team</a>
+
+        </div>
+    </div>
+</section>
+
+<section id="main-content">
+
+    <div id="chartContainer" style="text-align: center">
+
+        <h2 style="text-align: center">Recommended Restaurants</h2>
+        <div class="col-xs-9">
+
+            <div class="form-group">
+                <div class="container auth">
+                    <label class=" control-label" for="selectbasic">City: </label>
+
+                    <select id="selectbasic1" name="selectbasic" class="form-control" style="text-align: center">
+                        <option value="1">Phoenix</option>
+                        <option value="2">Los Angeles</option>
+                        <option value="3">Las Vegas</option>
+                        <option value="4">San Francisco</option>
+                        <option value="5">New York</option>
+
+                    </select>
+                </div>
+            </div>
+        </div>
+        <div class="col-xs-3">
+
+            <div class="smoothscroll btn btn--stroke" style="text-align: center; background-color: #28ABE3">
+
+                <a href="#works">
+                    <h4>Latest Projects</h4>
+                </a>
+            </div>
+            <div><br></div>
+
+            <div class="smoothscroll btn btn--stroke" style="text-align: center; background-color: #28ABE3">
+                <!--<h2><span>Average People Visiting</span></h2>-->
+
+                <a href="#works">
+                    <h4>Latest Projects</h4>
+                </a>
+            </div>
+        </div>
+
+    </div>
+
+    <script src="http://dimplejs.org/dist/dimple.v2.3.0.min.js"></script>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+
+    <script type="text/javascript">
+        var svg = dimple.newSvg("#chartContainer", 1300, 750);
+        d3.tsv("Data/example_data.tsv", function (data) {
+            var myChart = new dimple.chart(svg, data);
+            myChart.setBounds(80, 80, 1150, 600);
+            myChart.addMeasureAxis("x", "Reviews");
+            myChart.addCategoryAxis("y", ["Rating"]);
+            myChart.addMeasureAxis("z", "Checkins");
+            var s = myChart.addSeries(["Name", "RestaurantID", "Recommended"], dimple.plot.bubble);
+//            myChart.addSeries("Name", dimple.plot.bubble);
+//            var s = myChart.addSeries("Name", dimple.plot.bubble);
+//                x.shapes.selectAll("path.dimple-custom-axis-line").style("stroke", "white");
+//            x.shapes.select("*").style("fill", "white")
+
+            myChart.assignColor("High","green");
+            myChart.assignColor("Medium","#E8CA25");
+            myChart.assignColor("Low","red");
+
+            myChart.draw();
+
+
+            s.shapes.on("click", function (e) {
+                console.log(e.aggField[1]);
+            });
+//            myChart.on("click", function (e) {
+//                dimple._showPointTooltip(e, this, myChart, addSeries("Name", dimple.plot.bubble));
+        });
+
+    </script>
+
+
+    </div>
+
+    <div class="Map">
+
+        <div>
+
+
+            <div class="container auth" style="width:25%;float:right; color: black">
+                <div id="big-form" class="well auth-box">
+                    <form>
+                        <fieldset>
+
+                            <!-- Form Name -->
+                            <!--<legend>Explore More</legend>-->
+
+
+                            <!-- Select Basic -->
+                            <div class="form-group">
+                                <label class=" control-label" for="selectbasic">City</label>
+                                <div class="">
+                                    <select id="selectbasic" name="selectbasic" class="form-control">
+                                        <option value="1">Phoenix</option>
+                                        <option value="2">Los Angeles</option>
+                                        <option value="3">Las Vegas</option>
+                                        <option value="4">San Francisco</option>
+                                        <option value="5">New York</option>
+
+                                    </select>
+                                </div>
+                            </div>
+
+
+                            <!-- Text input-->
+                            <div class="form-group">
+                                <label class=" control-label" for="textinput">Restaurant Name</label>
+                                <div class="">
+                                    <input id="textinput" name="textinput" placeholder="Restaurant Name"
+                                           class="form-control input-md" type="text">
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <label class=" control-label" for="checkboxes">Cuisines</label>
+                                <div class="">
+                                    <label class="checkbox-inline" for="checkboxes-0">&nbsp;
+                                        <input name="checkboxes" id="checkboxes-0" value="1" type="checkbox">
+                                        Korean
+                                    </label>
+                                    <label class="checkbox-inline" for="checkboxes-1">
+                                        <input name="checkboxes" id="checkboxes-1" value="2" type="checkbox">
+                                        Chinese
+                                    </label>
+                                    <label class="checkbox-inline" for="checkboxes-2">
+                                        <input name="checkboxes" id="checkboxes-2" value="3" type="checkbox">
+                                        Indian
+                                    </label>
+                                    <label class="checkbox-inline" for="checkboxes-3">
+                                        <input name="checkboxes" id="checkboxes-3" value="4" type="checkbox">
+                                        American
+                                    </label>
+                                    <label class="checkbox-inline" for="checkboxes-4">
+                                        <input name="checkboxes" id="checkboxes-4" value="4" type="checkbox">
+                                        Italian
+                                    </label>
+                                    <label class="checkbox-inline" for="checkboxes-5">
+                                        <input name="checkboxes" id="checkboxes-5" value="4" type="checkbox">
+                                        Thai
+                                    </label>
+                                </div>
+                            </div>
+
+
+                            <!-- Button (Double) -->
+                            <!--<div class="form-group">-->
+                            <!--<div class="">-->
+                            <!--<button id="button1id" name="button1id" class="btn btn-success">5 Star</button>-->
+                            <!--<button id="button2id" name="button1id" class="btn btn-success">4 Star</button>-->
+                            <!--<button id="button3id" name="button1id" class="btn btn-warning">3 Star</button>-->
+                            <!--<button id="button4id" name="button2id" class="btn btn-danger">2 Star</button>-->
+                            <!--<button id="button5id" name="button2id" class="btn btn-danger">1 Star</button>-->
+
+                            <!--</div>-->
+
+
+                            <!--</div>-->
+                            <div class="form-group">
+                                <link href="CSS/slider.css" rel="stylesheet"/>
+                                <!--<script type='text/javascript' src='JS/slider.js'></script>-->
+
+
+                                <div class="slidecontainer">
+                                    <label class=" control-label">Rating > <span id="demo"></span></label>
+
+                                    <input type="range" min="1" max="5" value="2" class="slider" id="myRange">
+
+                                </div>
+
+
+                                <!--&lt;!&ndash; Search input&ndash;&gt;-->
+                                <!--<div class="form-group">-->
+                                <!--<label class=" control-label" for="searchinput">Search Input</label>-->
+                                <!--<input id="searchinput" name="searchinput" placeholder="Search and enter" class="form-control input-md" type="search">-->
+                                <!--</div>-->
+
+                                <div class="form-group">
+                                    <br>
+                                    <button type="button" class="btn btn-default btn-sm dropdown-toggle"
+                                            data-toggle="dropdown">Additional Features
+                                    </button>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="#" class="small" data-value="option1" tabIndex="-1">&nbsp;Option
+                                            1</a></li>
+                                        <ul>
+                                            <li><a href="#" class="small" data-value="option2" tabIndex="-1"><input
+                                                    type="checkbox"/>&nbsp;Option 2</a></li>
+                                            <li><a href="#" class="small" data-value="option3" tabIndex="-1"><input
+                                                    type="checkbox"/>&nbsp;Option 3</a></li>
+                                        </ul>
+                                        <li><a href="#" class="small" data-value="option4" tabIndex="-1"><input
+                                                type="checkbox"/>&nbsp;Option 4</a></li>
+                                        <li><a href="#" class="small" data-value="option5" tabIndex="-1"><input
+                                                type="checkbox"/>&nbsp;Option 5</a></li>
+                                        <li><a href="#" class="small" data-value="option6" tabIndex="-1"><input
+                                                type="checkbox"/>&nbsp;Option 6</a></li>
+                                    </ul>
+
+
+                                </div>
+                                <div style="align-items: center">
+                                    <button id="button6id" name="button1id" class="btn btn-success"
+                                            style="align-items: center; color: black">Submit
+                                    </button>
+                                </div>
+
+                            </div>
+                        </fieldset>
+
+                    </form>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+
+
+            <!--<form style="alignment: center">-->
+            <!--<label style="align-self: center; color: white">Select State: <br></label>-->
+            <!--<select id="state" style="align-items: center">-->
+            <!--<option value="AL"> AL</option>-->
+            <!--<option value="AK"> AK</option>-->
+            <!--<option value="AZ" SELECTED> AZ</option>-->
+            <!--<option value="AR"> AR</option>-->
+            <!--<option value="CA"> CA</option>-->
+            <!--<option value="CO"> CO</option>-->
+            <!--<option value="CT"> CT</option>-->
+            <!--<option value="DE"> DE</option>-->
+            <!--<option value="DC"> DC</option>-->
+            <!--<option value="FL"> FL</option>-->
+            <!--<option value="GA"> GA</option>-->
+            <!--<option value="HI"> HI</option>-->
+            <!--<option value="ID"> ID</option>-->
+            <!--<option value="IL"> IL</option>-->
+            <!--<option value="IN"> IN</option>-->
+            <!--<option value="IA"> IA</option>-->
+            <!--<option value="KS"> KS</option>-->
+            <!--<option value="KY"> KY</option>-->
+            <!--<option value="LA"> LA</option>-->
+            <!--<option value="ME"> ME</option>-->
+            <!--<option value="MD"> MD</option>-->
+            <!--<option value="MA"> MA</option>-->
+            <!--<option value="MI"> MI</option>-->
+            <!--<option value="MN"> MN</option>-->
+            <!--<option value="MS"> MS</option>-->
+            <!--<option value="MO"> MO</option>-->
+            <!--<option value="MT"> MT</option>-->
+            <!--<option value="NE"> NE</option>-->
+            <!--<option value="NV"> NV</option>-->
+            <!--<option value="NH"> NH</option>-->
+            <!--<option value="NJ"> NJ</option>-->
+            <!--<option value="NM"> NM</option>-->
+            <!--<option value="NY"> NY</option>-->
+            <!--<option value="NC"> NC</option>-->
+            <!--<option value="ND"> ND</option>-->
+            <!--<option value="OH"> OH</option>-->
+            <!--<option value="OK"> OK</option>-->
+            <!--<option value="OR"> OR</option>-->
+            <!--<option value="PA"> PA</option>-->
+            <!--<option value="RI"> RI</option>-->
+            <!--<option value="SC"> SC</option>-->
+            <!--<option value="SD"> SD</option>-->
+            <!--<option value="TN"> TN</option>-->
+            <!--<option value="TX"> TX</option>-->
+            <!--<option value="UT"> UT</option>-->
+            <!--<option value="VT"> VT</option>-->
+            <!--<option value="VA"> VA</option>-->
+            <!--<option value="WA"> WA</option>-->
+            <!--<option value="WV"> WV</option>-->
+            <!--<option value="WI"> WI</option>-->
+            <!--<option value="WY"> WY</option>-->
+            <!--</select>-->
+            <!--<br>-->
+            <!--<label align="center">and  </label>-->
+            <!--<br>-->
+            <!--<label align = "center"> Cuisine:</label>-->
+            <!--<select id="cuisine">-->
+            <!--<option value="All" selected> &#45;&#45;Select a cuisine&#45;&#45;</option>-->
+            <!--<option value="American(New)"> American(New)</option>-->
+            <!--<option value="American(Tradition)"> American(Tradition)</option>-->
+            <!--<option value="Asian Fusion"> Asian Fusion</option>-->
+            <!--<option value="Barbeque"> Barbeque</option>-->
+            <!--<option value="Bars"> Bars</option>-->
+            <!--<option value="Breakfast & Brunch"> Breakfast & Brunch</option>-->
+            <!--<option value="Burgers"> Burgers</option>-->
+            <!--<option value="Cafes"> Cafes</option>-->
+            <!--<option value="Chicken Wings"> Chicken Wings</option>-->
+            <!--<option value="Chinese"> Chinese</option>-->
+            <!--<option value="Fast Food"> Fast Food</option>-->
+            <!--<option value="Indian"> Indian</option>-->
+            <!--<option value="Italian"> Italian</option>-->
+            <!--<option value="Japanese"> Japanese</option>-->
+            <!--<option value="Korean"> Korean</option>-->
+            <!--<option value="Mexican"> Mexican</option>-->
+            <!--<option value="Pizza"> Pizza</option>-->
+            <!--<option value="Sandwiches"> Sandwiches</option>-->
+            <!--<option value="Thai"> Thai</option>-->
+            <!--</select>-->
+
+            <!--<div id="div1" data-role="rangeslider">-->
+            <!--<label for="price-min">Ratings:</label>-->
+            <!--<input type="range" name="price-min" id="price-min" value="1.0" min="1.0" max="5.0"-->
+            <!--step="0.1">-->
+            <!--</div>-->
+
+            <!--<p align="center"> OR </p>-->
+            <!--<label> Enter Restaurant Name: </label>-->
+            <!--<input type="text">-->
+            <!--<input type="button" id="formSubmit" onclick="formsubmitAction()" value="Submit!">-->
+
+            <!--</form>-->
+
+            <div class="container auth" align="left">
+
+
+                <div id="map" class="well auth-box1"></div>
+                <script type='text/javascript' src='JS/googleMap.js'></script>
+                <script async defer
+                        src="https://maps.googleapis.com/maps/api/js?key=
+AIzaSyBoXjNEG-fyKxtcbZveW8jJSbYCMOkwEnI
+&callback=initMap">
+                </script>
+                <!--</div>-->
+            </div>
+
+
+        </div>
+
+    </div>
+
+    <!--<div class="col-xs-6">-->
+    <!--<h2 style="color: white">&nbsp;&nbsp;Best Rated</h2>-->
+
+    <!--<div class="col-xs-6">-->
+    <!--<div class="small-box bg-green">-->
+    <!--<div class="inner" style="text-align: center; background-color: #1FDA9A">-->
+    <!--<h3><span>Number of Restaurants</span></h3>-->
+    <!--</div>-->
+    <!--</div>-->
+    <!--</div>-->
+
+    <!--<div class="col-xs-6">-->
+    <!--<div class="small-box bg-green">-->
+    <!--<div class="inner" style="text-align: center; background-color: #28ABE3">-->
+    <!--<h2><span>Average People Visiting</span></h2>-->
+    <!--</div>-->
+    <!--</div>-->
+    <!--</div>-->
+
+    <!--<div class="col-xs-6">-->
+    <!--<div class="small-box bg-green">-->
+    <!--<div class="inner" style="text-align: center; background-color: #DB3340">-->
+    <!--<h3><span>Number of Restaurants</span></h3>-->
+    <!--</div>-->
+    <!--</div>-->
+    <!--</div>-->
+
+
+    <!--<div class="col-xs-6">-->
+    <!--<div class="small-box bg-green">-->
+    <!--<div class="inner" style="text-align: center; background-color: #DB3340">-->
+    <!--<h2><span>Number of Restaurants</span></h2>-->
+    <!--</div>-->
+    <!--</div>-->
+    <!--</div>-->
+    <!--</div>-->
+
+    <div class="col-xs-6">
+        <h2 style="color: black">&nbsp;&nbsp;Most Popular</h2>
+
+
+        <!--<div class="col-xs-6">-->
+            <!--<div>-->
+                <!--<div class="button glow-button" style="text-align: center; background-color: #1FDA9A">-->
+                    <!--<a href="#works">-->
+                        <!--<h1>Latest Projects</h1>-->
+                    <!--</a></div>-->
+            <!--</div>-->
+        <!--</div>-->
+
+
+        <div class="col-xs-6">
+            <div>
+                <div class="smoothscroll btn btn--stroke" style="text-align: center; background-color: #1FDA9A">
+                    <a href="#works">
+                        <h2>Latest Projects</h2>
+                    </a></div>
+            </div>
+        </div>
+
+        <div class="col-xs-6">
+            <div>
+                <div class="smoothscroll btn btn--stroke" style="text-align: center; background-color: #28ABE3">
+                    <!--<h2><span>Average People Visiting</span></h2>-->
+
+                    <a href="#works">
+                        <h2>Latest Projects</h2>
+                    </a>
+                </div>
+            </div>
+            <br>
+
+        </div>
+
+        <div class="col-xs-6">
+            <div class="small-box bg-green">
+                <div class="smoothscroll btn btn--stroke" style="text-align: center; background-color: #28ABE3">
+                    <!--<h2><span>Average People Visiting</span></h2>-->
+
+                    <a href="#works">
+                        <h2>Latest Projects</h2>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-xs-6">
+            <div>
+                <div class="smoothscroll btn btn--stroke" style="text-align: center; background-color: #28ABE3">
+                    <!--<h2><span>Average People Visiting</span></h2>-->
+
+                    <a href="#works">
+                        <h2>Latest Projects</h2>
+                    </a>
+                </div>
+            </div>
+
+        </div>
+
+
+        <!--<div class="col-xs-6">-->
+        <!--<div class="small-box bg-green">-->
+        <!--<div class="inner" style="text-align: center; background-color: #DB3340">-->
+        <!--<h2><span>Number of Restaurants</span></h2>-->
+        <!--</div>-->
+        <!--</div>-->
+        <!--</div>-->
+
+        <!--<div>-->
+        <!--<a href="#works" class="smoothscroll btn btn&#45;&#45;stroke">-->
+        <!--Latest Projects-->
+        <!--</a>-->
+        <!--<a href="#about" class="smoothscroll btn btn&#45;&#45;stroke">-->
+        <!--More About Me-->
+        <!--</a>-->
+        <!--</div>-->
+
+
+        <!--<div class="col-xs-6">-->
+        <!--<div class="small-box bg-green">-->
+        <!--<div class="inner" style="text-align: center; background-color: #DB3340">-->
+        <!--<h2><span>Number of Restaurants</span></h2>-->
+        <!--</div>-->
+        <!--</div>-->
+        <!--</div>-->
+        <!--</div>-->
+
+        <!--<div class="card" style="width: 18rem;">-->
+        <!--<img class="card-img-top" src="..." alt="Card image cap">-->
+        <!--<div class="card-body">-->
+        <!--<h5 class="card-title">Card title</h5>-->
+        <!--<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>-->
+        <!--<a href="#" class="btn btn-primary">Go somewhere</a>-->
+        <!--</div>-->
+        <!--</div>-->
+
+    </div>
+    <div class="col-xs-6">
+        <h2 style="color: black">&nbsp;&nbsp;Top Picks</h2>
+
+
+        <div class="col-xs-6">
+            <div class="small-box bg-green">
+                <div class="smoothscroll btn btn--stroke" style="text-align: center; background-color: #1FDA9A">
+                    <a href="#works">
+                        <h2>Latest Projects</h2>
+                    </a></div>
+            </div>
+        </div>
+
+        <div class="col-xs-6">
+            <div>
+                <div class="smoothscroll btn btn--stroke" style="text-align: center; background-color: #28ABE3">
+                    <!--<h2><span>Average People Visiting</span></h2>-->
+
+                    <a href="#works">
+                        <h2>Latest Projects</h2>
+                    </a>
+                </div>
+            </div>
+            <br>
+
+        </div>
+
+        <div class="col-xs-6">
+            <div class="small-box bg-green">
+                <div class="smoothscroll btn btn--stroke" style="text-align: center; background-color: #28ABE3">
+                    <!--<h2><span>Average People Visiting</span></h2>-->
+
+                    <a href="#works">
+                        <h2>Latest Projects</h2>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-xs-6">
+            <div>
+                <div class="smoothscroll btn btn--stroke" style="text-align: center; background-color: #28ABE3">
+                    <!--<h2><span>Average People Visiting</span></h2>-->
+
+                    <a href="#works">
+                        <h2>Latest Projects</h2>
+                    </a>
+                </div>
+            </div>
+
+        </div>
+
+
+        <!--<div class="col-xs-6">-->
+        <!--<div class="small-box bg-green">-->
+        <!--<div class="inner" style="text-align: center; background-color: #DB3340">-->
+        <!--<h2><span>Number of Restaurants</span></h2>-->
+        <!--</div>-->
+        <!--</div>-->
+        <!--</div>-->
+
+        <!--<div>-->
+        <!--<a href="#works" class="smoothscroll btn btn&#45;&#45;stroke">-->
+        <!--Latest Projects-->
+        <!--</a>-->
+        <!--<a href="#about" class="smoothscroll btn btn&#45;&#45;stroke">-->
+        <!--More About Me-->
+        <!--</a>-->
+        <!--</div>-->
+
+
+        <!--<div class="col-xs-6">-->
+        <!--<div class="small-box bg-green">-->
+        <!--<div class="inner" style="text-align: center; background-color: #DB3340">-->
+        <!--<h2><span>Number of Restaurants</span></h2>-->
+        <!--</div>-->
+        <!--</div>-->
+        <!--</div>-->
+        <!--</div>-->
+
+        <!--<div class="card" style="width: 18rem;">-->
+        <!--<img class="card-img-top" src="..." alt="Card image cap">-->
+        <!--<div class="card-body">-->
+        <!--<h5 class="card-title">Card title</h5>-->
+        <!--<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>-->
+        <!--<a href="#" class="btn btn-primary">Go somewhere</a>-->
+        <!--</div>-->
+        <!--</div>-->
+
+    </div>
+</section>
+
+<section id=restaurant>
+    <div>
+        <div class="heatmap" style="width:50%;float: left" align="left">
+            <script type='text/javascript' src='JS/heatmap.js'></script>
+
+        </div>
+
+        <div id="myDiv" style="width:50%;float: right;background-color:;" align="right">
+
+            <script src="JS/rating.js"></script>
+
+            <!--<button onclick="rating_graph(2)"></button>-->
+        </div>
+
+
+    </div>
+
+
+    <!--<div>-->
+
+    <!--&lt;!&ndash;<script src="https://d3js.org/d3.v4.min.js"></script>&ndash;&gt;-->
+    <!--&lt;!&ndash;<div style="width:50%;float: right" align="right">&ndash;&gt;-->
+    <!--&lt;!&ndash;<script type='text/javascript' src='JS/rating.js' ></script>&ndash;&gt;-->
+    <!--&lt;!&ndash;</div>&ndash;&gt;-->
+    <!--</div>-->
+
+</section>
+<script type='text/javascript' src='JS/slider.js'></script>
+
+<div>
+    <div>
+    <img style="width: 500px" src = "Data/Images/1_bad_%20(1).png.png">
+    </div>
+    <div>
+    <img style="width: 500px" src = "Data/Images/1_bad_%20(1).png.png">
+
+    </div>
+</div>
+
+
+</body>
+</html>

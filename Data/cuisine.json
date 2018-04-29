@@ -1,0 +1,348 @@
+{
+  "name": "Cuisines",
+  "children": [
+    {
+      "name": "Mexican",
+      "id": "Mexican",
+      "children": [
+        {
+          "name": "Rest1",
+          "children": [
+            {"name": "Rest1", "size": 3938, "id": "asad"}
+          ]
+        },
+        {
+          "name": "Rest4",
+          "children": [
+            {"name": "Rest4", "size": 3938, "id": "asad"}
+          ]
+        },
+        {
+          "name": "Rest4",
+          "children": [
+            {"name": "Rest4", "size": 3938, "id": "asad"}
+          ]
+        },
+        {
+          "name": "Rest4",
+          "children": [
+            {"name": "Rest4", "size": 3938, "id": "asad"}
+          ]
+        },
+        {
+          "name": "Rest4",
+          "children": [
+            {"name": "Rest4", "size": 3938, "id": "asad"}
+          ]
+        },
+        {
+          "name": "Rest4",
+          "children": [
+            {"name": "Rest4", "size": 3938, "id": "asad"}
+          ]
+        },
+        {
+          "name": "Rest4",
+          "children": [
+            {"name": "Rest4", "size": 3938, "id": "asad"}
+          ]
+        },
+        {
+          "name": "Rest1",
+          "children": [
+            {"name": "Rest1", "size": 3938, "id": "asad"}
+          ]
+        },
+        {
+          "name": "Rest1",
+          "children": [
+            {"name": "Rest1", "size": 3938, "id": "asad"}
+          ]
+        },
+        {
+          "name": "Rest1",
+          "children": [
+            {"name": "Rest1", "size": 2123, "id": "asad"}
+          ]
+        },
+        {
+          "name": "Rest1",
+          "children": [
+            {"name": "Rest1", "size": 3231, "id": "asad"}
+          ]
+        },
+        {
+          "name": "Rest1",
+          "children": [
+            {"name": "Rest1", "size": 1238, "id": "asad"}
+          ]
+        },
+        {
+          "name": "Rest1",
+          "children": [
+            {"name": "Rest1", "size": 3213, "id": "asad"}
+          ]
+        },
+        {
+          "name": "Rest1",
+          "children": [
+            {"name": "Rest1", "size": 3938, "id": "asad"}
+          ]
+        },
+
+        {
+          "name": "Rest2",
+          "children": [
+            {"name": "Rest2", "size": 3534, "id": "asad"}
+          ]
+        },
+        {
+          "name": "Rest3",
+          "children": [
+            {"name": "Rest3", "size": 7074, "id": "asad"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chinese",
+      "id": "Chinese",
+      "children": [
+      {
+        "name": "Rest4",
+        "children": [
+          {"name": "Rest4", "size": 3938, "id": "asad"}
+        ]
+      },
+      {
+        "name": "Rest4",
+        "children": [
+          {"name": "Rest4", "size": 3938, "id": "asad"}
+        ]
+      },
+      {
+        "name": "Rest4",
+        "children": [
+          {"name": "Rest4", "size": 3938, "id": "asad"}
+        ]
+      },
+      {
+        "name": "Rest4",
+        "children": [
+          {"name": "Rest4", "size": 3938, "id": "asad"}
+        ]
+      },
+      {
+        "name": "Rest4",
+        "children": [
+          {"name": "Rest4", "size": 3938, "id": "asad"}
+        ]
+      },
+      {
+        "name": "Rest4",
+        "children": [
+          {"name": "Rest4", "size": 3938, "id": "asad"}
+        ]
+      },
+        {
+          "name": "Rest4",
+          "children": [
+            {"name": "Rest4", "size": 3938, "id": "asad"}
+          ]
+        },
+        {
+          "name": "Rest4",
+          "children": [
+            {"name": "Rest4", "size": 3938, "id": "asad"}
+          ]
+        },
+        {
+          "name": "Rest4",
+          "children": [
+            {"name": "Rest4", "size": 3938, "id": "asad"}
+          ]
+        },
+        {
+          "name": "Rest4",
+          "children": [
+            {"name": "Rest4", "size": 3938, "id": "asad"}
+          ]
+        },
+        {
+          "name": "Rest4",
+          "children": [
+            {"name": "Rest4", "size": 3938, "id": "asad"}
+          ]
+        },
+        {
+          "name": "Rest4",
+          "children": [
+            {"name": "Rest4", "size": 3938, "id": "asad"}
+          ]
+        },
+      {
+        "name": "Rest4",
+        "children": [
+          {"name": "Rest4", "size": 3938, "id": "asad"}
+        ]
+      },
+      {
+        "name": "Rest5",
+        "children": [
+          {"name": "Rest5", "size": 3534, "id": "asad"}
+        ]
+      },
+      {
+        "name": "Rest6",
+        "children": [
+          {"name": "Rest6", "size": 7074, "id": "asad"}
+        ]
+      }
+    ]
+    },
+    {
+      "name": "American",
+      "id": "American",
+      "children": [
+        {
+          "name": "Charr An American Burger Bar",
+          "children": [
+            {"name": "Charr An American Burger Bar", "size": 3938, "id": "asad"}
+          ]
+        },
+        {
+          "name": "McDonald's",
+          "children": [
+            {"name": "McDonald's", "size": 3000, "id": "asad"}
+          ]
+        },
+        {
+          "name": "Papa John's Pizza",
+          "children": [
+            {"name": "Papa John's Pizza", "size": 2500, "id": "asad"}
+          ]
+        },
+        {
+          "name": "Affinito's Bistro",
+          "children": [
+            {"name": "Affinito's Bistro", "size": 700, "id": "asad"}
+          ]
+        },
+        {
+          "name": "Bill Johnsons Big Apple",
+          "children": [
+            {"name": "Bill Johnsons Big Apple", "size": 2000, "id": "asad"}
+          ]
+        },
+        {
+          "name": "PHX Burrito House",
+          "children": [
+            {"name": "PHX Burrito House", "size": 3000, "id": "asad"}
+          ]
+        }, {
+          "name": "The Attic Ale House",
+          "children": [
+            {"name": "The Attic Ale House", "size": 500, "id": "asad"}
+          ]
+        }, {
+          "name": "Off Da Hook Soul Food",
+          "children": [
+            {"name": "Off Da Hook Soul Food", "size": 2323, "id": "asad"}
+          ]
+        },
+
+
+        {
+          "name": "Bourbon Jacks",
+          "children": [
+            {"name": "Bourbon Jacks", "size": 3534, "id": "asad"}
+          ]
+        },
+        {
+          "name": "Famous Ray's Pizza",
+          "children": [
+            {"name": "Famous Ray's Pizza", "size": 7074, "id": "asad"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vegan",
+      "children": [
+        {"name": "Rest10", "size": 4116, "id": "asad"}
+      ]
+    },
+    {
+      "name": "Thai",
+      "id": "American",
+      "children": [
+        {
+          "name": "Charr An American Burger Bar",
+          "children": [
+            {"name": "Charr An American Burger Bar", "size": 3938, "id": "asad"}
+          ]
+        },
+        {
+          "name": "McDonald's",
+          "children": [
+            {"name": "McDonald's", "size": 3000, "id": "asad"}
+          ]
+        },
+        {
+          "name": "Papa John's Pizza",
+          "children": [
+            {"name": "Papa John's Pizza", "size": 2500, "id": "asad"}
+          ]
+        },
+        {
+          "name": "Affinito's Bistro",
+          "children": [
+            {"name": "Affinito's Bistro", "size": 700, "id": "asad"}
+          ]
+        },
+        {
+          "name": "Bill Johnsons Big Apple",
+          "children": [
+            {"name": "Bill Johnsons Big Apple", "size": 2000, "id": "asad"}
+          ]
+        },
+        {
+          "name": "PHX Burrito House",
+          "children": [
+            {"name": "PHX Burrito House", "size": 3000, "id": "asad"}
+          ]
+        }, {
+          "name": "The Attic Ale House",
+          "children": [
+            {"name": "The Attic Ale House", "size": 500, "id": "asad"}
+          ]
+        }, {
+          "name": "Off Da Hook Soul Food",
+          "children": [
+            {"name": "Off Da Hook Soul Food", "size": 2323, "id": "asad"}
+          ]
+        },
+
+
+        {
+          "name": "Bourbon Jacks",
+          "children": [
+            {"name": "Bourbon Jacks", "size": 3534, "id": "asad"}
+          ]
+        },
+        {
+          "name": "Famous Ray's Pizza",
+          "children": [
+            {"name": "Famous Ray's Pizza", "size": 7074, "id": "asad"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fast Food",
+      "children": [
+        {"name": "Rest11", "size": 7000, "id": "asad"}
+      ]
+    }
+  ]
+}

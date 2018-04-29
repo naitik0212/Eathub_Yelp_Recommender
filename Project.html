@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      #map,#id1 {
+        height: 466.17px;
+        width: 80%;
+       }
+    </style>
+	<link rel="stylesheet" href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
+	<script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+	<script src="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+
+	</head>
+  <body>
+
+  <div>
+  <div>
+
+  <div style="width:20%;float:right;">
+    <h4 align="center">Find the Restaurant</h4>
+	<form>
+		<label align="center">Select State:</label>
+		<select id="state">
+		<option value="AL"> AL </option>
+		<option value="AK"> AK </option>
+		<option value="AZ" SELECTED> AZ </option>
+		<option value="AR"> AR </option>
+		<option value="CA"> CA </option>
+		<option value="CO"> CO </option>
+		<option value="CT"> CT </option>
+		<option value="DE"> DE </option>
+		<option value="DC"> DC </option>
+		<option value="FL"> FL </option>
+		<option value="GA"> GA </option>
+		<option value="HI"> HI </option>
+		<option value="ID"> ID </option>
+		<option value="IL"> IL </option>
+		<option value="IN"> IN </option>
+		<option value="IA"> IA </option>
+		<option value="KS"> KS </option>
+		<option value="KY"> KY </option>
+		<option value="LA"> LA </option>
+		<option value="ME"> ME </option>
+		<option value="MD"> MD </option>
+		<option value="MA"> MA </option>
+		<option value="MI"> MI </option>
+		<option value="MN"> MN </option>
+		<option value="MS"> MS </option>
+		<option value="MO"> MO </option>
+		<option value="MT"> MT </option>
+		<option value="NE"> NE </option>
+		<option value="NV"> NV </option>
+		<option value="NH"> NH </option>
+		<option value="NJ"> NJ </option>
+		<option value="NM"> NM </option>
+		<option value="NY"> NY </option>
+		<option value="NC"> NC </option>
+		<option value="ND"> ND </option>
+		<option value="OH"> OH </option>
+		<option value="OK"> OK </option>
+		<option value="OR"> OR </option>
+		<option value="PA"> PA </option>
+		<option value="RI"> RI </option>
+		<option value="SC"> SC </option>
+		<option value="SD"> SD </option>
+		<option value="TN"> TN </option>
+		<option value="TX"> TX </option>
+		<option value="UT"> UT </option>
+		<option value="VT"> VT </option>
+		<option value="VA"> VA </option>
+		<option value="WA"> WA </option>
+		<option value="WV"> WV </option>
+		<option value="WI"> WI </option>
+		<option value="WY"> WY </option>
+		</select>
+		<label align="center">and Cuisine: </label>
+		<select id="cuisine">
+		<option value="All" selected> --Select a cuisine-- </option>
+		<option value="American(New)"> American(New) </option>
+		<option value="American(Tradition)"> American(Tradition) </option>
+		<option value="Asian Fusion"> Asian Fusion </option>
+		<option value="Barbeque"> Barbeque </option>
+		<option value="Bars"> Bars </option>
+		<option value="Breakfast & Brunch"> Breakfast & Brunch</option>
+		<option value="Burgers"> Burgers </option>
+		<option value="Cafes"> Cafes </option>
+		<option value="Chicken Wings"> Chicken Wings </option>
+		<option value="Chinese"> Chinese </option>
+		<option value="Fast Food"> Fast Food </option>
+		<option value="Indian"> Indian </option>
+		<option value="Italian"> Italian </option>
+		<option value="Japanese"> Japanese </option>
+		<option value="Korean"> Korean </option>
+		<option value="Mexican"> Mexican </option>
+		<option value="Pizza"> Pizza </option>
+		<option value="Sandwiches"> Sandwiches </option>
+		<option value="Thai"> Thai </option>
+		</select>
+
+		<div id="div1" data-role="rangeslider">
+        <label for="price-min">Ratings:</label>
+        <input type="range" name="price-min" id="price-min" value="1.0" min="1.0" max="5.0" step="0.1">
+        <input type="range" name="price-max" id="price-max" value="5.0" min="5.0" max="5.0">
+
+		</div>
+
+		<p align="center"> OR </p>
+		<label> Enter Restaurant Name: </label>
+		<input type="text">
+		<input type="button" id="formSubmit" onclick="formsubmitAction()" value="Submit!">
+
+	</form>
+	</div>
+	<div align="left">
+		<div id="map"></div>
+	</div>
+
+  </div>
+    <script src="js/jquery-1.11.3.min.js"></script>
+
+    <script src="js/bootstrap.min.js"></script>
+	<script>
+
+		var marker;
+        var infoWindow;
+		var contentToDisplay;
+		var navLocation;
+		var sourceLocationLat;
+		var sourceLocationLng;
+
+	  function initMap() {
+	    var location = {lat: 33.4499672, lng: -112.0702225};
+		navLocation = location;
+        var map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 16,
+          center: location,
+		  //mapTypeId: 'satellite'
+        });
+	   marker = new google.maps.Marker({
+          position: location,
+          map: map,
+		  label: "Restaurant",
+		  animation: google.maps.Animation.DROP,
+        });
+		marker.addListener('click',toggleBounce);
+
+
+	  }
+
+
+
+	  function toggleBounce(){
+		var contentToDisplay = "Hello, This is the restaurant! We can edit this details.";
+
+	    var infoWindow = new google.maps.InfoWindow({
+		content: contentToDisplay
+      });
+	  	infoWindow.open(map,marker);
+	  }
+
+	  function formsubmitAction(){
+		//alert("You have selected : " + document.getElementById("state").value + " and " + document.getElementById("cuisine").value);
+
+		 if (navigator.geolocation) {
+			navigator.geolocation.getCurrentPosition(showPosition);
+		} else {
+			x.innerHTML = "Geolocation is not supported by this browser.";
+		}
+
+		function showPosition(position){
+
+			sourceLocationLat = arguments[0].coords.latitude;
+			sourceLocationLng = arguments[0].coords.longitude;
+			//sourceLocation = {lat: arguments[0].coords.latitude , lng: arguments[0].coords.longitude};
+			console.log("Lat: " + sourceLocationLat + " and Long: " + sourceLocationLng + "and location is: " + navLocation.lat + " " + navLocation.lng);
+		}
+		/*
+		var directionsService =  new google.maps.DirectionsService;
+		var directionsDisplay = google.maps.DirectionsRenderer;
+
+		 directionsService.route({
+          origin: document.getElementById('start').value,
+          destination: document.getElementById('end').value,
+          travelMode: 'DRIVING'
+        },function(response, status) {
+          if (status === 'OK') {
+            directionsDisplay.setDirections(response);
+          } else {
+            window.alert('Directions request failed due to ' + status);
+          }
+        });
+		*/
+	  }
+    </script>
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=
+AIzaSyBoXjNEG-fyKxtcbZveW8jJSbYCMOkwEnI
+&callback=initMap">
+    </script>
+  </div>
+  </body>
+</html>

@@ -1,0 +1,797 @@
+	address	RestaurantID	Checkins	Recommended	Name	range	Rating	Reviews	
+0	75 S Valle Verde Dr	75RP4HSsSJOe_e7e2e3jQQ	36.0	Worth Visiting	Rise & Shine - A Steak & Egg Place	4.0	4.0	29	
+1	10520 South Eastern	lHyTZFd8XXtvPwo-_qeTXA	89.0	Worth Visiting	Jersey Mike's Subs	4.0	3.5	33	
+2	9570 S Eastern Ave	ceVWEkif38SMGNcBR55PNA	3.0	Its your say finally!	Tay-Yo Sushi Seafood Buffet	2.0	2.2	4	
+3	180 S Stephanie St	eoHkKySohgtDqWtHBqJ9xw	5.0	At your own risk	Lucky China	3.0	3.0	3	
+4	1491 W Horizon Ridge Pkwy	qLO9ES3-mKJrodFO1mzgOg	203.0	At your own risk	Taco Bell	3.0	3.0	31	
+5	2980 St Rose Pkwy, Ste 120	UwXOqtr0LCoWsGXP96fOuQ	996.0	Must Visit!	Fiesta Filipina Cuisine	4.0	3.5	151	
+6	199 N Pecos Rd	PBghJox_ZpSSa2nWyYuxpw	8.0	Its your say finally!	Taco Bell	3.0	2.6	14	
+7	2265 Village Walk Dr	uCi2ropZuhG4XVcMDaurAw	1950.0	Jewel of a place!	Rachel's Kitchen	4.0	3.8	329	
+8	835 Seven Hills Dr	sVeSK69iNUUsMU6tpXzl6Q	230.0	Worth Visiting	Angelina's Pizzeria	3.0	2.8	219	
+9	10100 S Eastern Ave	MmEV_9-EEiewVQcxPnWUaA	1.0	At your own risk	Big Island Boba	3.0	3.0	6	
+10	2285 N Green Valley Pkwy	ahzHzyALM4ZCEVRrs2KejA	64.0	Worth Visiting	Port of Subs	4.0	4.0	27	
+11	10075 S Eastern Ave	1LSdIQQVvzzyDyiYPxztkg	94.0	Must Visit!	Vegenation	4.0	4.5	59	
+12	10271 S Eastern Ave, Ste 111	ZtJ6sTq7-5rL9ORUtQJHAQ	854.0	Jewel of a place!	Gaetano's Ristorante	4.0	3.9	358	
+13	2255 Village Walk Dr, Ste 139, The District at Green Valley Ranch	axnI-1l2a_kydvL12-toIQ	380.0	Must Visit!	King's Fish House- Henderson	4.0	4.1	241	
+14	2575 Windmill Pkwy	JPJv82VJabWUDraSg-gRkw	93.0	At your own risk	Wienerschnitzel	3.0	3.3	11	
+15	4606 E. Sunset Rd	aqwn3jdQLCWnb59gHK4nAw	2368.0	Jewel of a place!	The Chicken Shack	4.0	4.0	403	
+16	117 S Water St	j33FFt-XONn__Z4pghA7yA	19.0	Worth Visiting	The Coffee House & Sweet Buttercupcakes	4.0	4.3	25	
+17	35 S Gibson Rd	IS_IWMsFRJii__17LsP1Og	589.0	Must Visit!	Gata Thai Cuisine	4.0	4.1	175	
+18	1301 W Sunset Rd	qpdMFF6Y31ZAtE1R1OLsfA	256.0	At your own risk	Fatburger	3.0	2.9	44	
+19	10890 S Eastern Ave, Ste 108	e68THiw_OdrpkEtuCDiM_w	56.0	Worth Visiting	RibCage	4.0	4.1	27	
+20	10345 S Eastern Ave, Ste 110	T2leBbQ41BEHVJxxhkt_FA	6.0	Must Visit!	Yanni's Bistro	5.0	4.9	7	
+21	4401 E Sunset Rd	pIvP5G6y9ftm8hGJngI4Kw	53.0	At your own risk	Santora's	4.0	3.5	11	
+22	771 E Horizon Dr	LH-_iinkV1XOxSuJMBqhmw	255.0	Worth Visiting	Hammer's Grill & Bar	4.0	3.7	87	
+23	10720 S Eastern Ave, Ste 100	RrCgc8eAKbHu-2IpQXg6Rw	958.0	Jewel of a place!	Hiroba Sushi	5.0	4.6	297	
+24	1500 N Green Valley Pkwy, Ste 210	R54Sh5Y3zjtZt7MjdfwDZA	754.0	Must Visit!	Rubio's	4.0	4.0	88	
+25	4663 E Sunset Rd	UY9t1EL5PYxPiBGivkeE9Q	200.0	At your own risk	Fatburger	2.0	2.4	89	
+26	10890 S Eastern Ave, Ste 109	POuF7alk2QVqVlcSOOjV3Q	38.0	Worth Visiting	Thai Thai Restaurant	4.0	4.3	27	
+27	1540 West Sunset Rd, Ste 140	s2Fv9gzUnnpfnkUTAMSK7w	54.0	Its your say finally!	PT's Gold	2.0	2.4	45	
+28	Green Valley Ranch Resort & Spa, 2300 Paseo Verde Pkwy	jvUeGNTr7M-FRyozqKRZzQ	84.0	Its your say finally!	China Spice	3.0	2.6	32	
+29	663 N Stephanie St	2UaMR7lOJ3IcXizaDpv7KA	529.0	Must Visit!	Bangkok 9 Thai-Chinese Food	4.0	3.6	232	
+30	11051 So. Eastern	0iPXuywgu37dDpwLMudACQ	181.0	Its your say finally!	Taco Bell	3.0	2.6	26	
+31	10 Via Brianza	6CFO0CoQq0l-kUZrKdCBkQ	7.0	At your own risk	Xing Asian Bistro	3.0	2.9	9	
+32	2555 Wigwam Pkwy	e0lS5SoozffJdgEfyuYIhg	362.0	Worth Visiting	Avanti Pizza	4.0	4.1	64	
+33	400 S Boulder Hwy	ouTdW9cEZoer60mENUesPQ	66.0	Its your say finally!	Wendy's	2.0	2.5	17	
+34	10585 S Eastern Ave	DugcfgyM4DhDldK_jsF0Xw	378.0	Its your say finally!	El Pollo Loco	2.0	2.4	58	
+35	10740 S Eastern Ave, Suite 155	7kOAouVw8cJkm48GHhmrPg	1.0	At your own risk	Chef's Palate Restaurant	4.0	3.5	6	
+36	75 S Valle Verde Dr, Ste 220	VIG1MhUSl5FFBJ1KtCFqBg	62.0	Its your say finally!	Papa John's Pizza	2.0	2.2	33	
+37	565 Marks St	wAKV6rA1QppMTS3-FXRTSA	704.0	Jewel of a place!	Greek Bistro	5.0	4.5	299	
+38	2910 Bicentennial Pkwy	1xcPc2snHooElBQDQl3Ybw	56.0	Its your say finally!	Haggen Food & Pharmacy	2.0	1.6	20	
+39	444 W Sunset Rd	dX90qyHzfC4Cxh-lNBAEgQ	60.0	Worth Visiting	Sarahs Kitchen	4.0	3.6	32	
+40	1340 W Warm Springs Rd	IrPCMMOwt_KgugTfoY9AYQ	259.0	Worth Visiting	Rachel's Kitchen	4.0	3.5	76	
+41	7435 S Eastern Ave	7QAqpKWyPvr02AsaCgi2rw	4.0	Worth Visiting	The Pizza Caffe	4.0	4.3	3	
+42	15 Via Bel Canto, Ste 100	Macu_9WW2kTaHVz4WvU5lQ	14.0	Worth Visiting	One5 Lakeside	3.0	3.5	32	
+43	10720 S Eastern Ave, Ste 100	DZbFhPkHiGFFRTVL8m7sYw	256.0	Must Visit!	Bon Chef Cafe	4.0	4.2	89	
+44	1301 W Sunset Rd	xoGPeHR2RPnJW470-aYBUQ	793.0	Worth Visiting	Grand Café	3.0	3.1	119	
+45	10305 S Eastern Ave	jQJYvzUFsz9ytI1AzW0dyQ	372.0	At your own risk	Applebee's Neighborhood Grill & Bar	2.0	2.4	115	
+46	10612 S Eastern Ave, Ste A	zPV9RXr2U_TejaJfgBdaGQ	18.0	At your own risk	Cook On Wok	3.0	3.1	13	
+47	2300 Paseo Verde Pkwy	0qSKZhVC_BHPuKro4QGWJw	337.0	Jewel of a place!	Hank's Fine Steaks	4.0	3.9	362	
+48	50 N Valle Verde Dr, Ste 110	j8pUAS0qdEcPsjkqEDNbhw	1353.0	Jewel of a place!	Buddha Belly Deli	4.0	4.4	479	
+49	140 S Water St	vNNWCCLocoJIQ5XwuG4mLg	47.0	At your own risk	Mary's Diner	3.0	3.4	16	
+50	10271 S Eastern Ave, Ste 109	iSQwKRrLYYi-dI2PpJmJJg	1630.0	Jewel of a place!	Kaizen Fusion Roll & Sushi	4.0	3.8	432	
+51	10895 S Eastern Ave	vA4__eWW3zNu_Ax--LOkOw	5.0	At your own risk	Early Bird Cafe	4.0	3.6	5	
+52	10510 South Eastern Avenue	NFaA4MmgnS0u0uWCGGSHMA	57.0	Its your say finally!	KFC	2.0	1.8	36	
+53	777 W Lake Mead Pkwy	GLKg_Lu1LK7A0EqR45gpAQ	45.0	Its your say finally!	Amigos	2.0	2.5	4	
+54	30 E Horizon Ridge Pkwy	v6HupiIVNu5Ocdb0k_hppA	210.0	At your own risk	Half Shell	3.0	2.9	42	
+55	1341 W Warm Springs Rd	84DjKzaR26vphu9fNI9nKg	558.0	At your own risk	Sierra Gold	3.0	2.8	81	
+56	2061 W Sunset Rd	IZrGUQHkxOxyDmifE6p7bw	536.0	Must Visit!	Viva Michoacan	4.0	3.9	132	
+57	1500 N Green Valley Pkwy, Ste 230	AGEdjgYU0u-EAXFR0Sot3w	871.0	Must Visit!	ZiKiZ	4.0	4.2	166	
+58	5 S Gibson Rd	18sAHGZz-WCAFqmMNqscVw	214.0	Its your say finally!	Jack In the Box	2.0	1.9	21	
+59	193 N Gibson Rd, Ste 170	7zDYu0-v2rUUDuf8aSGvCg	153.0	At your own risk	Timbers - Gibson	3.0	3.4	31	
+60	10100 S Eastern Ave, Ste 130	8lB2DlGAMJv6P2XS_AYxMw	122.0	Worth Visiting	Ichiddo Ramen	4.0	3.7	80	
+61	87 E Lake Mead Pkwy	8yoe08nCUpjDQ56Y9qVPKg	213.0	Worth Visiting	Hot Dog Heaven	4.0	3.5	124	
+62	1300 W Sunset Rd, Ste 2920	eLFfWcdb7VkqNyTONksHiQ	3429.0	Jewel of a place!	Gen Korean BBQ House	4.0	4.1	1652	
+63	350 N Stephanie St	IbsvQEsWFv_ip7_t7i6UKg	26.0	At your own risk	Marie Callendar	4.0	3.6	5	
+64	3019 St Rose Pkwy	Q8bVGabFAYCHA9gi2q2YUA	18.0	Its your say finally!	Jason's Deli	2.0	2.4	8	
+65	1231 American Pacific Dr	SYBOBuhM1AnFmpYYQCY92Q	4.0	Its your say finally!	AP's Grill and Tavern	2.0	2.0	3	
+66	680 East Horizon Drive	JhqsE8IGN-UXwNli474w7g	54.0	Its your say finally!	KFC	2.0	1.8	30	
+67	14 W Pacific Ave	pVOQoItV_JIOkhbVdQhEEQ	13.0	Worth Visiting	Sam-Pan Chinese Restaurant	4.0	4.2	5	
+68	3061 St Rose Pkwy	b7cZMaV6GYVSl0uKbKGyqg	45.0	Must Visit!	Roy's Deli	5.0	4.9	24	
+69	2810 Bicentennial Pkwy, Ste 110	PK2xVV2fqbWFrmtL8J99ig	193.0	Its your say finally!	Subway	2.0	2.4	11	
+70	10604 S Eastern Ave, Ste C	kCF3AuV-2LowMdVlklLy7A	459.0	Must Visit!	Munch Box	5.0	4.6	179	
+71	1021 E Paradise Hills Dr	R6Aj51wBO68e03V9h_dwAA	6.0	Worth Visiting	Scorpion Cafe	4.0	4.3	6	
+72	2620 N Green Valley Pkwy	pvrTxY4WCE5DfHAIMLjSbg	139.0	Its your say finally!	Subway	3.0	2.6	14	
+73	591 College Dr, Ste A	IZexpazZj8lBbrcnjoGIrA	32.0	Worth Visiting	Subway	4.0	3.7	11	
+74	2200 W Horizon Ridge Pkwy, Ste C	rZetIv3kG8yHjS2FR6Cfbg	75.0	Worth Visiting	Tee Shots Bar & Grill	4.0	3.7	10	
+75	1300 W Sunset Rd, Ste 1950, The Galleria Mall	iqntlaqSCB4hkzTzlPlEmQ	851.0	Jewel of a place!	Bravo Cucina Italiana	4.0	4.2	254	
+76	118 E Lake Mead Dr	yLTATolCkihuQ-TFaEPJkQ	101.0	At your own risk	Little Caesar	3.0	2.7	29	
+77	10895 S Eastern Ave, Ste 130	IFj5l46-o-DWiJNexOAm3w	235.0	Must Visit!	Yalla Mediterranean Grill	4.0	4.1	76	
+78	4401 E Sunset Rd, Ste 7	2KQi-CLMR045YrAkYs_UoQ	23.0	Worth Visiting	Sidelines Grill & Pub	4.0	3.9	8	
+79	1051 W Sunset Rd	kxYiZnd7Y-3ibdwnMFuTzw	1974.0	Must Visit!	In-N-Out Burger	4.0	4.1	178	
+80	2605 Windmill Pkwy	9H4Q7_Fr4qtKfTcmJZmfBA	6.0	At your own risk	King & I	4.0	3.6	5	
+81	9925 S Eastern Ave	a1Pf4wSob48LKqimWzmyGw	696.0	Must Visit!	Chick-fil-a	4.0	3.8	227	
+82	10080 S Eastern Ave	ymwUAvCK7Qmf3IX58XqLGw	897.0	Worth Visiting	Chili's	3.0	3.2	136	
+83	10050 S Eastern Ave	I4-j8TV0kCstDmr_kc2NUA	192.0	Worth Visiting	Tommy Rockers Southside Grill	4.0	4.3	20	
+84	777 W Lake Mead Pkwy	deaiw3nhYgDvq_6GoLFcJA	7.0	Its your say finally!	Villa Fresh Italian Kitchen	2.0	2.5	4	
+85	1270 W Warm Springs Rd	lHHT7i2Cz0hGAASI2it3MA	158.0	Its your say finally!	Burger King	2.0	2.4	28	
+86	16 W Horizon Ridge Pkwy	nrahyQyopCtajDqUtVVVfA	480.0	Must Visit!	The Sushi	4.0	3.8	146	
+87	1500 N Green Valley Pkwy	rQ08JhZZgtVUfJhEbW-xsw	76.0	Its your say finally!	Subway	3.0	2.7	12	
+88	1410 Horizon Ridge Pkwy	97kEmDdAU8YSBz5zw3au7w	18.0	Its your say finally!	KFC	1.0	1.4	28	
+89	565 College Drive, Suite C	qCtjJp2tI-RyennIpfN6Wg	60.0	Worth Visiting	Papa Murphy's	4.0	3.7	26	
+90	560 Marks St	fAA1auoV6w5u1_KdJcSRwg	249.0	Worth Visiting	Yummy Grill Sushi	3.0	3.4	56	
+91	10960 S Eastern Ave, Ste 107	KB9ojpV8g5G1hHS6ec4eHg	79.0	At your own risk	Aurelio's the Family Pizzeria	3.0	3.1	42	
+92	2990 St Rose Pkwy	J2lK3CpbCLJUXCc0OAPMsg	2.0	Its your say finally!	Cafe Verdi	2.0	1.9	11	
+93	229 N Stephanie St	rtT7RqERpHbRYOiTIgGszQ	719.0	Must Visit!	Fausto's Mexican Grill	4.0	3.7	133	
+94	72 W Horizon Ridge Pkwy, Ste 105	owizJxXCdMYNHdYPOBKaUQ	69.0	Must Visit!	Fix8 Fitness Cafe	5.0	4.6	25	
+95	550 N Stephanie St, Ste C	oudIKQI8HjqJqiF9pnMmQw	1498.0	Jewel of a place!	Momo Sushi	4.0	4.2	364	
+96	19 S Stephanie St, Ste 140	xwIJGDiwUz5aorokYKfxIQ	242.0	Must Visit!	Poke Express	5.0	4.7	129	
+97	2591 Anthem Village Dr	D9unP0Qn78z5HkaeT4_PTA	41.0	Its your say finally!	Papa John's Pizza	2.0	2.5	20	
+98	Costa Di Lago	9_k-gfVfqp5KlcZWdxZdGw	11.0	At your own risk	Before Sunset	3.0	3.2	4	
+99	1442 E Lake Mead Pkwy	bV_xC1dzOhN_y4YEd4h02g	372.0	At your own risk	MountainSide	3.0	2.9	54	
+100	7 S Water St, Ste B	-CFKgOGpYPIt8NnqidaZCw	82.0	Must Visit!	Chef Flemming's BakeShop	5.0	4.6	165	
+101	1639 W Warm Springs Rd	l07I7E_F5IhhBd4uvxxcdA	29.0	Worth Visiting	Gators Pizza	4.0	4.0	31	
+102	10895 S Eastern Ave, Ste 130	pcxssrp4IeSN3GlYpPwlQA	181.0	Worth Visiting	Flame Kabob	4.0	3.6	29	
+103	375 N Stephanie St, Ste 311	LBVNBYNgopam1CzqPUPVvQ	59.0	Worth Visiting	Ginza Sushi	3.0	3.4	42	
+104	9530 S Eastern Ave, Ste 100	lKOvx_aAXiXQGooZ-4bq9Q	1926.0	Jewel of a place!	Pin Kaow Thai Restaurant	4.0	3.7	432	
+105	2241 N Green Valley Pkwy	FzFO8yuRtEk83HS-5afCwg	73.0	Its your say finally!	Greens Gaming & Dining	2.0	1.8	11	
+106	237 N Stephanie St	x1ClWF6HF3X_7TFFnLED_Q	722.0	Must Visit!	Henry's American Grill	4.0	3.8	218	
+107	10001 S Eastern Ave	Q8kbSb0yaXVZ7-CKwZJgwQ	3.0	Worth Visiting	Dignity Health Bistro Siena	5.0	4.8	4	
+108	1321 W Sunset Rd	fvLNLFLtvcDk8GEmWJxgqg	28.0	Worth Visiting	Five Guys	3.0	3.3	61	
+109	758 S Boulder Hwy	gnfRPDNr9aRaEMDh1zAl_w	1.0	Its your say finally!	Carl's jr	3.0	2.7	10	
+110	10720 S Eastern Ave, Ste 100	7B3n6hizoL2CF0dEiJ0x6A	81.0	At your own risk	Sushi Factory	3.0	3.1	30	
+111	1659 W Warm Springs Rd, Ste 100	KNn7TUf3rf_DfCYYrHv7tQ	109.0	At your own risk	Chick & Benny's	3.0	3.1	58	
+112	146 North Stephanie St	VAvlwMwFTKH19w8Tdu9kBA	18.0	At your own risk	Carl's jr	3.0	3.1	8	
+113	2225 Village Walk Dr	f-2pMptlB6cWaWnU7zYE_A	243.0	Must Visit!	Shake Shack	4.0	3.9	102	
+114	2235 Village Walk Dr, Ste 141	xQWgzGkO72IDwaueB6mj5g	443.0	At your own risk	Presidio	3.0	2.9	66	
+115	1550 N Green Valley Pkwy, Ste 320	2SbyRgHWuWNlq18eHAx95Q	629.0	Must Visit!	The Midori Japanese Fusion Sushi	4.0	4.3	152	
+116	175 N Stephanie St, Ste 100	0bqV9uzFVz98Bn_RImcJTg	391.0	Worth Visiting	QDOBA Mexican Eats	4.0	3.6	67	
+117	540 E Lake Mead Pkwy	TkN0yt3iWVbP4OdjsYchkg	41.0	Worth Visiting	LMCafe	5.0	4.7	7	
+118	155 Water St, Ste 110	CBBH11ua126TMlvNlCCHIw	34.0	Worth Visiting	A Taste of Heaven Cafe and Bakery	4.0	4.3	6	
+119	160 N Pecos Rd	mElvCnwgjUFwWRWCMxlz9A	144.0	Its your say finally!	Arby's	2.0	2.4	25	
+120	10648 S Maryland Pkwy	WuhUKJAoby57lLjVLpQVPw	76.0	Must Visit!	Jessie Rae's BBQ	4.0	4.2	65	
+121	931 American Pacific Dr, Ste 106	0XHMciYfPq7HzEiLCknaCA	105.0	Must Visit!	Woods Family Sandwiches	5.0	4.6	92	
+122	1301 W Sunset Rd	DY1_vls0_VQnTZ7CJ3AeFQ	1262.0	Worth Visiting	Feast Buffet	3.0	3.0	219	
+123	10075 S Eastern Ave, Ste 116	cMlHcrlADb5gRWwFaNKhjg	116.0	At your own risk	Samurai Sam's	3.0	3.2	19	
+124	15 Via Bel Canto	dW9cPsvOGwlOpiz3wEBgiQ	171.0	Must Visit!	Bernards Bistro	4.0	4.0	87	
+125	10890 S Eastern Ave	5vTdyRqZ-wnOZ4ZANrzFOQ	139.0	Worth Visiting	Bavarian Castle	4.0	3.6	96	
+126	340 W Lake Mead Pkwy	NHLu8M71uawlg1QaAZCvEA	58.0	Its your say finally!	Carls Jr	2.0	2.2	17	
+127	2895 N Green Valley Pkwy	_EIIcHRJVqaDRjcffDOBSg	15.0	Worth Visiting	Roma Bistro	4.0	4.2	8	
+128	10890 S Eastern Ave, Ste 108	F5dC0aA2DIGt9bJb3AJSNw	125.0	Must Visit!	Meat And Three	4.0	4.2	60	
+129	300 S Boulder Hwy	KXO9aGAOWAJEmHD_d8yQ7A	663.0	At your own risk	Sonic Drive-In	3.0	3.1	62	
+130	2568 Wigwam Pkwy	sPQ3i5lI2Tg8pbmqbDaZZw	67.0	At your own risk	Subway	3.0	3.3	11	
+131	1045 Whitney Ranch Dr	TAOTaNgsRs5bFeQhj3z1wA	71.0	Its your say finally!	Manhattan Pizza III	2.0	2.3	73	
+132	4350 E Sunset Rd	eBxQzBFLEPwRCxuiL50SQA	517.0	Jewel of a place!	Todd's Unique Dining	4.0	4.1	306	
+133	1817 N Boulder Hwy	q2HvtPAuc9g3v2B0AjTSFw	16.0	Worth Visiting	Magoos Lodge	4.0	3.8	6	
+134	175 N Stephanie St, Ste 110	C3N3mAl93KXGm3IgsIsLag	54.0	At your own risk	Subway	3.0	3.2	13	
+135	2601 Windmill Pkwy	wcLH-Sg2Ef3YfEaWRHufMA	109.0	Worth Visiting	Port of Subs	4.0	3.7	30	
+136	1500 N Green Valley Pkwy	tjaPPgXtVnP8RYmSqlsGww	15.0	Worth Visiting	Pick Up Stix	4.0	4.3	7	
+137	1306 W Sunset Rd	i8hkzA5eiUXgbPjN8vK3rQ	340.0	Worth Visiting	Cabo Mexican Restaurant	3.0	3.2	101	
+138	2031 W Sunset Rd	nz8uRlnveku1C3t-Lripkw	178.0	Worth Visiting	E-String pizzeria & poker bar	4.0	3.5	92	
+139	594 Stephanie St	_t8B7bb-Q7kmn50kvGEKzw	1018.0	Must Visit!	Miller's Ale House - Henderson	3.0	3.4	384	
+140	10920 S Eastern Ave	bNpgu9sr3K18oLLw-eL75A	987.0	Must Visit!	Osaka Japanese Bistro	4.0	3.7	222	
+141	10624 S Eastern Ave, Ste S	jX9DocoiY4Bo9EUkaTSqvg	217.0	Must Visit!	DIY Poki Bowl	4.0	4.4	104	
+142	1301 W Sunset Rd	LWwAMZUiH6iBaL4a6jGRWw	180.0	Worth Visiting	Pasta Cucina	3.0	3.1	85	
+143	183 N Gibson Rd, Ste 100	JSTkHbW3L7onBhSIZ4GL8w	111.0	At your own risk	Subway	3.0	3.1	13	
+144	10940 S Eastern Ave	7AblEr52iyWBuFBEiseESg	263.0	Its your say finally!	PT's	3.0	2.6	24	
+145	76 W Horizon Ridge Pkwy	NjDC1Evc2Wa6ykj8xVpoUw	795.0	Must Visit!	Wahoo's Fish Tacos	3.0	3.4	225	
+146	1331 S Boulder Hwy, Ste 100	psQ-n0LoPpsbZ5DynxMOdg	21.0	At your own risk	PT'S	3.0	3.1	14	
+147	10604 S Eastern Ave, Ste D	7YuRqwlt_BUBlj8SgdUWZw	6.0	Worth Visiting	Subway	5.0	4.6	12	
+148	4425 E Sunset Rd	n6u8lDrWBYkis8EQTwgOyA	387.0	Must Visit!	Serrano's Mexican Grill	4.0	4.1	256	
+149	594 N Stephanie St	ttH3ZbUcncBRIXqT-YVPCg	93.0	Must Visit!	Sabor	4.0	4.4	43	
+150	832 S Boulder Hwy	3ajYl6uAIpk6-GM6fvokxA	75.0	At your own risk	Port of Subs	3.0	2.9	15	
+151	1300 W Sunset Rd, Ste 2837	dYO978rkgyeg6tIQHuEStg	22.0	Its your say finally!	McDonald's	1.0	1.2	9	
+152	617 Mall Ring Cir	nUpKKVwG2WctMOXux19vew	1844.0	Worth Visiting	Buffalo Wild Wings	3.0	3.0	224	
+153	2702 N Green Valley Pkwy	OMUEb_wJXOUTJISqUfO1Xg	71.0	Worth Visiting	King Teriyaki & Rolls	4.0	4.2	61	
+154	2801 N Green Valley Pkwy	3eeAyVgdYTO2w5owlbTnVQ	17.0	At your own risk	Brando's Grill & Bar	3.0	3.4	8	
+155	1300 W Sunset Rd, Ste 2940	W035pMPJuocijd0BLfHaiw	927.0	Must Visit!	World Of Beer	4.0	3.8	213	
+156	10612 S Eastern Ave	DZwR0EIPKlmC3mMLhTkqcQ	3509.0	Jewel of a place!	Stephano's Greek & Mediterranean Grill	4.0	4.2	437	
+157	854 S Boulder Hwy	OQD9QYMmI6ZRlKLGkKfAGQ	59.0	Worth Visiting	L&L Hawaiian BBQ	4.0	3.6	25	
+158	1690 W Sunset Rd	KLivsKKkFU3XxHM3eukVLA	79.0	Worth Visiting	Super Pizza	4.0	3.5	71	
+159	2840 Bicentennial Pkwy	7tcfLr-QpzJF-y5dfNFjKg	137.0	Must Visit!	David Clawson Restaurant	5.0	4.6	114	
+160	570 Marks St	GSiAgRigPwSvXeR7emLSiw	660.0	Worth Visiting	Red Lobster	3.0	3.4	158	
+161	18 W Pacific Ave	982dasWTyuKUPbGTifUlEA	142.0	Worth Visiting	Islander's Grill	4.0	3.6	34	
+162	1205 W Warm Springs Rd, Ste 112	ImkAc07Pppz0D3KC4iBTng	205.0	Must Visit!	Flame Kabob	4.0	4.3	132	
+163	1080 Whitney Ranch Dr	A3Zj-YXGAhgsiYT4RTCKwQ	97.0	Its your say finally!	Subway	2.0	1.6	5	
+164	573 N Stephanie St	wWDQDPuuwQ5kFeT2a72b6Q	490.0	Worth Visiting	Romano's Macaroni Grill	3.0	2.7	215	
+165	401 W Lake Mead Pkwy	HQdwdyGU2Qr3_T_QLEb5lw	5.0	Must Visit!	Vfw Basic Post 3848	5.0	4.8	5	
+166	2654 W Horizon Ridge Pkwy, Ste B17	cpOELWhrJDdz5v1b3H5EcQ	141.0	Its your say finally!	Dairy Queen	2.0	1.6	59	
+167	Green Valley Ranch Resort & Spa, 2305 Paseo Verde Dr	QNM7f0i2lW8cuJDQmqF9QQ	380.0	Worth Visiting	Quinn's	4.0	3.8	38	
+168	10940 S Eastern Ave, Ste 107	i9D9xPBV0gR1Ja9kbY4NCw	1619.0	Jewel of a place!	CRAFTkitchen	4.0	4.2	550	
+169	7350 Eastgate Rd, Ste 110	x2JxsUlVFrcQ3FvK2UR6KA	1019.0	Must Visit!	CraftHaus Brewery	5.0	4.5	133	
+170	1300 W Sunset Rd, Ste 2950	UiUZfYqkfv61VXoe2s2ylw	479.0	Must Visit!	Larsen's Grill	4.0	4.2	178	
+171	10271 S Eastern Ave, Ste 101	L877pDtfa3FyN0fcNeCdlA	1113.0	Must Visit!	Five Guys	4.0	3.6	232	
+172	605 Mall Ring Cir, Ste 110	NO2ANvvGo_LmoxlveoBzdg	90.0	At your own risk	Mix N Mac	3.0	2.8	58	
+173	2895 N Green Valley Pkwy, Ste C	XD5yy714NkCMpzO4tnQF4A	42.0	Must Visit!	Boss's Slow Smoked BBQ	4.0	4.2	61	
+174	673 Mall Ring Circle Henderson	cu0Ig3kb9WymVIzjC8Xk2w	399.0	Must Visit!	Blaze Fast-Fire'd Pizza	4.0	4.1	141	
+175	10430 S Eastern Ave	Bo8hpmBWPWHOv6cEEF7ueg	22.0	At your own risk	Carmine's	3.0	2.8	22	
+176	2235 Village Walk Dr	ByThTA6BEp9b6kEDt4RYTA	822.0	Must Visit!	Whist Stove & Spirits	4.0	3.6	286	
+177	4606 E Sunset Rd	wd0nFRiZD5YaDHeaAqUZdw	7.0	At your own risk	Chicken Bonz	3.0	3.4	5	
+178	1301 W Sunset Rd	TVKenh65WwJX3zEr36zKCA	782.0	Must Visit!	Oyster Bar	4.0	3.9	219	
+179	697 N Valle Verde Dr	hTH7a4swDNL5hR9_oHjzZw	23.0	Worth Visiting	Casino Valle Verde	4.0	4.3	10	
+180	10575 S Eastern Ave, Ste 100	n5jTCFF6LqNIAz6Jx5-3tw	829.0	Worth Visiting	Pei Wei	3.0	3.1	122	
+181	2850 Bicentennial Pkwy, Ste 100	DM8j5g9k28vEOTM0kz4KVA	149.0	Worth Visiting	China Tango	4.0	3.5	77	
+182	203 S Water St	XuklcV36NOY42qBcBx53Kg	43.0	At your own risk	Sunset Pizzeria - Downtown	3.0	3.0	45	
+183	1300 W Sunset Rd, Ste 2545	yF-KH1l-rLVJaON8gfpyig	1137.0	Worth Visiting	Red Robin Gourmet Burgers	3.0	2.9	256	
+184	10160 S Eastern Ave	EhuKnhTKJTm_EZ_QGe7PvQ	982.0	Must Visit!	Carrabba's Italian Grill	4.0	3.6	232	
+185	382 W Lake Mead Pkwy	xdIaJk3UYOnt-SWAz_ZKqg	77.0	At your own risk	Subway	3.0	2.8	10	
+186	2607 Windmill Pkwy	YiEj85uB1UcDJeK8StoX9Q	155.0	At your own risk	Dairy Queen	3.0	3.2	24	
+187	2300 Paseo Verde Pkwy	VZpzm3HG_YXPHvY97m05qg	40.0	Its your say finally!	Villa Pizza	3.0	2.7	7	
+188	Green Valley Ranch Resort & Spa, 2300 Paseo Verde Pkwy	p7RWwyP49cDwgvoK1Um8Mg	163.0	Worth Visiting	The Original Pancake House	3.0	3.4	71	
+189	76 W Horizon Ridge Pkwy, Ste 120	zaw43jYgK4BGuTaYn37qMg	457.0	At your own risk	Tropical Smoothie Cafe	3.0	3.2	65	
+190	10575 S Eastern Ave, Ste 190	JCOhsMp7XOR2-0ecwHn1dA	3.0	Must Visit!	Horizon Ridge Mini-Mart	5.0	4.5	24	
+191	151 N Gibson Rd	I4HLQGcHaiDHfb4p6Znt1A	80.0	Worth Visiting	Port Of Subs	4.0	3.9	19	
+192	10345 S Eastern Ave, Unit 110	1c_jEfvQBPXZ5YUaAMYJrQ	257.0	Jewel of a place!	Duzan Mediterranean Cafe & Tapas	5.0	4.6	212	
+193	1205 W Sunset Rd, Ste 130	5-fpVbhoZcuSWatzof5YIg	1077.0	Must Visit!	Rubio's Coastal Grill	4.0	3.8	117	
+194	2920 N Green Valley Pkwy, Ste 6	EetTynvxcovbSsAy7AWMtg	101.0	At your own risk	Daddy Macs	3.0	2.8	20	
+195	1439 N Boulder Hwy	p2nstdjiVQyz312Zz5u3DQ	44.0	Worth Visiting	Boxers Pizza & Sandwich Shop	4.0	4.1	50	
+196	2430 E Pebble Rd	46zwhZduYYqI2pKQyrd1Pg	93.0	At your own risk	PT's Ranch	3.0	2.7	66	
+197	10720 S Eastern Ave	7YpipG1N4nsvQZ_WGiV9PA	77.0	Must Visit!	Parmezan Subs	4.0	4.1	73	
+198	23 E Basic Rd	RHoFn4B0AfyqyWGYFqeSXA	382.0	Must Visit!	Santa Rosa Taco Shop	4.0	4.3	119	
+199	1550 Horizon Ridge Pkwy, Ste M	TOi6KY8b7e1Au-TqC-I7lw	158.0	Worth Visiting	Branded Meats	4.0	4.1	51	
+200	4604 E Sunset Rd	YXdriiIKA4b1nQiRQ4XaDA	225.0	Its your say finally!	Roberto's Taco Shop	2.0	2.3	67	
+201	1300 W Sunset Dr, Ste 2829	HuzhmzDHcI66G17449rPAg	21.0	Its your say finally!	DJ's Taco Bar	2.0	2.4	18	
+202	4662 E Sunset Rd	FIs33y1BVzzcfrDDHh8O5g	335.0	Worth Visiting	Bangkok Orchid	4.0	3.6	129	
+203	12300 Las Vegas Blvd S	ff35pl2735rHc5UAK6Z9tw	126.0	Worth Visiting	Veloce Cibo	4.0	3.7	50	
+204	617 Mall Ring Cir	OW9CcNpg336qpnnJr-bIUQ	2.0	Its your say finally!	China Star	3.0	2.7	3	
+205	2530 St Rose Pkwy, Ste 100	X6CGGlpEBD1Bgiz7Dto83Q	399.0	Worth Visiting	San Francisco Sourdough Eatery	3.0	3.4	54	
+206	2300 Paseo Verde Pkwy	fh05S2FxDd_9Q95xf-ouww	43.0	At your own risk	Slice House	3.0	3.0	23	
+207	6407 Mountain Vista St	q5X9Yyd-UPQ30MnbCRrPig	190.0	At your own risk	Kathy's Southern Cooking	4.0	3.5	19	
+208	2000 S Boulder Hwy	fOzbCeNnB1_mIb-RR4zw1g	91.0	Worth Visiting	Wild Grill	4.0	3.8	17	
+209	1610 Lake Las Vegas Pkwy	f1mT6WrHD0YrQGVlw4kTKg	28.0	Worth Visiting	Ravella Hotel Firenze Lounge	4.0	4.2	5	
+210	19 S Stephanie St, Ste 160	ZjKpGYdQCQPxzkYWAsV56w	220.0	Must Visit!	Thailicious Authentic Thai & Vegan	5.0	4.7	152	
+211	1654 W Warm Springs Rd	zHAR8MmCbjrkNnLGm1ozEQ	38.0	Worth Visiting	Rivas Mexican Grill	4.0	4.1	43	
+212	1201 American Pacific Dr, Ste A	D3SphPFz2cXzqGiI0LuwUw	67.0	Worth Visiting	Henderson Restaurant Supply	4.0	4.1	14	
+213	340 N Boulder Hwy	IK-N8tsV-zDw6M7MKKeisQ	25.0	At your own risk	Cruzers Burgers	3.0	3.0	23	
+214	401 E Horizon Ridge Pkwy	SqdaY4rEgFh51SbWrj3Wqw	7.0	At your own risk	Purple Penguin Snowcone Shack	3.0	3.0	6	
+215	2702 N Green Valley Pkwy	DNip7JeIjjK3rBqE8Qhi1Q	118.0	Must Visit!	M Sushi & Roll	4.0	4.4	56	
+216	10648 S Maryland Pkwy	BJeHWkccQRXZKKyBcauenA	4.0	At your own risk	Manna Mediterranean Pizza	4.0	3.5	4	
+217	10839 S Eastern Ave	nZAI0smLBu8csERVofe7uQ	1.0	Worth Visiting	Bonefish Grill	4.0	4.1	10	
+218	1300 W Sunset Rd, Ste 2423	D-2eSknNE6-MRBB2e90xlQ	74.0	At your own risk	Auntie Anne's	3.0	2.8	12	
+219	1300 W Sunset Rd	iY7E-MZPwBuFKSMtMhCIBg	87.0	At your own risk	Hot Dog on A Stick	3.0	3.1	20	
+220	160 S Green Valley Pkwy	I-5qHCVwT7k_KH67-YOx3A	3356.0	Jewel of a place!	The Cheesecake Factory	4.0	3.5	519	
+221	Sunset Galleria Food Court, 1300 W Sunset Rd	gs7OB_f3MCv-r5yGKfLW9A	14.0	Its your say finally!	Bautista Filipino Kitchen	2.0	1.7	15	
+222	76 N Stephanie St	QMabpBYQ2qAh16GPbCvMrA	176.0	At your own risk	Wendy's	3.0	2.8	22	
+223	754 S Boulder Hwy	wyCFQRdX2HygoaqgqBu3qw	75.0	At your own risk	Stetson's Saloon & Casino	4.0	3.5	4	
+224	1430 W Horizon Ridge Pkwy	Rv4aYEKmRsLrijjtq5CS5Q	87.0	Must Visit!	Ricos Tacos El Tio	4.0	4.2	81	
+225	101 Montelago Blvd	T419Y3fiJW9EuFDkFougVA	161.0	Must Visit!	Marssa	4.0	4.1	111	
+226	10251 S Eastern Ave, Ste 100	rD32POdIhGN9eR8aUxl-3A	1111.0	At your own risk	Chipotle Mexican Grill	3.0	2.6	135	
+227	777 W Lake Mead Pkwy	IoyamGmKao_hfQBvFKihyA	270.0	At your own risk	Amigo's Mexican Cantina	3.0	2.8	70	
+228	1201 S Boulder Hwy	-d0Ou1JmEK2j5HR4PGMahA	147.0	At your own risk	IHOP	3.0	3.0	32	
+229	4300 E Sunset Rd, Unit C	WBlYp-nmLiBLp7VjP1FJFg	90.0	Its your say finally!	The Original Las Vegas Buffet	2.0	1.8	93	
+230	1500 N Green Valley Pkwy, Ste 110	rhG-H3PNvMtuNdaKFcRwjg	777.0	Worth Visiting	Brooklyn Bagel Deli	4.0	3.5	144	
+231	72 W Horizon Ridge Pkwy, Ste 140	lAFCW5rCTRCIDQWzEpysbA	149.0	Worth Visiting	Rosati's	4.0	3.6	90	
+232	3051 Saint Rose Pkwy	I0bJzODprmb8H7CRVlOS7Q	13.0	At your own risk	Kopper Keg	3.0	3.0	4	
+233	1261 W Warm Springs Rd	WifBAENwZVGlwCMYchBG3g	79.0	Its your say finally!	Jack in the Box	2.0	2.1	18	
+234	543 N Stephanie St	YNjavvZq9SasjkIndOOK4Q	386.0	Must Visit!	The Habit Burger Grill	4.0	4.2	179	
+235	1500 W Horizon Ridge Pkwy	SGyQqYXVq2Rck8ipEmJKmg	501.0	Must Visit!	Purple Penguin Snowcone Shack	4.0	4.2	113	
+236	18 W Pacific Ave	rOz9BGGD-UWAgQJ0jbQVuQ	71.0	Worth Visiting	808 Island Craves	4.0	4.0	14	
+237	1450 W Horizon Ridge Pkwy	Uuxwgc8kA88Cvt8LthoRdQ	518.0	Must Visit!	Mi Peru South American Grill	4.0	4.1	203	
+238	2603 Windmill Pkwy	taHfilUl29TDeggkNIk0ww	530.0	Must Visit!	Sushi Bay	4.0	3.7	175	
+239	1301 W Sunset Rd	kePOQesdciZkNi8jJkolCg	9.0	At your own risk	Sbarro's Italian Eatery	3.0	3.0	5	
+240	1690 W Sunset Rd, Ste 104	VsRAIb4k5CjEF-3l_bac0g	106.0	Jewel of a place!	Akropolis Gyro & Pizza	5.0	4.8	214	
+241	2520 W Horizon Ridge Pkwy, Ste 150	yx52nzTjYnc_cHu4_SkH1w	10.0	At your own risk	3 Brothers from Italy Jersey Shore Pizza	4.0	3.6	10	
+242	4300 E Sunset Rd #A-6	MW6hyPt6Xz6cIVyp_r1yLg	288.0	Worth Visiting	Sammy's Woodfired Pizza and Grill	3.0	3.5	57	
+243	1475 W Horizon Ridge Pkwy, Ste 140	Hv2BwfsNSsUanW2pJ-VCRA	122.0	At your own risk	Don Tortaco Mexican Grill	3.0	3.0	46	
+244	1550 W Horizon Ridge Pkwy	ZBSiW9qT95tJ2xL9JnHpWw	152.0	Worth Visiting	Sunset Pizzeria	4.0	3.9	84	
+245	2555 Wigwam Parkway	b9b58YAzTzgOZDREH_cDfw	63.0	At your own risk	Rosati's Pizza	3.0	3.1	66	
+246	4350 E Sunset Rd	kbTAyySlUZrTAr0nJOjiUw	323.0	Must Visit!	Coyote's Cafe & Cantina	4.0	3.5	153	
+247	10110 S Eastern Ave	Mq8QTBAR7r-vUL6C2JVkRA	36.0	At your own risk	Super Burrito	3.0	3.1	11	
+248	65 S Stephanie St	6o-ordLlcytlaIsGZzOF0w	8.0	At your own risk	Caribbean Cooker	3.0	3.2	13	
+249	90 S Stephanie St	SEeFkKq1Y__OQiPMQykG7Q	82.0	Worth Visiting	Marco's Pizza	4.0	3.5	56	
+250	171 N Gibson Rd	WgCx3vMpALkUo4w-zrHjhg	178.0	Must Visit!	Manna Mediterranean	4.0	3.7	130	
+251	110 N Stephanie St	IS4cv902ykd8wj1TR0N3-A	194.0	Worth Visiting	Raising Cane's Chicken Fingers	3.0	3.2	88	
+252	777 W Lake Mead Pkwy	xlxDYmBKcxivtawHudutRw	194.0	Its your say finally!	Fatburger	2.0	2.2	24	
+253	665 S Green Valley Pkwy, Ste 100	ad-TfpxfthN6UpIbor3PDg	42.0	At your own risk	Fresh Cafe	3.0	3.3	14	
+254	1311 W Sunset Rd, Ste 120	vraKC3CB9KSDCxYX0q3gWA	926.0	Worth Visiting	Pei Wei	3.0	3.3	133	
+255	898 S Boulder Hwy	BY7KbGp2dPDiw-9TjF0Zyw	349.0	Must Visit!	Frost Bites Shavery	5.0	4.9	68	
+256	1300 Mall Ring Cir	bIl02CY-4wSCCGxxeMOsig	31.0	Worth Visiting	Burger Factory	4.0	4.0	34	
+257	2520 W Horizon Ridge	q5GKRL_u3YsP8ADaU4uNbw	213.0	Worth Visiting	Carmine's Pizza Kitchen	4.0	3.8	101	
+258	4500 E Sunset Rd	2cib4FSxfh8OxRf9wX5RzQ	68.0	Worth Visiting	The Chocolate Moose	4.0	4.2	38	
+259	2851 Grand Hills Dr	gbdAew4vA0Gt4IEXFOMEwg	1.0	Worth Visiting	Janelas Restaurant & Bar	4.0	4.0	3	
+260	155 S Water St	CAf4_XjAQSqCz1ODB6ScYA	17.0	At your own risk	Pink Kingdom Cafe	3.0	3.0	7	
+261	1450 W Horizon Ridge Pkwy	nWx5GEaJ1dpc-psAbG_v5Q	103.0	Must Visit!	Jesse's Pizza	4.0	3.8	124	
+262	2450 Pebble Rd	9xMM3pGCokNTvC6Ao3PByw	151.0	At your own risk	IHOP	3.0	3.0	36	
+263	4401 E Sunset Rd	ZkoF4-snThlABQ1NXlF0ng	22.0	At your own risk	Steelz	3.0	3.3	12	
+264	72 W Horizon Ridge Pkwy, Ste 105	DPP0CBruunTELEtNgQ3RIQ	108.0	Worth Visiting	Sultan's Grill- Henderson	4.0	3.6	78	
+265	2642 W Horizon Ridge Pkwy	6PQve0oFCLPSh4wnIzvJtg	752.0	Jewel of a place!	Buon Gusto Ristorante	4.0	3.8	328	
+266	540 Marks St	zyJWc8oW8JpPg2xXMQsnAA	69.0	Its your say finally!	McDonald's	2.0	1.5	12	
+267	4563 E Sunset Rd	MDpFE-wM7_6nHjtuAENxsQ	224.0	At your own risk	Village Pub & Poker	3.0	3.1	49	
+268	1201 W Warm Springs Rd	hEsLl030Ncw10VKCD6g-dg	363.0	At your own risk	Denny's	3.0	2.6	116	
+269	9510 S Eastern Ave, Ste 100	rF183_3e0ybElRKdNSwJqQ	1679.0	Jewel of a place!	Twin Peaks	3.0	3.4	416	
+270	1680 Sunset Rd, Ste A	G3pcVtRukZM2oKiLeNiUUA	53.0	Worth Visiting	Felipito's Mexican Food	3.0	3.4	52	
+271	2548 Wigwam Pkwy, Ste 140	JSiArG-rHBcX1McctDXMhw	18.0	At your own risk	Wing & Grill Cafe	3.0	3.1	19	
+272	596 N Stephanie St	Yp1swb-8pO8i-6-jaK2tsA	864.0	Must Visit!	Mimi's Cafe	3.0	3.5	231	
+273	2430 E Pebble Rd	84D3me3nDXXWDBzT0qcbbA	95.0	At your own risk	Roadrunner Saloon	3.0	3.0	44	
+274	1659 W Warm Springs Rd, Ste 100	EqF8ZWFpz0YkL5I0tC3Q-A	267.0	Worth Visiting	Hot Dog On A Stick	4.0	4.2	40	
+275	1500 N. Green Valley Pkwy., #120	m2R3fjLag8EzYPAeIXdC7g	83.0	Worth Visiting	Pizza Hut	4.0	3.7	21	
+276	2540 Anthem Village Dr, Ste 120	7mMxJjeZqnN_nOhWhyU-Vg	101.0	Must Visit!	Sai Sushi	4.0	4.2	105	
+277	19 S Stephanie St, Ste 160	7kzQjGmeI0Z1q06q_aE1PQ	884.0	Must Visit!	Gimme Some Sugar	4.0	3.7	227	
+278	1540 W Sunset Rd, Ste 130	6F3QLjJ6iHnK3AAGsoXwsw	64.0	At your own risk	Las Pupusas	3.0	3.1	28	
+279	555 N Stephanie St	-sjCxkxv6xU5rEVLFybAuA	309.0	Worth Visiting	Tony Roma's	3.0	3.4	50	
+280	1680 W Sunset Rd	lQuzqmiE4bfZb19mip9uPA	22.0	Worth Visiting	Jack in the Box	4.0	4.0	3	
+281	650 E Horizon Dr	yMw8l729casywLY0oKKbNg	276.0	Must Visit!	Fix8 Fitness Cafe & Grill	4.0	3.9	130	
+282	240 E Lake Mead Pkwy	zIpW3YlE9fFwyWOT5HGI6A	12.0	Its your say finally!	Dairy Queen	2.0	2.0	32	
+283	1533 W Sunset Rd	yNS9sDkxDGP9DQV7ilS0NQ	222.0	Must Visit!	HoneyBaked Ham	4.0	4.4	37	
+284	11271 S Eastern Ave	5cBF1x9873GVQ6FIw_Fnjg	313.0	Worth Visiting	Kneaders Bakery & Cafe	3.0	3.4	153	
+285	842 S Boulder Hwy	38-sjGYYVcQEKrZe5Nu47A	827.0	Jewel of a place!	Johnny Mac's	4.0	4.0	327	
+286	591 College Dr Suite	q7aNYIUEkmisLTE3qBPRog	102.0	Its your say finally!	Panda Express	3.0	2.6	24	
+287	2300 Paseo Verde Pkwy	A3BzaW-pEmIH4Fu6dav7HA	699.0	At your own risk	Grand Café	3.0	2.6	141	
+288	1659 W Warm Springs Rd, Ste 100	aOv8M2mLogfGNrjoxYfsGw	88.0	Must Visit!	Straight From Philly Steakout	4.0	4.5	74	
+289	50 N. Valle Verde Dr, Ste 110	1i2zvEyKaxoHX6CyR4WdrQ	164.0	Worth Visiting	The Chicken Shack	4.0	4.0	81	
+290	135 N Stephanie St	vvHr2uKKIhfxVk-fYDmX9Q	28.0	Its your say finally!	Del Taco	2.0	2.1	10	
+291	80 N Pecos Rd	e6MbizDdtMLDMnc8LDmYrQ	105.0	Must Visit!	Fanny's Bistro & Deli	5.0	4.5	63	
+292	9570 S Eastern Ave	mxMwo3zfJwVoCIayeNcA5w	1639.0	Must Visit!	East Ocean Dim Sum & Seafood Restaurant	3.0	2.9	334	
+293	2940 Bicentennial Pkwy	6hw5xnu6X1goLMLflgOKkA	114.0	Worth Visiting	Rounders Anthem	4.0	3.6	57	
+294	1300 W Sunset Rd	pqOn3CAS8IfeBa-ZfuH7Sg	74.0	At your own risk	Hibachi-San	3.0	2.9	18	
+295	12300 S Las Vegas Blvd	LNGBEEelQx4zbfWnlc66cw	10313.0	Jewel of a place!	Studio B Buffet	4.0	4.0	2030	
+296	575 College Dr	n7myBA912X_vl4bSz_tgOA	41.0	Its your say finally!	Haggen Food & Pharmacy	2.0	2.0	24	
+297	239 N Pecos Rd	ugGqbJFuVs4pEyrvDS1TYQ	371.0	Must Visit!	Ohjah Japanese Steakhouse	4.0	4.3	186	
+298	114 S Boulder Hwy	DeiDY5I2scn86glfEVj9Ow	272.0	At your own risk	Roberto's Taco Shop	3.0	2.9	61	
+299	2450 Hampton Rd	LSfCrSK6klyEosPXSCzG2g	81.0	Worth Visiting	Cafe V	3.0	3.4	66	
+300	1321 W Sunset Rd, Ste 110	d85ye7OjCfRXd9MHGChaFQ	253.0	At your own risk	Jimmy John's	3.0	3.1	60	
+301	1301 W Sunset Rd	QsKhwKYB3YeWXqpIPd5QMg	220.0	Must Visit!	Sonoma Cellar	4.0	3.8	115	
+302	1660 W Warm Springs Rd	i0rVOregYLFcp7C1RKoE3g	208.0	At your own risk	Dairy Queen	3.0	2.7	49	
+303	10839 S Eastern Ave	qNYLt8zizn--wEpT1KILfw	4141.0	Jewel of a place!	Egg Works	4.0	4.3	579	
+304	35 E Basic Rd, Ste B	j5GSeCT_oq5AteGXKGWcnA	24.0	Worth Visiting	Lady Luck Cafe & Catering	4.0	3.9	8	
+305	1420 W Horizon Ridge Pkwy	w2yx8dfNXi3TcPZSdQOw3A	1936.0	Must Visit!	Metro Pizza	3.0	3.5	336	
+306	2222 Fremont St	mFzawhJ-qGsfnzGaBTt8Vg	1.0	Must Visit!	Dos Brothers	5.0	5.0	3	
+307	10890 S Eastern Ave, Ste 109	dC6erJ1htWZO9N-Z3BakZQ	72.0	At your own risk	Pat Thai	3.0	3.4	18	
+308	1639 W Warm Springs Rd	Piie0HHGJlgZP5woDuWhlg	7.0	Worth Visiting	Tony's Place	4.0	3.7	7	
+309	639 N Stephanie St	uRbuizm1j_9gTRMJJaev0w	31.0	At your own risk	Villa Pizza	3.0	2.7	18	
+310	240 E Lake Mead Dr	erfeEg2sOOGRXYfLIM9BvA	33.0	Its your say finally!	Long John Silver's	2.0	1.7	11	
+311	10100 S Eastern Ave, Ste 130	mvvh-raAmdM5UbLUoKnnAg	198.0	Worth Visiting	Inaka Sushi	3.0	3.3	87	
+312	1426 E Lake Mead Pkwy	-qdhAN_Ep0kv0EMB2QEAjg	238.0	At your own risk	Sonic Drive-In	3.0	2.8	26	
+313	590 N Stephanie St	hitpsDvCvgajUbSHxaUDlg	113.0	Its your say finally!	Arby's	2.0	1.8	48	
+314	1450 W Horizon Ridge Pkwy	RkqN70Pidy6_tAWMvodOLg	621.0	Must Visit!	Ta Ta Bistro	3.0	3.4	219	
+315	1000 N Green Valley Pkwy, Ste 480	At2bqa8emnEr5WNIosi0ow	2468.0	Jewel of a place!	The Cracked Egg	4.0	3.7	458	
+316	133 S Water St	XbLwKIZTYIpR4ybtJeM7BA	3.0	Must Visit!	Firelight Barn	5.0	5.0	6	
+317	27 S Stephanie St, Ste 100	BbPzn-vXI4q1ZCEtTO2iBw	3.0	At your own risk	Toppled Tortoise	3.0	3.4	11	
+318	645 Carnegie St	WpI5MZC3XzlTpcUOKXzCbA	2779.0	Jewel of a place!	Lindo Michoacan	4.0	3.7	873	
+319	303 Water St	XGr23OTr51qYJ-kSFMzTUA	11.0	At your own risk	Daisy's Deli	4.0	3.6	5	
+320	10624 S Eastern Ave	kxBiQz2AcOJLc6je6OD9vw	248.0	Worth Visiting	Firehouse Subs	4.0	3.6	27	
+321	43 S Stephanie St	-VYYKJBVTX1BtaJU4eFJ8A	621.0	Worth Visiting	Teriyaki Madness	3.0	3.4	132	
+322	1311 W Sunset Rd, Ste 105	p_bUsbOgUsKSPRtbBzErxw	66.0	At your own risk	Tony D's	3.0	3.3	12	
+323	1301 W Sunset Rd	1nqfF7z_bAnODz7cJ-uekA	54.0	At your own risk	Viva Salsa	3.0	2.9	14	
+324	4425 E Sunset Rd	FYddq7fUtzobZcw4jOJgVA	49.0	Worth Visiting	Taco Bell	4.0	3.8	4	
+325	19 W Pacific Ave	1zMzkxYgVqJbKGTMQorarA	288.0	Must Visit!	Coo Coo's Gourmet Coffee Cafe	4.0	4.1	113	
+326	75 S Valle Verde Dr	KqxJcRmPEdiUTXHwsZcOZw	126.0	Worth Visiting	Annie's Gourmet Italian	3.0	3.2	141	
+327	122 S Water St	OHaJn1FKwEIpCmwt3VsKrA	31.0	Worth Visiting	Images	4.0	4.2	18	
+328	2300 Paseo Verde Pkwy, Ste 2011	lcBqrThg5onr6IIsxMQZ1A	388.0	Worth Visiting	Fatburger	3.0	3.2	77	
+329	140 S Green Valley Pkwy, Ste 142	SR0Q2hAEMJ_m23O_x-khSQ	1602.0	Jewel of a place!	LYFE Kitchen	4.0	3.8	503	
+330	2255 Village Walk Dr	g6l78EOVGYzMmnTSGj8TcA	585.0	Worth Visiting	Due & Proper	3.0	3.3	151	
+331	10895 S Eastern Ave, Ste 100	AXr-GJxC4JtjFsY2PoGBWQ	306.0	Must Visit!	The Tangerine Cafe	4.0	4.2	114	
+332	75 E Horizon Ridge Pkwy, Ste 150	DKY6neYbUjeb2Hfq4YMdgw	173.0	Worth Visiting	Subway	4.0	4.0	23	
+333	1301 W Sunset Rd	cr_z86T0Tscb2PGakN4Q2A	45.0	At your own risk	Sunset Cafe	3.0	3.4	11	
+334	1311 W Sunset Rd, Ste 100	pKTIxpM_2Qk7l_Kb0LImbQ	1302.0	Worth Visiting	Chipotle Mexican Grill	3.0	3.0	136	
+335	340 N Boulder Hwy	OCFBflnJKmGyTgGpK7X7eQ	18.0	Worth Visiting	Burger Shoppe	4.0	3.9	25	
+336	316 N Boulder Hwy	epETdeCmoF_-ufT5b8ACUA	1337.0	Jewel of a place!	Omelet House	4.0	4.3	513	
+337	2990 St Rose Pkwy	tDV2oFNTGrUWAkxYCqP0jw	75.0	At your own risk	A Slice of Chicago At the Inn Zone	3.0	3.3	40	
+338	11261 S Eastern Ave, Ste 200	bfIizwyT3-QXrntWbBpfKA	975.0	Must Visit!	Firefly Tapas Kitchen and Bar	4.0	3.8	155	
+339	901 Olivia Pkwy	SJxm96AkOPhXZFRM5-RbTA	121.0	At your own risk	Slice 19	3.0	3.3	22	
+340	11155 S Eastern Ave	RPjBB_uhHQ4oxp39Jqm_HQ	337.0	Worth Visiting	Capriotti's Sandwich Shop	3.0	3.5	61	
+341	2235 Village Walk Dr, Ste 153	OOHlm2lbVgPHhSe98YW3yA	907.0	Jewel of a place!	Me Gusta Tacos	4.0	4.4	236	
+342	601 N Stephanie St	2fVnJlyKVkt1WjPOlNdP7g	428.0	Its your say finally!	McDonald's	2.0	2.4	44	
+343	280 S Green Valley Pkwy	TgTiw8lMYoRNreSeYN9qWg	91.0	Must Visit!	The Coffee Press	4.0	4.4	38	
+344	444 W Sunset Rd	kxP6hLB4lvpPLpCPYlQ8JQ	36.0	At your own risk	Klondike Sunset Casino	3.0	3.2	32	
+345	2531 Wigwam Pkwy	fxO2uOXjwS_gwG__oawDEw	55.0	At your own risk	Rae's Restaurant & Lounge	3.0	3.1	38	
+346	Montelagio Village	RiTK-37J5yp1sYMFp2n3Qw	7.0	Its your say finally!	Pizza Mania	2.0	1.7	6	
+347	1716 W Horizon Ridge Pkwy, Ste 110	1nF8Me63cpxIkFK8Ysx-DA	1149.0	Must Visit!	Shabu Shabu Paradise	4.0	4.3	228	
+348	50 N Valle Verde Dr, Ste 110	jyWnalvlMFz5pZPXN9CRpA	603.0	Must Visit!	East Coast Eats	4.0	3.8	136	
+349	10100 S Eastern Ave, Ste 130	W8xPHUqL088jdcmNZyH-eA	325.0	Must Visit!	Noodle Pot II	4.0	4.0	119	
+350	65 S Valle Verde Dr	l0-d7zbmkwvQ6YaUhFBE-w	275.0	Its your say finally!	McDonald's	2.0	2.1	54	
+351	35 E Horizon Ridge Pkwy, Ste 160	7W-7QBBU67ax2nERXrDM1Q	249.0	Must Visit!	Ohjah Noodle House #2	5.0	4.5	160	
+352	9470 S Eastern Ave	TCoBE_BkDRrK0bWrh5VueQ	2986.0	Jewel of a place!	Taco Y Taco	4.0	3.9	963	
+353	1381 W Sunset Rd	blSo58x1yUZdT30VwnpOmw	362.0	Must Visit!	PizzaRev	4.0	3.9	165	
+354	535 Marks St	Ln3jC2yAs5KtopUDAhYZBA	162.0	At your own risk	Carl's Jr.	3.0	3.1	22	
+355	2300 Paseo Verde Pkwy	xlXwxfiUD4bgJFKUYwkzOg	1966.0	Jewel of a place!	Borracha Mexican Cantina	4.0	4.0	353	
+356	2551 Anthem Village Dr, Ste D	4VLfpv1q_aoMv8DGwa97YQ	19.0	At your own risk	Monstah Lobstah	3.0	3.1	15	
+357	2910 Bicentennial Pkwy	EC0a-hNGqWZyVUIdtQxPlg	3.0	At your own risk	1888 BBQ	4.0	3.7	3	
+358	1039 Whitney Ranch Dr	MQAh7G93keNYlFKTus2CDQ	44.0	Must Visit!	La Flor de Michoacan Ice Cream	5.0	4.9	32	
+359	1301 W Sunset Rd	YmDBXcZI0BvoFmnyQP9pUg	192.0	At your own risk	Hooters	3.0	2.9	28	
+360	4500 E Sunset Rd, Ste 8	5RzpBgHNbOZiFCgQ2Zuoog	180.0	Worth Visiting	Endless Swirls	3.0	3.4	38	
+361	10345 S Eastern Ave, Ste 100	KdKzTRoSKEUIlxfKTbWUaw	3275.0	Jewel of a place!	Crepe Shack & Waffles	4.0	4.5	403	
+362	2980 St Rose Pkwy	9z3eb67r3ZWs4KOlSP9rSA	2.0	Worth Visiting	Chandelier Meditaranean Restaurant	4.0	3.8	6	
+363	2920 N Green Valley Pkwy, Ste 6	BYtGiZr3dbxa2qAhg_3I4w	370.0	Must Visit!	Elixir - A Local Lounge	4.0	4.1	133	
+364	Green Valley Ranch Station Casino, 2312 Paseo Verde Pkwy	oQi2rgl-ajKDoTAaceLBag	405.0	At your own risk	Tides Oyster Bar	3.0	3.1	78	
+365	1381 W Sunset Rd	iNKMTWEZ-uuXzCbPsAv-kQ	958.0	Must Visit!	Café Zupas	4.0	3.9	260	
+366	193 N Gibson Rd, Ste 100	46P5yEu3aurgJ9IiGGloVQ	57.0	Its your say finally!	Roberto's Taco Shop	2.0	2.2	23	
+367	10525 S Eastern Ave, Ste 130	4KYnY1nNTaD7vb3Eo1G3Hw	23.0	Its your say finally!	Pizza Hut	2.0	2.3	41	
+368	170 N Boulder Hwy	ky5L-EfUwU9chSPcIeXM5w	253.0	Must Visit!	China A Gogo	4.0	3.8	127	
+369	605 Mall Ring Cir	87j14nON0RPB9DSkcWsF7g	1312.0	Worth Visiting	Panera Bread	3.0	3.1	144	
+370	690 E Horizon Dr	9_qI_MCXaxUFfiArlHvGIA	56.0	Its your say finally!	El Pollo Loco	2.0	2.5	8	
+371	2260 Village Walk Dr	FMWWSFWp7o2J5IHqJJr7yg	61.0	Its your say finally!	Panda Express	3.0	2.7	6	
+372	10090 S Eastern Ave, Ste 110	07ysr1ZON5nOOUynGZtPHw	32.0	At your own risk	Subway	3.0	3.5	13	
+373	10895 S Eastern Ave, Ste 100	q2GzUNQj998GSC8IhkN9hg	143.0	Jewel of a place!	HUMMUS	5.0	4.9	156	
+374	Ravella Hotel, 1610 Lake Las Vegas Pkwy	FcFBgOQuIShzoHG83h9Lyg	55.0	Worth Visiting	Medici Cafe and Terrace	4.0	4.1	15	
+375	1405 W Sunset Rd, Ste 101	fgrMJzwI-AcdvhNZgFCgvw	142.0	Worth Visiting	Port of Subs	4.0	3.9	50	
+376	150 N Boulder Hwy	v1ZcX46_bS-9foXvxWsxLw	56.0	Its your say finally!	Del Taco	2.0	2.2	16	
+377	310 N Boulder Hwy	YgL5oNrTj6rxr1KQjCM-fw	284.0	Its your say finally!	McDonald's	2.0	2.2	37	
+378	2300 Paseo Verde Pkwy	y6QP5IrOJ7_FsB51jN2_Jg	1506.0	Jewel of a place!	Pizza Rock	4.0	3.9	496	
+379	101 S Green Valley Pkwy	qi6uzJEhA9puZM2io46-_A	1305.0	Must Visit!	P.F. Chang's	3.0	3.3	268	
+380	2225 Village Walk Dr, Ste 181	Yo8ODT7aFMM2xKUd1yaBVw	500.0	Must Visit!	Bella Vita	4.0	4.0	246	
+381	75 S Stephanie St	m1BDEL9C4GsG-0FmAp5P8A	184.0	Worth Visiting	The Players Club LV	4.0	4.2	24	
+382	9620 Las Vegas S Blvd, Ste N-8	WuTfKVz5g5cM2Cq5UD0Nxw	10.0	Its your say finally!	Haiku & Thai	2.0	1.8	4	
+383	3255 Saint Rose Pkwy, Ste 100	ZPiiFtSUDsYn-LiudUjhUA	105.0	At your own risk	Subway	3.0	3.3	7	
+384	1290 W Warm Springs Rd	wZj7Z_cvC_14fE885TIqoA	161.0	At your own risk	Fazoli's	3.0	3.1	27	
+385	639 N Stephanie St	PxANrd2dLItNNSAWyiQTjQ	225.0	Must Visit!	Mama DePalmas Pizza & Bistro	4.0	3.7	133	
+386	10612 S Eastern Ave	RTu_YXj2Za0Jf7rsFEcOhw	398.0	At your own risk	Robertos Taco Shop	3.0	2.7	92	
+387	1300 Mall Ring Cir	pW5PgyIuL8932znvVOekPg	8.0	Worth Visiting	Sbarro	4.0	4.0	3	
+388	Sams Town	TqcynTkmvUceKUHOy2GBeQ	81.0	Its your say finally!	Sports Deli	3.0	2.7	16	
+389	2021 W Sunset Rd	GW-vTdsS8fFkkfF6gNG0CQ	13.0	Worth Visiting	Sanchos's Mexican Grill	4.0	4.1	22	
+390	10271 S. Eastern Avenue, Suite 121	3WipOV5JlbCEO_o0tV49yA	1788.0	Worth Visiting	Buffalo Wild Wings	3.0	3.0	236	
+391	2551 Anthem Village Dr	iA9xu-6oOFynZQxO5qrauQ	35.0	At your own risk	DOC Holliday's Saloon	3.0	3.0	3	
+392	901 Olivia Pkwy	V9st1APIh04cP1WUfnvxmA	51.0	Worth Visiting	Chimera Golf Club	3.0	3.3	68	
+393	1413 N Garnett St	WA5c3d6rhjioD3Ri4nCX1A	2.0	Worth Visiting	Subway	4.0	4.0	3	
+394	11105 S Eastern Ave	_JwfmRh0T8mEEx-A4FqMOw	352.0	Must Visit!	Tuscany Grill	4.0	4.1	119	
+395	1195 W Sunset Rd	sr2500NlogeAa52rH0vrcw	135.0	At your own risk	Wildfire Sunset	3.0	3.3	22	
+396	2126 S Boulder Hwy	y3RlbCN0UrDdLnjSF9NkXA	374.0	Worth Visiting	El Torito Cafe	3.0	3.4	159	
+397	1650 W Warm Springs Rd	4IN3sNUrqA8uLiLcBg-IWA	29.0	Worth Visiting	Flour & Grounds	4.0	4.0	22	
+398	101 Montelago Blvd	rT9OKEmoTr2uHzj3m2HTkQ	157.0	Worth Visiting	Rick's Cafe	3.0	3.3	60	
+399	65 W Lake Mead Pkwy	dRDLwXHFLsMgpVMxNIRIiQ	218.0	Must Visit!	Straight From Philly	4.0	4.4	177	
+400	641 N Stephanie St	gSBXlhvRIJPRiMOzO6smoQ	66.0	Must Visit!	Grand Kebab	5.0	4.5	106	
+401	130 Par Excellence Dr	4UQtSydgZ0-7peghGCb-eg	49.0	Worth Visiting	Legacy Golf Club Restaurant	4.0	4.3	6	
+402	4400 E Sunset Rd	N8ArHOgRDI8wOJIOZaEHyg	1477.0	Must Visit!	Olive Garden Italian Restaurant	3.0	3.3	265	
+403	175 North Stephanie St, Ste 160	LRWM3vktESJJEYpBs-_x4g	83.0	Worth Visiting	Papa Murphy's	4.0	4.1	34	
+404	2021 W Sunset Rd	ehRigNzlkRQlvhzKr7PLCQ	79.0	Worth Visiting	KIT's Kitchen	4.0	4.1	56	
+405	2300 Paseo Verde Pkwy	4n-dVQjgPPSg_xxuLB_QLQ	344.0	Worth Visiting	Tides Seafood & Sushi Bar	3.0	3.1	121	
+406	Eldorado Casino, 140 Water St	AVhYkxAqQSFqYMSa01hPbQ	24.0	At your own risk	The Cafe	3.0	3.4	5	
+407	550 S Boulder Hwy	IGEy2RbKHrQrZAaofec5jw	66.0	Its your say finally!	Burger King	3.0	2.6	18	
+408	85 N Stephanie St	UtZgmOHDW_fbXasbTuZhWA	85.0	At your own risk	Farmer Boys	3.0	2.8	64	
+409	1205 W Warm Springs, Ste 112	WQn2j45QmB7iX8C5YjZVCw	3.0	Its your say finally!	Red Hots Mexican Restaurant	2.0	1.7	3	
+410	665 S Green Valley Pkwy	D1Zz5Ea3kgsHUMDH0M-jNA	83.0	Worth Visiting	Subway	5.0	4.6	12	
+411	10345 S Eastern Ave, Ste 190	iqQEH6olFhpqwZjFRRFmuA	1004.0	Jewel of a place!	Spicy Tuna Sushi	4.0	4.4	269	
+412	2300 Paseo Verde Dr	t4EnHrsawt4P8-DFz5rF7Q	57.0	Its your say finally!	Turf Grill	3.0	2.6	17	
+413	771 E Horizon Dr, Ste 156	Qgh-6o1N_GG_BFfw0pxBtg	36.0	Its your say finally!	Papa John's Pizza	3.0	2.5	31	
+414	1205 W Sunset Rd, Ste 120	YfsNZho-s38tB9H30Umpqg	863.0	Worth Visiting	Aloha Kitchen	3.0	3.2	114	
+415	790 Coronado Center Dr, Ste 130	vyQD-pu9jFKRXWI9tt16_Q	1318.0	Must Visit!	Shakespeare's Grille & Pub	4.0	3.8	270	
+416	180 N Pecos Rd	Hu4982iLVNhBy3HI3s_22g	127.0	At your own risk	Del Taco	3.0	3.2	19	
+417	10020 S Eastern Ave	0imWty0eKpz8YpuZAKF83Q	737.0	At your own risk	McDonald's	3.0	2.7	61	
+418	725 S Racetrack Rd	aNnYV9FRtlKMXKU92qGNJA	44.0	At your own risk	Emily's Cafe	3.0	3.2	21	
+419	2235 Village Walk Dr	m1GXhsLGEE6Y38bBpWHRBg	855.0	Worth Visiting	Panera Bread	3.0	3.4	93	
+420	2654 W Horizon Ridge Pkwy	kj1KQgC-mCRV4vYZlWitzg	128.0	At your own risk	Panda Express	3.0	3.0	24	
+421	40 Costa Di Lago	OnAKZQCawiLhAxdjhvGYOw	205.0	Worth Visiting	Sunset & Vines	3.0	3.3	106	
+422	1401 S Boulder Hwy	IxU1xb7j8SM9WPghWWlE_Q	6.0	Must Visit!	Sucker-Punch Grill	5.0	5.0	5	
+423	19 S Water St, Ste D	6ofwgPTHGJf22dUSK_6fAg	67.0	Worth Visiting	Motor City Coney Island	4.0	3.9	25	
+424	10900 S Eastern Ave	g90X9fhKPi0r8rFtICFgxg	242.0	Worth Visiting	Village Pub & Poker	4.0	4.0	40	
+425	603 W Lake Mead Pkwy	1T1E5g1e-94becqAzvbLDQ	66.0	Its your say finally!	Wendy's	2.0	1.9	22	
+426	2300 Paseo Verde Pkwy	LNOnYo13ggdoEGD-syYHIA	1876.0	Must Visit!	Feast Buffet	3.0	3.1	332	
+427	1331 W Warm Springs, Ste 190	F8nWy6FX8k-hpIf4MbjeNQ	126.0	Worth Visiting	San Francisco Style Sourdough Eatery	3.0	3.5	29	
+428	12300 Las Vegas Blvd S	0hFVE-lqnEytSsWZGevJDg	271.0	Worth Visiting	Marinelli's Pasta Bar	3.0	3.3	102	
+429	4300 E Sunset Rd, Ste A6	d17TNvbQP8h5_WniCnma1A	31.0	Worth Visiting	Live Fire Q	4.0	3.8	21	
+430	4140 E Sunset Rd	dFyaVVHLcfNE98-NMftL7w	8.0	At your own risk	Noble Roman's Take-n-Bake Pizza	4.0	3.5	8	
+431	1199 W Sunset Rd	3xykzfVY2PbdjKCRDLdzTQ	1188.0	Jewel of a place!	Samurai Japanese Steakhouse & Sushi	4.0	4.0	339	
+432	90 S Stephanie St, Ste 140	EnSwLkFQUy1QHgTA0vSbEQ	43.0	Worth Visiting	Fix8 Fitness Cafe	3.0	3.5	41	
+433	2861 N Green Valley Pkwy	Xck2KzJcZDJGMtwxMwD71w	356.0	Worth Visiting	Sumo Sushi Bar	3.0	3.4	135	
+434	10575 S Eastern Ave, Ste 160	lIDgEB1HnKAq03H1fpjzLQ	3002.0	Jewel of a place!	Bad Owl Coffee	4.0	4.0	594	
+435	203 S Water St	Xx3sljwYFrA1z_5eR8KjOg	17.0	Worth Visiting	Berwick's Urban Lounge	4.0	4.0	10	
+436	11261 S Eastern Ave, Ste 200	hoskgfXQRZXc9HV48nVFvg	650.0	Must Visit!	Standard & Pour	4.0	4.2	190	
+437	10430 S Eastern Ave	OhrbZ8e4v0XsD5Qi2eWb7g	148.0	At your own risk	Half Shell Seafood & Gaming	3.0	3.1	47	
+438	10890 S Eastern Ave, Ste 108	zitXLajbETOuHQJfok4a4g	701.0	Must Visit!	Burger Joint	4.0	4.4	182	
+439	560 Marks St, Ste C	JE5tkxtE2E-iOQ9RR_Ysfg	8.0	Its your say finally!	Chopstix	3.0	2.6	11	
+440	1654 W Warm Springs Rd	M0A8RFdN1UqSd-tIqXFEBQ	50.0	Worth Visiting	Golden Gate Chinese Restaurant	4.0	3.6	41	
+441	375 N Stephanie St, Ste 311	stK7zVTmMar1ThpzT0Wjvg	790.0	Jewel of a place!	Tokyo Boys	4.0	4.3	330	
+442	1351 W Sunset Rd, Ste 110	AWWqMTqLx9EYyYHOwZ8yBA	4.0	Worth Visiting	Device Pitstop Henderson	4.0	3.9	21	
+443	4330 E Sunset Rd	DcD4NnR24iiUj7w6Q6hxzA	957.0	Worth Visiting	TGI Fridays	3.0	2.6	185	
+444	1300 W Sunset Rd, Unit 2825	SkHMTJG0VICBpC-f4RhkxQ	24.0	At your own risk	Subway	3.0	3.1	8	
+445	40 Costa Di Lago, Ste 100	t5QPwHMuPQn_kN809Ir6TQ	32.0	Worth Visiting	Le Cafe Du Lac	4.0	4.5	30	
+446	180 S Stephanie St	AktuBx1W7c3ZdzwuaOp8xg	222.0	Worth Visiting	Little Dumpling	3.0	3.2	95	
+447	1300 W Sunset Rd, Ste 2809	KduMkA9Hq0Nz_7MGj1siKA	25.0	Must Visit!	Tom Yum Thai Kitchen	5.0	4.6	30	
+448	675-A Mall Ring Cir	XH4jDFKyeCI7qkKq6PB9Nw	176.0	Its your say finally!	Baja Fresh Mexican Grill	2.0	2.2	44	
+449	10940 S Eastern Ave, Ste 107	3b94MZ9agaZL8SMBagTwpA	1734.0	Jewel of a place!	Bread and Butter	4.0	4.1	317	
+450	2591 Anthem Village Dr	618yZxC6stz-Un4xLsp5vw	184.0	Worth Visiting	China A Go Go	3.0	3.3	59	
+451	3023 St Rose Pkwy	GPX3TnZ0-4pAxKPJUESbeA	780.0	Must Visit!	Raising Cane's	4.0	3.9	135	
+452	14 W Pacific Ave	01aNlDhbMObjc9OdAHuNpQ	78.0	Worth Visiting	Rose Garden Chinese Restaurant	4.0	3.8	58	
+453	280 N Gibson Rd	MjB1mTO0Thw0csSIe5xxLg	176.0	Must Visit!	Mustang Sally's Diner	4.0	4.0	102	
+454	2548 Wigwam Pkwy, Ste 150	FPAOrUsP7GuIyqmK9UoPUQ	275.0	Worth Visiting	Teriyaki Madness	4.0	3.6	71	
+455	9530 S Eastern Ave, Ste 180	auTNigMttjBBTj1MNxOeFQ	2172.0	Jewel of a place!	Taj Palace	4.0	4.1	476	
+456	2020 W Horizon Ridge Pkwy	J-gyEd7lgoNLSYdOd__JtA	15.0	At your own risk	The Willows Restaurant	3.0	3.3	9	
+457	10100 S Eastern Ave, Ste 120	NO4dgY9EMXts88pfAKH8vA	31.0	At your own risk	Nanay Gloria's Filipino Buffet	3.0	3.1	9	
+458	1280 W. Warm Springs Rd	UgcPEMKI7vEIT27rzBIqoA	94.0	Its your say finally!	Pizza Hut	2.0	2.4	37	
+459	690 N Valle Verde Dr, Ste 1	eppng2FiFAJa1CZBDX6mbQ	47.0	Its your say finally!	Little Caesar's Pizza	2.0	2.4	28	
+460	12300 Las Vegas Blvd S	LVLctMJ018ShlsFkIuYGTg	679.0	Must Visit!	Burgers & Brews	4.0	3.6	183	
+461	4449 E Sunset Rd	4SWx95nlvFKzI9uzpQ6wjQ	66.0	Its your say finally!	Del Taco	2.0	2.5	22	
+462	2270 Village Walk Dr	tcfL9_Qe-12eX4rdmK_6XA	1375.0	Must Visit!	Elephant Bar Restaurant	3.0	3.5	382	
+463	2525 W Horizon Ridge Pkwy	w2b0ve7xpuCQkwYICFIUOg	1101.0	Jewel of a place!	Pasta Shop Ristorante	4.0	4.3	308	
+464	310 S Boulder Hwy	EBfuq8ctwTXN3Pv4ALOAyA	38.0	Its your say finally!	Arby's	2.0	2.0	22	
+465	530 Conestoga Way	mfMTS_2YBhmq9phSx1bnxg	758.0	Must Visit!	Remedy's Tavern	4.0	3.6	130	
+466	209 N Pecos Rd	x78iqNaO9FvKTN5YYXDZFA	64.0	Its your say finally!	Burger King	2.0	1.6	12	
+467	2235 Village Walk Dr, Ste 157	SHDpSpDjX5tiQQrKKryNkg	6.0	Worth Visiting	Kennedy Tavern	4.0	3.6	16	
+468	2591 Anthem Village Dr	gBHFF3xGzN1_ZIOfmN_lzw	27.0	Its your say finally!	Subway	2.0	2.3	3	
+469	701 E Horizon Dr	5wTs_RnU7XE_S2uw20kU9A	333.0	Its your say finally!	McDonald's	2.0	2.0	43	
+470	10890 S Eastern Ave, Ste 109	LLWwWBCg7cek0YS6NqZ2sA	47.0	Worth Visiting	Thai Thai Restaurant	4.0	3.6	65	
+471	5749 E Russell Road	9o06B3dg47Dyx6sLleFh8Q	7.0	At your own risk	Teriyaki Madness	3.0	3.0	5	
+472	721 Mall Ring Cir	zYb4kj2R54R2YPeNm829BA	307.0	Must Visit!	Sauce Italian Bistro & Bar	3.0	3.4	247	
+473	75 S Valle Verde Dr, Ste 240	uyoZHZzHaZpqMzXovJxDTw	209.0	Worth Visiting	China a Go Go	4.0	3.5	72	
+474	2800 S Boulder Hwy	ktAYPbPwmV7cWH-RWwihpA	17.0	Worth Visiting	The Steakhouse at The Pass	4.0	3.9	15	
+475	2235 Village Walk Dr, Ste 147	Rc3fdyxa9IbhBDL-q1Q_Og	393.0	Worth Visiting	Al's Garage	3.0	3.2	61	
+476	20 Costa Di Lago, Ste 120	F5vj2ZUaemyUB4E6SHVDQA	34.0	Worth Visiting	Seasons Grocery	4.0	4.2	21	
+477	2300 Paseo Verde Pkwy	oq7yB9GwWzJkCWeAMIqIvw	98.0	Its your say finally!	Starbucks	3.0	2.7	10	
+478	72 W Horizon Ridge Pkwy	U3ShrvhAFpv5mfT6z07eGw	224.0	Worth Visiting	Rosarita's Beach	4.0	3.7	76	
+479	665 S Green Valley Pkwy, Ste 100	z3bUwDC1wUPGeIB8Rt90wA	1127.0	Must Visit!	Layers Bakery Cafe	4.0	3.9	227	
+480	595 College Dr	HpK1ILGUm5W129toiRSsXw	872.0	Must Visit!	Fausto's Mexican Grill 3	4.0	3.8	117	
+481	65 E Horizon Ridge Pkwy	iBPSrhDr7IlfMywxCIp-wA	188.0	At your own risk	Cafe Rio	2.0	2.1	141	
+482	777 W Lake Mead Pkwy	fkH7X87RFAJrj81nOZPaNw	29.0	Worth Visiting	Fuego Steakhouse	4.0	3.9	94	
+483	1275 W Warm Springs Rd	I0f12eU-xFn6Kd_4H57jrQ	459.0	Must Visit!	Napoli Pizza	3.0	2.8	395	
+484	2702 N Green Valley Pkwy	mGUXzktXl1BlRdsVOy1WjA	369.0	Jewel of a place!	Korean BBQ & Rolls	5.0	4.7	216	
+485	1570 W Horizon Ridge, Ste 160	xWq3LQw8w4OIK-fSiGwNLg	197.0	Must Visit!	Fat Boy	5.0	4.5	152	
+486	10 Via Brianza, Ste 110	Wajw_eLLNwapDQI2LLQHHg	51.0	At your own risk	Proof Tavern	3.0	3.1	38	
+487	2525 W Horizon Ridge Pkwy	0s5M9t1SvzuRbfPzSUJ8gg	5.0	At your own risk	Vincent's Sandwich & Deli	3.0	3.3	3	
+488	617 Mall Ring Cir, Ste 120	KWo_0NYGYkID9EM5-YLmJQ	8.0	Its your say finally!	21 Buffet	2.0	2.0	4	
+489	2265 Village Walk Dr	ifHBH2gZS_feI6JlFbGFfQ	1066.0	Must Visit!	Balboa Pizza Company	4.0	3.7	190	
+490	1300 W Sunset Rd	SYGbbZlLk81_bOlBptbS7A	428.0	Jewel of a place!	Kyklos Greek Cafe	4.0	4.5	220	
+491	655 S Green Valley Pkwy, Ste 140	bzz1t-CEN_G2MDdeirmySQ	45.0	Must Visit!	New York Chinese Restaurant	4.0	3.6	240	
+492	2654 W Horizon Ridge Pkwy	O3y-5O1n5l0ge_6KGyR_4A	667.0	Must Visit!	Fausto's Mexican Grill	4.0	3.9	131	
+493	555 North Stephanie St	-FtngCwHCD2tRlH8jpj_Ag	1052.0	Jewel of a place!	Hash House A Go Go	3.0	3.3	518	
+494	10895 S Eastern Ave, Ste 100	RzPqAx9QLEccTpxJcLqyfg	46.0	Worth Visiting	Sugar & Spice	4.0	4.4	20	
+495	1300 W Sunset Rd, Ste 2845	OXSN9Jrp5JeF5VnXpDNHpg	25.0	At your own risk	Sbarro	3.0	2.9	9	
+496	11624 Bermuda Rd	--FBCX-N37CMYDfs790Bnw	490.0	Worth Visiting	The Bar At Bermuda & St. Rose	4.0	3.7	108	
+497	2485 Village View Dr	cI1qHDTMH70jptTkWYocQg	386.0	Its your say finally!	Grand Cafe	2.0	2.5	50	
+498	1301 W Sunset Road	SvrxuO2ihYbOW092eQ-dqA	74.0	Must Visit!	Costa Del Sol At Sunset Station	5.0	4.8	8	
+499	721 Mall Ring Cir	EzZ7EN6-f8Yo4qe5fcENiQ	1.0	Its your say finally!	Blues BarBQ	2.0	2.1	8	
+500	2605 Windmill Pkwy	TF4iJDrgB_ygfJWN4POg8A	654.0	Must Visit!	Siri Thai	4.0	3.7	165	
+501	1120 N Boulder Hwy	RB4ZbZ5MkwfOrZ3Y7OczHQ	2.0	At your own risk	Mugshots	4.0	3.7	3	
+502	690 E Horizon Dr	LESkmUg-nOQcGs_hyiXQbw	714.0	At your own risk	Starbucks	3.0	2.7	98	
+503	237 N Stephanie St	f4eUHYdkgfaOvi6rU-o7Kg	14.0	At your own risk	The Shake and Dog	3.0	3.1	7	
+504	10100 S Eastern Ave, Ste 120	KMKPusWbBaIORB669W0EeQ	112.0	Worth Visiting	Kabob Oasis	3.0	3.4	61	
+505	2530 St Rose Pkwy, Ste 130	iP0o0sxOhxLssSdME4SZvg	482.0	Must Visit!	Great Grubbing	4.0	4.3	205	
+506	1282 W. Warm Springs Road	ZBitvpKY5rbsDGqKrlo2Dg	67.0	Its your say finally!	KFC	1.0	1.3	52	
+507	560 Mark St, Ste C	FEWTPBUv-QiugBe-2uXD4A	112.0	Worth Visiting	Chopstix	4.0	3.5	86	
+508	1716 W Horizon Ridge Pkwy, Ste 100	uBdYMY6a6A7FyxzTSwOiDg	1407.0	Jewel of a place!	Kitchen Table	4.0	4.2	861	
+509	9310 S Eastern Ave, Ste 116	NXNa5OYmN1CNmXwHhDxpRA	4083.0	Jewel of a place!	Monta Chaya	4.0	4.2	543	
+510	898 S Boulder Hwy	Ru09o7KDyRyRX_Le3eHjNQ	93.0	At your own risk	Del Taco	3.0	2.7	22	
+511	10505 S Eastern Ave	dPbzlRWQzBlVdhkkDigfOw	152.0	At your own risk	Jack In the Box	3.0	3.0	20	
+512	2630 W Horizon Ridge Pkwy	dQ4pxV6AxBaD3X4gssg5zg	320.0	Must Visit!	Giuseppe's Italian Grille	3.0	3.5	168	
+513	191 S Arroyo Grande Blvd	5zDP3Y2hdh6GJL9DVbQ2KA	1200.0	Jewel of a place!	Ventano Italian Grill & Seafood	4.0	3.9	524	
+514	2021 W Sunset Rd	VwZhwflLnTq19aAeFLJHCQ	326.0	Must Visit!	Bernard's Bistro	4.0	4.2	152	
+515	61 W Horizon Ridge Pkwy	nCwAk9FHldJzop3N88SdaA	215.0	At your own risk	PT's	3.0	3.0	62	
+516	2021 W Sunset Rd	BQIscJNv1rNEZpV9S7Z_tQ	347.0	Worth Visiting	Noodle ChaCha	3.0	3.4	62	
+517	10960 S Eastern Ave, Ste 107	lsRa519UE_Iuk_ymGnPuUw	1.0	At your own risk	wingzza	3.0	3.0	3	
+518	151 N Gibson Rd	c_VcdG84KcGRRQ23x-EpPA	87.0	Worth Visiting	Heidi's Brooklyn Deli	4.0	4.2	18	
+519	72 W Horizon Ridge Pkwy, Ste 100	BQqwIYQuo2W94smjrBjy5g	190.0	Jewel of a place!	IL Chianti Italian Steak & Seafood	5.0	4.6	193	
+520	721 Mall Ring Cir	jaW_S2fuJg3pf5JCQ5M_vg	8.0	Its your say finally!	Blues Bar-B-Q	2.0	2.0	3	
+521	2855 N Green Valley Pkwy	gcXSimnpz5q1j_jIzvgcCA	491.0	Worth Visiting	Blueberry Hill Restaurant and Lounge	3.0	3.1	82	
+522	90 S Stephanie St, Ste 150	KW5edXlPGeZ0cx7MiJyamw	481.0	Must Visit!	Hi-Coffee Cafe	5.0	4.6	175	
+523	10365 S Eastern Ave	pYL6JqKtqlMNXbWonw3yNA	127.0	Its your say finally!	Arby's	2.0	1.7	37	
+524	2800 S Boulder Hwy	Z3lxyVf_RfaCOGwF9J9Mmg	129.0	Worth Visiting	Iron Rail Café	4.0	3.7	42	
+525	35 S Gibson Rd	gOdxnf4C3xiTpEnY66hVlQ	59.0	At your own risk	Wok In Express	3.0	3.2	8	
+526	249 N Stephanie St, Ste 2	0NT3Hhu2RcAmFKBy2BiRmQ	178.0	Must Visit!	Metro Diner	4.0	4.2	130	
+527	550 N Stephanie St, Ste D	CQk3WJtULz_xOkUM6o7wpQ	2110.0	Jewel of a place!	Babystacks Cafe	4.0	3.9	659	
+528	193 N Gibson Rd	6Gm8wh3N-su9wMaYzGreAg	577.0	Worth Visiting	Roberto's Taco Shop	3.0	3.1	92	
+529	10100 S Eastern Ave, Ste 120	syNB957bkdanLVhC0f28nw	36.0	Worth Visiting	Shawarma Plus	4.0	4.3	27	
+530	1381 W Sunset Rd	5DQWy769hUv1vl9wbywE3A	3.0	Worth Visiting	Unique Pizza and Subs	4.0	4.2	4	
+531	11125 S Eastern Ave, Ste 100	DTzkUTH90xMMJ3CVhcUZwA	58.0	Its your say finally!	Salon Nouveau	2.0	2.4	59	
+532	35 E Basic Rd, Ste B	3ViGD_AF1AUmxF4zeHB_kQ	99.0	Must Visit!	Pho King Phonomenal Noodle Lab & Grill	4.0	4.2	108	
+533	1500 N Green Valley Pkwy, Ste 230	42romV8altAeuZuP2OC1gw	388.0	Worth Visiting	Ohana Hawaiian BBQ	4.0	3.8	38	
+534	641 N Stephanie St	9q0s7-EfafubLeLUJg_7BQ	5.0	Worth Visiting	Las Pupusas Restaurant	4.0	3.9	78	
+535	777 W Lake Mead Pkwy	fL2vdjn-ApNcsVntxtg4Dg	1935.0	Worth Visiting	Fiesta Henderson	2.0	2.4	243	
+536	2702 N Green Valley Pkwy	IYNhLtGRSdb0Kr_t7EvQHw	45.0	Worth Visiting	OYummy Sushi & Roll	4.0	4.2	13	
+537	193 N Gibson Rd	IrVTxR6Dk7TIh1DsrnzVTg	73.0	Worth Visiting	Village Pub & Poker	4.0	3.6	32	
+538	10050 S Eastern Ave	Q-fXNh68OldNdotEVEJuhQ	694.0	Must Visit!	Born And Raised	4.0	3.9	249	
+539	1770 W Horizon Ridge, Ste 100	jScBTQtdAt-8RshaiBEHgw	1112.0	Jewel of a place!	Served	4.0	4.5	413	
+540	10545 S Eastern Ave, Ste 100	fknU3sWplCBn26b6HwJ1kQ	605.0	Must Visit!	Gaati Thai Kitchen	4.0	3.9	277	
+541	1300 W Sunset Rd	RYnz1zmq64aEEtVX8L9JQw	14.0	Worth Visiting	Hawaiian Grill	4.0	4.0	5	
+542	170 N Boulder Hwy	Rf41BVuBNLsSWbCla28Tig	107.0	At your own risk	Capriotti's Sandwich Shop	2.0	2.5	56	
+543	2779 W Horizon Ridge Pkwy, Ste 120	JjV6kIq-pVkI4CZI4yIHCQ	19.0	Worth Visiting	Matteo's Gourmet Cafe	5.0	4.6	5	
+544	777 W Lake Mead Pkwy	E1oljAejCOeW53XdUKQuVQ	193.0	At your own risk	Café Fiesta	3.0	2.8	60	
+545	1501 N Green Valley Pkwy	caUPXiOxvLGMsorJBtNlhg	1181.0	Must Visit!	Sammy's Restaurant & Bar	4.0	3.7	263	
+546	2639 Windmill Pkwy	1jdiIc69VElLkloLKY0RAg	73.0	Its your say finally!	Little Caesars Pizza	2.0	1.7	42	
+547	290 S Boulder Hwy	KVwflracbADEUzLn1wTEKg	148.0	At your own risk	Jack In the Box	3.0	2.7	19	
+548	10648 S Maryland Pkwy	RzhTIiTkiawbuwmsrz5Qqg	15.0	At your own risk	The Chicken Shack	4.0	3.5	4	
+549	225 N Stephanie St	kG4dBv7FYM7y5msCKb-wcg	142.0	Must Visit!	Bouncy World	4.0	4.3	188	
+550	665 S Green Valley Pkwy, Ste 100	ONJ0wyIKvCMpXRRDZ_iy7g	41.0	At your own risk	Majesty Bakeries - Green Valley	3.0	3.4	12	
+551	237 N Stephanie St, Ste J	uYtlrzBwtekPt8GKwUBoWw	676.0	Jewel of a place!	Sushi Cafe	4.0	4.5	283	
+552	11261 S Eastern Ave	aWfMtaarS0Ufw9v6fKKegA	107.0	Worth Visiting	The 052	4.0	3.9	12	
+553	1195 W Sunset Rd	Z5N79y9y0d0QKTuNKqyYpQ	67.0	At your own risk	Gold Rush Casino and Cafe'	3.0	3.5	11	
+554	76 W Horizon Ridge Pkwy, Ste 150	jc4Wlgme6xI0-c1U_AKuBQ	1203.0	Jewel of a place!	NAGA - Thai Dining	4.0	4.1	347	
+555	791 Marks St	dbOyrP0eTEXyJTVieTrUZQ	176.0	Worth Visiting	Costco Food Court	4.0	4.1	11	
+556	2520 W Horizon Ridge Pkwy, Ste 150	0C4b8LsgLuL7_DuPXE729A	9.0	Worth Visiting	Pizza Buddha	4.0	4.4	12	
+557	1131 W Sunset Rd	WUwSC6YDIplLPYucqIQIFg	144.0	Its your say finally!	Wendy's	2.0	2.0	34	
+558	2245 Village Walk Dr	0ldxjei8v4q95fApIei3Lg	3461.0	Jewel of a place!	Lucille's Smokehouse Bar-B-Que	4.0	4.0	830	
+559	835 Seven Hills Dr, Ste 190	7V82ANZ7_ARkA7o0pAMAlA	653.0	Worth Visiting	Galaxy Cafe	4.0	3.7	60	
+560	601 N Green Valley Pkwy	Aaywarn83SRxwXOYyXcJuw	1091.0	Must Visit!	Claim Jumper	3.0	3.3	241	
+561	10385 S Eastern Ave	7svPiqFz7ad82VcdDbBcJw	243.0	At your own risk	Starbucks	3.0	3.0	43	
+562	90 S Stephanie St, Ste 140	1YyZKh-R8aDvySArk-hCpg	51.0	At your own risk	Tamale Hut	3.0	3.4	22	
+563	10604 S Eastern Ave	iA4zWe_L1R4ruaEZ8N4KPA	198.0	Worth Visiting	Brooklyn Bagel	3.0	3.5	31	
+564	Green Valley Ranch Resort, 2300 Paseo Verde Pkwy	LI-uxZLODzG5ccYIXDHCCQ	97.0	Worth Visiting	Tropical Smoothie Cafe	4.0	3.8	10	
+565	11011 S Eastern Ave	5tiXpKNobwttA5uYB16ttA	124.0	Its your say finally!	Wendy's	2.0	2.4	19	
+566	2520 W Horizon Ridge Pkwy, Ste 160	GQNkJWhFyIw9J6WGytCARw	615.0	Must Visit!	Great Harvest Bread	4.0	4.2	90	
+567	2879 N Green Valley Pkwy	Z3JilPsbidx5KqDCTcdQWg	607.0	Must Visit!	Thai Chili	4.0	4.2	227	
+568	274 W Lake Mead Pkwy	QoKn3zRpDrBj3hCPYGDCSA	254.0	At your own risk	El Pollo Loco	3.0	3.1	41	
+569	1301 W Sunset Rd, Ste C107	a7i-o5jRWgibGFEboEMYPQ	3.0	Worth Visiting	Panda Express	4.0	4.3	3	
+570	971 S Boulder Hwy	Gzek9CZGUVk-SEqqNgBHTg	48.0	At your own risk	Domino's Pizza	3.0	2.8	34	
+571	2600 Hampton Rd	Fmnqq_eqF7qd6VNnZj6tvg	47.0	At your own risk	Buckman's Grille	3.0	3.3	18	
+572	10345 S Eastern Ave, Ste 110	bIzoX_6PNnpxPiwhJeUMfg	156.0	Must Visit!	BIBIM KITCHEN	5.0	4.5	105	
+573	390 N Stephanie St, Ste 101	qoiUo-7k2ATm0eokxNr8nA	74.0	At your own risk	Cook On Wok	3.0	3.1	64	
+574	1290 W Warm Springs Rd	C6uYx1g7TxmuzjfNtxK86w	629.0	Must Visit!	Freddy's Frozen Custard & Steakburgers	4.0	4.0	157	
+575	237 N Stephanie St	GZifPY-KTnZQ9iYfGwT2wg	168.0	Must Visit!	Straight From Philly	4.0	4.2	118	
+576	55 S Gibson Rd, Ste 110	TdfdX7QAHPQYiWmpE27KaA	279.0	Must Visit!	Lil Brown Sugar's Cupcakes Cafe	4.0	4.2	74	
+577	55 S Gibson Rd	gesHfxT78R3uUd44xdSLig	4.0	Worth Visiting	Champion Pizza	4.0	3.8	5	
+578	4250 E Sunset Rd	HxfrVqxnsFI7MByNI7QINg	570.0	Must Visit!	Joe's Crab Shack	3.0	3.2	215	
+579	209 S, Stephanie St	7-orNjFM9FDNIhITbr37wA	55.0	At your own risk	Domino's Pizza	3.0	2.6	27	
+580	10520 S Eastern Ave	FPSEdTcWqsoCuxOsrQ4PFw	82.0	At your own risk	Sweet Tomatoes Express	3.0	3.5	11	
+581	122 S Water St	hDlRzzxfVkVNjnveJ8sLmg	892.0	Must Visit!	Rainbow Club & Casino	4.0	3.9	184	
+582	185 N Stephanie St	gbsDvIBVQtVTpzUUzlE3GA	314.0	At your own risk	El Pollo Loco	3.0	2.9	66	
+583	709 E Horizon Dr, Ste 100	3tSCyhkRIa7-drYrG5_6uA	577.0	Must Visit!	The Mad Batter Café & Bakery	4.0	3.9	273	
+584	40 Via Bel Canto	E_sO3D6lGkd_AURPBz8yrw	557.0	Worth Visiting	The Auld Dubliner	4.0	3.5	121	
+585	4401 E Sunset Rd	Jhdvmro7mzdMuTMaqoPsvQ	13.0	Worth Visiting	Dylans Grill and Pub	4.0	4.2	24	
+586	1430 W Horizon Ridge Pkwy	jxlFEDBb4-ntP_GDjH3WLw	66.0	Worth Visiting	Jack In the Box	4.0	4.0	4	
+587	4450 E Sunset Rd	w6-qlTncaWlSxTJwK_HvfQ	141.0	Its your say finally!	Wendy's	2.0	1.8	31	
+588	1284 W Warm Springs Rd	LxnZTxUoj063tbJaLQ7DHQ	185.0	Worth Visiting	Taco Bell	4.0	4.1	44	
+589	10710 S Eastern Ave	m2AEBwg1b0VlsC3n-wqxIg	37.0	Its your say finally!	Domino's Pizza	2.0	2.2	26	
+590	10612 S Eastern Ave	Wr30AyA6PyGsuGS2FyJUcQ	970.0	At your own risk	Tropical Smoothie Cafe	2.0	2.3	127	
+591	2540 Anthem Village Dr, Ste 100	jTnD_YpFIeUzhopfuvKpvA	136.0	Worth Visiting	Giada's Italian Cucina	4.0	3.8	81	
+592	2265 Village Walk Dr	mqt-UWQau0NUF75LT3NmUw	1.0	At your own risk	Tacone	3.0	3.0	4	
+593	10895 S Eastern Ave, Ste 140	sDT7CvVLsPG1JizVddhxzg	1858.0	Jewel of a place!	Pho MaiLan	4.0	3.8	401	
+594	1199 Sunset Rd	SaGyztBfvEHdDbfq8DYMQg	64.0	At your own risk	Fukuda	3.0	3.2	28	
+595	306 S Water St	JTBxVGHe_fPZkfBN_EkA1Q	38.0	Worth Visiting	Emery's  La Barrista Catering Ii	4.0	3.8	45	
+596	1500 N Green Valley Pkwy, Ste 130	9d0OggD2_SleuHmHwPExdA	489.0	Jewel of a place!	The Steamie Weenie	4.0	4.4	221	
+597	18 W Pacific Ave	P2l7s26bzzN_QgkWSVg3sw	3.0	Its your say finally!	El Mexicano	3.0	2.6	5	
+598	Fiesta Henderson, 781 W Lake Mead Pkwy	_sS2RlnyS_rJdQgs-eVPUg	49.0	Its your say finally!	Denny's	2.0	2.4	10	
+599	651 Mall Ring Cir	DQtxU4uae3MzlnP_JZXqPQ	1143.0	Must Visit!	Famous Dave's Barbeque	3.0	3.3	211	
+600	886 S Boulder Hwy	94c__bSLvs3vG2lKaBKVRg	21.0	At your own risk	Five Star Tavern	3.0	3.1	26	
+601	494 N Stephanie St	R85cLeVsvN1FketwQ_LyrQ	190.0	Must Visit!	Corner Bakery Cafe	4.0	4.0	101	
+602	9510 S Eastern Ave	jnjsulBGlR-NGhy2OAI_mA	7.0	Its your say finally!	Black Pepper Grill	2.0	2.3	7	
+603	2561 Windmill Pkwy	GRaFqN1QdLFRZpQR-03Dvw	157.0	At your own risk	The Gin Mill	3.0	3.1	33	
+604	10890 S Eastern Ave, Ste 109	bvOCy8DkgijF9gKgASKV_Q	597.0	Worth Visiting	Thai Thai Restaurant	4.0	3.9	86	
+605	771 E Horizon Dr, Unit 168	vtj3lt38T9Icu_RXHAQ__w	49.0	Worth Visiting	China Wan Wan	4.0	3.9	70	
+606	40 Costa Di Lago, Ste 120	qr3iie2aA1ddJasU-6N1gQ	42.0	Worth Visiting	Mimi' & Coco' Bistro	4.0	4.3	45	
+607	40 Costa Di Lago, Unit 130	Oe7FYgamhSFuxQy9cMNI0A	70.0	Must Visit!	BellaLinda Gelato	5.0	4.5	80	
+608	2558 E Wigwam Pkwy, Ste B	hrIS-4Z3uYwiPZRCc9eE_g	178.0	Must Visit!	Design & Dine	4.0	4.3	83	
+609	1639 W Warm Springs Rd	gFfb5Mq4lhU7Rx0_ZPHwEg	20.0	At your own risk	Mediterranean Grill	3.0	2.8	6	
+610	2744 N Green Valley Pkwy	k7Sy557_ZaQSGHFlZgeJzw	1704.0	Jewel of a place!	Weiss Restaurant Deli Bakery	4.0	4.1	483	
+611	1300 Sunset Rd Space	2zPtma1ajsJlrXQak98TlQ	70.0	Its your say finally!	Panda Express	3.0	2.6	8	
+612	699 N Stephanie St	5Q95IfYIbP6vXz4wjtYWFw	373.0	Worth Visiting	Applebee's Neighborhood Grill & Bar	3.0	2.9	146	
+613	1300 W Sunset Rd, Ste 2841, Space 2841	SsgVFuslMoArNoVBEsfl4A	28.0	Its your say finally!	Great Steak	2.0	1.5	22	
+614	11165 S Eastern Ave, Ste 100	FTVDICd-uxoEGYh4pU0pcw	200.0	Must Visit!	Joey's NY Pizza	4.0	3.7	119	
+615	445 Marks St	FuxEwSFbJ73D7UuIdiIBPQ	147.0	Worth Visiting	PKWY Tavern	3.0	3.1	82	
+616	3500 Executive Terminal Dr, Ste 200	mxQaRW6HZxXcvHSo31H-Yw	178.0	Worth Visiting	The Landings	4.0	3.6	71	
+617	10075 S Eastern Ave	3BvoqrkBhqnrCeSnuZY-9w	644.0	At your own risk	PT's	3.0	2.8	55	
+618	550 N Stephanie St	avkOIpslBUFZMQhELpl3JQ	1539.0	Must Visit!	Genghis Grill	3.0	3.4	361	
+619	40 Costa Di Lago, Ste 100	XFhpL8cZgax0RnMdhWaugg	17.0	Worth Visiting	Lobsterman's Restaurant	4.0	4.2	18	
+620	220 W Sunset Rd	4TyDUOjjB0Z1nffg-ZjC3A	134.0	Its your say finally!	McDonalds	2.0	1.8	21	
+621	655 S Green Valley PKWY, Ste 100	9qlC9wfQIdADyqxWAOZvyw	54.0	Worth Visiting	Papa Murphy's	4.0	4.5	21	
+622	536 S Boulder Hwy, Ste B	1VHNeig1A12AaJKEKRI7Uw	56.0	Must Visit!	Fruit Palace	4.0	4.5	33	
+623	1281 West Warm Springs Rd, Ste 7	AMsfjpim5WohOzQJOtLyQg	689.0	Must Visit!	Jason's Deli	4.0	3.7	150	
+624	26 W Horizon Ridge Pkwy, Ste 110	bROdCU8DqDE4IY3qENFlow	164.0	Its your say finally!	Jack In the Box	2.0	2.0	22	
+625	2895 N Green Valley Pkwy, Ste A	Bs_AR85Lm4eiHXAfeaKnVA	109.0	Worth Visiting	Bertolucci Brazilian Steakhouse	3.0	3.0	225	
+626	19 S Stephanie, Ste140	mVyi_f4b1Ls_tnunL_aDkA	333.0	Must Visit!	Presto Cafe - Henderson	4.0	4.2	130	
+627	10075 S Eastern Ave	_EBa6I5KkADiCdcBHOC_tg	590.0	Must Visit!	Daily Kitchen Healthy Food & Juice Bar	4.0	4.0	208	
+628	894 S Boulder Hwy	MjGoXHDENY6M5NzXQDWJXw	40.0	Worth Visiting	China Inn	3.0	3.4	47	
+629	2940 Bicentennial Pkwy	nwnizMdBAhJ9CVDHXf3QNw	33.0	At your own risk	Giuseppe's Bar & Grille	3.0	3.4	11	
+630	530 N Stephanie St	y5KAK-uNq1M-cOuqLq2t1g	341.0	At your own risk	Marie Callender's Restaurant & Bakery	3.0	2.9	91	
+631	521 N Stephanie St	zEOfVGv6DeprEzmFYMFhXA	1141.0	Must Visit!	Outback Steakhouse	4.0	3.7	276	
+632	239 N Pecos Rd	FVSv5UsqzjwuT29gSmVKuw	63.0	At your own risk	Pumi Oriental Restaurant	3.0	2.7	31	
+633	65 S Stephanie S	68_nIoStgS3XUoZiW6doAg	2.0	Worth Visiting	Ernie's High Adventure Pub & Deli	4.0	3.8	5	
+634	9530 S Eastern Ave, Ste 150	V3U21fM0in_0qpKUMYPNOw	1030.0	Must Visit!	Lee's Sandwiches	4.0	3.6	160	
+635	90 S Stephanie St, Ste 140	ejSiOheW5Kv4hqqiGyAZ_A	284.0	Worth Visiting	Capriotti's Sandwich Shop	4.0	3.6	49	
+636	9570 S Eastern Ave	jhNjEYLVyS5X8xis_ravig	12.0	At your own risk	Roma Grill	3.0	3.4	20	
+637	75 S Valle Verde Dr, Bldg 200, Ste 230	Y2S3pShEEh_i2UwQ9NfCUg	123.0	At your own risk	Port of Subs	3.0	3.4	13	
+638	100 S Green Valley Pkwy	xGn4RxYKA-RYdE2hukuyNw	122.0	Worth Visiting	Sprocket Bar & Restaurant	4.0	4.0	28	
+639	3019 St Rose Pkwy, Ste 130	ICdoTODBaprN0UReete9VQ	1014.0	Jewel of a place!	Big B's Texas BBQ	4.0	4.2	557	
+640	4650 E Sunset Rd, Ste A	SueEpC916vd8Lo3Lyl9_pQ	3074.0	Jewel of a place!	Ross J's Aloha Grill	4.0	4.1	443	
+641	550 Marks St	xpAm-NN8JQbL5JdBal_Ptg	190.0	At your own risk	Del Taco	3.0	3.0	24	
+642	11261 S Eastern Ave, Ste 200	bysPjs8xmBLc6yu8CZwJDg	1.0	At your own risk	RARE Fine Steak, Wine & Lounge	3.0	3.0	7	
+643	641 Marks St	r4ZWXDKCX1K4_ZrZJZpkUA	148.0	At your own risk	Panda Express	3.0	3.1	25	
+644	4450 E Sunset Rd	xYxAJFjQBTgIcMLyiIIh-g	8.0	Its your say finally!	Wendy's	2.0	1.8	5	
+645	75 S Valle Verde, Ste 210	o6jHRzuoTDCt6xiJA3VwUQ	483.0	Must Visit!	Sushi Imagine	4.0	4.3	163	
+646	72 W Horizon Ridge Pkwy, #B-105	hZaTI-r6eJcabuyY3e0TdQ	30.0	Worth Visiting	Teriyaki Madness	4.0	4.2	20	
+647	2800 S Boulder Hwy	ta8b82eEUnzGq1Z1h0fwyA	23.0	Worth Visiting	DeSimone's Steakhouse	4.0	4.2	45	
+648	1195 W Sunset Rd	lYUV48sb2mdJsyd3TgYzbg	12.0	Worth Visiting	Wild Grill @ Wildfire Sunset	4.0	4.0	7	
+649	714 S. Boulder Highway	L4PI4kh8plShtrcWt6aBTQ	11.0	Its your say finally!	Pizza Hut	2.0	2.2	12	
+650	190 N. Boulder Hwy	eA8RJa5U2Ep8Ks3ECE6xfA	28.0	At your own risk	Haggen Food & Pharmacy	3.0	2.8	5	
+651	705 S Green Valley Pkwy	SA4qeFCkbEV7MU5vEx_tUw	9.0	Its your say finally!	Carl's Jr	2.0	1.6	5	
+652	9600 S. Eastern Ave	rkqTVzTkLaWSUybaWUMIdA	1410.0	Must Visit!	Red Robin Gourmet Burgers	3.0	3.0	303	
+653	72 W Horizon Ridge Pkwy, Ste B-150	c_xCs0pCLZVM6ImvqXEFPA	62.0	At your own risk	Roberto's Taco Shop	3.0	3.3	25	
+654	375 N Stephanie St	PFZttUCEfHHjNnM-qzWQEQ	2920.0	Must Visit!	Sweet Tomatoes	4.0	3.6	295	
+655	1450 W Horizon Ridge Pkwy	sz59vCd4YrfF2JBf153dDQ	329.0	Worth Visiting	Timbers - Horizon Ridge	4.0	3.5	80	
+656	11021 S Eastern Ave	TKcq0hOqesiDOwQb-ZwFAw	808.0	Worth Visiting	Black Mountain Grill	3.0	3.4	147	
+657	1300 W Sunset Rd	Pcv_90ROLrK5X_Odikv8mw	8.0	Worth Visiting	Metro Garden	4.0	4.1	8	
+658	1205 W Sunset Rd, Ste 180	gWeYW0E5Tfmmj_9fugfLNw	2407.0	Must Visit!	Thelma's Filipino Restaurant	4.0	3.9	287	
+659	390 N Stephanie St	SgoPKzmU5CjuD5ewuoJ7oQ	111.0	Must Visit!	VeggiEAT Xpress	4.0	4.4	99	
+660	12300 Las Vegas Blvd S	V90fC_aF-_DNYzQvUtbLww	479.0	Must Visit!	Jayde Fuzion	3.0	3.3	222	
+661	9911 S Eastern Ave	PWGIAIXAoh91nayfIOQMTQ	1462.0	Must Visit!	Panera Bread	4.0	3.5	169	
+662	9400 S Eastern Ave, Ste 106A	lL6rDgbf3KuYC7xG9_oOGg	40.0	At your own risk	The Berliner	3.0	3.4	11	
+663	76 W Horizon Ridge Pkwy	JEkqwOk7WVT2tlNhQvubDw	6.0	At your own risk	Steak	3.0	2.9	7	
+664	195 N Stephanie St	_blrEZQZ6et5QEUa-a2WLg	301.0	Its your say finally!	Panda Express	2.0	2.3	40	
+665	2840 Bicentennial Pkwy	_GxeaxAMKoWiW2TiDiHyPA	87.0	Worth Visiting	New Day Cafe	4.0	3.6	38	
+666	689 N Stephanie St	lqPuSiWypNCACEMhArSZ2A	79.0	At your own risk	Subway	3.0	2.8	18	
+667	The District at Green Valley Ranch, 2255 Village Walk Dr, Ste 139	ZIUs7gncPOX0OXr1ZYviAQ	811.0	Must Visit!	Kings Fish House	4.0	3.6	239	
+668	790 Coronado Center Dr, Ste 125	3oajqiPFhYQJsHHiVCchEQ	1097.0	Jewel of a place!	Sushi Wa	4.0	3.9	376	
+669	18 W Pacific Ave	6zjv75DW7a_XkYiBBb3S7A	1.0	At your own risk	Tio Julios	3.0	3.2	4	
+670	60 N Stephanie St	NqCHqgF_FY0Aw9gD-Z3ABQ	213.0	Its your say finally!	Popeyes Louisiana Kitchen	2.0	2.1	108	
+671	866 E Lake Mead Pkwy	oeGABTHjS2EEJg9j7WIHoA	225.0	Worth Visiting	Santarosa Taco Stop	4.0	4.1	42	
+672	2021 W. Sunset Rd	s1w-XoUJ2wuK9OJ7ivpi3Q	51.0	Worth Visiting	CB's Legacy	4.0	4.4	30	
+673	10604-C S Eastern Ave	18XkigL5OzBq8BsICKinQw	20.0	At your own risk	Henderson Fresh Bakery	3.0	3.0	23	
+674	2225 Village Walk Dr, Ste 175, The District At Green Valley Ranch	G87Yg6as3LU5Af1IwoPIYg	816.0	Must Visit!	Crazy Pita Rotisserie & Grill	4.0	4.1	198	
+675	10090 S Eastern Ave, Ste 110	sZIVzaaEBp_HiYutZ2lWag	151.0	Must Visit!	Purple Potato	5.0	4.6	61	
+676	1017 Whitney Ranch Dr	l0Gop1Hu8XJYpHHCpvG6SA	164.0	Must Visit!	Chile Caliente Tacos Y Mariscos	5.0	4.7	123	
+677	1405 W Sunset Rd	QJcJaqhxFGaj0V6rRWupvA	765.0	At your own risk	Einstein Bros Bagels	3.0	2.6	94	
+678	445 Marks St	r7IvPMyza853adkAvi1RNQ	214.0	At your own risk	Carmine's	3.0	3.2	53	
+679	10895 S Eastern Ave, Ste 130	kbaXNZLUyVuWbeQxH-NNKw	894.0	Jewel of a place!	Bell's BBQ	4.0	4.2	383	
+680	510 Marks St, Ste 110	nlxHRv1zXGT0c0K51q3jDg	377.0	Worth Visiting	Firehouse Subs	4.0	3.6	61	
+681	1521 W Sunset Rd	Ory33UEFnbnvdOO4UTBaFQ	252.0	At your own risk	Chuck E. Cheese's	3.0	3.0	41	
+682	1301 W Sunset Rd	0QzCeORfF8EY34UODWRV9A	5118.0	Jewel of a place!	Sunset Station Hotel & Casino	3.0	3.3	446	
+683	621 N Stephanie St	p-5u8qhYmB-IcTaQcq2_pw	276.0	Its your say finally!	Tropical Smoothie Cafe	2.0	1.9	148	
+684	2940 Bicentennial Pkwy	lI3kXSfqsoTeb3mfX6sa7A	81.0	Its your say finally!	Olivo Bistro	2.0	2.5	30	
+685	2642 West Horizon Ridge, Ste A-1	A8ZXAfU9AM_s3ZWHu_HVFQ	141.0	Worth Visiting	Port of Subs	4.0	3.9	32	
+686	139 S Water St	MQu-unZeJadbVhN3Y1vyuA	16.0	Its your say finally!	Restaurant 2 DOS Potrillos	2.0	2.5	24	
+687	2240 W Horizon Ridge Pkwy, Ste 140	EgilPuvZVfxoHd3F3XFs6A	303.0	Worth Visiting	Robertos Taco Shop	3.0	3.5	68	
+688	725 S Green Valley Pkwy	7pkiQvVfcsa-wtBEeNHHUg	109.0	Worth Visiting	Hot Head Burritos	3.0	3.3	101	
+689	2548 Wigwam Pkwy	aVxhELj5r4oOKOw7p4JqcQ	114.0	Worth Visiting	Bagels Las Vegas	4.0	4.2	40	
+690	Green Valley Ranch Resort, 2309 Paseo Verde Pkwy	Zmp2_b2gpSloz4Dv2VsVNg	205.0	Worth Visiting	Terra Verde	4.0	3.6	71	
+691	2702 N Green Valley Pwy	GuQb8N1CUuLv8xduVFofGQ	12.0	Worth Visiting	Yummy Sushi Roll	4.0	4.0	3	
+692	3009 St Rose Pkwy	6EWqsE6Ojvt-FA-rl8Sm4Q	369.0	Worth Visiting	Original Tommy's Hamburgers	3.0	3.1	116	
+693	10608 S Eastern Ave, Ste A	rYVIEEW5O3ZUKCqNg1hiNA	61.0	Its your say finally!	Little Caesars Pizza	2.0	2.3	40	
+694	276 E Lake Mead Pkwy, Ste A	W8Vi1Hc3DcFnIfkgv_WClw	6.0	At your own risk	Papa Murphy's Take 'n' Bake Pizza	4.0	3.7	3	
+695	240 S Water St	wpuG6LPJJoPw7NN8a0FlTw	11.0	At your own risk	Frankly Good Coffee	4.0	3.7	3	
+696	2217 N Green Valley Pkwy	8Aswo1-FW3_8PKVyM_oVQg	77.0	At your own risk	McDonald's	3.0	2.7	34	
+697	11041 S Eastern Ave	OK0ba4X5seibH8oMWh4bhw	3390.0	Jewel of a place!	I Love Sushi	4.0	4.4	840	
+698	2540 Anthem Village Dr	AwNqWc0YmEwmSoI8rY9v5A	19.0	At your own risk	Straight From Philly Steakout	3.0	3.0	5	
+699	170 N Boulder Hwy	NVXpsc0s_MUiTXoPzB2d0g	33.0	At your own risk	Boardhouse Serious Sandwiches	3.0	3.3	12	
+700	75 E Horizon Ridge Pkwy, Ste 120	-RmFfWUyUU1RPIGtih7J-w	311.0	Worth Visiting	Grand China	4.0	3.8	106	
+701	1146 W Sunset Rd	vAXlIzBMGaw-Oqjq1DMuKQ	311.0	At your own risk	Capriotti's Sandwich Shop	3.0	3.2	61	
+702	8 Strada di Villaggio	a5QDNEbhGXBuwBPsm-Kb5g	160.0	At your own risk	Harry's	3.0	3.4	29	
+703	524 E Lake Mead Pkwy	zx1iW-K5dR1pI9PPs4UHwQ	108.0	Worth Visiting	Taco Bell	4.0	4.0	19	
+704	1500 N Green Valley Pkwy	oAngC9V69vyzBVYwKEJQaw	485.0	Must Visit!	China Tango	4.0	4.0	205	
+705	3265 St Rose Pkwy	P-0LHbAX0z3Zstm4GumhMA	1196.0	Must Visit!	Remedy's Tavern	4.0	3.8	221	
+706	2724 N Green Valley Pkwy	0s1DqJlSSgR1Ftg9Q_HEOg	3.0	Worth Visiting	Enzos Pizza	3.0	3.1	149	
+707	2850 Bicentennial Pkwy	V2td86VD0ezfCJcmUz-ddQ	83.0	Its your say finally!	Tropical Smoothie Cafe	2.0	1.9	41	
+708	2890 Bicentennial Pkwy	UvLZYSU8H6KRpnYwnWAVYQ	121.0	At your own risk	PT's	3.0	3.3	21	
+709	65 W Lake Mead Pkwy	sspdrxTyqt7ug3J0s4TqAQ	187.0	Must Visit!	Hometown Classic American Eats	4.0	4.0	84	
+710	15 Via Bel Canto	V-M3ofC2sdpYQpuvkc54Sg	124.0	Must Visit!	Essence and Herbs	4.0	4.1	80	
+711	308 S Boulder Hwy	I4Gbdz5RizunE-RF2w3zkA	26.0	Worth Visiting	Villa Pizza	4.0	3.7	9	
+712	55 S Gibson Rd, Ste 112	SkSkWld_ijmWVEDo9_ztKw	2921.0	Jewel of a place!	Bistro Pizza	4.0	4.3	403	
+713	1301 W Sunset Rd	WxBclAFq06uQsh0RsIaw6g	26.0	At your own risk	Pizza Forte	3.0	3.3	27	
+714	2350 Corporate Cir	YQPBL0x8fmnIY752eUoPqA	37.0	Worth Visiting	Opus Too	4.0	3.8	13	
+715	120 E Lake Mead Pkwy	ZVGbouYqiY577WGCYZJbTQ	58.0	At your own risk	Panda Express	4.0	3.5	10	
+716	140 Water St	dGDkqrsZNyZdRwaJtF3HwQ	24.0	Its your say finally!	Mariana's Cantina	2.0	2.0	3	
+717	2540 Anthem Village Dr, Ste 120	RJtgNpUFthlJ5grLr16GxA	236.0	Worth Visiting	En Sushi & Robata Grill	4.0	4.0	76	
+718	310 W Lake Mead Pkwy, Ste 100	jMZxeaQTu0fY0M4iv1cVyw	351.0	Worth Visiting	Jimmy John's	3.0	3.3	63	
+719	4161 St Rose Pkwy, Ste B	1BM4iXyCU-dIRnNQw-JtmA	219.0	Its your say finally!	Jack In The Box	2.0	2.3	25	
+720	M  Hotel, 12300 Las Vegas Blvd S	abIzzrpso-fjVTjcEvsNwg	33.0	Worth Visiting	Veloce Restaurant	4.0	4.0	8	
+721	1300 W Sunset Rd	3_iktCOnhHho1P4bJ2VHZg	146.0	Worth Visiting	Potato Corner	4.0	3.9	39	
+722	1640 W Warm Springs Rd	ALNI-EwLTSdP6k0ftvY7Gw	102.0	At your own risk	Chilly Palmers	3.0	3.1	20	
+723	9905 S Eastern Ave	xUEoAG8qto7HXQnEqMcuuA	311.0	Worth Visiting	Cheeburger Cheeburger	3.0	3.0	142	
+724	687 N Stephanie St	eaiv4-X0JhNGP_2UmFmhGw	277.0	At your own risk	L & L Hawaiian Barbecue	3.0	2.6	92	
+725	460 N Stephanie St	m3uS5kwBVOwYarGbt98Gjg	613.0	Must Visit!	Chick-fil-A	4.0	3.8	189	
+726	2263 N Green Valley Pkwy, Ste 1	MSYpFcm5FAkQYLcY6tkOgw	177.0	Worth Visiting	China ok go	3.0	3.2	63	
+727	720 S Boulder Hwy	dakUSKq6Vp9X2Qvp54t4vQ	30.0	Its your say finally!	China Joe's	2.0	2.3	18	
+728	10 Via Bel Canto	7JWWeXqil03Ua_wV9KN8ZQ	667.0	Must Visit!	Luna Rossa	4.0	3.7	262	
+729	711 Marks St	3f0zDyiZIY8cBF-g_EkpuQ	17.0	At your own risk	Domino's Pizza	3.0	2.9	14	
+730	1275 W Warm Springs Rd, Ste 160	5eV8oUGdBXylwB7HeaDFOA	2410.0	Jewel of a place!	The Great Greek	5.0	4.6	801	
+731	2850 Bicentennial Pkwy #130	Yvg5kUVlywcTqlDg4m7VtA	28.0	At your own risk	Pizza Hut	3.0	2.8	27	
+732	12300 Las Vegas Blvd S	x_eIYAOPCSM1BKvID2Vcbg	882.0	Worth Visiting	Vig Deli	3.0	3.5	122	
+733	10 Via Brianza	LhaOYo_5j5W_JIY5fYPKuQ	5.0	At your own risk	Brooklyn's Restaurant	3.0	3.1	7	
+734	2800 S Boulder Hwy	E3yER5W6Wsyc5ncGKb9Nzw	367.0	Worth Visiting	Railroad Pass Hotel & Casino	3.0	2.9	120	
+735	4500 E Sunset Rd	DwS5_jKur2mfxvqDp_gptg	24.0	Worth Visiting	Barley's Brew Pub	3.0	3.0	147	
+736	118 Boulder Hwy	a44h5KtCKxN6L7ScrE63HQ	49.0	Its your say finally!	Subway	2.0	1.9	9	
+737	308 N Boulder Hwy	tf8Ge1hPe-zGZIHI2Cgvyg	310.0	Must Visit!	Tucky's Smokin BBQ	4.0	3.8	225	
+738	4300 E Sunset Rd, Ste A-5	OTcBXjDkViDPds4Lxy8KIQ	2158.0	Jewel of a place!	Carlito's Burritos	4.0	3.9	531	
+739	2910 Bicentennial Pkwy	x7V0aE2j6wXtlWue55gVqg	563.0	At your own risk	Albertson's	3.0	3.1	9	
+740	10430 S Eastern Ave	Kb_FHcPVmZpF4FlKla3TPQ	336.0	Worth Visiting	Hooters Eastern	3.0	2.9	155	
+741	72 W Horizon Ridge Pkwy, Ste 105	_NtZzLahKjnS_rWGYsfuDw	111.0	Worth Visiting	Cino's	4.0	3.7	24	
+742	140 Green Valley Pkwy	7tNY4BYLA4laqWNV4IWGQg	3053.0	Jewel of a place!	Settebello Pizzeria Napoletana	4.0	4.3	901	
+743	730 East Horizon Drive	Gx1i3fXHzKkcPYrxTCGeoQ	243.0	Its your say finally!	Taco Bell	2.0	2.3	18	
+744	10520 S Eastern Ave	Wcuo6YmYj3xhCso5sMQcOw	1106.0	Jewel of a place!	Blaze Fast-Fire'd Pizza	4.0	4.4	400	
+745	641 Marks St, Ste A	WkR2ud9YAFvI8fNcWyU_vQ	95.0	Worth Visiting	Wingstop	4.0	3.7	52	
+746	9470 S Eastern Ave	OBSxiVTm8TuKN-IbtY8fmg	708.0	Must Visit!	Republic Kitchen & Bar	3.0	3.4	187	
+747	198 N Pecos Rd, Ste 2	GKC6EYmFFOU245qBtVxetw	66.0	Must Visit!	Sal's Pizza	4.0	4.0	101	
+748	1650 W Warm Springs Rd	VaItWOY6iKmiqBXwFSc4_Q	52.0	Worth Visiting	Hog's Heaven BBQ	4.0	4.0	44	
+749	65 Horizon Ridge Parkway	ptiTZuUff6I-OgnfSD3Urw	809.0	At your own risk	Buffalo Wild Wings	3.0	2.6	131	
+750	673 Mall Ring Cir	bLF_INz6frJTji3CVvKkuA	163.0	At your own risk	Schlotzky's	3.0	3.3	37	
+751	190 N Boulder Hwy	nQkRCLpTwypQf97MyotaRA	376.0	Its your say finally!	Albertsons	3.0	2.6	25	
+752	501 N Stephanie St	Eis_z-uF_2gUf83UE9blog	1211.0	Must Visit!	Cafe Rio	3.0	3.3	261	
+753	215 S Water St	FcYAwxuOys7NtnUPhRkA_Q	127.0	Worth Visiting	Lotus Chinese Restaurant & Lounge	3.0	3.5	64	
+754	500 N Green Valley Pkwy	Lz0AJ2Hzr1ITh160NAnMoQ	195.0	Its your say finally!	Wendy's	2.0	2.5	34	
+755	10740 S Eastern Ave, Ste 155	E0YuuRpK_4RpaUF7JK3mhg	313.0	Must Visit!	Bratalian Neapolitan Cantina	4.0	3.8	205	
+756	920 N Boulder Hwy	np8vGHEpwEOgx_yktx2hnA	27.0	At your own risk	The Court Cafe	3.0	3.3	6	
+757	40 N Valle Verde Dr, Ste 100	R6Vd0KrHR4VvaEoY_w2P0w	68.0	Worth Visiting	Subway	4.0	3.7	6	
+758	705 S Green Valley Pkwy	U8-1KmkPTZ0PpDK75NwdNg	58.0	Its your say finally!	Carl's Jr	2.0	2.4	11	
+759	2751 N Green Valley Pkwy	lMYs3z3Y7977TVMn6OWObA	863.0	Jewel of a place!	Black Bear Diner	4.0	3.8	408	
+760	Montelago Village, 30 Via Brianza, Ste 100	4OUGSeQeASZGn9nSb8Ialg	742.0	Must Visit!	Sonrisa Grill	3.0	3.3	261	
+761	1300 W Sunset Rd	zw9_mqWBn1QCfZg88w0Exg	734.0	Worth Visiting	Chevys Fresh Mex	3.0	3.3	156	
+762	2800 S Boulder Hwy	W_KohMrqtPqcFXW8lBVJYA	28.0	Its your say finally!	The Box Car Buffet	2.0	2.4	11	
+763	9520 S. Eastern Ave.	uI-dbKk_9cUen7pi3-16Sg	3833.0	Jewel of a place!	BJ's Restaurant & Brewhouse	4.0	3.6	550	
+764	1230 W Warm Springs Rd	If6Bku2jkgPiikR6HBu-XQ	461.0	At your own risk	IHOP	3.0	2.6	72	
+765	2016 Via Firenze	yooVq4aUUthr7DOQiZ7yEA	218.0	Must Visit!	Jolly Beans Cafe - Inspirada	4.0	4.5	74	
+766	9905 S Eastern Ave, Ste 100	bjJcDCx5uMUr89nxBdGizw	165.0	Must Visit!	Peg's Glorified Ham n Eggs	5.0	4.7	105	
+767	4451 E Sunset Rd	BtyVnPhv-w7x80gj3aITdw	211.0	Worth Visiting	Wildburger @ Wildfire Lanes	4.0	3.8	45	
+768	724 W Sunset Rd	sUXs9ATmb423TcxgtMalzQ	1472.0	Jewel of a place!	Penn's Thai House	4.0	4.1	306	
+769	101 Montelago Blvd	xi4yGWRFBRaLDygBj2lqBw	26.0	At your own risk	Marrakesh Express	4.0	3.5	4	
+770	2810 Bicentennial Pkwy, Ste 120	44FSoN5Wj2B9vZTTYHlQZQ	350.0	Worth Visiting	Roberto's Taco Shop	4.0	3.6	47	
+771	642 E. Horizon Drive #130	neHvFz_Q2thklke5wJ7LiQ	28.0	At your own risk	Pizza Hut	3.0	3.1	17	
+772	777 W Lake Mead Pkwy	xxcGx-mGyGx8mTkYPHBJtA	713.0	At your own risk	Festival Buffet	3.0	2.6	73	
+773	1461 S Boulder Hwy	T4OvU9iSqGnZ1g69QUG7Gw	13.0	At your own risk	Don Tortaco	3.0	2.9	20	
+774	9210 S Eastern Ave	364NaWNZN_2wEGr_5l77DA	79.0	At your own risk	Coco's Family Restaurant	3.0	3.0	42	
+775	10620 S Eastern Ave	ee8aiHC6zaY9JoLUVUSc1w	228.0	Worth Visiting	Winchell's Pub & Grill	4.0	4.0	53	
+776	2667 E Windmill Pkwy	HNEhE83F1X6kN7BKVmR_9g	62.0	At your own risk	Panda Express	3.0	3.3	11	
+777	771 East Horizon Drive, Suite 128	XFFRWQjmc41_5iuxI12xgQ	190.0	At your own risk	Capriotti's Sandwich Shop	3.0	2.7	47	
+778	12300 Las Vegas Blvd S	KpjRKjSNDFof2x-Nr-CWzQ	62.0	Worth Visiting	Terzetto	4.0	3.9	27	
+779	12300 Las Vegas Blvd S	XhUec_6-kgPy1_ZYUrzvPQ	867.0	Must Visit!	Anthony's Prime Steak & Seafood	4.0	4.2	225	
+780	12300 Las Vegas Blvd. S	PNTLekVzAWm6PIrU93gwDQ	5.0	At your own risk	Red Cup Cafe	3.0	3.0	26	
+781	869 S Boulder Hwy	WQ7Qys-keM0MCO7IGpEduQ	277.0	Worth Visiting	Sunset Pizzeria	3.0	3.3	143	
+782	The M Resort, 12300 Las Vegas Blvd S	T8-8C1C7QwxzZcMGK_8H4A	2116.0	Must Visit!	Hash House A Go Go	3.0	3.5	322	
+783	10430 S Eastern Ave	pX3TM1r3PTgUdfUTAjk44w	81.0	Its your say finally!	The Beach House	2.0	1.9	13	
+784	10345 S Eastern Ave, Ste 110	OhUvHNtMiRzWLiKiaaXYBg	127.0	Worth Visiting	Pizza Fusion	4.0	3.7	50	
+785	2634 W Horizon Ridge Pkwy	k_3NA3abBzae4aTDjrMHtg	5.0	At your own risk	Red Hawk	3.0	3.3	3	
+786	1231 American Pacific Dr	7ExQwvixD7FhnBRFVhpPcA	94.0	Worth Visiting	Putters Bar & Grill	4.0	4.1	45	
+787	9550 S Eastern Ave, Unit 110	Hoyxjh8sLWi7TgMv17ZA-w	64.0	At your own risk	Goldilocks Bakeshop	3.0	3.4	10	
+788	1716 W Horizon Ridge Pkwy, Ste 100	NhMEvtG8TA6AnCLFC63v_A	59.0	At your own risk	Annie's Gourmet Italian	3.0	2.8	57	
+789	Casino MonteLago, 8 Strada Di Villaggio	5gC3o2QHCTsowiVrIk7G9g	32.0	Worth Visiting	Palio Bar and Sports Book	4.0	4.2	4	
+790	2990 St Rose Pkwy	-bVpSr0gfct_Rka_AWZYAw	2.0	Its your say finally!	Johnny's Pizzeria	2.0	2.2	4	
+791	2000 S Boulder Hwy	BZdpKOUmFOR1mrMJ8sZgxw	43.0	At your own risk	Wild Burger	4.0	3.6	9	
+792	2530 St Rose Pkwy, Ste 100	89JOFyRj5uFdK6DvIRfd5g	47.0	Worth Visiting	Sourdough Escape	4.0	3.8	18	
+793	1231 American Pacific Drive	pAGbg3xqAvkHbasxKOAqjQ	13.0	At your own risk	Hot Rod Grille	3.0	3.1	7	
+794	627 E Green St	kyXEnWKQGWSThY6EcjORuw	3.0	Its your say finally!	Zorba's Restaurant	1.0	1.0	4	
+795	627 E Green St	kyXEnWKQGWSThY6EcjORuw	3.0	Its your say finally!	Zorba's Restaurant	1.0	1.1	4	

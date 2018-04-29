@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+    <link href="CSS/tiles.css" rel="stylesheet"/>
+    <link href="CSS/header.css" rel="stylesheet"/>
+    <!--<link href="CSS/dropdown.css" rel="stylesheet"/>-->
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+
+    <title>EatHub</title>
+</head>
+<body>
+
+    <div class="header" style="background-color: #2A363B">
+        <a href="index.html" class="logo">EatHub</a>
+        <div class="header-right">
+            <a href="index.html#main-content">Home</a>
+            <a href="index.html#map">Location Based</a>
+            <a href="index.html#restaurant">Restaurant Info</a>
+            <a  href="Cuisine_Wise_Split.html">Cuisine Based</a>
+            <a class="active" href="team.html">About Us</a>
+        </div>
+    </div>
+
+
+
+    <div id="div1" style="text-align: center; background-color: white; margin-right: 100px; margin-left: 100px; color:black">
+        <h2>EatHub- Yelp Recommender System<br></h2>
+
+        <h3>What is this system all about ?<br></h3>
+        <h4 style=" margin-right: 50px; margin-left: 50px"> <i> EATHUB is an intelligent interactive visualization system. It is developed based on hidden insights in the yelp dataset. This system has an user-centric design which helps user to browse through any restaurant of any city based on various criterias, preferences and recommendations. We also provide detailed information about the selected restaurant visually to the user. </i>
+        </h4>
+        <h4 style=" margin-right: 100px; margin-left: 100px"> <i>We give leverage to user to browse through any restaurant with web
+            three different ways. User can browse through our recommendation, cuisine based recommendations or searching through location based criterias.</i></h4>
+        <br>
+        <p style="font-size:18px;font-weight: bold; text-align:justify">What we are trying to solve?<br></p>
+        <p style="font-size:18px; text-align:justify">
+            Planning to go on a meal? Don’t know which is the best place or something unique you can try? Eathub will answer all your questions using its powerful recommendation system.
+
+            Want to play around different options? Try out our filters and narrow down your choices.
+
+            Want to know about top restaurants of top cuisines of any city? We will tell you that too!</p>
+
+        </p>
+
+        <p style="font-size:18px;font-weight: bold; text-align:justify">How we achieved the solution?<br></p>
+        <p style="font-size:18px; text-align:justify">Before actually building the visualizations, we worked on the pre-processing of the data to clean it and make it noise-free. This helped to remove any biases that the data contained. To handle other missing data, we performed the data imputation which involved replacing the missing value by the feature mean.</p>
+
+
+
+        </p>
+        <p style="font-size:18px; text-align:justify">1. Intelligent recommendation system is created using number of checkins, ratings and positive reviews to help users explore more as per their preference. Transparent recommendations are provided to make it more reliable.
+        <br>2. Along with this, Location and filter based search is also provided.
+            <br>3. NLP - word cloud and sentiment analysis of positive, negative and neutral reviews
+            <br>4. Google API with recommendation markers where the blue markers are the one recommended by the eathub algorithm for a given location.
+            <br>5. Restaurant information is stored in database to provide custom/filtered search. We provide restaurant specific information visually by showing the busy hours of the restaurant using the heatmap, ratings over the years and also common positive and negative reviews.
+        </p>
+
+        <p style="font-size:18px;font-weight: bold; text-align:justify"> Which all visualizations are created in this project ?<br>
+        </p>
+        <p style="font-size:18px; text-align:justify">1.
+            Interactive bubble chart - Recommendation algorithm graph :<br>
+            Rating vs Reviews graph and check in based bubble size represents different types of recommendations for selected city. Hovering on any bubble will give you overall insight and clicking will give you detailed insights about selected restaurant. Clicking on any legend can filter the category wise data.
+            <br>2. Map with custom markers : Location Based Recommendations graph <br>
+            Different color markers represent the different level of recommendation. Hovering on any marker will give you overall insight and clicking will give you detailed insights about selected restaurant.
+            Search functionality is extensive enough to search by name or sort by filters based on different features. The search results will be displayed on the map with clickable custom markers which redirects to restaurant specific information.
+
+            <br>3. Heatmap graph: Restaurant specific graph<br>Interactive heatmap represents busy hours of the restaurant throughout the week.Color shade of the graph for particular time in a day represents business of the restaurant. Color strip below the heatmap represents this color shade. If user clicks on any square then it will show the time selected , number of checkin in the restaurant for that time and color strip will show the percentage to busiest time.
+<br>4. Trend graph: Restaurant specific graph<br>                This graph is a trend graph which shows the average rating of the restaurant over the years. As it is trend graph it is year vs rating graph. User can hover on any data point to get the  value of the point. Interactive line graph represents the average rating of the restaurant over the years.
+
+
+            <br>5. Custom word clouds: Restaurant specific graph<br>                This graph is about the good and bad things of the restaurants. These custom word clouds are made using natural language processing of the reviews of the restaurants. Color shade and size represent the importance of the word which is decided upon the occurrence of that particular word.
+            <br>6.                 Hierarchical Interactive bubble chart : Cuisine based recommendation
+            <br>                This graph is about the good and bad things of the restaurants. These custom word clouds are made using natural language processing.                 Every cuisine will have one bubble in which there are bubbles for all the recommended restaurants. User can select any cuisine bubble to see all the restaurant names. Size of the restaurant bubble is decided using the overall rating of the restaurant. User can click on any bubble to see the detailed information about the restaurant.
+            <br>7.                 Pie Chart : Cuisine based recommendation
+            <br>                   By clicking on any cuisine in Hierarchical Interactive bubble chart, it will update pie chart. This pie chart is distribution of positive , negative and neutral reviews of selected cuisine in the city. By hovering on the pie chart, user can see the statistics of that category.
+
+
+
+
+        </p>
+
+
+    </div>
+
+
+
+<section id="team" class="pb-5">
+    <div class="container">
+
+
+        <h5 class="section-title h1">TEAM</h5>
+        <div class="row">
+            <!-- Team member -->
+
+
+            <div class="col-xs-12 col-sm-6 col-md-3">
+                <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
+                    <div class="mainflip">
+                        <div class="frontside">
+                            <div class="card">
+                                <div class="card-body text-center">
+                                    <!--<p><img class=" img-fluid" src="https://sunlimetech.com/portfolio/boot4menu/assets/imgs/team/img_01.png" alt="card image"></p>-->
+                                    <h4 class="card-title">Dhrumil Shah </h4>
+                                    <p class="card-text">Data Science and Data Analyst<br>ASU ID:1213096220<br>Email: dpshah8@asu.edu</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="backside">
+                            <div class="card">
+                                <div class="card-body text-center mt-4">
+                                    <h4 class="card-title">Dhrumil Shah</h4>
+                                    <p class="card-text">Preprocessed and found insights in data by applying various techniques like NLP</p>
+                                    <ul class="list-inline">
+                                        <li class="list-inline-item">
+                                            <a class="social-icon text-xs-center" target="_blank" href="https://www.facebook.com/dhrumil.shah.1291">
+                                                <i class="fa fa-facebook"></i>
+                                            </a>
+                                        </li>
+                                        <li class="list-inline-item">
+                                            <a class="social-icon text-xs-center" target="_blank" href="https://www.linkedin.com/in/dhrumil29/">
+                                                <i class="fa fa-linkedin-square"></i>
+                                            </a>
+                                        </li>
+
+                                        <li class="list-inline-item">
+                                            <a class="social-icon text-xs-center" target="_blank" href="https://github.com/Dhrumil29">
+                                                <i class="fa fa-github"></i>
+                                            </a>
+                                        </li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="col-xs-12 col-sm-6 col-md-3">
+                <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
+                    <div class="mainflip">
+                        <div class="frontside">
+                            <div class="card">
+                                <div class="card-body text-center">
+                                    <!--<p><img class=" img-fluid" src="https://sunlimetech.com/portfolio/boot4menu/assets/imgs/team/img_01.png" alt="card image"></p>-->
+                                    <h4 class="card-title">Ikjot Kaur</h4>
+                                    <p class="card-text">Data Science and Data Analyst<br>ASU ID: 1213232239 <br>Email: ikaur2@asu.edu</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="backside">
+                            <div class="card">
+                                <div class="card-body text-center mt-4">
+                                    <h4 class="card-title">Ikjot Kaur</h4>
+                                    <p class="card-text">Preprocessed and found insights in data by applying various techniques like NLP</p>
+                                    <ul class="list-inline">
+                                        <li class="list-inline-item">
+                                            <a class="social-icon text-xs-center" target="_blank" href="https://www.facebook.com/ikjot.kaur.98">
+                                                <i class="fa fa-facebook"></i>
+                                            </a>
+                                        </li>
+                                        <li class="list-inline-item">
+                                            <a class="social-icon text-xs-center" target="_blank" href="https://www.linkedin.com/in/ikjotkaur/">
+                                                <i class="fa fa-linkedin-square"></i>
+                                            </a>
+                                        </li>
+
+                                        <li class="list-inline-item">
+                                            <a class="social-icon text-xs-center" target="_blank" href="https://github.com/ikjot">
+                                                <i class="fa fa-github"></i>
+                                            </a>
+                                        </li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="col-xs-12 col-sm-6 col-md-3">
+                <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
+                    <div class="mainflip">
+                        <div class="frontside">
+                            <div class="card">
+                                <div class="card-body text-center">
+                                    <!--<p><img class=" img-fluid" src="https://sunlimetech.com/portfolio/boot4menu/assets/imgs/team/img_01.png" alt="card image"></p>-->
+                                    <h4 class="card-title">Malav Shah</h4>
+                                    <p class="card-text">Front-End Developer and Data Analyst<br>ASU ID: 1213199778<br>Emai: mpshah5@asu.edu</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="backside">
+                            <div class="card">
+                                <div class="card-body text-center mt-4">
+                                    <h4 class="card-title">Malav Shah</h4>
+                                    <p class="card-text">Designed the Look and Feel of the website along with various visualizations and interactions. Also assisted in data analysis and finding insights</p>
+                                    <ul class="list-inline">
+                                        <li class="list-inline-item">
+                                            <a class="social-icon text-xs-center" target="_blank" href="https://www.facebook.com/malav.shah.2012">
+                                                <i class="fa fa-facebook"></i>
+                                            </a>
+                                        </li>
+                                        <li class="list-inline-item">
+                                            <a class="social-icon text-xs-center" target="_blank" href="https://www.linkedin.com/in/shahmalav1995/">
+                                                <i class="fa fa-linkedin-square"></i>
+                                            </a>
+                                        </li>
+
+                                        <li class="list-inline-item">
+                                            <a class="social-icon text-xs-center" target="_blank" href="https://github.com/malav2110">
+                                                <i class="fa fa-github"></i>
+                                            </a>
+                                        </li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="col-xs-12 col-sm-6 col-md-3">
+                <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
+                    <div class="mainflip">
+                        <div class="frontside">
+                            <div class="card">
+                                <div class="card-body text-center">
+                                    <!--<p><img class=" img-fluid" src="https://sunlimetech.com/portfolio/boot4menu/assets/imgs/team/img_01.png" alt="card image"></p>-->
+                                    <h4 class="card-title">Naitik Shah</h4>
+                                    <p class="card-text">Front-End Developer and Data Analyst<br>ASU ID: 1213166628<br>Email:nrshah11@asu.edu</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="backside">
+                            <div class="card">
+                                <div class="card-body text-center mt-4">
+                                    <h4 class="card-title">Naitik Shah</h4>
+                                    <p class="card-text">Designed the Look and Feel of the website along with various visualizations and interactions. Also assisted in data analysis and finding insights</p>
+                                    <ul class="list-inline">
+                                        <li class="list-inline-item">
+                                            <a class="social-icon text-xs-center" target="_blank" href="https://www.facebook.com/naitik.shah.946">
+                                                <i class="fa fa-facebook"></i>
+                                            </a>
+                                        </li>
+                                        <li class="list-inline-item">
+                                            <a class="social-icon text-xs-center" target="_blank" href="https://www.linkedin.com/in/naitik-shah/">
+                                                <i class="fa fa-linkedin-square"></i>
+                                            </a>
+                                        </li>
+
+                                        <li class="list-inline-item">
+                                            <a class="social-icon text-xs-center" target="_blank" href="https://github.com/naitik0212">
+                                                <i class="fa fa-github"></i>
+                                            </a>
+                                        </li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+</body>
+</html>

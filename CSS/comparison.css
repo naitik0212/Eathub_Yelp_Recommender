@@ -1,0 +1,85 @@
+
+.axis .domain {
+    stroke: #000;
+
+}
+
+.hide{
+    display:none;
+}
+
+#pieChartSVG {
+    position: relative;
+    top: 100px;
+    left: 50px;
+    width: 500px;
+    height: 500px;
+}
+
+#barChart {
+    position: absolute;
+    top: 250px;
+    left: 500px;
+    height: 500px;
+
+}
+
+.axis text {
+    font-family: SansSerif;
+    font-size: 11px;
+}
+
+table {
+    border-collapse: collapse;
+    border: 0px;
+    font-family: SansSerif;
+    color: #5C5558;
+    font-size: 12px;
+    text-align: right;
+}
+
+td {
+    padding-left: 10px;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+}
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.topnav a.active {
+    color: white;
+}
+
+input.MyButton {
+    width: 220px;
+    padding: 20px;
+    font-family: Verdana;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 80%;
+    background: #1f77b4;
+    color: #fff;
+    border: 1px solid #3366cc;
+    border-radius: 10px;
+}
+
+input.MyButton:hover {
+    color: #bcbd22;
+    background: #000;
+    border: 1px solid #fff;
+}

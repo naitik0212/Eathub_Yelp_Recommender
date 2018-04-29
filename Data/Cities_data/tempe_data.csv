@@ -1,0 +1,963 @@
+,business_id,name,latitude,longitude,address,stars_y,city,is_recommended,attributes.NoiseLevel,attributes.Open24Hours,attributes.BusinessParking.garage,attributes.BusinessParking.validated,attributes.BikeParking,attributes.BusinessParking.valet,attributes.BusinessParking.street,categories_mexican,categories_american,categories_italian,categories_japanese,categories_seafood,categories_chinese,categories_thai,categories_fast_food,categories_vegan,categories_vegetarian
+0,M9fOuiesoUSaouOqNQ3U2w,Wong's Place,33.3779385,-111.9062779,1825 E Baseline Rd.,3.8733333333333335,TEMPE,1,quiet,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+1,IqsQRoiVE535Z2JR-7xoWQ,Jack in the Box,33.4217141,-111.89376270000001,2145 E University Dr,2.0833333333333335,TEMPE,0,,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+2,aiX_WP7NKPTdF9CfI-M-wg,Culinary Dropout,33.428533,-111.943955,149 S Farmer,4.049847405900305,TEMPE,1,loud,,False,False,True,True,False,0,1,0,0,0,0,0,0,0,0
+3,ObV7olsEsNYjuMGNJ75jNw,Vaqueros Carne Asada,33.3931502,-111.9762132,2602 W Southern Ave,3.7058823529411766,TEMPE,0,,,,,True,,,1,0,0,0,0,0,0,0,0,0
+4,VtQxGoCzAFSzCb1JSFV2bQ,Subway,33.421942800000004,-111.94154920000001,"130 E University Dr, Ste C",3.6,TEMPE,0,loud,,False,False,,False,False,0,0,0,0,0,0,0,1,0,0
+5,etylBefPKEMjm9nS9c1qiw,Port of Subs,33.3350123,-111.96195159999998,1342 W Warner Rd,2.6944444444444446,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+6,TAoN9nsibXOxsOnnG7Kd_g,Riazzi's Italian Garden,33.3998762,-111.94008249999999,2700 S Mill Ave,3.5886524822695036,TEMPE,0,quiet,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+7,px5RbIZm3rxRzi-g2f83KQ,Burger King,33.36318060000001,-111.9291133,6402 S Rural Rd,1.7916666666666667,TEMPE,0,loud,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+8,2rLuOMi6Q6zzqUU8ltreSA,"First Watch - Breakfast, Brunch & Lunch",33.4215708,-111.94166829999999,111 W University Dr,4.535714285714286,TEMPE,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+9,ySRaNkXgv0jmuT4HhmgSog,WisePies Pizza & Salad,33.4246118,-111.93478359999999,"521 S College Ave, Ste 110",3.857142857142857,TEMPE,0,average,,True,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+10,H-gllDEH0DHqE-HmzdHtKg,Jersey Mike's Subs,33.380021500000005,-111.9278632,4715 S Rural Rd,2.5454545454545454,TEMPE,0,quiet,,,,True,,,0,0,0,0,0,0,0,1,0,0
+11,9hPqmpOpH-POC0D0nlix3A,Silver Mine Subs,33.3329516,-111.94728559999999,655 W Warner Rd,3.7142857142857144,TEMPE,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+12,ef28eNdWA3g7OMsnf_fbSA,Water Ice Cream & More,33.3775849,-111.94033970000001,33 W Baseline Rd,5.0,TEMPE,1,,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+13,qMJyOW1FdPOf8sli8DIq_A,Délice Bistro,33.4234132387,-111.940683119,690 S Mill Ave,3.5229885057471266,TEMPE,0,quiet,,True,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+14,LFI82Rds5tKa5EAngmDvLQ,Seoul Garden,33.413096100000004,-111.92627350000001,1324 S Rural Rd,2.375,TEMPE,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+15,AtSEe-B2mFmLFHBf4PLTrw,Wildflower Bread Company,33.3624661,-111.91262009999998,"6428 S Mcclintock Rd, Ste 104",3.9401709401709404,TEMPE,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+16,L2iT7pipc455Tgpbo35_mw,CASA Sunbá,33.4243368,-111.9394223,15 E 6th St,2.8181818181818183,TEMPE,0,average,,False,False,True,False,True,1,1,0,0,0,0,0,0,1,0
+17,EuPaczO6rMpDMrn-GtE_eA,Tokyo Stop,33.421211199999995,-111.96019869999999,"1335 W University Dr, Ste 6",3.8271604938271606,TEMPE,0,average,,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+18,fQclKmk5G2_g98cDNPvj0g,El Tlacoyo,33.4214628,-111.8835179,2535 E University Dr,4.204081632653061,TEMPE,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+19,HvsTnw0GhhQaBuB45FJJag,Subway,33.3785582046,-111.976816698,2700 W Baseline Rd,3.7142857142857144,TEMPE,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+20,UK2sK9SkdBdK1uxv8TcWGg,Chuy's Mesquite Broiler,33.3779711,-111.90578359999999,1831 E Baseline Rd,3.0,TEMPE,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+21,E6EFZjqmu0V4d_mJLBYSaQ,Saboten Grill,33.3350531,-111.94457279999999,"440 W Warner Rd, Ste 104",3.5,TEMPE,0,,,False,False,,False,False,0,0,0,1,0,0,0,0,0,1
+22,MqJCtE12yfzQZCg8KGzNTw,Nick's NY Pizzeria,33.422454109,-111.92559538,"920 E University Dr, Ste 103",3.2962962962962963,TEMPE,0,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+23,Gw-ozqLSHoP3BQPKaiXJGg,The Watershed,33.3760012,-111.91986499999999,5350 S Lakeshore Dr,3.139473684210526,TEMPE,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+24,p6FPcgLymnpk_gAyQuW_Mw,El Paisano Market and Laila Check Cashing,33.416289500000005,-111.92256359999999,1035 E Lemon St,4.6,TEMPE,1,average,,False,False,False,False,False,1,0,0,0,0,0,0,0,0,0
+25,PK_yJS579FjaNiCkGGa6iA,MAD Greens - Tempe,33.433481,-111.901629,"2000 E Rio Salado Pkwy, Ste 1215",3.6565656565656566,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,1
+26,-Gy0BAMgRN4sGlY7theqxQ,MOD Pizza,33.3497776,-111.9015632,"2020 E Elliot Rd, Suite 101",4.21978021978022,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+27,kWNdx7NBa5Kx2NDKWYzUWA,South Philly Steak & Fries,33.383123,-111.96448500000001,5000 S Arizona Mills Cir,1.46875,TEMPE,0,average,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+28,Cwv0Mv70w8fNMd-ApwSnUQ,Mandalay Noodle World Restaurant,33.3918579,-111.90911509999998,3401 S McClintock Dr,3.0,TEMPE,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+29,Dz5NDfPpXcID1qJbEfre4g,Press Coffee,33.4299443,-111.94781409999999,601 W Rio Salado Pkwy,4.48,TEMPE,0,,,True,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+30,tamr4J75GguGhF1hm1wEaA,Jersey Mike's Subs,33.4342548462,-111.925406794,"555 North Scottsdale Rd, Ste 103",3.447058823529412,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+31,xJxfGReFZqZ1DDppESxMVA,Wendy's,33.334210399999996,-111.9466831,515 W Warner Rd,1.6363636363636365,TEMPE,0,,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+32,pTCyou_1EKkm1MUeejFLag,Royal Coffee Bar and Roasting,33.4250152612,-111.935203074,502 S College Ave,4.468085106382978,TEMPE,0,quiet,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+33,dmLMOm9mXO-Hd41UxihOqQ,Tsom Vegetarian Flavors,33.421350800000006,-111.9247139,"933 E University Dr, Ste 115",3.611111111111111,TEMPE,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,0,1,1
+34,JwyH48vqADWY6HieOMDxgQ,My Big Fat Greek Restaurant,33.4246763733,-111.93985089600001,525 S Mill Ave,3.6292134831460676,TEMPE,1,average,,False,False,True,False,True,0,1,0,0,0,0,0,0,0,0
+35,qYGJCgG24rQlNwWkFFZ3og,Cafe @ Rio,33.4133004,-111.9741695,2323 W 14th St,4.111111111111111,TEMPE,0,average,,True,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+36,g5Y4swQmgMPjeIyBNEo1xA,Arby's,33.3204263123,-111.93065701399999,9954 S Rural Rd,3.2222222222222223,TEMPE,0,quiet,,,,,,,0,0,0,0,0,0,0,1,0,0
+37,5lZpyuWjC7L9uJfLfqIQ_w,Hachi Ramen,33.3329516,-111.94728559999999,"655 W Warner Rd, Ste 114",4.108527131782946,TEMPE,1,quiet,,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+38,tduDcM1hWHPeyQ9SRPTQmQ,Tom's BBQ,33.3777945,-111.93819609999998,"115 E Baseline Rd, Ste 5",3.458823529411765,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+39,ycd3DfIYG-oAiyHXPPZjBA,Pita Pit,33.4234957305,-111.94023773100001,690 South Mill Ave,2.8518518518518516,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+40,V6WEgXWlYmOnH0a1FrH43A,John Henry's,33.3486761,-111.9277331,909 E Elliot Rd,3.2142857142857144,TEMPE,0,,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+41,FFy_b5ylhCYUrAjbJSEvOw,Which Wich,33.42791,-111.9404991,"222 S Mill Ave, Ste 125",3.625,TEMPE,0,average,,True,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+42,lpD3xIYuVaQA8xRSlKwn-Q,La Fonda Mexican Restaurant & Cantina,33.3783035278,-111.90613555899999,1831 E Baseline Rd,2.9763779527559056,TEMPE,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+43,QYIhMNwxXejDoCr-F1BxDg,Thai Basil,33.4215393,-111.9447821,403 W University Dr,4.060773480662983,TEMPE,1,average,,False,False,True,False,False,0,0,0,0,0,0,1,0,0,0
+44,1zgcF2M_rXYdK03BTewM4g,NY Bagels,33.4152726,-111.92499790000001,"922 E Apache Blvd, Ste 106",2.5555555555555554,TEMPE,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+45,qgAZPDQStZP_Y5XTiQ6UqA,Postino Annex,33.4240289389,-111.934724179,615 S College Ave,4.3391812865497075,TEMPE,1,average,,True,False,True,False,True,0,0,1,0,0,0,0,0,0,0
+46,zS3-CKZVVvUYvasJnAg-aA,Poliberto's Taco Shop,33.3779958947,-111.95696209299999,1219 W Baseline Rd,4.029761904761905,TEMPE,1,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+47,yeTKcKUlTq-W7EJ5hPkqbw,Outback Steakhouse,33.3937101,-111.91025970000001,1734 E Southern Ave,3.480916030534351,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+48,SzHP4_x-ECuBDVK6npb-Ow,Lo Cascio's Italian Restaurant,33.4532764,-111.9268652,2210 N Scottsdale Rd,3.4375,TEMPE,0,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+49,Dk3H2CPh_yb6CaN11XEFMA,Sydney's Cafe & Market,33.4330446204,-111.904261224,"2000 E Rio Salado Pkwy, Ste 1064",4.114035087719298,TEMPE,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+50,Yoc9_4sv6AT1AIohPPiGbA,Chennai Express,33.4214242,-111.924865,933 E University Dr,3.5789473684210527,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,1
+51,x60RbvQEFlvImnqzuBVk3Q,Nekter Juice Bar,33.432973147199995,-111.905555852,"2000 E Rio Salado Pkwy, Ste 1213",4.213114754098361,TEMPE,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+52,ZrucPqD_AGAZM53BwtsdTw,Rosatis Pizza,33.3353532,-111.911971,1730 E Warner Rd,3.3962264150943398,TEMPE,0,quiet,,,,False,,,0,0,0,0,0,0,0,0,0,0
+53,_uMRu3765QYo0Qg1z1LKqw,Blaze Fast-Fire'd Pizza,33.421644,-111.94149479999999,105 W University Dr,4.380530973451328,TEMPE,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+54,rhKzcgMm8CDhu7RZz_XxqQ,Sahara Middle Eastern Restaurant,33.3936221,-111.90811599999999,"1804 E Southern Ave, Ste 1",4.242774566473988,TEMPE,1,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+55,28hruDLwF_5s0QtDWH4rpg,Charlies Terrace Cafe,33.4225106,-111.936653,810 Forest Ave,4.0,TEMPE,0,,,,,True,,,0,0,0,0,0,0,0,0,0,0
+56,PF6IipxqHx0i2cFBAraXPw,Cafe Rio,33.4231458924,-111.926085055,715 S Rural Rd,3.3260869565217392,TEMPE,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+57,4jWZByIPL_S-UFczMuD3yw,Sweetest Season,33.4152132,-111.9051392,1870 E Apache Blvd,4.777777777777778,TEMPE,1,,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+58,7AbGkqgXXHhjktaXi_YmrA,Wendy's,33.3495623,-111.9672594,1810 W Elliot Rd,1.9,TEMPE,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+59,KYb1uDE-knfgYf_u7mofaA,Sonic Drive-In,33.4081229,-111.9211587,1122 E Broadway Rd,2.4078947368421053,TEMPE,0,quiet,,False,False,True,False,False,0,1,0,0,0,0,0,1,0,0
+60,1wU_10DtV6aJbGT26kATuw,Burger King,33.3924555,-111.93903300000001,5 E Southern Ave,1.894736842105263,TEMPE,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+61,dCX6CvWGn8oiPSD_yxrm0Q,China Jade,33.3772591792,-111.951823009,"825 W Baseline Rd, Ste 7",3.2950819672131146,TEMPE,0,average,,False,False,False,False,True,0,0,0,0,0,1,0,0,0,0
+62,2GjI7LMmVBt0ZCC8HV4c6Q,Souper Salad,33.3492229,-111.95695009999999,"1180 W Elliot, Ste 101",2.75,TEMPE,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+63,xTBhu4RsILyo82lVPBMG8A,Taco Bell,33.363644,-111.911042,1801 East Guadalupe,3.588235294117647,TEMPE,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,1,0,0
+64,1x8_aJQ-iqvymhRK3SNbLg,Sharky's Tacos & Tequila,33.3771903,-111.9520135,"825 W Baseline Rd, Ste 1",3.235294117647059,TEMPE,0,average,,False,False,True,False,False,1,1,0,0,0,0,0,0,0,0
+65,RpSo3IF05gZJdZcvrVntJA,Subway,33.3947566,-111.90834960000001,"3141 S McClintock Dr, Ste 7",2.7142857142857144,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+66,rz--nAbc7Jx91uQMPRZp8g,Subway,33.393543,-111.93878400000001,3109 S Mill Ave,5.0,TEMPE,1,quiet,,False,False,,False,False,0,0,0,0,0,0,0,1,0,0
+67,DEBqmgxv2yhJ93LqGpKltg,Earl Of Sandwich,33.4251725238,-111.93981411200001,505 S Mill Ave,3.84070796460177,TEMPE,0,average,,True,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+68,eDw3UUcM_T20WrsKldracw,International House of Pancakes,33.4143794,-111.93599990000001,225 E Apache Blvd,3.0357142857142856,TEMPE,0,loud,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+69,GdPWJo3z4ySEXpF7Wkn3FA,Curry Corner,33.415242600000006,-111.9196665,1212 E Apache Blvd,3.507157464212679,TEMPE,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+70,O3PiNOj1vv5dCCywdw3_og,Panda Express,33.4075706,-111.9257712,908 E Broadway Ave,2.9615384615384617,TEMPE,0,loud,,False,False,True,False,False,0,0,0,0,0,1,0,1,0,0
+71,acUEny04AjPiKC3zRbDYYw,Burger King,33.4070507679,-111.957230114,1139 W Broadway Rd,2.6923076923076925,TEMPE,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+72,AZQKMMvX9m1-uTdLPMzK3g,Spokes On Southern,33.3930144,-111.91461709999999,1470 E Southern Ave,3.7624521072796937,TEMPE,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+73,xdphjWZymq-3dqOWmA_wwA,Henry's Taiwan Kitchen,33.391588,-111.938405,119 E Southern Ave,3.483050847457627,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+74,oxHmTO6MwNPs524_-J-FRQ,1865 Coffee,33.4222101,-111.93843670000001,40 E University Dr,4.9,TEMPE,0,quiet,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+75,jAO8qYbiYZNbmhK8Knr9Mg,Rev Bistro,33.4020704,-111.9660244,1625 W Fountainhead Pkwy,3.625,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+76,l_B0JtF2UraFqhDpp5go0Q,Corner Bakery Cafe,33.4283455538,-111.940301929,222 S Mill Ave,4.055555555555555,TEMPE,0,average,,True,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+77,SgIOG9I6i58szXkGCcs3MQ,Long Wongs,33.379242,-111.97723529999999,2700 W Baseline Rd,2.1666666666666665,TEMPE,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+78,aYdcqAQbQRSnSz-1Xp65LA,Chick-fil-A,33.417493699999994,-111.93428899999999,1290 S Normal Ave,3.25,TEMPE,0,,,,,,,,0,0,0,0,0,0,0,1,0,0
+79,8XFDd4uX-g5B4JJzIahPHg,The Yard at Farmer Arts District,33.4287157292,-111.944123336,149 S Farmer,3.9217391304347826,TEMPE,0,loud,,False,False,True,True,True,0,1,0,0,0,0,0,0,0,0
+80,6-ZXctu-Duee3rGY3lC-uQ,Mandi House,33.414555699999994,-111.9109164,1639 E Apache Blvd,3.765957446808511,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+81,aVKOO7rBVo2lCj-KElxp5Q,Hippies Cove,33.4259647,-111.9402513,414 S Mill Ave,2.85,TEMPE,0,average,,False,False,,False,True,1,0,0,0,0,0,0,0,0,0
+82,tWiFat101ID5w_wgAPMXhA,Ted's Hot Dogs,33.4071015546,-111.909668432,1755 E Broadway Rd,3.966722129783694,TEMPE,1,average,False,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+83,laforpFQiWb1s3w9BtnR0w,Around the Board A Board Game Cafe,33.3799637,-111.89352679999999,5004 S. Price Rd,4.75,TEMPE,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+84,Wrd9LAbc8IOoAS5H6uw9sw,Delhi Palace Cuisine of India,33.421350800000006,-111.9247139,"933 E University Dr, Ste 103",3.6331658291457285,TEMPE,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+85,FrXD-7_LxoglCKdYzNMf1w,Maloney's On Campus,33.4216767,-111.9243672,955 E University Dr,3.0,TEMPE,0,,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+86,U8rHQ_Sg8A2m291Y7WEfIg,Devil's Advocate,33.421676,-111.92432659999999,955 E University Dr,3.536312849162011,TEMPE,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+87,ba4jRrqz6xlWgg0YIjAoAw,Barney's Boathouse,33.422317,-111.936052,216 E University Dr,2.4285714285714284,TEMPE,0,loud,,False,False,,False,True,0,1,0,0,0,0,0,0,0,0
+88,oLod-GlOLEH4KAvyddKuQQ,Sucker Punch Sally's Diner,33.421996299999996,-111.9398864,4 E University Dr,2.8260869565217392,TEMPE,0,,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+89,MbAsfN3wwV22K7GZsgcBqA,Mucho Gusto Taqueria Mexican Bistro,33.4215309,-111.9475757,603 W University Dr,3.4864864864864864,TEMPE,0,average,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+90,-2A9emZwBK8zYHPnAmM0hw,China Farm Chinese Buffet,33.394695,-111.9778065,3135 S 48th St,2.6666666666666665,TEMPE,0,average,,False,False,,False,False,0,0,0,0,0,1,0,0,0,0
+91,-XW3Peaen5jsnvGRrue_Qw,My Big Fat Greek Express,33.3350535,-111.9445749,"440 W Warner Rd., Ste 104",3.75,TEMPE,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+92,65f0pXB1bSwHH1Pi7kkryw,Bio Bistro,33.4203201234,-111.928625107,727 E Tyler St,2.6666666666666665,TEMPE,0,average,,,,True,,,0,0,0,0,0,0,0,0,0,0
+93,V3erF_OvXVcp1HgQiRLQ1g,Pizza Hut,33.4079719,-111.9104912,"1740 E Broadway, Ste 109",3.1818181818181817,TEMPE,0,quiet,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+94,aZVtg450O51eenM25tDkEQ,La Pita Bar & Grill,33.425177500000004,-111.9397665,505 S Mill Ave,2.4,TEMPE,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+95,EL3cj9qG8CIS-sqS-t3dRw,Teriyaki Experience,33.4329724,-111.9043028,"2000 E Rio Salado Pkwy, Ste A-4",2.6,TEMPE,0,,,False,False,,False,False,0,0,0,1,0,0,0,0,0,0
+96,Xw2o0GKWxDRMFPR0a4IOoQ,Life Cafe,33.341326300000006,-111.96448390000002,1616 W Ruby Dr,3.5384615384615383,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+97,s_LBvWoe1Vsfhw3vdmiLuw,Chinatown Restaurant,33.379242,-111.97723529999999,2700 W Baseline Rd,2.411764705882353,TEMPE,0,quiet,,False,False,,False,False,0,0,0,0,0,1,0,0,0,0
+98,lm3DeasThkVSve9HAEBkpg,Rocky Point Cantina,33.4199328,-111.92320959999999,1001 E 8th St,2.5,TEMPE,0,average,,False,False,,False,True,1,0,0,0,0,0,0,0,0,0
+99,GC9Re0tKAnecMww3DB638g,Jalsa Ice Cream and Bakery,33.3477919604,-111.910567954,"1805 E Elliot Rd, Ste 106",3.825,TEMPE,0,,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+100,N_ML37GOTOLtGKWqRnbJRA,Big Wa Chinese,33.395162,-111.97828,"3135 S 48th St, Ste 102",3.5,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+101,LEYZb8jiD36RQTElxy0YrQ,Back East Bagels,33.3943144,-111.91291670000001,"1628 E Southern Ave, Ste 2",3.477124183006536,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+102,GB6bZTCMmqZncRSxurNblA,Nocawich,33.4227395826,-111.934791102,777 S College Ave,3.979591836734694,TEMPE,0,very_loud,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+103,CIU0NCEOof6qF6AasxUvTA,Vaquero's,33.424281,-111.92408799999998,Apache  Terrace Rd,5.0,TEMPE,1,quiet,,,,,,,1,0,0,0,0,0,0,0,0,0
+104,l3bmBkr8_Pw3G-QkX0tPrw,Tasty Thai Restaurant,33.4075719,-111.94667549999998,510 W Broadway Rd,4.014388489208633,TEMPE,1,quiet,,False,False,True,False,False,0,0,0,0,0,0,1,0,0,0
+105,Z890syqhhoShqFnIyIu9EA,Native Grill & Wings,33.407082,-111.91721299999999,1301 E. Broadway Rd.,2.920245398773006,TEMPE,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+106,naY7HcWB4kkHBmxOcOl0ag,Sub Factory,33.4078922,-111.9539189,"930 W Broadway Rd, Ste 1",3.5416666666666665,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+107,62HZvu4RyAnhRswWn3e7qA,Haiku Grill,33.4423485,-111.95549950000002,"1158 W Washington St, Ste 105",3.0454545454545454,TEMPE,0,average,,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+108,wnKcNv7wHfZpTIALz64BQQ,Hangover Hoagies,33.415331,-111.92024199999999,1212 E Apache Blvd,4.576923076923077,TEMPE,1,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+109,cBZi2dtlWywtSDver2h0fQ,Wildflower Restaurant & bakery,33.363440284,-111.910945752,6428 S McClintock Dr,3.4,TEMPE,0,loud,,,,,,,0,1,0,0,0,0,0,0,0,0
+110,SYKIUCvN9JdSkVampgccfA,Amados Mexican Food,33.3664484123,-111.911751826,6022 S McClintock Dr,3.711340206185567,TEMPE,0,quiet,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+111,Oj6W90G1ZVay9cRl6_uKXg,Applebee's Neighborhood Grill & Bar,33.4070861,-111.92565249999998,909 E Broadway Rd,2.580952380952381,TEMPE,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+112,h-Oq86DZfZad9kKXe8m7Lg,Los Reyes De La Torta,33.3930078,-111.91400039999999,1528 E Southern Ave,4.0,TEMPE,1,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+113,sEvsx89wie9oSU5AlvCBGg,Costa Vida Fresh Mexican Grill,33.413632,-111.9267348,1324 S Rural Rd,3.5277777777777777,TEMPE,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+114,-IZvuqxekWEvJqDw308daQ,Los Favoritos Tacos Shop,33.4082978,-111.9161212,"1340 E Broadway Rd, Ste 105",3.5485714285714285,TEMPE,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+115,J1gvlBxU7_YqgYDHTQIgbA,McDonald's,33.3777862048,-111.93140689299999,625 E Baseline Rd,3.0,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+116,H7PB7JoyEkr2RBMt5SjxLw,Nathans Famous Hotdogs,33.383123,-111.96448500000001,5000 Arizona Mills Cir,2.0,TEMPE,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+117,Chv2JIBZ4nxz19u9A5BZ8w,Nacho Mamas,33.376998300000004,-111.94539679999998,"5235 S Kyrene Rd, Ste 104",3.413793103448276,TEMPE,0,average,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+118,ZHQU79PMUGCX0fEoyCcWlw,Caribbean Spice,33.3779782868,-111.936617212,"219 E Baseline St, Ste H001",3.6350710900473935,TEMPE,1,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+119,TkgEHV_4Qmamb_wUvkgdTg,Biscuits Cafe,33.42217539999999,-111.94536529999999,414 W University Dr,3.923076923076923,TEMPE,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+120,E_eIph8IT10Uo06ZdWwoUw,The Handlebar Tempe,33.4239019898,-111.94028735200001,680 S Mill Ave,3.453531598513011,TEMPE,1,average,,False,False,True,False,True,0,1,0,0,0,0,0,0,0,0
+121,In1B_y225-bJw3jfbk1uAA,Ako International Market,33.4131529,-111.90960859999998,"1400 S McClintock Dr, Ste 14",4.333333333333333,TEMPE,0,,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+122,bhosqo-Q1xp67iLqrd1Rbw,Papa John's Pizza,33.3922513145,-111.90771472899999,1813 E Southern Ave,2.5,TEMPE,0,quiet,,,,True,,,0,0,0,0,0,0,0,0,0,0
+123,21fK0m8sQFbRQv3RlskE2w,Corleone's,33.426046,-111.93981370000002,"411 S  Mill Ave, Ste 102",3.0526315789473686,TEMPE,0,average,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+124,8B1TIuaqhaZ7QMEhDUu-Gg,D'Lite Healthy On The Go,33.4144553,-111.9207409,1135 E Apache Blvd,4.084745762711864,TEMPE,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+125,6_lNZXYsz0SIOakNyBF0zQ,Brosenbrus Cafe,33.4148329,-111.9254187,922 E Apache Blvd,4.159090909090909,TEMPE,0,average,,False,False,,False,True,0,0,0,0,0,0,0,0,0,0
+126,zpf-9NlOGSGGIIbJLO27eg,Nourish,33.407984,-111.89442,"SCNM Southwest College of Naturopathic Medicine, 2152 E Broadway Rd",3.8,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,1,0
+127,Gtw-SpnhyNa0TwNETlysyw,Southern Spice,33.449775300000006,-111.92643290000001,1849 N Scottsdale Rd,3.357142857142857,TEMPE,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+128,p4GMQauk2iqZnN6cj81s3g,The Bamboo Club,33.423729800000004,-111.9396558,699 S Mill Ave,3.0555555555555554,TEMPE,0,,False,True,False,,False,True,0,0,0,0,0,0,0,0,0,0
+129,o56LV-WnalGB0URVvoOh4A,Lychee Inn,33.379134,-111.92195929999998,1138 E Baseline Rd,3.8181818181818183,TEMPE,0,,,False,False,,False,False,0,0,0,0,0,1,0,0,0,0
+130,lgIa0COVEmsiFI_ZWXn6_g,McDonald's,33.3786949,-111.93015020000001,5144 S Rural Rd,2.0,TEMPE,0,average,,False,False,False,False,False,0,0,0,0,0,0,0,1,0,0
+131,H94fBucKEuNKsjbSy7WODg,Little Szechuan,33.422188500000004,-111.9465206,524 W University Dr,3.770053475935829,TEMPE,1,quiet,,False,False,True,False,False,0,0,0,0,1,1,0,0,1,1
+132,6ylM5QEoE24BR83RtuKHNg,Luigi's Pizza,33.3478761,-111.90997800000001,1805 E Elliot Rd,3.6666666666666665,TEMPE,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+133,-wUKgQXAMC4H5hiBOgpT6g,Taco Bell,33.349061999999996,-111.96168600000001,1415 West Elliot Road,2.88,TEMPE,0,quiet,,False,False,False,False,False,1,0,0,0,0,0,0,1,0,0
+134,S1jjDv8mwJ4psGQA4b8RjA,Memo's Cafe,33.406601,-111.9075196,1845 E Broadway Rd,3.909090909090909,TEMPE,0,average,,False,False,True,False,False,1,1,0,0,0,0,0,0,0,0
+135,rBTlmcEEQka-7cdU6ByrYg,Maya New York Pizza & Grill,33.4059958,-111.92586159999999,2107 S Rural Rd,3.3513513513513513,TEMPE,0,quiet,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+136,lC2hnEYBN_97HXDQnpGpZA,King Coffee,33.418527600000004,-111.9402862,"1020 S Mill Ave, Ste A",4.59375,TEMPE,1,quiet,,True,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+137,2fsJzlV09zPV12wT037pig,Dave's Electric Brewpub,33.4251549,-111.93526000000001,502 S College,2.8076923076923075,TEMPE,0,average,,False,False,,False,True,0,1,0,0,0,0,0,0,0,0
+138,6YrmJ_pxLSTabcM_FFZhlQ,Wienerschnitzel,33.421020899999995,-111.9096446,804 South Mcclintock Ave,3.1666666666666665,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+139,0zTLMQOZhiCp9GFtegiFsw,Kohinoor Cuisine of India,33.4167343,-111.92200420000002,1043 E Lemon St,3.7476635514018692,TEMPE,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+140,wL-wZmYgogR2jtwMMBisUw,Boathouse,33.3742188,-111.9193554,5394 S Lakeshore Dr,4.333333333333333,TEMPE,0,,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+141,Jc2X0JqdBupkOzTPZtbcWA,Cheeburger Cheeburger,33.4329724,-111.9043028,2000 E Rio Salado Pkwy,3.425,TEMPE,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+142,8DAPLb2_IIFGfD8ltw0NBQ,Taco Migo,33.3781184,-111.9673621,1821 W Baseline Rd,2.8,TEMPE,0,average,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+143,2qlaSFyYFuzEo76jaL_ghQ,Stella's Kitchen,33.436665500000004,-111.94032539999999,"Tempe Marketplace, 2000 E Rio Salado Pkwy",3.0,TEMPE,0,,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+144,TWSKXlz2niDh9Pyuj90Dng,Engrained Cafe,33.417493699999994,-111.93428899999999,1290 S Normal Ave,3.857142857142857,TEMPE,0,average,,True,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+145,futvxFkM42RYxXr8ROogBQ,The Munchies Cafe,33.424165115,-111.939458389,11 E 6th St,3.869918699186992,TEMPE,0,average,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+146,ljD9NsZzpLAsX9yva7lqJw,McDonald's,33.320405,-111.96270009999999,9955 S Priest Dr,2.1666666666666665,TEMPE,0,,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+147,w3XZf4qnRUE3cSQZVcaSMw,Kona 13 Coffee & Tea,33.421535600000006,-111.9075222,1845 E University Dr,4.541666666666667,TEMPE,1,,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+148,jNLfGkcspKdHjnz7c_zrLQ,Wingstop,33.3791879569,-111.977067645,"2700 W Baseline Rd, Ste 103-104",1.8333333333333333,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+149,SkZ7f-zFsKrthhhppDn6Tg,Arlie's Bar & Grill,33.4213468469,-111.89306002100001,2155 E University Dr,4.157894736842105,TEMPE,0,,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+150,d3C5QTYpZCdp2pV1Cq5G_g,Mr Goodcents Subs & Pastas,33.4075797,-111.94710890000002,528 W Broadway Rd,2.9166666666666665,TEMPE,0,,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+151,WMcNyg68PVCwWQH_pOl6WA,Denny's,33.3787585373,-111.968973505,1994 W Baseline Rd,2.888888888888889,TEMPE,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+152,mbV5FSZjiUViAdwcYRY0Rw,Dickey's BBQ Pit,33.424613199999996,-111.9347861,"521 S College Ave, Ste 9",3.2291666666666665,TEMPE,0,average,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+153,aXsmmtepl0JZNcl3pkXqww,Sacks Sandwiches - Hardy,33.4212223787,-111.951613763,839 W University Dr,4.05050505050505,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+154,y-5xgUA-5TblxftyC6VjVw,Sabuddy,33.4216507,-111.9511572,825 W University Dr,4.5,TEMPE,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+155,CMx3FbuKpEIUNUMyQdKncw,Extreme Pita,33.4222436,-111.9349687,777 S College Ave,2.3333333333333335,TEMPE,0,,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+156,6QIzCTSZfXL3r2mIWn58bQ,Cafe Roma,33.4228634,-111.9514297,960 W University Dr,2.3333333333333335,TEMPE,0,,,,,,,,0,0,1,0,0,0,0,0,0,0
+157,9jOGMcH1pxDDhgSMLBnb-g,Thirsty Dog 2 Go,33.425332,-111.940459,15 W 5th St,3.8043478260869565,TEMPE,0,quiet,,False,False,False,False,True,0,0,0,0,0,0,0,0,0,0
+158,vJvEKFtQ8Am95tWEkiwOGA,King's Fish House - Tempe,33.4324502274,-111.90604680700001,35 S McClintock Dr,3.5397350993377485,TEMPE,1,average,,False,False,True,False,False,0,0,0,0,1,0,0,0,0,0
+159,7NXSKpruXOrm9_INkZAFEQ,Chix Char Broiled Grill,33.421350800000006,-111.9247139,933 E University Dr,4.454545454545454,TEMPE,0,average,,False,False,,False,True,0,0,0,1,0,0,0,0,0,0
+160,E3ODMVUoz27BJ17r58E-5g,Popeyes Louisiana Kitchen,33.3778361,-111.96462140000001,1619 W Baseline Rd,2.6296296296296298,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+161,I-VD-o4JDGSG5GHQ2EbrVA,Smashburger,33.3779062,-111.9292999,"815 E Baseline Rd, Ste B113",3.1725888324873095,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+162,hAioxEk3WU-SzlqIM4TI7w,Maria Maria,33.4329724,-111.9043028,2000 E Rio Salado Pkwy,3.033333333333333,TEMPE,0,,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+163,ad0LjmuXhUGBxTSkve5LZA,Beaver Choice,33.4071624168,-111.91035657299999,1743 E Broadway,4.444444444444445,TEMPE,1,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+164,awPIH7K4WA5BKJfiQlZcow,Bison Witches Bar & Deli,33.424014,-111.938422,"21 E 6th St, Ste 146",3.288135593220339,TEMPE,0,average,,True,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+165,l9B72QwKjUhEA-pLumCa5w,Golden Egg Roll,33.3913585246,-111.961297082,3320 S Priest Dr,3.40625,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+166,-8QlV3b_9H4BAh6LgMIr1g,Nandini Indian Cuisine,33.406601,-111.9075196,"1845 E Broadway Rd, Ste 101",4.245412844036697,TEMPE,1,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,1,0
+167,eiywQMru9IZF-Bq_IplyJg,Tempe Water & Ice Store,33.349979804499995,-111.929948146,"7520 S Rural Rd, Ste A7",4.0,TEMPE,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+168,pa-C-Vsk9ntuXBGjTr0tBQ,P.croissants,33.349929100000004,-111.92994709999999,7520 S Rural Rd,3.6474358974358974,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+169,lCxtNddU4aDWMCgnzRYbsw,Paldo Market,33.3928601,-111.93769820000001,9 E Southern Ave,4.478260869565218,TEMPE,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+170,nChi_8Gygb6NUMa_kg_tlQ,Asian Fusion Cafe,33.422755,-111.9258646,"725 S Rural Rd, Ste 103",3.823529411764706,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+171,OJBn0HFMvVB9TDcr4OLttw,Singh Meadows,33.444083899999995,-111.91472399999999,1490 E Weber Dr,4.5625,TEMPE,0,,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+172,9U6K2_IImm3nYTna_69fFw,Steakies Cheesesteaks,33.3216697,-111.96239369999999,9845 S Priest Dr,3.4285714285714284,TEMPE,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+173,KMYLwjpx6cjanynnc4mJvw,Yum Yum China,33.4326624,-111.90352140000002,2000 E Rio Salado Pkwy,2.888888888888889,TEMPE,0,quiet,,False,False,,False,False,0,0,0,0,0,1,0,0,0,0
+174,ls2w3z-5DmO8pBdwWwGjDg,Meat the Pita,33.3897576,-111.9343636,,4.733333333333333,TEMPE,0,,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+175,x5vSE0-NO_YSZtOnitLWuQ,Gandolfo's New York Delicatessen,33.3497132,-111.94873020000001,744 W Elliot Rd,3.24,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+176,S7d4PCHIl2uO2hLxSHASqQ,Jamie's Pizza and Pitas,33.4060271,-111.9254244,2107 S Rural Rd,3.1666666666666665,TEMPE,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+177,0aSvr56wz4gRAA5TtV7_Tw,Zuma Grill,33.424105759899994,-111.939825685,605 S Mill Ave,2.525,TEMPE,0,very_loud,,True,False,True,False,True,0,1,0,0,0,0,0,0,0,0
+178,f0pIB6KkSRxc1mxPG70ACQ,NYPD Pizza,33.3216034,-111.96261750000001,"9845 S Priest Dr, Ste 103",3.8666666666666667,TEMPE,0,average,,False,False,,False,False,0,0,1,0,0,0,0,0,0,0
+179,8dolrPYCAgqzPzZCv23lvQ,Scotti's Market & Eatery,33.3353003813,-111.91167455200001,1730 E Warner Rd,4.470588235294118,TEMPE,0,,,False,False,,False,False,0,0,1,0,0,0,0,0,0,0
+180,Vrwc9RPievPfQl4VCReXow,Uno's,33.423411,-111.94049,690 S Mill Ave,2.4545454545454546,TEMPE,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+181,lOW5kH6nHVOYfmoAfpWvHw,Miu's Cuisine,33.4150511,-111.88953219999999,2314 E Apache Blvd,3.852272727272727,TEMPE,0,quiet,,False,False,,False,False,0,0,0,0,0,1,0,0,0,0
+182,nn8RDkUz0cWLcEhuga4f7Q,Handy AZ Man,33.3897576,-111.9343636,1927 E Ellis Dr,4.733333333333333,TEMPE,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+183,u22akZ9o7DPQ3En_9AQ1lg,Revo Pizzabar,33.4256819545,-111.936830319,200 E 5th St,3.6666666666666665,TEMPE,0,average,,True,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+184,HkbNItNrnXlNo59M0YyoMg,Loco Patron,33.428145,-111.94040700000001,222 S Mill Ave,3.60752688172043,TEMPE,0,average,,False,False,True,False,True,1,0,0,0,0,0,0,0,0,0
+185,89Tgq6_T1m8CQ-8l_VPcDQ,Pitchforks Restaurant,33.4183146,-111.933799,301 E Orange Mall,2.6666666666666665,TEMPE,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+186,x_SK4kvfWdCDDBmA_ErxqA,Pasand,33.3773276,-111.9086062,"1801 E Baseline Rd, Ste 104",3.0285714285714285,TEMPE,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+187,rXceWs_H4PLmY99rGcbk6w,Jersey Mike's Subs,33.407203354699995,-111.96533683700001,1537 W Broadway Rd,3.2,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+188,QprcsinZiEmrE3fNtzpyDg,Long John Silver's,33.407696,-111.95713490000001,1202 W Broadway Rd,3.3333333333333335,TEMPE,0,quiet,,False,False,True,False,False,0,0,0,0,1,0,0,0,0,0
+189,ZDE5QPR5Q9sL50bhK3qv1A,McAlister's Deli,33.4231625,-111.9258245,"715 S Rural Rd, Ste 107",4.2727272727272725,TEMPE,0,,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+190,1Z4_zSITNVQ_Bt027R0S1g,Robbie Fox's Public House,33.4241412,-111.9400737,"640 S Mill Ave, Ste 120",3.5859375,TEMPE,0,average,,False,False,,False,True,0,0,0,0,0,0,0,0,0,0
+191,jbwyl98wXrEKDkgFz2PiwQ,Jimmy John's,33.349585600000005,-111.94981809999999,780 W Elliot Rd,3.264705882352941,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+192,3b-jZX9Ms0U9B2Oy_ZmNMA,Sushi Kee,33.3353841,-111.9270761,"1006 E Warner Rd, Ste 113",4.0,TEMPE,0,quiet,,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+193,OXSVjoMQflcB1xRb6T7eFA,McDonald's,33.3778492,-111.9618564,1429 W Baseline Rd,1.4705882352941178,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+194,rt-EKmn8xpUuWdePYPPcHQ,Sneakers Sports Grill,33.3929999,-111.9146166,1470 E. Southern Ave,2.4285714285714284,TEMPE,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+195,bqMEml5HIFSMo4CPfjlG0A,Chill,33.39476989999999,-111.9088938,"3141 S McClintock Dr, Ste 10",4.294117647058823,TEMPE,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,1,0
+196,bKyjGqmnP4goQRYYp4ARhg,Salam's Market & Deli,33.423527899999996,-111.9368564,616 S Forest Dr,3.4285714285714284,TEMPE,0,average,,False,False,,False,True,0,0,0,0,0,0,0,0,0,0
+197,fXqlzAM6PTXUGrU4y33LzQ,La Casa De Juana,33.347839589,-111.91000626,1805 E Elliot Rd,3.8,TEMPE,1,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+198,6MKdilxYLP3W02wnu3UFmQ,Einstein Bros Bagels,33.3218022,-111.9304637,9900 S Rural Rd,2.5483870967741935,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+199,nirw-sDOBF12TA6Mh8ju7g,The Pita Pit,33.422238199999995,-111.9359122,222 East University Dr,2.9545454545454546,TEMPE,0,average,,False,False,,False,True,0,0,0,0,0,0,0,0,0,0
+200,ipxip8n5xVHx_ORLhDwqZA,PIZZAM!,33.3490842,-111.9449183,"325 W Elliot Rd, Ste 101",3.0,TEMPE,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+201,pmjwA8fI0scEBA7HRtbI3w,Capriotti's Sandwich Shop,33.4219357,-111.94196299999999,"100 W University Dr, Ste 113",4.065217391304348,TEMPE,0,average,,True,False,,False,False,0,0,0,0,0,0,0,0,0,1
+202,AbnpKkW0mpv34jtRps4C0A,Lobbys Burgers,33.3950949278,-111.908879631,"3141 S McClintock Dr, Unit 13",4.243670886075949,TEMPE,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,1,0,0
+203,Cdywb13_07M1_g3U85VKTA,Hong Kong Asian Diner,33.32217891,-111.929328181,9880 S Rural Rd,3.2788461538461537,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+204,vBV5IbpTgUKuu2HlneE2NA,America's Taco Shop,33.4217344,-111.9271489,735 E University Dr,3.4014084507042255,TEMPE,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+205,UBj-25LU5dxJ9meb-TPc9w,Little India,33.3774325,-111.90691890000001,1813 E Baseline Rd,3.532110091743119,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,1
+206,utR8Ei5_c2CRAIffpYtdZQ,Matt's Big Breakfast,33.4301773514,-111.932673013,400 E Rio Salado Pkwy,3.711864406779661,TEMPE,1,average,,True,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+207,mKf7pIkOYpEhJTqjw4_Fxg,Tessio's Pizza,33.4214795,-111.945394,405 W University Dr,3.676470588235294,TEMPE,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+208,TQur3w5rlpsxRZxuomz-Xw,BurgerFi,33.421659399999996,-111.92521399999998,927 E University Dr,4.140625,TEMPE,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+209,maGqjGXYPzal3YydKu8wjQ,Panda Express,33.3495026,-111.9602215,1320 W Elliot Rd,1.95,TEMPE,0,average,,False,False,False,False,False,0,0,0,0,0,1,0,1,0,0
+210,O6obMXRKCnLMygvm2fSp0w,Brick & Barley,33.3778109,-111.93712659999998,201 E Baseline Rd,3.231404958677686,TEMPE,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+211,vQtlv7CEiOjpUqh8Kb7iDQ,Taquito Rosita,33.3346264,-111.93287520000001,"655 W Warner Rd, Ste 110",2.3636363636363638,TEMPE,0,quiet,,False,False,False,False,False,1,0,0,0,0,0,0,0,0,0
+212,oWxiT2PasutHFyZp8Yh2mA,Salazar Bros Mexican Food,33.364188,-111.927609,926 E Guadalupe Rd,4.2682926829268295,TEMPE,0,quiet,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+213,kuRBSlWaAJkzxlDRW4FjZA,Subway,33.3782381,-111.9297441,"815 E Baseline Rd, Ste 109",3.142857142857143,TEMPE,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+214,p8H_WsH1SltPmo0-c67gFQ,Smashburger,33.3494706948,-111.902251281,2010 E Elliot Rd,3.196969696969697,TEMPE,0,loud,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+215,DS0E9qEyVTyV_BGWoPgjGQ,Kyoto Bowl,33.348163,-111.957999,"1245 W Elliot Rd, Ste 101",2.4,TEMPE,0,,,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+216,2zB-y-kobzrMXs0XMjavgw,Olive Branch Restaurant,33.393515,-111.939206,3231 S Mill Ave,2.1875,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+217,6lCFq6RQxctSW37yNYZ5wg,Tapacubo,33.4143794,-111.93599990000001,225 E Apache Blvd,3.101010101010101,TEMPE,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+218,ZuNVijvXJmWCQG7xoV6nFA,Cafe Roma,33.4423485,-111.95549950000002,1158 W Washington St,3.75,TEMPE,0,loud,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+219,FsCujpVh9Za2Dl5MIYLCxA,Zu Izakaya Asian Kitchen,33.452529838400004,-111.926886571,2210 N Scottsdale Rd,4.568965517241379,TEMPE,1,average,,False,False,False,False,False,0,0,0,1,0,0,0,0,0,0
+220,_MzJncLDDFC7-0QLt1KQcg,Chili's,33.422153,-111.9444913,400 W University Dr,2.980769230769231,TEMPE,0,loud,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+221,OoYwJANV9zD-_OA4Atu-gg,Republic Ramen + Noodles,33.4215513185,-111.91670335399999,1301 E University Dr,3.322241681260946,TEMPE,1,average,,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+222,gONNfEoNaRLNtgaAcxwsLQ,Flanny's Bar & Grill,33.3478613,-111.9095341,"1805 E Elliot Rd, Ste 105",3.6777777777777776,TEMPE,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+223,CQokoa1vN8j6OP7dyizJDw,Chipotle Mexican Grill,33.4333579566,-111.90182357200001,"2000 E Rio Salado Pkwy, Ste 1226",3.392857142857143,TEMPE,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,1,0,0
+224,YJS7cXGLAvWw9DUDXpw84Q,Babbo Italian Eatery,33.3211702941,-111.93036949399999,"9920 S Rural Rd, Ste 105",3.5460992907801416,TEMPE,0,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+225,QT4Ub4DlaDX52vdnKutD0A,Copper Kettle,33.4153283,-111.91827859999998,"1250 E Apache Blvd, Ste 101",3.5681818181818183,TEMPE,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+226,OiaoUB_UjY-VZ_xd5WKDmg,Crave Cafe & Lounge,33.4252092,-111.9398439,505 S Mill Ave,3.1666666666666665,TEMPE,0,very_loud,,False,False,,False,True,0,0,0,0,0,0,0,0,0,0
+227,WnrK19zBdW3ATWRc9RjYMA,Vertigo Hookah Lounge & Cafe,33.408288399999996,-111.9169787,"1320 E Broadway Rd, Ste 102",4.65625,TEMPE,0,average,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+228,pdr6U7qSa9jIivVy_glF-w,China Town Buffet,33.377338699999996,-111.907454,1807 E Baseline Rd,2.223529411764706,TEMPE,0,average,,False,False,False,False,False,0,0,0,0,0,1,0,0,0,0
+229,3KFWuiz8lla9SospgQn6Yg,Slickables,33.4237049909,-111.93969726600001,"699 S Mill Ave, Ste 117",4.340425531914893,TEMPE,1,,,True,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+230,HKoPaMZc1iG8XYzYRhwBKw,Rosati's Pizza,33.335310465300005,-111.91178586299999,8750 S McClintock Dr,3.090909090909091,TEMPE,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+231,lHopmgtaW31nnDCXtDbtRA,Tempe Takeout,33.3684114,-111.9343636,University Dr,1.75,TEMPE,0,average,,,,,,,0,1,0,0,0,0,0,0,0,0
+232,Qk49X8OrbzbG5Qa7VXhV2w,Jimmy John's,33.4247827716,-111.934803655,"521 S College Ave, Ste 107",2.1176470588235294,TEMPE,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+233,4hf_GXJjDK1cZJvWpVUVOg,Apple Spice Junction,33.351358000000005,-111.965949,7425 S Harl Ave,3.0,TEMPE,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+234,2CNaSduqZIsCRuNvdO_TAQ,Chipotle Mexican Grill,33.3497776,-111.9015632,"2020 E Elliot Rd, Ste 102",3.0,TEMPE,0,,,False,False,True,False,False,1,0,0,0,0,0,0,1,0,0
+235,dSEcQPPUlATxZf5pvN_t5Q,Red Devil Italian Restaurant & Pizzeria,33.393559,-111.942318,208 W Southern Ave,3.4285714285714284,TEMPE,0,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+236,ZvtELJTUOh0yRrPxyyiakQ,Oregano's Pizza Bistro,33.348618,-111.962625,1475 W Elliot Rd,3.9577464788732395,TEMPE,1,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+237,xAVj_vQj9eTHorWMxY4CPQ,Kolby's Corner Pocket Billards,33.421373990999996,-111.916609146,"1301 E University Dr, Ste 112",4.416666666666667,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+238,CmgNyXaBPsn6hLLtWPL_qg,Berry Divine Acai Bowls,33.4399425,-111.92683249999999,"960 N Scottsdale Rd, Ste 101",4.251908396946565,TEMPE,1,,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+239,CU4LgHxH0EwXnPUmQsWFSQ,Church's Chicken,33.383123,-111.96448500000001,5000 S Arizona Mills Cir,2.0,TEMPE,0,average,,False,False,,False,False,0,0,0,0,0,0,0,1,0,0
+240,Pd9cq5LkReRCNsgyh19wJQ,THE CREPE CLUB,33.436665500000004,-111.94032539999999,,3.0,TEMPE,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+241,F6981E_sIQLhPzImbBagAQ,Tropical Smoothie Cafe,33.3354210882,-111.962420201,"8707 S Priest Dr, Ste 108",2.8018018018018016,TEMPE,0,average,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+242,9lJvU8ymisVHNa-pnowCWA,Papa Razzini,33.3613469,-111.9107304,1825 E Guadalupe Rd,3.8666666666666667,TEMPE,0,,,False,False,,False,False,0,0,1,0,0,0,0,0,0,0
+243,qOd7QUh-sIB7zN7RbP1-qw,Genuine Fresche,33.394104,-111.91078,"1726 E Southern Ave, Ste 3",3.473333333333333,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,1,0
+244,lm9gDpvhJcZ-m2Y0feYtkA,Mo' Burger,33.384912144299996,-111.965412609,5000 S Arizona Mills Cir,2.6507936507936507,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+245,cpuLjGxFQqJceW4zzJdvaw,Sukotto Japanese Grill,33.383123,-111.96448500000001,5000 S Arizona Mills Cir,1.35,TEMPE,0,,,,,False,,,0,0,0,1,0,0,0,0,0,0
+246,BPAm6_JH34HB9FG5Jx1Nig,Poké Wave,33.3212236375,-111.93042848799999,"9920 S Rural Rd, Ste 111",4.68,TEMPE,1,quiet,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+247,tgDUi6vtF1cI3DQe5sqQBw,Devil's Pizza Factory,33.422218300000004,-111.92584679999999,920 E University Dr,2.1818181818181817,TEMPE,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+248,8VwDchHdgV7xJFGAjay2jw,Carmen's Bistro,33.377787899999994,-111.93643610000001,219 E Baseline Rd,2.0,TEMPE,0,loud,,False,False,,False,False,0,0,1,0,0,0,0,0,0,0
+249,Uo9z9Mfiw-4QxbsXbDt7yA,Sign Of The Whale,33.3345061,-111.96766609999999,"1706 E Warner Rd, Ste 3",3.7,TEMPE,0,,,False,False,,False,False,0,0,0,0,1,0,0,0,0,0
+250,Yv9IJnHVvToCTetM0vSwcA,Paytons Place,33.3490842,-111.9449183,"325 W Elliot Rd, Ste 104",3.2,TEMPE,0,,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+251,qnql60YyttH_nMfufiHHtw,Sami's Gyros,33.4423485,-111.95549950000002,1158 W Washington St,3.014705882352941,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+252,OD09pm-MzynigAvD5KoGPA,Maskadores Taco Shop,33.4078133,-111.95093200000001,818 W Broadway Rd,4.472295514511873,TEMPE,1,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+253,QBLl3bVLWZB4-jS-O_MKug,Barro's Pizza,33.3771903,-111.9520135,"825 W Baseline Rd, Ste 101",3.793103448275862,TEMPE,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+254,iPyhXWQ2LVSgBlQA4vqKJw,Joe's Crab Shack,33.393371,-111.912406,1604 E Southern Ave,2.853448275862069,TEMPE,0,average,,False,False,True,False,False,0,1,0,0,1,0,0,0,0,0
+255,70GtD32xaw1_Rd_sVaOEnQ,Ruby Tuesday,33.432256,-111.904661,Tempe Marketplace,3.111111111111111,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+256,5-cghsJrQjAz9nN4DNClEw,Oasis Cafe,33.4073807,-111.9099528,1731 E Broadway,2.4,TEMPE,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+257,AJ8DDFm6QaihAPZI3wFBHw,Tea Infusion,33.4326053092,-111.904946566,"2000 E Rio Salado Pkwy, Ste 1064",3.717171717171717,TEMPE,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+258,x9p1WdRz7FSRy0Q38PiGlA,Potbelly Sandwich Shop,33.409797999999995,-111.92593400000001,"1717 S Rural Rd, Ste 102",3.987012987012987,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+259,sahppzQJ0HtvMC7L8ILTVg,Chipotle Mexican Grill,33.4179876,-111.94041270000001,1038 S Mill Ave,3.25,TEMPE,0,loud,,False,False,True,False,False,1,0,0,0,0,0,0,1,0,0
+260,DLv9d4CVzk8gPKSAEKpTSw,Windy City Cafe,33.348599199999995,-111.9096219,1815 E Elliot Rd,3.1956521739130435,TEMPE,0,average,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+261,U6P56MjLrraN0JBNvOjxaA,The Chuck Box,33.422317,-111.93630900000001,202 E University Dr,4.182885906040268,TEMPE,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+262,3_n3JdLWkyPCDtPSU-UyUQ,Cafe Villaggio,33.449059999999996,-111.92562099999999,1857 N Scottsdale Rd,3.4,TEMPE,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+263,WGfalBzV-u0gXKb6149ZCQ,Blue Nile Cafe,33.421350800000006,-111.9247139,"933 E University Dr, Ste 112",4.009803921568627,TEMPE,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,1,0
+264,_V4I3DfzYbIHL77XDaVM-Q,Gourmet Wok,33.3771903,-111.9520135,825 W Baseline Rd,3.25,TEMPE,0,quiet,,False,False,,False,False,0,0,0,0,0,1,0,0,0,0
+265,oO6J78pMW4s8OzSUm75SpQ,Hooters,33.425289299999996,-111.93969820000001,"501 S Mill Ave, Ste 201",2.735294117647059,TEMPE,0,loud,,False,False,True,False,True,0,1,0,0,0,0,0,0,0,0
+266,_k3PJI3mSS3eIpV8FZ6Tqg,Gluttons,33.4229734,-111.93648259999999,203 E 7th St,3.576923076923077,TEMPE,0,average,,False,False,,False,True,0,1,1,0,0,1,0,0,0,0
+267,8CRXSMiyTR9DOMOdrTDRUw,Gangnam Sushi & Grill,33.4210854799,-111.924814023,"933 E University Dr, Ste 115",4.04524886877828,TEMPE,1,average,,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+268,-tcJmqzfaeEnpFMAelB7bA,MedFresh Grill,33.4259647,-111.9402513,"414 S Mill Ave, Ste 117",3.7142857142857144,TEMPE,0,average,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+269,NrZLuREHIfKIeVwSH4G43A,Taco Bell,33.3926328,-111.907129,1835 E Southern Ave,2.6666666666666665,TEMPE,0,,,False,False,,False,False,0,0,0,0,0,0,0,1,0,0
+270,cTgTtdw_O-C7VO3oNzGRvg,Starters Sports Bar and Grill,33.4131529,-111.90960859999998,1400 S McClintock Dr,3.642857142857143,TEMPE,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+271,aVkVDJ01OgvNwhlCUz_bng,Gordon Biersch Brewery Restaurant,33.4257625,-111.94037240000002,"420 S Mill Ave, Ste 201",3.1369426751592355,TEMPE,1,average,,False,False,True,False,True,0,1,0,0,0,0,0,0,0,0
+272,q-9wprAg0B4_5o2ZWeR20g,Wendy's Old Fashioned Hamburgers,33.4139365,-111.92674879999998,1314 S Rural Road,2.8333333333333335,TEMPE,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+273,Tl0_JsPz8B3I-opvSZXRGg,Metro Espresso & Sandwiches,33.4148687,-111.8973369,"2070 E Apache Blvd, Ste 103",4.8,TEMPE,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+274,vK1_qKEG7zHvjiTOsN0CRg,Snooze An AM Eatery,33.4238394936,-111.934801369,"615 S College Ave, Ste 103",4.291371994342291,TEMPE,1,average,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+275,Rj3wnYT1QAxpJlRT5mMc-g,Harlow's Cafe,33.421587699999996,-111.9531274,1021 W University Dr,3.8511627906976744,TEMPE,1,average,False,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+276,JE1Jiu6jmfMVbDdiLMm65A,Dough Mama Wood Fired Pizza,33.436665500000004,-111.94032539999999,,3.5,TEMPE,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+277,sZf_KrF9ZLC7z4jiLGgVOw,Steve's Espresso,33.3773276,-111.9086062,"1801 E Baseline Rd, Ste 102",4.151079136690647,TEMPE,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+278,xUvgrDdKhcmaP6Zv0ssb6A,Manuel's Mexican Restaurant - Tempe,33.3935107,-111.88824240000001,2350 E Southern Ave,3.595419847328244,TEMPE,0,average,,False,False,True,False,False,1,0,0,0,1,0,0,0,0,0
+279,XyaOCULIHZjssQoM-FJLpA,Hubbly Bubbly Hookah Bar & Lounge,33.413166,-111.90956000000001,"1400 S McClintock Dr, Ste 3",2.5428571428571427,TEMPE,0,very_loud,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+280,G7Ull-QUaNXyPwtEErHZ8g,Mr. Hunan,33.4229035,-111.95176070000001,"960 W University Dr, Ste 116",2.604651162790698,TEMPE,0,quiet,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+281,w0p0kLkEp4djkzJBmSkpuA,Crazy Fish & 202 Sushi,33.4369319,-111.92707140000002,710 E Gilbert Dr,2.5652173913043477,TEMPE,0,average,,False,False,,False,False,0,0,0,1,0,0,0,0,0,0
+282,0Oskle2GkyYMseuJ3TDwRA,Tilt Studio,33.3831467418,-111.96472529299999,"Arizona Mills Mall, 5000 Arizona Mills Cir",3.1666666666666665,TEMPE,0,loud,,False,False,False,False,False,0,1,0,0,0,0,0,0,0,0
+283,Tt4SLmht8LORplkdhpcwhw,Panera Bakery & Cafe,33.3614346794,-111.91065584,6505 S Mcclintock Dr,2.638888888888889,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+284,pxpLVCInGwLClbnwJwxInw,King Tut Cafe & Catering,33.4144497,-111.9211655,1125 E Apache Blvd,4.142857142857143,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+285,oWM1ZEsqgJYMgvLbWUwuaw,SpaMassage For You,33.401485,-111.9258153,"2525 S Rural Rd, Ste 8N",3.5,TEMPE,0,,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+286,yVLbAdSQQURBNWsJIxzmfw,Dragonfly Vietnamese Kitchen,33.425938,-111.94034599999999,"414 S Mill Ave, Ste 115",2.5714285714285716,TEMPE,0,,,True,False,,False,True,0,0,0,0,0,0,0,0,0,0
+287,RMtnJYAAiXmUFrMngttEoQ,Tzikii Pita Grill,33.3496363575,-111.96353759200001,"7510 S Priest Dr, Ste 104",3.8347826086956522,TEMPE,0,average,,False,False,False,False,False,0,0,0,0,0,0,0,0,1,0
+288,mZsvMd5RCat1d3KMSD5tsg,Endgame Bar,33.423729800000004,-111.9396558,"699 S Mill Ave, Ste 201",3.4096385542168677,TEMPE,0,loud,,True,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+289,xQLfpn1qaXt_j3osW86Iwg,Cupz Coffee,33.4227968,-111.93456680000001,"777 College Ave, Ste 101, Arizona State University",3.3555555555555556,TEMPE,0,average,,True,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+290,7N3q70C_mwEYQ2QcGfjvgA,Thai Basil,33.416288699999996,-111.9258926,1111 S Rural Rd,3.970212765957447,TEMPE,1,average,,False,False,True,False,False,0,0,0,0,0,0,1,0,0,0
+291,b1s8c1CTlHmLIlNGI9q-mQ,Donna's Bakery Cafe,33.349696,-111.94761000000001,"710 W Elliot Rd, Ste 101",4.1,TEMPE,0,average,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+292,ROMFVEFKEYi7qhyITX6jfA,24 Carrots Juice Bar & Cafe,33.363419,-111.91305870000001,1701 E Guadalupe Rd,4.1,TEMPE,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,1,1
+293,NVvjplHvDAoMOEGbYws4Sw,Doner Dudes,33.4142056671,-111.92892628700001,"681 E Apache Blvd, Ste 107",3.68,TEMPE,0,quiet,,False,False,True,False,True,0,0,0,0,0,0,0,1,0,0
+294,MkKMmLQGtuZnjw-5GqLwqQ,KFC,33.3781,-111.949,705 W Baseline Rd,2.08,TEMPE,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+295,CRLvROAjgX-aKI7VIfPLFg,Pita Jungle,33.422191999999995,-111.93961499999999,4 E University Dr,3.7422680412371134,TEMPE,0,average,,False,False,True,False,True,0,1,0,0,0,0,0,0,0,1
+296,xRbAlgd3UjNM1UO831a7hg,Mad G's Grill & Tavern,33.4074002,-111.9393271,19 E Broadway Rd,3.2,TEMPE,0,average,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+297,BBiHfu0tFmJki_1h1bqHag,Rolling Hills Golf Course,33.4449783,-111.9481945,1415 N Mill Ave,3.6818181818181817,TEMPE,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+298,44vEjV59_w0cm_Lhyif3bQ,Senor Taco,33.3780868986,-111.906869039,1817 E Baseline Rd,3.923076923076923,TEMPE,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+299,2zo1Gg_ERRjn5LzX9hzR5w,Clockwork Pizza,33.3500187,-111.9299298,"7520 S Rural Rd, Ste A9",4.147321428571429,TEMPE,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+300,rIv4K_LvVbPwC9tPO_fwYw,NY Classic Subs,33.41486810000001,-111.89727690000001,2070 E Apache Blvd,4.0,TEMPE,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+301,VO-p1uczeMbzH8bEAv-RgA,Rosita's Fine Mexican Food,33.4229035,-111.95176070000001,960 W University Dr,2.9166666666666665,TEMPE,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+302,WBxR9IC6E9-4szNzq7_Y3Q,Lemongrass Thai Cafe,33.4078244,-111.9507664,818 W Broadway Rd,3.7058823529411766,TEMPE,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,1,0,0,0
+303,ZARxy5Orzk9Ocay0IkU_-Q,Carl's Jr,33.442288275900005,-111.926957895,1210 N Scottsdale Rd,2.090909090909091,TEMPE,0,quiet,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+304,yzgiakgxJnZKa7gn6bo7dw,Kyoto Bowl,33.396253,-111.93962520000001,3101 S Mill Ave,2.4864864864864864,TEMPE,0,quiet,,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+305,bSbo_LTI2HR9wXyosRCIvQ,Ladybug Cafe,33.444213,-111.95938799999999,"1295 W Washington St, Ste 102",4.185185185185185,TEMPE,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+306,q7T-qCW0WLemnnLt88OuWQ,Bombay Palace,33.4497941,-111.92643249999999,1849 N Scottsdale Rd,3.857142857142857,TEMPE,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+307,Cl5PHhHfOzimUTCWjC5yNA,Hungry Howie's Pizza,33.416182504,-111.922219253,"1045 Lemon St, Ste B",2.443548387096774,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+308,ufA5ebLmVAqCuhMrApaONg,Munch A Mania,33.4226409,-111.8962585,2090 E University Dr,4.6138613861386135,TEMPE,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+309,hE_U-gUwu-3-7CVKXU9vAQ,Wendy's,33.392278999999995,-111.97779609999999,2755 W Southern Ave,3.5,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+310,euhSHOJzcYrff3B6F-okkw,Copper Blues,33.4224516373,-111.92542238,930 University Dr,3.6333333333333333,TEMPE,0,average,,False,False,True,False,True,0,1,0,0,0,0,0,0,0,0
+311,IZq8vOqGy__PMUnYJbiHuw,The Center Bistro,33.424159,-111.93854499999999,"21 E 6th St, Ste 114",3.652173913043478,TEMPE,0,average,,True,True,,False,False,0,1,0,0,0,0,0,0,0,0
+312,k57YAz2gkeXgAYij7JIxjw,Philly's Sports Bar & Grill,33.4128996,-111.9611749,1402 S Priest Dr,3.3870967741935485,TEMPE,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+313,ygZSfAsnlztdeWZOlJA2Ug,Barro's Pizza,33.378956,-111.925552,"950 E Baseline Rd, Ste 101",3.861111111111111,TEMPE,0,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+314,4FFhq0e4bxAG4uXqgT14jQ,Boston Market,33.3496374,-111.9106061,1804 E Elliot Rd,3.65,TEMPE,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+315,9kjk05G50XWnmJQBz_wcnw,Umami,33.42399,-111.93901100000001,21 E 6th St,3.8634146341463413,TEMPE,1,average,,False,False,True,False,True,0,0,0,1,0,0,0,0,0,0
+316,_58OWmDQ7IUFe8WnKvwzhw,Tinta Mexicana,33.383123225300004,-111.96448490000002,5000 S Arizona Mills Cir,2.625,TEMPE,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+317,m-KkjBgtiRhtXA10_jwh2Q,McDonald's,33.4156799875,-111.92588288299999,1205 S Rural Rd,1.6896551724137931,TEMPE,0,very_loud,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+318,Ps4tmjscZNPHKF2rCS8tnA,Mad Hatter Brew Pub,33.4251549,-111.93526000000001,502 S College Ave,2.8421052631578947,TEMPE,0,average,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+319,6W20fKnjqPTSU2irnSVmSQ,P.F. Chang's,33.422415,-111.94035500000001,"740 S Mill Ave, Ste 140",3.217142857142857,TEMPE,0,average,,True,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+320,8WA2kwCm7AEcDPTJaJjVuQ,Shalimar Country Club,33.3946786,-111.8994534,2032 E Golf Ave,3.1818181818181817,TEMPE,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+321,c3zYwxR1TcpeO2fugLTxEA,Raspados Paradise Mexican Restaurant,33.38136708,-111.965268205,5000 S Arizona Mills Cir,2.75,TEMPE,0,average,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+322,X33BIVfxrbNa5l_53w2FpQ,Sonic Drive-In,33.349683,-111.947,630 W Elliot Rd,2.1956521739130435,TEMPE,0,average,,False,False,False,False,False,0,1,0,0,0,0,0,1,0,0
+323,EHgGscaiJBghjZVT9hsBFw,Mister G's Pizzeria,33.422728,-111.951494,"960 W University Dr, Ste 105",3.736842105263158,TEMPE,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+324,gpivFNirREOyEAwxVebR5g,Wendy's,33.3778358,-111.96072439999999,1405 W Baseline Rd,2.4782608695652173,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+325,fckUjXz1GKpafT4x7-MVJA,Olive Garden Italian Restaurant,33.349581300000004,-111.9551346,1010 W Elliot Rd,3.3389830508474576,TEMPE,0,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+326,0ebavvJVXAzKKQ8C9cOt6g,Chopstick Express,33.3632228,-111.92765619999999,"939 E Guadalupe Rd, Ste 1",2.9361702127659575,TEMPE,0,quiet,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+327,iJthKdobWpJ1Re7kUdUEDA,Dagwood's,33.4030844,-111.96244240000001,1501 W Fountainhead Pkwy,3.5,TEMPE,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+328,d4pXR8yVuJIm6Q3HuRYBfw,Subway,33.3503650003,-111.928982926,"7420 S Rural Rd, Ste B-1",3.5,TEMPE,0,quiet,,False,False,False,False,False,0,0,0,0,0,0,0,1,0,0
+329,3teomZyQ8z0SuXeJF734xg,Sidewalk Cafe,33.4217299,-111.95432,"1101 W University Dr, Ste 101",4.625,TEMPE,0,,,False,False,,False,True,0,0,0,0,0,0,0,0,0,0
+330,ia1Q47ANt6OZDMpQPzkqJQ,Pizza Hut,33.3644506,-111.9130869,"1712 E Guadalupe Rd, Ste 102",2.25,TEMPE,0,,,,,True,,,0,0,1,0,0,0,0,0,0,0
+331,yL5GO4EPCpc97xJAOOv-4w,Big City BBQ,33.3785943,-111.9286817,5118 S Rural Rd,4.333333333333333,TEMPE,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+332,gp9ZESRRNLqWfgJtEzPThA,Original Geno's Pizza & Cheesesteak,33.422542,-111.903543,1932 E University Dr,3.0705128205128207,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+333,8ftKnfgHwbZn84efZPPIbw,Pizzeria Uno,33.423411,-111.94049,690 S Mill Ave Ste 101,2.6666666666666665,TEMPE,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+334,mHGnzvQu8TZF_PEU0-yJJQ,Ichiban Japanese Restaurant,33.4211717,-111.9149003,1435 E University Dr,1.75,TEMPE,0,,,False,False,,False,False,0,0,0,1,0,0,0,0,0,0
+335,9pvJiPUzB5JTqhNTloKjvA,America's Taco Shop,33.349736,-111.9497521,"780 W Elliot Rd, Ste 101",2.493150684931507,TEMPE,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+336,h301hAHfIGqVYIlBzs5EgA,Nush,33.4249966771,-111.93508262,560 S College Ave,4.491803278688525,TEMPE,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,1
+337,ELUUibdDcrZHyvE-e-QsVw,Mac's Broiler & Tap,33.3622751,-111.9112375,6430 S McClintock Dr,3.6089385474860336,TEMPE,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+338,UY13CTgUqriT-fMxT2APLw,Khai Hoàn Restaurant,33.4142116,-111.9126567,1537 E Apache Blvd,4.186629526462395,TEMPE,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+339,Nm-45TlwfszqbJtaIalbtw,The Sets,33.392856099999996,-111.93858840000001,93 E Southern Ave,2.7,TEMPE,0,,,,,,,,0,1,0,0,0,0,0,0,0,0
+340,zZJlMZ4yXuZ8K9XC4x7SVQ,Jack-In-the Box Drive Thru,33.378081,-111.90688700000001,1817 E Baseline Rd,2.411764705882353,TEMPE,0,loud,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+341,Z0ukPkDOC7GqgS8xAMuI6Q,5 R Cha Thai Go,33.4217152,-111.9507285,"815 W University Dr, Ste 111",3.56,TEMPE,0,quiet,,False,False,True,False,True,0,0,0,0,0,0,1,0,0,0
+342,3jy3CXO6gVEat4uB-E2msA,Orange Table Tempe,33.4229734,-111.93648259999999,203 E 7th St,3.70873786407767,TEMPE,0,average,,True,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+343,mVDXeHkpWK-GNqdi7fN4MQ,Long John Silver's,33.3925512,-111.9080673,1805 E Southern Ave,2.75,TEMPE,0,,,,,,,,0,0,0,0,0,0,0,1,0,0
+344,RyJIi1IP0UQ5qGbwazgsIA,Aunt Chilada's Tempe,33.377949,-111.9708227,2019 W Baseline Rd,2.757861635220126,TEMPE,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+345,BLISNIoF179UUfCBTxNUOA,Yogis Grill,33.4341408352,-111.902205348,"2000 E Rio Salado Pkwy, Ste 1146",2.8867924528301887,TEMPE,0,average,,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+346,R_wW7aDtoRjGw8lgM2dB3w,WaBa Grill,33.434303675500004,-111.92532565399999,"555 N Scottsdale Rd, Ste 101",3.2857142857142856,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+347,wl0QZqAzr1DelslQ02JGCQ,Cornish Pasty,33.423059319699995,-111.95184268700001,960 W University Dr,4.337101063829787,TEMPE,1,average,False,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+348,VCYhWAkuxl2Irj_vgnraYw,Taj Mahal Indian Cuisine,33.4502544,-111.92557450000001,1849 N Scottsdale Rd,3.703125,TEMPE,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+349,3eMNpEW9idRWUx88ZZbVXw,Arby's Roast Beef,33.3923064,-111.97781499999999,2755 W Southern Ave,2.6666666666666665,TEMPE,0,average,,False,False,,False,False,0,0,0,0,0,0,0,1,0,0
+350,kj1p6NwUGROOoqNySf0I1Q,Yupha's Thai Kitchen,33.3478604381,-111.909586733,"1805 E Elliot Rd, Ste 115",4.134057971014493,TEMPE,1,average,,False,False,True,False,False,0,0,0,0,0,0,1,0,0,1
+351,krAgdtJ-2CcNGpuwKCbt9A,Garcia's Mexican Restaurant,33.383123,-111.96448500000001,5000 S Arizona Mills Cir,3.2222222222222223,TEMPE,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+352,6Z3lZEEIKv6opbyavmnGbA,Monkey Pants Bar & Grill,33.3935352,-111.93853270000001,3223 S Mill Ave,3.4107142857142856,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+353,_v1LoEQz_JR1pilS2p3s5A,Venue 104 - A Performance Cafe,33.422031,-111.92545759999999,"940 E University Dr, Ste 102",3.75,TEMPE,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+354,gMN6VKmu4E1EmlMYzz9A3w,OPA Life Greek Cafe,33.3782141,-111.936102,"227 E Baseline Rd, Ste J007",4.061224489795919,TEMPE,1,average,,False,False,True,False,True,0,1,0,0,0,0,0,0,0,0
+355,h1MxTLZ1b2FkU6ituL1yHA,Royal Taj,33.406601,-111.9075196,"1845 E Broadway Rd, Ste 101",3.717171717171717,TEMPE,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+356,5idlmsT1O86_ywGJtqot5w,Baja Fresh Mexican Grill,33.42217539999999,-111.94536529999999,414 W University Dr,3.5714285714285716,TEMPE,0,quiet,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+357,vU8-ATy2-MASm-bQXdhRaw,Pei Wei,33.361342699999994,-111.9103497,"1825 E Guadalupe Rd, Ste F-112",2.9136690647482015,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,1,0,1,0,0
+358,b65Ugu0VDKDNbLq7sW9RDQ,Filiberto's Mexican Food,33.3633605,-111.9097222,1845 E. Guadalupe Rd,3.452054794520548,TEMPE,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+359,SFwOkS8pe25qpaSRZ_gGsA,Silver Mine Subs,33.3917177901,-111.90830568700001,"3415 S McClintock Dr, Unit 107",2.7083333333333335,TEMPE,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+360,5k34OJo3BsEaoyMsW86eZg,Chronic Cantina,33.4243368,-111.9394223,15 E 6th St,3.3768115942028984,TEMPE,0,average,,True,False,,False,True,1,0,0,0,0,0,0,0,0,0
+361,napimcgem1KAu8d5tILkww,Jimmy John's,33.3493048,-111.9017223,"2010 E Elliot Rd, Ste 103",2.6666666666666665,TEMPE,0,,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+362,Hjfp1i2kVSyZCH5d-MC42g,Sacred Pi,33.3623276,-111.9126642,6434 S McClintock Dr,4.0,TEMPE,0,,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+363,AOWP-Th_u8C3qLfOlaC0ng,Johnny Rockets,33.383524,-111.96374099999998,5000 Arizona Mills Cir,3.1774193548387095,TEMPE,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,1,0,0
+364,CcTvk2-unBwmAZmU3PlKww,Port of Subs,33.4423485,-111.95549950000002,"1158 West Washington St, Ste 107",3.7,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+365,fCaJNz9ff4x0x46fPA8nXg,It's All Greek To Me,33.433513928800004,-111.90186252299999,2000 E Rio Salado Pkwy,4.007246376811594,TEMPE,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+366,WPUf-Eo6PHxDNqPygahiUA,Tempe Tavern,33.415040600000005,-111.90854399999999,1810 E Apache Blvd,3.423076923076923,TEMPE,0,average,,True,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+367,diAJlvbE8UrRQ9RN2nZ5Tw,The Normal,33.4143794,-111.93599990000001,"Graduate Tempe, 225 E Apache Blvd",3.4545454545454546,TEMPE,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+368,jY40NI_cGJp1OId4O9TWJw,Antar's Sports Bistro,33.423729800000004,-111.9396558,"699 S Mill Ave, Ste 201",2.45,TEMPE,0,very_loud,,True,True,,False,True,0,1,0,0,0,0,0,0,0,0
+369,v0YATh4rCiPlBpSyNmh3tQ,Umami,33.422195,-111.93873870000002,26 E University Dr,3.831460674157303,TEMPE,0,average,,False,False,True,False,True,0,0,0,1,1,0,0,0,0,0
+370,POzMNUmUWFNDinWrspiBEA,Poppy's Place,33.3771903,-111.9520135,"825 W Baseline Rd, Ste 1",2.8636363636363638,TEMPE,0,average,,False,False,,False,True,0,0,1,0,0,0,0,0,0,0
+371,57dbqYYLpyvTH5RRKkIWrg,Taco Bell,33.378040000000006,-111.95152,835 W Baseline Rd,1.8571428571428572,TEMPE,0,quiet,,False,False,True,False,False,1,0,0,0,0,0,0,1,0,0
+372,1sdwgcMd1BNlzw-wz3TXKQ,Dierks Bentley's Whiskey Row,33.4241272,-111.9405173,"640 S Mill Ave, Ste 120",3.25,TEMPE,0,loud,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+373,x2nALssJGy_6p74ddxx3GQ,Efes Turkish Cuisine,33.3634187,-111.9130595,1701 E. Guadalupe Rd,3.4,TEMPE,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+374,DKusRJUxgsye1cdrlGgQOg,Udupi,33.448088748800004,-111.926883366,1636 N Scottsdale Rd,3.937269372693727,TEMPE,1,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,1,1
+375,EI0CoVr2iQd__EdaAkT1YA,Andrews Restaurant Supply,33.3918268,-111.9098397,1719 E Southern Ave,4.25,TEMPE,0,,,,,,,,0,1,0,0,0,0,0,0,0,0
+376,ZhjU0FkCIaG43F83TwSN8w,Dave & Buster's,33.4332579593,-111.90377979700001,2000 E Rio Salado Pkwy,3.2006802721088436,TEMPE,1,loud,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+377,Zmm5ksQu39aKkFiBxXNajA,ASU Karsten Golf Course,33.428544099999996,-111.92123570000001,1125 E Rio Salado Pkwy,4.023809523809524,TEMPE,0,loud,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+378,YYZGRUCevWS41VZFxp4rrA,Fuddruckers,33.351139,-111.963499,7470 South Priest Dr,3.5274725274725274,TEMPE,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+379,HhOgTTbHY1-r37Yghw1www,Subway,33.3355941,-111.9072845,"1860 E Warner Rd, Ste 107",2.9,TEMPE,0,,,False,False,,False,False,0,0,0,0,0,0,0,1,0,0
+380,bVwFqYiz9acU1W24ZmYofQ,Pizza Hut,33.4076349,-111.950222,808 W Broadway Rd,1.8421052631578947,TEMPE,0,,,False,False,,False,False,0,0,1,0,0,0,0,0,0,0
+381,HFyMS_9yLaYN7GIcXzcboA,Gringo Star Street Bar,33.425289299999996,-111.93969820000001,"501 S Mill Ave, Ste 101",3.185185185185185,TEMPE,0,loud,,False,False,True,False,True,0,0,0,0,0,0,0,1,0,0
+382,McsAPsIJPXHrZ1jY2FzmNw,Denny's,33.4354771236,-111.926680505,650 N Scottsdale Rd,2.625,TEMPE,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+383,ZrFqa9sUaF_X8wbNz29Qbw,Sweet Tomatoes,33.393496,-111.914905,1410 East Southern Ave,3.7548387096774194,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,1
+384,npVGM0e3IxTn_pILRA_JQg,Jack In The Box,33.3642363,-111.9291851,850 E Guadalupe Rd,3.0,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+385,luI3vBj9ciPBWT2bQ7dXXg,Smashburger,33.4226468,-111.93480020000001,"777 S College Ave, Ste 105",3.671641791044776,TEMPE,0,average,,False,False,,False,True,0,0,0,0,0,0,0,1,0,0
+386,T_s4IcIJf5ZHyy8zC28UGw,Denny's,33.420873,-111.976550745,825 S 48th St,2.857142857142857,TEMPE,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+387,ZMp18tQQTjloj0pKSdENBw,Bosa Donuts,33.377919899999995,-111.94057120000001,37 W Baseline Rd,4.178082191780822,TEMPE,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+388,-zVrFYgs09w8lIUSuAvp2Q,Firehouse Subs,33.4221126675,-111.939307252,"20 E University Dr, Ste 191",3.764705882352941,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+389,oz-U184llqjVIt398hLntQ,Sub Factory,33.4213255,-111.89324369999999,2155 E University Dr,4.090909090909091,TEMPE,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+390,j6HrPOSwCo499xbCfP1R0w,Picnic Company Restaurants,33.4214954,-111.9156226,"1415 E University Dr, Ste 112",4.428571428571429,TEMPE,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+391,UhSMiTT66glIIoiL9UI-fA,Sunshine's Motor City Cafe,33.351358000000005,-111.965949,"7425 S Harl Ave, Ste 2",4.6,TEMPE,0,quiet,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+392,L9qDnDHSnINNjePwrJz-uQ,Miele's Italian Bistro,33.3616642,-111.9096233,"1835 E Guadalupe Rd, Ste D111",3.876777251184834,TEMPE,1,average,,False,False,False,False,False,0,0,1,0,0,0,0,0,0,0
+393,POO5_d0RwzjJVhIpN-oulg,Kobe Teppan & Sushi,33.348525699999996,-111.9550912,1125 W Elliot Rd,3.3873873873873874,TEMPE,0,average,,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+394,DEeGnshpgUOIOjhq_dd5Ug,DOZO Izakaya,33.3350535,-111.9445749,"440 W Warner Rd, Ste 104",4.115384615384615,TEMPE,1,average,,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+395,IUTU_8qM7M8j9A1TbmMjYA,Tasty Kabob,33.4153291,-111.9185086,"1250 E Apache Blvd, Ste 116",3.904191616766467,TEMPE,1,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,1
+396,B7rX9AReRGFQQ6abuq6d5w,Az Poki,33.3487405565,-111.944906786,"325 W Elliot Rd, Ste 101",4.0,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,1,0,0,0,0,0
+397,9mIm1ef-NVDQHFE39Faxxg,Vine Tavern & Eatery,33.4145111263,-111.927192103,801 E Apache Blvd,3.4655172413793105,TEMPE,0,loud,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+398,Oa36vjcNukdm7xXcLZ6IPQ,Wendy's,33.378749199999994,-111.92341680000001,1110 E Baseline Rd,1.9130434782608696,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+399,i2PbfQCPE_MQ4tYERaBoyA,Urban Cafe,33.415242600000006,-111.9196665,"1212 E Apache Blvd, Ste 103",4.0,TEMPE,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+400,VM_e8snkXt6DgU1XnBZc0g,Niro's Gyros,33.4218916,-111.90924170000001,1825 E University Dr,4.176470588235294,TEMPE,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+401,7AYbCvQ_cgS_pqS6BCmzcw,Archie's Deli,33.349422600000004,-111.95621399999999,1080 W Elliot Rd,3.1,TEMPE,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+402,R-Me-p4Rbb0q-2pjSzyDbw,Jim's Coney Island Cafe,33.4486664456,-111.92693352200001,1750 N Scottsdale Rd,3.797979797979798,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+403,W4LRU508M_TRjShk8lqVyw,Dairy Queen,33.3500101264,-111.92906135700001,7510 S Rural Rd,2.64,TEMPE,0,,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+404,rb9B9v8TJk-sjpJe3BbkBQ,Rubio's Coastal Grill,33.3644606,-111.91319229999999,"1712 E Guadalupe Rd, Ste 109",3.68,TEMPE,0,average,,False,False,True,False,False,1,0,0,0,1,0,0,1,0,0
+405,ydE2SjvSd9_NMoEBAE2PuA,Chili's Grill & Bar,33.4217581,-111.93976049999999,801 S Mill Ave,3.5098039215686274,TEMPE,0,average,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+406,KcbFFh7xfBLl2YeXQRhUNg,Munch A Lunch,33.4170969,-111.96178950000001,"1403 W 10th Pl, Ste B105",3.742857142857143,TEMPE,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+407,9D7h2xfVJrGkkwXDsnfV_Q,Romancing the Bean,33.4313894,-111.9384886,"80 E Rio Salado Pkwy, Ste 410",4.0476190476190474,TEMPE,0,average,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+408,m8Cbph-0tlMaYyXDwvKc3A,Pho Cao,33.4369319,-111.92707140000002,710 E Gilbert Dr,3.5984251968503935,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+409,OMxgLbrSCEU12265nz9JVA,Goodcents Deli Fresh Subs,33.348059279699996,-111.94521776100001,7707 S Kyrene,3.9361702127659575,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+410,UBQRhqRMW4Sk7kSZvZ1iAQ,Essence Bakery Café,33.4216572978,-111.951169743,825 W University Dr,3.835990888382688,TEMPE,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+411,T-0707ku9Ovt-Y8fLA2TrA,America's Taco Shop,33.383123,-111.96448500000001,5000 S Arizona Mills Cir,2.6875,TEMPE,0,loud,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+412,A_vo-3ZKB2hFmoARMxBoxw,QDOBA Mexican Eats,33.4174401956,-111.933723718,"1290 S Normal Ave, Memorial Union Building",3.0,TEMPE,0,,,,,,,,1,0,0,0,0,0,0,1,0,0
+413,tLpZp3HKgXD-gG3RNqObYw,Bo Ali,33.4223217,-111.92571029999999,"920 E University Dr, Ste 104",3.4444444444444446,TEMPE,0,,,,,True,,,0,0,0,0,0,0,0,0,0,0
+414,jga_2HO_j4I7tSYf5cCEnQ,LaGattara Cat Lounge & Boutique,33.4215567,-111.91693219999999,"1301 E University Dr, Ste 136",4.611111111111111,TEMPE,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+415,4kjoVsi3tb-vVtFZ6WPNvg,Spitfire Grill & Tavern,33.3346157829,-111.912059784,"1706 E Warner Rd, Ste 3",3.5185185185185186,TEMPE,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+416,xWVcdfpqgImFaD8kkfJewg,Cosmic Pizza,33.4146602,-111.91362290000001,1523 E Apache Blvd,1.0,TEMPE,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+417,jiOREht1_iH8BPDBe9kerw,Dilly's Deli,33.42217539999999,-111.94536529999999,414 W University Dr,3.871165644171779,TEMPE,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+418,3IY-JtcZHBOSzFD53SSXLA,US Fries Tempe,33.4259647,-111.9402513,414 S Mill Ave,3.858490566037736,TEMPE,0,average,,False,False,True,False,True,0,1,0,0,0,0,0,1,0,0
+419,IWOQNyRqWrnqQA5K49eK5g,Hot N Juicy Crawfish,33.423003027,-111.940655568,"740 S Mill Ave, Ste 185",3.5371900826446283,TEMPE,1,average,,True,False,True,False,True,0,0,0,0,1,0,0,0,0,0
+420,dEq4Yj50tWOSzxqXloahsw,Classic Italian Pizza,33.379603700000004,-111.92225790000002,"1030 E Baseline Rd, Ste 156",3.7981651376146788,TEMPE,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+421,0cFCPxFRWReXer2D_mCp1A,Last Exit Bar & Grill,33.391744800000005,-111.96200800000001,1425 W Southern Ave,4.5,TEMPE,0,,,,,,,,0,1,0,0,0,0,0,0,0,0
+422,7eEfpzUTAd1hAxXKlLQaJA,Tipp's 88 Thai Restaurant,33.421053,-111.915305,"1435 E University D, Ste C111-112",4.235294117647059,TEMPE,0,,,False,False,,False,False,0,0,0,0,0,0,1,0,0,0
+423,Ee3bI8VXPU2PGE_vJg3Pqg,Tailgate Sports Bar & Grill,33.4078922,-111.9539189,930 W Broadway Rd,3.5384615384615383,TEMPE,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+424,iY-qwquw8Wd4yphXnhnFqQ,Spinelli's Pizzeria,33.4256476673,-111.940539738,"420 S Mill Ave, Ste 101",3.3445945945945947,TEMPE,0,average,,True,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+425,RGvvYVmr3UkxrolLEW_N1g,Greek Chef,33.3785598,-111.9286709,5118 S Rural Road,3.3333333333333335,TEMPE,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+426,7SfpjStnkYSPZwEDSklHWA,Salsitas,33.407810999999995,-111.954719,1030 W Broadway Rd,2.8333333333333335,TEMPE,0,quiet,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+427,ZO2-nQjKZBoZUSOzJb4CUQ,Johnny's Burgers & Dogs,33.3948034,-111.9083385,"3141 S McClintock Dr, Unit 13",4.233576642335766,TEMPE,1,average,,False,False,False,False,False,0,1,0,0,0,0,0,0,0,0
+428,1TLJ5dSPAa-ZFnPXPjp7LA,Paisan's Pizza & Italian Kitchen,33.4219886325,-111.932327746,"425 S Mill Ave, Ste 111",2.85,TEMPE,0,average,,False,False,,False,True,0,0,1,0,0,0,0,0,0,0
+429,QJfnq_F3qb3raMCZa48_3A,Hail Mary's On Priest,33.4128996,-111.9611749,1402 S Priest Dr,3.0,TEMPE,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+430,LBAkHJJfCoDj9aa5sc0Mxw,Steak 'n Shake,33.4233513147,-111.93974673,699 S Mill Ave,2.685344827586207,TEMPE,0,average,,False,False,True,False,True,0,0,0,0,0,0,0,1,0,0
+431,CRVtzesMuwHK-phmS_ojaA,Venezias New York Style Pizzeria,33.391541700000005,-111.9386689,27 E Southern Ave,4.0067415730337075,TEMPE,1,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+432,LnKoH4eWM1mznCDOLrEpWQ,Moreno's Mexican Grill,33.421280800000005,-111.92584270000002,829 S Rural Ave,3.5833333333333335,TEMPE,0,average,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+433,r0rtl4OsZy-F099jeO_DKA,Paradise Bakery and Cafe,33.361342699999994,-111.9103497,1825 E Guadalupe Rd,2.6666666666666665,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+434,ACb637NG7EnswRs8U_BX_w,Bar Louie,33.4329500215,-111.905601025,"2000 Rio Salado Pkwy, Ste 1220",2.96742671009772,TEMPE,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+435,aqMfCbFNeWn1a4Evds83fg,Ike's Love & Sandwiches,33.423729800000004,-111.9396558,"699 S Mill Ave, Ste 107",4.393013100436681,TEMPE,1,average,,True,False,True,False,False,0,1,0,0,0,0,0,0,1,1
+436,VGBSw_36OQLh1b9SwUyW1g,Stadium Sports Grill,33.4335365,-111.9044607,"Tempe Marketplace, 2000 E Rio Salado Pkwy",2.8947368421052633,TEMPE,0,average,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+437,emMNb3q6cbEDZyc_JAgoww,Lucky Break Bar,33.3774883907,-111.907313734,"1807 E Baseline Rd, Ste 101",3.2291666666666665,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+438,Da6G8TVoc_5WOTkYfQfT6A,Moe's Southwest Grill,33.442375,-111.955643,1158 W Washington St,3.6,TEMPE,0,,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+439,zDmvN4_WX7kTQpuRdKXDCw,In Season Deli,33.4259647,-111.9402513,"414 S Mill Ave, Ste 111",3.7916666666666665,TEMPE,0,quiet,,False,False,,False,True,0,0,0,0,0,0,0,0,0,0
+440,gpiRpdG-8ccLlmPet0Vp0g,Far East Asian Fire,33.3831468,-111.96472539999999,5000 S Arizona Mills Cir,1.3548387096774193,TEMPE,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+441,EC91SvTJeO6sEYRxjKrFLQ,Cabin Tempe,33.426706,-111.9413378,410 S Mill Ave,4.4,TEMPE,0,,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+442,wa8QgXQu1ZxwPgdRl9lYlg,Tampopo Ramen,33.3937812,-111.90858229999999,3223 S Mcclintock Dr,3.921397379912664,TEMPE,1,average,,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+443,bbdzEANvzR3EZwXykSHNKA,Osaka Grill Teriyaki & Roll,33.4142594,-111.9288941,"681 East Apache Blvd, Ste 108",2.3793103448275863,TEMPE,0,average,,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+444,qhkfJbMCFE7bgKDM-J6bmA,The Grill on Mill,33.4269477,-111.94043319999999,350 S Mill Ave,3.5873015873015874,TEMPE,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+445,Cy46zHlSVkCGZRpaHwlkVA,Alibaba Hookah Lounge,33.421350800000006,-111.9247139,"933 E University Dr, Ste 110",4.314285714285714,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+446,2RQuRcchOgTvFVrSARMHMQ,H O T House Of Tacos,33.4227043196,-111.94025483,"740 S Mill Ave, D130",4.538461538461538,TEMPE,0,,,False,False,True,False,True,1,0,0,0,0,0,0,0,0,0
+447,Y_UdgWtGdmetumEcS3C8bQ,Firehouse Subs,33.3777599,-111.9387136,"107 E Baseline Rd, Ste A1",2.5454545454545454,TEMPE,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,1,0,0
+448,GFsZyatl9BFg9F3rDtR9aQ,Subway,33.3633005087,-111.909465904,1849 E Guadalupe Rd,4.4,TEMPE,0,quiet,,,,True,,,0,1,0,0,0,0,0,1,0,0
+449,sSZ1dQ6vcqfMmSQENQDBuw,Pho Thang Long,33.425938,-111.94034599999999,"414 S Mill Ave, Suite 115",2.875,TEMPE,0,,,False,False,,False,True,0,0,0,0,0,0,0,0,0,0
+450,syQBNfPzUKGnZE6w8cLuYA,Filiberto's Mexican Food,33.4423485,-111.95549950000002,1158 W. Washington St,2.7435897435897436,TEMPE,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+451,uKKNw68mZZaa1jcyszEbyA,Crêpe Bar,33.349711361,-111.929925579,"7520 S Rural Rd, Ste A12",4.359375,TEMPE,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+452,8bWS1Sp2m3fa9cDcuBTOag,Church's Chicken,33.378680100000004,-111.9238548,1102 E Baseline Rd,1.9,TEMPE,0,very_loud,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+453,HoRfE-2ry_RKR_b2DZNAWQ,The Beach Pit,33.425937652600005,-111.94024658200001,414 S Mill Ave,3.388888888888889,TEMPE,0,quiet,,False,False,,False,True,0,0,0,0,0,0,0,0,0,0
+454,DBhvq_yJYv2OC6Z3BtWFkQ,Café Biblioteca,33.4191050535,-111.935911663,300 E Orange Mall Hayden Library,3.3333333333333335,TEMPE,0,average,,,,True,,,0,0,0,0,0,0,0,0,0,0
+455,Ue4wtaeyhPKvdkXlULimCw,Great Harvest Bread,33.3353532,-111.911971,"1730 E Warner Rd, Ste 1",4.125,TEMPE,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+456,GgX6-0pL0_MWdGj2Nr8xEA,Dog Town Chili Dogs,33.423411,-111.94049,"690 S Mill Ave, Ste 110",3.5,TEMPE,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+457,S5799sTa2892AMpPJoWf5A,Mama's Italian Deli,33.4217189,-111.95422690000001,1101 W University Dr,4.0,TEMPE,0,average,,False,False,,False,True,0,0,1,0,0,0,0,0,0,0
+458,5KgZD0CDNpUjbdV7OjUuXA,Jorge's Chicken and Waffles,33.415242600000006,-111.9196665,1212 E Apache Blvd,3.489795918367347,TEMPE,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+459,SurnOSM2bVVN4-Js3G23RQ,House of Tricks,33.4235148,-111.9374375,114 E 7th St,4.0605714285714285,TEMPE,1,average,False,False,False,True,False,True,0,1,0,0,0,0,0,0,0,0
+460,KK_ovCevQ9pHRoYazSSsUg,Garcia's Mexican Restaurants,33.436665500000004,-111.94032539999999,,4.333333333333333,TEMPE,0,,,,,,,,1,0,0,0,0,0,0,0,0,0
+461,AfN3Z1U6QPEgAb5F2CQm8w,Casey Moore's Oyster House,33.4206476074,-111.942500903,850 S Ash Ave,3.869747899159664,TEMPE,1,average,,False,False,True,False,False,0,0,0,0,1,0,0,0,0,0
+462,6C_8Mh4lmLc_QEs3hHleBg,El Pollo Supremo,33.421566600000006,-111.942904,221 W University Dr,4.205741626794258,TEMPE,1,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+463,Athxc1MbotCHRpKOPNnBuw,Panda Express,33.4226796104,-111.934774824,777 S College Ave,2.4545454545454546,TEMPE,0,quiet,,False,False,True,False,True,0,0,0,0,0,1,0,1,0,0
+464,TNQfCB929TbkUdWLn0afLA,Layalena,33.4426352,-111.9265732,1290 N Scottsdale Road,2.3333333333333335,TEMPE,0,,False,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+465,r7OJ0-Mv84Wp9SRi3IC80Q,Antonio's Bistro,33.436665500000004,-111.94032539999999,1753 E Broadway,3.875,TEMPE,0,,,False,False,,False,False,0,0,1,0,0,0,0,0,0,0
+466,qH-EsuOC3k8ZZVBDuybEYQ,Jack in the Box,33.4399849,-111.9260445,901 E Curry Rd,2.0,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+467,dimv16yFu0JXR1n1SAqedQ,Mijana,33.442946,-111.92746000000001,1290 N Scottsdale Rd,3.71656050955414,TEMPE,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,1
+468,nl_gkvVXtsIlhGE0sP0qFw,Crazy Buffet,33.3481953214,-111.96524565,7720 S Priest Dr,2.4954954954954953,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+469,3MdLnbpkvTcsKkMszUv_3g,Pokedon,33.406254455100004,-111.909480126,"1753 E Broadway Rd, Ste 103",4.586956521739131,TEMPE,1,average,,False,False,False,False,True,0,0,0,0,1,0,0,0,0,0
+470,Mul_BVwcnhqmp2h_7QFepQ,La Bocca Urban Pizzeria + Wine Bar,33.4235849683,-111.939763531,699 S Mill Ave,4.013432835820896,TEMPE,1,average,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+471,-s_U95xEEmJu5GK-srqpUA,Chutney's Indian Cuisine,33.377403259299996,-111.908622742,"1801 E Baseline Rd, Ste 104",3.7578125,TEMPE,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+472,t6w--u6k-SZP2g0QvQIWuw,Tilted Kilt Pub & Eatery,33.334075,-111.96517,1617 W Warner Rd,2.699481865284974,TEMPE,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+473,ioY-a1TntpsAGJAG5_1Zyw,Oliveo Pizza,33.4450556,-111.9268986,1428 N Scottsdale Rd,3.0246913580246915,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+474,2aLyQgYUNQDc33U0ZxTT3A,French Fry Heaven,33.4142594,-111.9288941,"681 E Apache Blvd, Ste 103",3.24,TEMPE,0,average,,False,False,True,False,True,0,1,0,0,0,0,0,1,0,0
+475,_9W8i0ZLcz8oCsjQIc3_Ww,Firehouse Subs,33.3478504,-111.96321929999999,7770 S Priest Dr,3.769230769230769,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+476,t53w4JlkxTau-G-TzhSWog,Teharu Sushi,33.3216627,-111.96239890000001,9845 S Priest Dr,3.2354948805460753,TEMPE,1,average,,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+477,fBxDUu5ftmNHbbX5qD_FcA,Mark's Cafe,33.365051,-111.929165,"6340 S Rural Rd, Ste 120",4.3462783171521036,TEMPE,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+478,JLh_3ID6DaKvmD_2hQ6J-w,Betito's Mexican Restaurant,33.391891479499996,-111.90907287600001,3401 S McClintock Dr,4.0,TEMPE,0,,,,,,,,1,0,0,0,0,0,0,0,0,0
+479,ncIFLVPKpozvUyZBAheyzw,Harry's Lounge Tempe Mission Palm's Hotel,33.4264135,-111.9388822,"60 E 5th St, Ste 101",3.4166666666666665,TEMPE,0,average,,False,False,False,True,False,0,1,0,0,0,0,0,0,0,0
+480,YR202Rbw0E4aiUJNeAJjOg,Sheba's,33.3832540723,-111.925272194,4427 S Rural Rd,4.285714285714286,TEMPE,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+481,xGUlFQnGLGnJnvbuvCirsg,Sayuri Sushi Bar,33.4216357,-111.91504740000002,"1435 E University Dr, Ste C-112",3.7037037037037037,TEMPE,0,quiet,,False,False,,False,False,0,0,0,1,0,0,0,0,0,0
+482,93kdIq8Ao3KJgXWiuD4ZIw,Happy Joes's Pizza & Ice Cream,33.3939384655,-111.9077809,1806 E Southern Ave,2.8181818181818183,TEMPE,0,,,,,True,,,0,0,0,0,0,0,0,0,0,0
+483,xpd4W43hUtoBYc6dzo-xBQ,Taqueria Durango,33.4078133,-111.95093200000001,818 W Broadway Rd,4.0,TEMPE,0,,,,,,,,1,0,0,0,0,0,0,0,0,0
+484,uwDyxK92ae5kNjeZE8uCgA,California Pizza Kitchen,33.4330592433,-111.903123905,"2000 E Rio Salado Pkwy, Ste 1253",3.4248366013071894,TEMPE,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+485,qhX4mMB4RuxbQ_hAcIJmzg,Azucar Cuban Restaurant,33.379567,-111.893419,5004 S Price Rd,3.0,TEMPE,0,loud,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+486,0NgePUfXd2TG0kWgsQRq0A,YC's Mongolian Grill,33.3496395266,-111.94918357799999,752 W Elliot Rd,4.1,TEMPE,1,average,,False,False,True,False,False,0,0,0,0,0,1,0,0,1,0
+487,KvRh-exPg_KegOM_HXeskw,Curry & Scoop,33.3478613,-111.9095341,"1805 E Elliot Rd, Ste 106",4.541666666666667,TEMPE,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+488,oN8LWCHqpLguNYW6_Fk9Cg,Firehouse Tempe,33.4219970703,-111.93988799999998,4 E University Dr,3.13953488372093,TEMPE,0,loud,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+489,3ky17eHU-4gSl3knpI__-w,Canteen Modern Tequila Bar,33.4241272,-111.9405173,640 S Mill Ave,3.457777777777778,TEMPE,1,average,,True,False,,False,True,1,0,0,0,0,0,0,0,0,0
+490,D6RDpCS1lfgZdPuLHlpsHA,Marcello's Pasta Grill,33.3341827,-111.91348119999999,1701 E Warner Rd,3.1052631578947367,TEMPE,0,average,,False,False,False,False,False,0,0,1,0,0,0,0,0,0,0
+491,zB4TOI3Ci9BOidw55TREbA,The Tavern On Mill,33.4267462,-111.9408348,404 S Mill Ave,3.378640776699029,TEMPE,0,loud,,False,False,,False,True,0,1,0,0,0,0,0,0,0,0
+492,jXEwGfy3bzI8t4TkMF-c4A,Char's Thai Restaurant,33.421712,-111.92523100000001,927 E University Dr,3.142857142857143,TEMPE,0,,,False,False,,False,False,0,0,0,0,0,0,1,0,0,0
+493,GAPwjahm6fywOttzPCJLNw,Arizona Sandwich,33.4217299,-111.95432,1101 W University Dr,4.0,TEMPE,0,quiet,,,,,,,0,0,0,0,0,0,0,0,0,0
+494,SqL19z7A7LB91RkWWwWvnQ,Yucca Tap Room,33.3926278,-111.9404784,29 W Southern Ave,3.994818652849741,TEMPE,1,loud,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+495,tIauOelAC3BZk_xhMoDBUg,Someburros,33.3775286713,-111.93895854600001,101 E Baseline Rd,3.4669603524229076,TEMPE,1,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+496,Zw9wEAk9L6oTZi63f4zVvA,YZ's Hot Pot & BBQ,33.407228499999995,-111.9244348,"937 E Broadway Rd, Ste 2",3.1666666666666665,TEMPE,0,average,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+497,DUAKXNEh7c2v8mu8nWKYOg,Loreto's Mexican Food,33.36363,-111.96354,9206 S Avenida Del Yaqui,4.37037037037037,TEMPE,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+498,P6c0lV9DeJ6ofntpTWyqhA,Casa Reynoso,33.3947743637,-111.941120724,3138 S Mill Ave,3.6296296296296298,TEMPE,1,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+499,BTf8sELl1TjovRc0f-tgJg,Boulders On Broadway,33.4077021,-111.9475535,530 W Broadway,3.835858585858586,TEMPE,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+500,im5wDqyQOWVL_OEAB1vOXQ,The Flame Broiler,33.3350123,-111.96195159999998,"1342 West Warner Rd, Ste B104",3.727272727272727,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+501,0xR-5RQ7FWDL09XsnUZI6g,The Corner Office,33.4220789,-111.9445979,400 W University Dr,2.1666666666666665,TEMPE,0,,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+502,H-KtEcY90TAPBFkvKZpJ7w,China Max,33.3633375,-111.91122179999999,6438 S McClintock Dr,2.75,TEMPE,0,quiet,,False,False,,False,False,0,0,0,0,0,1,0,0,0,0
+503,OicSihRji2HmUlv7_4YEBg,Cafe Istanbul & Market,33.4148837,-111.9169665,1310 E Apache Blvd,4.048076923076923,TEMPE,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+504,LWqhTRCZW7amUTa_JYHtQA,Incredible Subs,33.393828000000006,-111.974154,"2403 W Huntington Dr, Ste 103",3.3636363636363638,TEMPE,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+505,2nFwsGBpikkDh74biLfeaA,Press Coffee,33.4140581,-111.91814369999999,1221 E Apache Blvd,4.923076923076923,TEMPE,1,,,True,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+506,jj7zJSRfS3lb49zQ94ysGg,Juba,33.4214242,-111.924865,"933 E University Dr, Ste 112",3.938775510204082,TEMPE,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+507,r8hVqm9DeasZ0Bf2KMhbeg,Crackers & Co Cafe,33.3486815,-111.95885200000001,1285 W Elliot Rd,4.010610079575597,TEMPE,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+508,0TBTV3q6QXCn9vNhy3Xi2w,Café Lalibela,33.4213360711,-111.951614885,849 W University Dr,4.23696682464455,TEMPE,1,average,False,False,False,True,False,False,0,0,0,0,0,0,0,0,1,1
+509,UPoM5nmUiklwqBV5pLuK7Q,Red Owl Sports Grill,33.421346899999996,-111.8930601,2155 E University Dr,3.6666666666666665,TEMPE,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+510,zDyv4CoaYvAgQhgr1IK1sg,Claim Jumper,33.3789,-111.9646933,1530 W Baseline Rd,3.1160409556313993,TEMPE,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+511,sV7EW4BNZtx4UGayzLQjeQ,Plaza Bonita,33.409272200000004,-111.926296,1717 S Rural Rd,4.5,TEMPE,0,average,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+512,5euk5_UKqnAWcrbOPNYt0g,Chanpen Thai Cuisine,33.378628300500004,-111.976940357,2700 W Baseline Rd,4.411320754716981,TEMPE,1,quiet,,False,False,True,False,False,0,0,0,0,0,0,1,0,0,0
+513,6t7mlTVjDA9fhuFAZmVzAQ,Portillo's Hot Dogs,33.4298013872,-111.90861850700001,65 S McClintock Dr,3.648506151142355,TEMPE,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+514,-4g68Hwm892_KPUuW5g1_Q,Jimmy John's,33.393322091,-111.926615071,840 E Southern,2.675,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+515,EPkV2_H0TRcARa-2IFZ-2A,Papa John's Pizza,33.408057899999996,-111.94693559999999,524 W Broadway Rd,2.0,TEMPE,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+516,5J1SoLkAM2zAOKqrRB7rCQ,King of Gyros,33.3349816,-111.9619928,"1342 W Warner Rd, Ste B106",4.55,TEMPE,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+517,nSTDc9_ETRO9mZwvc-WY9w,Guerrero's,33.414866499999995,-111.89398290000001,2148 E Apache Blvd,4.136363636363637,TEMPE,0,average,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+518,y1u4TdxkvBowbpDJyS4vYQ,Sunrise Cafe,33.4218916,-111.90924170000001,1825 E University Dr,4.333333333333333,TEMPE,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+519,QV2echCErxFY4VbH-z6eOg,Fatburger,33.4259647,-111.9402513,414 S Mill Ave,3.0851063829787235,TEMPE,0,average,False,False,False,True,False,True,0,1,0,0,0,0,0,1,0,0
+520,PWW_jT4tHP_r1S18ePJyTQ,Herb 'n Flavors,33.4065733395,-111.90811157200001,"1845 E Broadway Rd, Ste 127",3.798816568047337,TEMPE,1,quiet,,False,False,True,False,False,0,1,1,0,0,0,0,0,0,0
+521,vQbRA1rqSFz7R5JNyaNILg,Great Steak,33.4329265,-111.90557549999998,"2000 E. Rio Salado Parkway, Space 1215",2.3,TEMPE,0,,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+522,CpJRzbebSyHwOFNsOixK1w,Devil's Mo,33.410406072600004,-111.922765786,1024 E Vista Del Cerro Dr,4.444444444444445,TEMPE,0,average,,,,,,,0,0,0,0,0,1,0,1,0,0
+523,4yIOZXIYJiQlkqW_MUtVgQ,The Habit Burger Grill,33.3628909681,-111.910665423,"1817 E Guadalupe Rd, Ste 102",3.8954545454545455,TEMPE,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+524,HgJGwePlWjhzOEL028pSig,Cafe Wasabi,33.3937812,-111.90858229999999,"3223 S McClintock Dr, Ste 103",2.8607594936708862,TEMPE,0,quiet,,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+525,4K3EHSn_DHjdxUEoYos95Q,Popeyes Louisiana Kitchen,33.406828499999996,-111.94563490000002,457 W Broadway Rd,3.5531914893617023,TEMPE,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,1,0,0
+526,5cE4IXLzN4-MmQ4NH4ubRw,Shahrazad Middle Eastern Cuisine,33.4503139112,-111.92519182,1849 N Scottsdale Rd,4.0625,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+527,Ga2Bt7xfqoggTypWD5VpoQ,Amando's Bros,33.393198999999996,-111.97627,2602 W Southern Ave,4.222222222222222,TEMPE,0,quiet,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+528,XvTBQotmJpVPjPNaMM7qLA,Pita Jungle,33.415224010100005,-111.91789787799999,1250 E Apache Blvd,4.018766756032171,TEMPE,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,1
+529,wopyolJM2hOAt3dPRmahNA,Texas Roadhouse,33.338335863800005,-111.97039735799999,8510 S Emerald Dr,3.5337837837837838,TEMPE,0,loud,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+530,WPkUWu5Ja_lAx0XljgPF7A,Urban Craft,33.3836219,-111.9276757,4400 South Rural Rd,3.5833333333333335,TEMPE,0,quiet,,False,False,True,False,False,1,1,0,0,0,0,0,0,0,0
+531,AcgtsEyOco2WVJLgCGVwQA,Whataburger,33.413111252,-111.926683862,1346 S Rural Rd,3.28125,TEMPE,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,1,0,0
+532,XvBZBafJRvDi1HWbLggoKQ,Supreme Lunch Break,33.424986499999996,-111.97683559999999,"455 S 48th St, Ste 110",4.0,TEMPE,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+533,i5snLVanPG1R9foC0QfkXQ,Rock-n-Roll Fingers,33.4074351,-111.9249269,937 E Broadway,4.416666666666667,TEMPE,1,average,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+534,8ci0d-HKFK8MgHrf8kPF8g,Pong Pong Restaurant,33.3922028,-111.89347409999999,3330 S Price Rd,3.090909090909091,TEMPE,0,very_loud,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+535,4jm-et6RMcjOkmrC_IcuCg,Mariscos Sinaloa,33.3945968,-111.97781909999999,"3135 S 48th St, Ste 110",3.6721311475409837,TEMPE,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+536,bY8K4r_RGOm_1cspCOKdPQ,Paradise Bakery & Cafe,33.4339009093,-111.90209211,"Tempe Marketplace, 2000 E Rio Salado Pkwy, Bldg1, Ste 1143",2.7945205479452055,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+537,5FIOXmUE3qMviX9GafGH-Q,Green New American Vegetarian,33.453786902,-111.927165985,2240 N Scottsdale Rd,4.310861423220974,TEMPE,1,average,False,False,False,True,False,False,0,0,0,0,0,0,0,0,1,1
+538,4PqqRa7o_eNydKdGWYdIog,TC Tacos,33.3915708,-111.93838740000001,119 E Southern Ave,4.297674418604651,TEMPE,1,quiet,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+539,atAjzQ7CUw_wM-GNh8piSA,Burger Rush,33.4075568,-111.9496949,790 W Broadway Rd,3.3127962085308056,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+540,mKRKhFuJX4nhJykUvZO8hQ,La Fonda Mexican Foods,33.441124,-111.927581,1126 N Scottsdale Rd,3.3333333333333335,TEMPE,0,average,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+541,AxluhyBhbxz0Ndfmi0GjwA,"Geno's Pizza ,Cheesesteak & Deli",33.421310999999996,-111.92585270000001,829 S Rural Rd,2.6142857142857143,TEMPE,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+542,ke0VibsrfCMh5FMWOLh1Ag,Domino's Pizza,33.4078922,-111.9539189,930 W Broadway Rd,2.9473684210526314,TEMPE,0,very_loud,,,,False,,,0,0,0,0,0,0,0,0,0,0
+543,En6qaWnBQsQwTxNIp8SwsA,Kelly's Cajun Grill,33.383123,-111.96448500000001,5000 S Arizona Mills Cir,2.6,TEMPE,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+544,b2-K2sJtXv7dynBDFqusBQ,Coyote Coffee Cafe,33.422127,-111.8980176,"2076 E University Dr, Ste A",4.390243902439025,TEMPE,0,quiet,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+545,DHJiH3C7qQyzY_I3VwD-Qw,Sweet Tomatoes Field Kitchen,33.3931044,-111.91497890000001,1410 East Southern Ave,2.4390243902439024,TEMPE,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,1
+546,CMCAZVvZlP0ztWo6fhwnGg,Kneaders Bakery and Cafe - Tempe,33.3497901,-111.9010337,2030 E Elliot Rd,3.206611570247934,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+547,3wGsvZj5-_YtM-4D4JndDQ,Sunny's Diner,33.4217185459,-111.908725672,1825 E University Dr,3.7094017094017095,TEMPE,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+548,VcDKXH8PsnrccsotD60e9g,Honey Bear's BBQ,33.3481590509,-111.963708221,7670 S Priest Dr,2.8088235294117645,TEMPE,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+549,2kro_WXlgmk6nJlkXvN9Qw,WikiWiki Hawaiian Grill,33.407770500000005,-111.9537169,"930 W Broadway Rd, Ste 14",2.392857142857143,TEMPE,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+550,pHq_hlWqlB0QKexF7kO2mg,Fantasy Grill,33.3782141,-111.936102,"227 E Baseline Rd, Ste J7",1.3333333333333333,TEMPE,0,,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+551,LYBimndA7OQQptmaJ-Eipg,Little Caesars,33.3796705203,-111.977396615,2700 W Baseline Rd,3.2,TEMPE,0,,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+552,YCxRU8kBb58gAus4tFmziw,Fàn Boy at ASU,33.414651,-111.9327918,1290 S Normal Ave,4.75,TEMPE,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+553,stPpU3S-OCLZOoxOwgJb4A,Yvonne's Cafe,33.4214129644,-111.96717050000001,"1725 W University Dr, Ste 108",3.540983606557377,TEMPE,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+554,DkclJocfsr7gr1GRAxA5Ew,Stray Cat Bar & Grill,33.4216347,-111.8858437,2433 E University Dr,3.7666666666666666,TEMPE,0,very_loud,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+555,2pO75YSZxVmY6mz43Q-LEA,Gentle Strength Cooperative,33.3914283,-111.93903619999999,9 E. Southern Ave,4.6,TEMPE,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+556,tLCZdAt83gvD6Me_Vshu1w,Gus's New York Pizza,33.4212807328,-111.925883285,829 S Rural Rd,2.6315789473684212,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+557,HVbCRVlw-vGcPZrOcO5L_w,Kanpai Sushi & Bar,33.4233153,-111.94027379999999,690 S Mill Ave,3.4,TEMPE,0,average,,True,False,,False,True,0,0,0,0,0,0,0,0,0,0
+558,wyVYljjqF2SW3QiXHuVmbQ,Peter Piper Pizza,33.377364058000005,-111.90830503,1805 E Baseline Rd,2.7916666666666665,TEMPE,0,loud,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+559,Q5CFijcygcSLxALuRl4tyg,Sol Diablo Cantina,33.424811984099996,-111.935391314,560 S College Ave,3.3823529411764706,TEMPE,0,average,,True,False,True,False,True,1,1,0,0,0,0,0,0,0,0
+560,ofAbFXOMz2-Di7p2oDsfhQ,Quik Wok,33.3928753,-111.9375578,119 E Southern Ave,2.411764705882353,TEMPE,0,,,False,False,,False,False,0,0,0,0,0,1,0,0,0,0
+561,JR2ma-JU1CO_xVD_p5-RPw,Joe's Crab Shack,33.378744,-111.9663436,1606 W Baseline Rd,3.2581818181818183,TEMPE,1,average,,False,False,True,False,False,0,1,0,0,1,0,0,0,0,0
+562,QZJpXx1TbOXqzLx6u6xmaQ,Paradise Hawaiian BBQ,33.4245349584,-111.93520280799999,"580 S College Ave, Ste 103",3.5833333333333335,TEMPE,0,average,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+563,9nhUfBLbsT_oLmIhB1jdgw,Smackin' Wings,33.4190087,-111.9767146,"943 S 48th St, Ste 104",4.666666666666667,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+564,w4CqCGPubjKRpNsBsW7W9g,Market Cafe,33.4035371,-111.9709396,2000 W Westcourt Way,3.4761904761904763,TEMPE,0,average,,False,False,False,True,False,0,0,0,0,0,0,0,0,0,0
+565,gS95Lei8i0mXANdCz7Nhbg,Nara Hookah Lounge & Bar,33.3496914257,-111.964047508,7510 S Priest Dr,4.255813953488372,TEMPE,0,loud,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+566,IKpVBsOTixsnoU4r0Sc42A,Papaya Thai Restaurant,33.4073807,-111.9099528,1731 E Broadway Rd,2.708791208791209,TEMPE,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,1,0,0,0
+567,DjvpsmdtEvnyMk2vXxpc-w,Pier 54,33.3755635248,-111.919769253,5394 S Lakeshore Dr,3.2642487046632125,TEMPE,0,average,,False,False,True,False,False,0,1,1,0,0,0,0,0,0,0
+568,16xoDNtEWbth_s--xqZxrQ,Amaravati Indian Cuisine,33.3496649,-111.9475189,"710 W Elliot Rd, Ste 108",3.7777777777777777,TEMPE,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+569,YGaowC1J4GfkQYyYLYWnQQ,El Penasco Mexican Kitchen,33.407415,-111.9393003,19 E Broadway,3.3,TEMPE,0,,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+570,PME4cAEPtinot4LG53SYRw,Papa John's,33.4218806,-111.92724709999999,735 E University Dr,4.333333333333333,TEMPE,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+571,3lyrgCW4jb3sB8oJQTJd4A,Chicago's Taylor Street,33.4394731,-111.92631670000002,914 N Scottsdale Rd,4.032258064516129,TEMPE,0,quiet,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+572,Un-n51GNA0xx0mDOpGKUXA,Subway,33.383472,-111.96441999999999,5000 S Arizona Mills Cir,3.4,TEMPE,0,,,,,,,,0,0,0,0,0,0,0,1,0,0
+573,vW1P-SytRsF20a3ka9mBtw,Los Arielitos Taco Shop,33.421350800000006,-111.9247139,"933 E University Dr, Ste 106",4.142857142857143,TEMPE,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+574,0xfVubbU3z8O2NcuEYSQNg,Sushi 101 Bar and Grill,33.4223065921,-111.92579044700001,"920 E University Dr, Ste D101",3.4006622516556293,TEMPE,1,average,,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+575,kxUo6kQvQVgjIfpbi8hv9g,Texano's Carne Asada,33.4144553,-111.9207409,1135 E Apache Blvd,3.8181818181818183,TEMPE,0,,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+576,HJLiVxuvtN0n73BASSZKoQ,The Halal Guys,33.417466499999996,-111.92588899999998,1015 S Rural Rd,3.3821138211382116,TEMPE,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+577,cFyeqi2ClsEE9W6AqoWXow,Subway,33.4221013,-111.9370121,706 S College Ave,1.2,TEMPE,0,average,,,,,,,0,0,0,0,0,0,0,1,0,0
+578,3Jg5iFVFm9PxRpGJWLR6ng,Subway,33.3495027,-111.9602215,"1320 W Elliot Rd, Ste 108",2.875,TEMPE,0,loud,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+579,3Ll-F55gm-tDXy3I37beJA,Pho Nhat,33.4214242,-111.924865,"933 E University Dr, Ste 116",3.2783505154639174,TEMPE,0,quiet,False,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+580,fasduK6l1bu2ngRSLDNkIw,Za Cucina,33.4226468,-111.93480020000001,777 S College Ave,4.111111111111111,TEMPE,0,average,,,,True,,,0,0,0,0,0,0,0,0,0,0
+581,1p76_EWPbPcTprNrEVw3-g,Denny's,33.3847097769,-111.92601329700001,4403 S Rural Rd,2.5555555555555554,TEMPE,0,quiet,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+582,LVnb9jPDLpllxHshS0kjpA,Barrett Dining Hall,33.4157681259,-111.927170281,411 N Central Ave,5.0,TEMPE,1,,,,,,,,0,0,0,0,0,0,0,0,0,0
+583,dQxowi8M1a0F6QFLzp8T7Q,Devils Den Sports Grill,33.4231472,-111.9328392,500 E University Dr,2.6,TEMPE,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+584,6WDDksGLLehfQDIvQXzR5w,Chou's Kitchen,33.4153283,-111.91827859999998,"1250 E Apache Blvd, Ste 101",3.9029126213592233,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,1,1,0,0,0,0
+585,momjERcb6G6ienrfPuNArw,Pho Da Lat,33.3478534,-111.94512979999999,7707 S Kyrene Rd,3.698305084745763,TEMPE,1,average,,False,False,True,False,False,0,0,0,0,0,0,1,0,0,0
+586,3JnO3AEqRD8DbXkWP-gTFw,Arizona Sandwich Company & Catering,33.333928,-111.959448,"1221 W Warner Rd, Ste 105",3.860655737704918,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+587,3vta1BSPwdSulcCFMpBjDw,Fujiya Market,33.4212118,-111.96030959999999,"1335 W University Dr, Ste 5",4.010989010989011,TEMPE,0,quiet,,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+588,FOAAgwfA_1sLoSBB1RcJrw,Little Caesars Pizza,33.363746299999995,-111.92691299999998,967 E Guadalupe Rd,2.3846153846153846,TEMPE,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+589,VSxerbElzNHa54Untazzmw,Chili's Grill & Bar,33.3495934,-111.95782539999999,1190 W Elliot Rd,3.0,TEMPE,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+590,VUIkepUdEJRmFCI72DtdZw,Pizza 'N Greens,33.348038,-111.909691,"1805 E Elliot Rd, Ste 108 & 109",2.9285714285714284,TEMPE,0,quiet,,,,,,,0,0,0,0,0,0,0,0,0,0
+591,OoKNxTMu5YAaNgQKQ4SrzA,Desert Roots Kitchen,33.4259738171,-111.94034599999999,"414 S Mill Ave, Ste 111",4.729357798165138,TEMPE,1,quiet,,True,True,True,False,True,0,0,0,0,0,0,0,0,1,1
+592,sArY4vj_AtHLZoKHscD4ew,Smashburger,33.4331023,-111.90273059999998,"2000 E Rio Salado Pkwy, Ste 1155",3.7663551401869158,TEMPE,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+593,PRbIMseOwPCCRv5C4SfTDQ,Lucille's Smokehouse Bar-B-Que,33.431813,-111.90418500000001,2030 E Rio Salado Pkwy,3.5541195476575123,TEMPE,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+594,S1XhpND8AUrenZFNd1tWJw,Mai Island Grill,33.422788,-111.936439,705 S Forest Ave,4.481481481481482,TEMPE,0,average,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+595,WWqdy9PKOSyhLgHIGaNFrA,Oliveo Grill,33.4214242,-111.924865,"933 E University Dr, Ste 108",3.1587301587301586,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+596,sLYwsZ0OTTmvo03aNZ1o0Q,Rollerz,33.4257625,-111.94037240000002,"420 S Mill Ave, Ste 106",2.0,TEMPE,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+597,TM5RSrqaKlr4t0aDg_mBvQ,Devil Apple Hookah Lounge,33.41557460000001,-111.9084179,"1219 S McClintock Dr, Ste 102",4.8,TEMPE,0,loud,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+598,j3ppEEFTU6ZMnMff2iv3Lw,Baja Fresh Mexican Grill,33.3496072,-111.9497521,780 W Elliot Rd,2.6666666666666665,TEMPE,0,,,,,,,,1,1,0,0,0,0,0,0,0,0
+599,XnUb7yulkX8akT0A5RHI8g,Subway,33.4078133,-111.95093200000001,818 W Broadway Rd,3.3636363636363638,TEMPE,0,average,,False,False,,False,False,0,0,0,0,0,0,0,1,0,0
+600,eBGVIfM9gn2OlBotixaE2Q,Ichiban Korean BBQ & Sushi,33.4143548,-111.92629369999999,1324 S Rural Rd,3.6666666666666665,TEMPE,0,,,,,,,,0,0,0,1,0,0,0,0,0,0
+601,1O4E4Ott6nnwcpRo-m5Utw,La Katra Hot Dog Cart,33.3777823,-111.9637636,1505 W Baseline Rd,3.7,TEMPE,0,loud,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+602,GC6p25n0QNhRWZw6YMuMcw,Mission Grille,33.4266911015,-111.93914522799999,60 E 5th St,3.4,TEMPE,0,quiet,,False,False,False,False,False,0,1,0,0,0,0,0,0,0,0
+603,jJDKPJLzkoPeytWIzstJrA,Pedal Haus Brewery,33.4233464779,-111.941376499,"730 S Mill Ave, Ste 102",3.6494464944649447,TEMPE,1,average,,True,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+604,6ksBg7LoD06ctMU3OfNFUQ,Taco Shack,33.4213391,-111.92576979999998,827 S Rural Rd,4.0,TEMPE,0,,,False,False,,False,False,1,0,0,0,0,0,0,0,0,1
+605,ijYzvkUe6w7RKnzqgE-B_Q,Dave's Dog House,33.4185090673,-111.936309645,Arizona State University - Wilson Hall,4.041666666666667,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+606,PcEh92PK4vmbcDpPcGrsWw,Domino's Pizza,33.3637348,-111.9307196,709 E Guadalupe Rd,2.75,TEMPE,0,very_loud,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+607,z_m9GstWrDagyZv9lNSKjQ,Carl's Jr,33.3778919,-111.9639835,1519 W Baseline Rd,2.52,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+608,j4PI9fjIV3BKYJAHHi8NoQ,Subway,33.42159960000001,-111.96159740000002,808 S Priest Dr,3.3333333333333335,TEMPE,0,very_loud,,False,False,False,False,False,0,0,0,0,0,0,0,1,0,0
+609,LTtXEZOUVcbd4sZ3dQwg9A,Cafe 450,33.42948,-111.9330574,"450 East Rio Salado Pkwy, Bldg 3",2.0,TEMPE,0,,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+610,XfNDmxQiG5nZVZe-JY10NA,Stan's Metro Deli,33.425938,-111.94034599999999,"414 S Mill Ave, Ste 115",3.2666666666666666,TEMPE,0,,,False,False,,False,True,0,0,0,0,0,0,0,0,0,0
+611,jIlk4NUkoShYJVqA0edEpA,Axxio Pizza,33.424281,-111.92408799999998,2000 E Rio Salado Pkwy,2.466666666666667,TEMPE,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+612,fi-SzL6uKzsprqsvo7MMnA,Fire + Spice,33.4108625,-111.97017849999999,1600 S 52st St,3.3333333333333335,TEMPE,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+613,8F-CalsRSKiPjjsx8ql8Lg,Five Guys,33.424197,-111.940242,"680 Mill Ave, Ste 101",3.116279069767442,TEMPE,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,1,0,0
+614,feFckrNF9-QzGrY4T9dAvQ,Copper Kettle-Salads Balti & Taandoori Grill,33.416767699999994,-111.92222209999998,1050 E Lemon St,3.0,TEMPE,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+615,EveFgxNoHkrs8ncSjkoINA,Gen Korean BBQ House,33.432887287199996,-111.905102291,"2000 E Rio Salado Pkwy, Ste 1056",3.996168582375479,TEMPE,1,loud,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+616,eN8mkjt_q686hGKi-A9ceg,Byblos Restaurant,33.3918772,-111.9400441,3332 S Mill Ave,4.210843373493976,TEMPE,1,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+617,DD4d-8-DjnnXBE7lJ6w92A,Spacoli's Pizza and Wings,33.4496946,-111.92698670000001,1826 N Scottsdale Rd,3.45,TEMPE,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+618,JT7cr4C-_ZjjxilGXVrpIA,Villa Peru Restaurant & Bar,33.4508772606,-111.92519432,1857 N Scottsdale Rd,3.596774193548387,TEMPE,0,quiet,,False,False,False,False,False,0,1,0,0,0,0,0,0,0,0
+619,3L8D5tGJ4FzQQo6ZMvbVYg,The Lodge Sasquatch Kitchen,33.4297214,-111.9444928,26 S Farmer Ave,3.5742574257425743,TEMPE,0,loud,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+620,BBt-H2kcXYGumD0Ey84hQw,Delicious Factory,33.4258501272,-111.940247789,414 S Mill Ave,4.119047619047619,TEMPE,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+621,7BIbvCkI7AXQMVC1-DHpCA,Priya Indian Cuisine,33.333853999999995,-111.9123807,"1761 E Warner Rd, Ste 5",3.111111111111111,TEMPE,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+622,ef9bmkR23POPI4uSEC5k5A,5 R Cha Thai Diner,33.422959000000006,-111.93646399999999,203 E7th St,3.9285714285714284,TEMPE,0,quiet,,False,False,,False,True,0,0,0,0,0,0,1,0,0,0
+623,YZGAUc8CaWWc6ICSfeecoA,Pita Shack,33.3797032,-111.92993229999999,5118 S Rural Rd,3.978021978021978,TEMPE,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+624,-17CAGmIRBHpPFlWBTDGuw,Papa John's Pizza,33.436665500000004,-111.94032539999999,10745 E Apache Trl,2.3333333333333335,TEMPE,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+625,ydt5yifyYhF5s430llv_Hw,San Felipe's Cantina,33.432914399999994,-111.90545049999999,"2000 E Rio Salado Pkwy, Ste 1001",2.4427083333333335,TEMPE,0,loud,,False,False,True,True,False,1,0,0,0,0,0,0,0,0,0
+626,iFGC7CIcVKWdIKjIO7w6Tw,Shady Park,33.422179192,-111.93871653299999,26 E University Dr,3.323529411764706,TEMPE,0,loud,,False,False,True,False,True,0,0,1,0,0,0,0,0,0,0
+627,TaRpPKpoANfKd7av6KBMlw,Over Easy,33.428533,-111.943955,149 S Farmer Ave,3.142857142857143,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+628,HlkjT-4MXW_efuEydjrR1A,Smile Thai Cuisine,33.4059944088,-111.925856906,2107 S Rural Rd,4.75,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,1,0,0,0
+629,iD-D6tIN7o17HIb8bbxuXQ,Zesty Zzeeks Pizza and Wings,33.3939691362,-111.939286535,3139 S Mill Ave,4.154471544715447,TEMPE,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+630,-0Sgh0QlUKVsWosCWJzGqQ,Domino's Pizza,33.4143460071,-111.92899500200001,"681 E Apache Blvd, Ste 104",1.9772727272727273,TEMPE,0,loud,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+631,zUgDrRtGvK5ZTFlHCsTHwA,VinciTorio's,33.34831,-111.90876100000001,"1835 E Elliot Rd, Ste C109",3.85195530726257,TEMPE,1,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+632,zfiSQ1dl3vTJ-og96eqXGA,Beijing Express,33.378214299999996,-111.9362088,"219 E Baseline Rd, Ste H-2",3.9754901960784315,TEMPE,1,quiet,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+633,pHpU8lnnxMuPWRHOysuMIQ,Salut Kitchen Bar,33.421413,-111.914915,"1435 E University Dr, Ste 12",4.054140127388535,TEMPE,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+634,FOIXozPYq11mU407XIpv_A,3 Margaritas,33.4096754,-111.9259345,1717 S Rural Rd,3.0,TEMPE,0,,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+635,1hkksm102yQY1DyfTPSzmA,Monti's La Casa Vieja,33.429221000000005,-111.940425,100 S Mill Ave,3.383399209486166,TEMPE,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+636,U2W22Vy1oSs4G7W-2vdQ4w,Thai Rama,33.421712,-111.92523100000001,927 E University Dr,3.4074074074074074,TEMPE,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,1,0,0,0
+637,3vOWSanFt56CwRJOE9Kj_g,World Of Beer,33.4245256736,-111.940189141,526 Mill Ave,3.2253521126760565,TEMPE,0,average,,False,False,True,False,True,0,1,0,0,0,0,0,0,0,0
+638,l_4c__U60fVeTe4IYZBR3w,Biscuits,33.3487234723,-111.909610927,1815 E Elliot Rd,3.765432098765432,TEMPE,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+639,UR7_pPtTqN5kjh_QBIGYYQ,Concrete Repairman,33.429864,-112.3477461,516 E Laguna Dr,2.4444444444444446,TEMPE,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+640,ogcWPQvYDGlCHLkGOBjv4A,The Magic Wok,33.333373699999996,-111.9122692,1721 E Warner Rd,3.857142857142857,TEMPE,0,,,False,False,,False,False,0,0,0,0,0,1,0,0,0,0
+641,Nf1ZtgHwg0Mu5lOaJYgDGQ,Slices,33.4243474,-111.9398364,11 E 6th St,3.5596330275229358,TEMPE,0,average,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+642,afTfGQIjeq3sRk_5zyQxuQ,Plaid Eatery,33.4171122,-111.92302350000001,1044 S Terrace Rd,3.076923076923077,TEMPE,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+643,WEoivlVObGE03PiWvVvXYA,Cadillac Ranch,33.433210771999995,-111.90333667700001,"2000 E Rio Salado Pkwy, Ste 2105",2.2914285714285714,TEMPE,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+644,wk49hcW-f1VZG1CeWBzCMg,Bad Mother Cluckers,33.422145,-111.938705,26 E University Dr,3.642857142857143,TEMPE,0,average,,False,False,,False,True,0,1,0,0,0,0,0,0,0,0
+645,BaPKO2rV_uaOtRliKtaFcQ,Silver Mine Subs,33.4259647,-111.9402513,"414 S Mill Ave, Ste 114",3.5,TEMPE,0,average,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+646,nmFmOu9UuMcwghDV-IT-og,The Flame Broiler,33.4214242,-111.924865,"933 E University Dr, Ste 106",4.136363636363637,TEMPE,0,average,,False,False,,False,False,0,0,0,0,0,0,0,1,0,0
+647,sKWZ_tAOVMZoC4Qk8_Bd4A,Otto Pizza & Pastry,33.421753,-111.94248999999999,804 S Ash Ave,4.253623188405797,TEMPE,1,average,False,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+648,F4zvnOsgjEV9aVbKqBYRng,4one4 Pizza,33.4259647,-111.9402513,"414 S Mill Ave, Ste 118",3.37984496124031,TEMPE,0,very_loud,,True,False,True,False,True,0,0,1,0,0,0,0,0,0,0
+649,5Jf-9U16kMW-o2k8OUvTLg,Golden Restaurant and Bakery,33.415056,-111.894921,2126 E Apache Blvd,4.660377358490566,TEMPE,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,1,0
+650,gMJRFH_zFh_UrQeU5KHvng,Rice King Restaurant,33.4078922,-111.9539189,"930 W Broadway Rd, Ste 11",1.9,TEMPE,0,quiet,,False,False,,False,False,0,0,0,0,0,1,0,0,0,0
+651,6IecRPThZkte4uzkswBiyw,Pirates Fish & Chips,33.3782369,-111.93642240000001,219 E Baseline Rd,2.0,TEMPE,0,,,False,False,,False,False,0,0,0,0,0,0,0,1,0,0
+652,9uhQx8mHK-C1h-cPoDnStA,Einstein Bros Bagels,33.4180432505,-111.93423742700001,"Arizona State University, Memorial Union Room M182",2.611111111111111,TEMPE,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+653,UJb1PrUWDFfuzwUPc1pP4Q,El Hefe,33.4241943584,-111.94037246100001,"640 S Mill Ave, Ste 110",2.9588377723970942,TEMPE,1,average,,True,False,True,True,True,1,0,0,0,0,0,0,0,0,0
+654,1pytOeO_PhT4EVpk2MXQBA,Taco Bell,33.3932,-111.91102,1674 E Southern Ave,3.4285714285714284,TEMPE,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,1,0,0
+655,FtLibezRe7HsT13BLpR-Dg,Susie's Mexican Cafe,33.4218308,-111.8865831,2405 E University Dr,3.64,TEMPE,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+656,4A_KR6E3ziZvuNVruEJ2lA,Baja Fresh Express,33.4226468,-111.93480020000001,777 S College Ave,1.6666666666666667,TEMPE,0,,,,,,,,1,0,0,0,0,0,0,0,0,0
+657,IRpZS7EmmBeSM7oBnDd5iw,Jimmy John's,33.4331023,-111.90273059999998,2000 East Rio Salado Pkwy,3.4,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+658,eo3_XpZegejq_V-tAHAaVA,Salad Creations,33.4329724,-111.9043028,2000 E Rio Salado Pkwy,3.75,TEMPE,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+659,3RrBdVGWWMxZhVvisrEDKA,Diverti Bar and Grill,33.421996299999996,-111.9398864,4 E University Dr,3.0555555555555554,TEMPE,0,average,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+660,yvwK4MO2qnSZE5ggYGyk1A,Flo's,33.3782668,-111.9300678,788 E Baseline Rd,3.6958333333333333,TEMPE,1,average,,False,False,True,False,False,0,0,0,0,0,1,1,0,0,0
+661,mW97sJ9JVjs_REfp6XjRhQ,Raising Cane's,33.4223956225,-111.924355901,960 E University Drive,3.78021978021978,TEMPE,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,1,0,0
+662,JVYtwesjVNYNJvAruBOB6A,Green Leaf's Beyond Great Salad,33.3832233,-111.96442160000001,5000 S Arizona Mills Cir,2.076923076923077,TEMPE,0,,,False,False,False,False,False,0,0,0,0,0,0,0,1,0,0
+663,0uhgtpLf__CnZB1ggPVzSQ,Mr Burrito,33.407810999999995,-111.954719,1030 W Broadway Rd,2.25,TEMPE,0,quiet,,,,,,,1,0,0,0,0,0,0,0,0,0
+664,alWRFbDdU3_F1c2C4nG2dw,Mandarin House,33.3779385,-111.9062779,"1825 E Baseline Rd, Ste 2",3.2857142857142856,TEMPE,0,quiet,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+665,wxqx3Jxlfo9qTtIQ782fdQ,Subway,33.3772769,-111.951485279,"805 W Baseline Rd, Ste 3",1.75,TEMPE,0,,,,,,,,0,0,0,0,0,0,0,1,0,0
+666,4jPerp3OfFiWgBPQi8SOUw,Infusion Coffee & Tea,33.419366499999995,-111.9167136,"1300 E 8th St, Ste 100",4.367521367521367,TEMPE,1,average,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+667,Sz33V_SCMJw9fhnIOpZrmQ,El Pollo Loco,33.4139263116,-111.926635491,1314 S Rural Rd,4.0,TEMPE,0,,,,,True,,,1,0,0,0,0,0,0,1,0,0
+668,Xu67tc-Yo3GOeQ2gl1PXSg,Village Inn,33.3495733,-111.9561355,1080 W Elliot Rd,1.6666666666666667,TEMPE,0,,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+669,mBFGYVLh588BrvfmGsOhrA,Dragon Flame Chinese Grill,33.4158014,-111.9218535,1125 S Terrace Rd,3.95,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+670,LIIZ-Mjqj2da2YigHy73Jw,Eddie's Pizza And Lounge,33.4150348,-111.91847240000001,1250 E Apache Blvd,2.5714285714285716,TEMPE,0,very_loud,,False,False,,False,False,0,0,0,0,0,0,0,0,1,0
+671,2YDCiSR77FZV5_L0UcaGbA,E2,33.4185264,-111.9359358,240 E Orange Mall,3.0,TEMPE,0,average,,,,,,,0,1,0,0,0,0,0,0,0,0
+672,db12Hn9hdoE-Ne4_NsVKSw,Taco Shack,33.4216106,-111.9505612,815 W University Dr,3.7666666666666666,TEMPE,0,average,,False,False,True,False,True,1,1,0,0,0,0,0,0,0,1
+673,n_xqf8Es-k2XBOneXfYGRg,Quartiere,33.39999,-111.93988,2700 S Mill Ave,2.933333333333333,TEMPE,0,,,False,False,,False,False,0,0,1,0,0,0,0,0,0,0
+674,vY4MVT7UoQzlDHwhB8QlPA,Jack in the Box,33.4077739,-111.92480570000001,942 E Broadway Rd,2.3846153846153846,TEMPE,0,average,,False,False,,False,False,0,0,0,0,0,0,0,1,0,0
+675,FlSC47gipnoXP64XMOXxcA,Sweet Dessert Café,33.3773905977,-111.950065345,"715 W Baseline Rd, Ste 2",4.547445255474453,TEMPE,1,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+676,WN5ON423ZCOy3_4F6XYikA,Long Wong's At the Firehouse,33.4145753,-111.9109091,1639 E Apache Blvd,2.8793103448275863,TEMPE,0,loud,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+677,4fbH3Yr1D5r5-QD-HReDlg,Dilly's Deli,33.3924218342,-111.89353490100001,"3330 S Price Rd, Ste 101",4.062015503875969,TEMPE,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+678,w95B_YptshIE_y68NTyylQ,Taco Bell,33.415094,-111.925817,912 E Apache Blvd,3.0,TEMPE,0,very_loud,,False,False,True,False,False,1,0,0,0,0,0,0,1,0,0
+679,fZSvBAEDfnHskfbDBizjBw,Theo's Spartan Grill,33.4218916,-111.90924170000001,1825 E University Dr,3.0,TEMPE,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+680,oXtNK3A31VrWb43gLnEPdA,MAS Peruvian Restaurant & Bar,33.4508727,-111.92505890000001,1857 N Scottsdale Rd,4.32,TEMPE,0,average,,False,False,False,False,False,0,1,0,0,1,0,0,0,0,0
+681,LxNoSrtJYB7HvP5I-8p-Ow,Andrew's BBQ,33.364913859299996,-111.930521612,"730 E Guadalupe Rd, Ste 101",3.8823529411764706,TEMPE,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+682,VB-Cw7YKC9SWlzR4KUyGlA,Boston's Bar & Grille,33.3505783,-111.9124243,1730 E Elliot Rd,3.2222222222222223,TEMPE,0,average,,False,False,False,False,False,0,1,0,0,0,0,0,0,0,0
+683,6Rrlg6hnM0ir7ijhKG2ybA,5 & Diner,33.3839522302,-111.96182884299999,5025 S Arizona Mills Cir,3.096774193548387,TEMPE,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+684,tJyXQ8xziSqK7dtB0Md3mw,Boston's Restaurant & Sports Bar,33.4221689,-111.944507,400 W University Dr,2.769230769230769,TEMPE,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+685,HmRtRrxieDpk2ANibPFPSA,City Market Deli,33.4451976387,-111.956501289,1500 N Priest Dr,2.0,TEMPE,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+686,Ffzhzidm9OesdEzR-MLuwg,Waffle House,33.421616,-111.89215630000001,2189 E University Dr,3.2432432432432434,TEMPE,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+687,uIE9H0cz2AvxorEqy5cZ0w,Philly's Sports Grill,33.4496946,-111.92698680000001,1826 N Scottsdale Rd,3.5314685314685317,TEMPE,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+688,XvYwUnuWEai7p-95cj8S1w,Barro's Pizza,33.3334387,-111.94775530000001,"8830 S Kyrene Rd, Ste 106",3.235294117647059,TEMPE,0,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+689,wd-pzPYNehT6QTsc1qr7pA,Serranos Mexican Food,33.362493,-111.929061,6440 S Rural Rd,3.296875,TEMPE,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+690,IU31IE28AnAduEqJ5Gzvkg,Einstein Bros Bagels,33.3642582,-111.91184740000001,6350 S McClintock Dr,3.159090909090909,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+691,arFyWH26WkKjGEnh3FNXww,Wingstop,33.434370200100005,-111.92542363700001,555 N Scottsdale Rd,3.1458333333333335,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+692,iBihgoxc6Ot7m2D4D3z0QA,Thirsty Lion Gastropub & Grill,33.4330350802,-111.905558109,"2000 E Rio Salado Pkwy, Ste 1041",3.6151142355008785,TEMPE,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+693,smheJ4YvpiMObas1mrfAjQ,Grilled Expedition On Mill Cafe,33.4230549,-111.9404797,740 S Mill Ave,3.5,TEMPE,0,,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+694,SC6tscP1fuJXTmAd0tcoMQ,Big Belly's BBQ,33.421676,-111.95976499999999,1323 W University Dr,3.4166666666666665,TEMPE,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+695,hq17ShjPKHnGn5DGnHrsXw,U.S. Egg,33.3778881709,-111.93761529999999,131 E Baseline Rd,3.946107784431138,TEMPE,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+696,DF6kMTHYuKKME_00AinR-w,Even Stevens Sandwiches,33.417466499999996,-111.92588899999998,1015 S Rural Rd,4.415841584158416,TEMPE,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+697,hl_Iatne0Aehb9whpdH3cw,Sal's Pizza,33.4152726,-111.92499790000001,922 E Apache Blvd,3.0625,TEMPE,0,average,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+698,pdF7iJgA4ViACgA4t1OymQ,Library Bar & Grill,33.4253067,-111.93971709999998,"501 S Mill Ave, Ste 101",2.948717948717949,TEMPE,0,loud,,False,False,,False,True,0,1,0,0,0,0,0,0,0,0
+699,2hO-2tBcwZOhsbf64LcfWw,Tempe's Front Porch,33.429167,-111.94041599999998,100 S Mill Ave,3.676470588235294,TEMPE,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+700,Z2L0j0MZ9m0IwaWmcvnxGQ,D'Arcy McGee's,33.4329724,-111.9043028,2000 E Rio Salado Pkwy,2.641025641025641,TEMPE,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+701,wHvhLj3aTaVgD27PdC6lIw,McDonald's,33.34746810000001,-111.9644368,1401-1525 W Elliot Rd,1.8823529411764706,TEMPE,0,quiet,,False,False,False,False,False,0,0,0,0,0,0,0,1,0,0
+702,9KYaQI1qUalKuE_tGIXsZQ,Moe's Southwest Grill,33.3490842,-111.9449183,325 W Elliot Rd,2.727272727272727,TEMPE,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+703,lv8UKx6WzqCAdIakvFZNPQ,Gyros Express,33.335496899999995,-111.961996,8747 S Priest Dr,3.6875,TEMPE,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+704,X1twjafYxMCpKt2MqvY5Tw,Morning Star Cafe,33.401099800000004,-111.9580433,"1220 W Alameda Dr, Ste 101",4.542124542124542,TEMPE,1,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+705,jYX-4_AJZGRttHy9daPuOQ,Hot Burrito Mexican Food,33.3331639882,-111.947544604,655 W Warner Rd,4.228571428571429,TEMPE,0,quiet,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+706,QuybD_bJcAB2CHcpTfREYg,Detroit Coney Grill,33.4078922,-111.9539189,930 W Broadway Rd,4.609174311926606,TEMPE,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,1,0,0
+707,hIgGkG1JnHX4xmVuOgegDw,Forefathers Gourmet Cheesesteaks & Fries,33.335618100000005,-111.96253859999999,"8707 S Priest Dr, Ste 101",4.326259946949602,TEMPE,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+708,uLtLJ9sbSYak2WwCb4jjDQ,Tropical Snowflake Raspados,33.4463601,-111.9270081,1522 N Scottsdale Rd,4.0,TEMPE,0,quiet,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+709,fE9SP84G6TZrv36FLbCy7w,Top of the Rock Restaurant,33.4037541901,-111.97159855299999,2000 W Westcourt Wy,3.605691056910569,TEMPE,1,average,,False,False,True,True,False,0,1,0,0,0,0,0,0,0,0
+710,i631pRlq0u29VvaMshW67A,Main Event Entertainment,33.3368627,-111.96812709999999,8545 S Emerald Dr,2.8181818181818183,TEMPE,0,loud,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+711,x4RtR4O2lfRqUFLO0zifAw,Subway,33.4062526509,-111.925877161,911 E Broadway Rd,3.0,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+712,WMXEeBFSuzfvP9uK4B6ZwA,Hogi Yogi,33.3792519,-111.92994240000002,5128 S Rural Rd,3.0,TEMPE,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+713,rCiHu1nHXc0dqymEvKqSfw,Boston Market,33.3912326,-111.90883229999999,3435 S McClintock Dr,3.5161290322580645,TEMPE,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+714,9MJDPVeLqAWLqdWF4Heqvg,Taco Nazo,33.3917426,-111.9617466,1405 W Southern Ave,2.9298245614035086,TEMPE,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+715,DKrGFydT_4CrxM7iM2qm7A,Long John Silver's,33.408336,-111.956398,1202 W Broadway Rd,3.6666666666666665,TEMPE,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+716,7CQsM9nN53hOWRzBPSesJw,Papa Murphy's,33.3939206909,-111.94057837,3128 South Mill Avenue,4.181818181818182,TEMPE,0,quiet,,,,True,,,0,0,0,0,0,0,0,0,0,0
+717,Px4jJPkR56noH67rTku8aQ,Devil's Diner,33.4243526355,-111.924045085,"640 S Mill Ave, Ste 118",4.222222222222222,TEMPE,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+718,F-VyyskhdoAg1L7WEwpgVA,Wessen International Kitchen,33.422084999999996,-111.9032629,1946 E University Dr,4.392156862745098,TEMPE,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+719,V1hH7vAq5wNDo2P3z8zJLg,Palo Verde Lounge,33.4070609,-111.95479070000002,1015 W Broadway Rd,3.909090909090909,TEMPE,0,very_loud,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+720,CaF9FC8GEBfDDbptPgkgBw,Applebee's Neighborhood Grill & Bar,33.347355,-111.964449,1655 W Elliot,2.511904761904762,TEMPE,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+721,vDEmA4KkKgP5htnp9qMHbA,TOGO'S Sandwiches,33.3217139,-111.93022479999999,"9920 S Rural Rd, Ste 111",3.9642857142857144,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+722,prh-RlduJU3z3ynA5lU3Wg,Original ChopShop,33.422318,-111.935883,222 E University Dr,3.792405063291139,TEMPE,1,average,,False,False,True,False,True,0,1,0,0,0,0,0,0,0,0
+723,BngVzrOVcYoCTmPT7CpIlg,Pita Licious,33.3844823,-111.9260382,"4427 S Rural Rd, Ste 3",3.951219512195122,TEMPE,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+724,t61eGISz7qMOxEe7o3vwEw,Perfect Pear Bistro,33.3216322198,-111.96255689600001,9845 S Priest Dr,4.36697247706422,TEMPE,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+725,iJ4asegD61MbFZ16CYI5mw,Milagros Restaurant,33.406160005100006,-111.96170089700001,2100 S Priest Dr,3.0714285714285716,TEMPE,0,average,,False,False,False,False,False,0,1,0,0,0,0,0,0,0,0
+726,P5VtqamycWfDkS2_v-qU_Q,Pitchforks & Corks,33.4234904,-111.93559270000002,"660 S College Ave, Fl 2",4.538461538461538,TEMPE,0,,,,,True,,,0,0,0,0,0,0,0,0,0,0
+727,5Xzjb7ATQHCozQGedQTiyA,Sacks Sandwiches - ASU,33.419797700000004,-111.93903020000002,35 E 9th St,3.5476190476190474,TEMPE,0,loud,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+728,vcMD6mZfvjtAxuCMoAfSNA,My Big Fat Greek Express,33.378224100000004,-111.936102,227 E Baseline Rd,3.727272727272727,TEMPE,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+729,qGqMAC1r7fStx1qJkFsyOQ,Sun Devil Dining,33.414651,-111.9327918,1290 S Normal Ave,2.3333333333333335,TEMPE,0,very_loud,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+730,4cuvlrnhnLA9r2TOmwSvfw,Erbert And Gerbert's,33.4253483119,-111.937643436,117 E 5th St,3.2962962962962963,TEMPE,0,average,,True,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+731,iWGO0_z8Rdwd3ZViapwRhg,Panera Bread,33.432945436,-111.905582091,2000 E Rio Salado Pkwy,2.5675675675675675,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+732,WulCmMT3OpYjqms71v-A2Q,Culinary Solutions Cafe,33.36502419999999,-111.9292152,"6340 S Rural Rd, Ste 120",3.6363636363636362,TEMPE,0,,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+733,F5iUtmlMqPva4aUDz6xK6g,Port of Subs,33.4227968,-111.93456680000001,"777 South College Dr, Ste 103",3.875,TEMPE,0,loud,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+734,ZxEvVRbOltIF0fua5SQssg,The Human Bean Tempe,33.4218217602,-111.910747793,1765 E University Dr,4.875,TEMPE,1,,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+735,GibwaDiqJJ_62x0h3oCyxA,Panda Express,33.364295500000004,-111.91244340000002,1714 E Guadalupe Rd,2.269230769230769,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,1,0,1,0,0
+736,Crhm6oKCj7raPlakwltbVQ,Ahipoki Bowl,33.417466499999996,-111.92588899999998,1015 S Rural Rd,4.224489795918367,TEMPE,1,average,,False,False,True,False,False,0,0,0,0,1,0,0,0,0,0
+737,SvNzj0dE6UMFfp55bIze_A,Big Jimmy's,33.41537039999999,-111.9156753,1330 E Apache Blvd,3.2990654205607477,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+738,qpARa33W5bzzn-M7xBbotA,Slices,33.4329265,-111.90557549999998,2000 E Rio Salado Pkwy,3.314814814814815,TEMPE,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,1,0,0
+739,7gioEp7-iwcexseCiXZWqA,Big City Burrito,33.4146786,-111.9293525,"681 E Apache Blvd, Ste 107",4.75,TEMPE,0,,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+740,M9xhaYXm-rY34ZYbyUbXEw,FRANS Kitchen,33.334093092399996,-111.959684506,"1221 West Warner Rd, Ste 105",4.75,TEMPE,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+741,IlYNJUylnAinXsuytty70Q,Chen's Noodle House,33.4166635,-111.9223193,1043 E Lemon St,4.6,TEMPE,0,,,False,False,False,False,False,0,0,0,0,0,1,0,0,0,0
+742,O4YxrrQ8Rg1Kc4Mel3cAyg,Subway,33.419304100000005,-111.9402301,950 S Mill Ave,2.466666666666667,TEMPE,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+743,EVbEdWYLE9GDpVG97MGw-w,Macayo's Depot Cantina,33.4277695521,-111.943175111,300 S Ash Ave,3.147766323024055,TEMPE,1,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+744,2VdCHCPFzow7zcBSaPMbKA,Perfect Pear Bistro,33.4216106,-111.9475676,603 West University Dr,4.258064516129032,TEMPE,1,average,,False,False,True,False,True,0,1,0,0,0,0,0,0,0,0
+745,3TxhQKVNLKqRKITPrZQlGg,Trailer Park Restaurant,33.4199328,-111.92320959999999,1001 E. 8th St.,3.2222222222222223,TEMPE,0,,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+746,PhMfnMldVKXo7HqHw6DSrg,DaYung's Tea,33.3948182512,-111.940576007,3126 S Mill Ave,4.777777777777778,TEMPE,1,,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+747,qzh8srlptSOl2LaGWn3hDQ,Extreme Pita,33.39476989999999,-111.9088938,3141 S McClintock Drive,3.0,TEMPE,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+748,Nh5gWjOzKQOb8kSq48uaoA,Cafe Greco,33.3350535,-111.9445749,"440 W Warner Rd, Ste 104",4.375,TEMPE,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+749,pFc8lUoe8p30_QHm7dX4rg,Red Ribbon Bakeshop,33.383123,-111.96448500000001,5000 S Arizona Mills Cir,2.8181818181818183,TEMPE,0,quiet,,,,,,,0,0,0,0,0,0,0,0,0,0
+750,kpJinFc_7yTK9v7iYhLxqw,Wendys,33.4079428,-111.96501950000001,1600 W Broadway Rd,3.2,TEMPE,0,average,,False,False,,False,False,0,0,0,0,0,0,0,1,0,0
+751,DpSuDR5AT7DF0QZhNUD2Aw,Freddy's Frozen Custard And Steakburgers,33.349656099099995,-111.91012792299999,1818 E Elliot Rd,3.875,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+752,0pMsVlUu_MbFqmvbA8F79Q,Cheba Hut,33.422728,-111.951494,"960 W University Dr, Ste 108",3.7170868347338937,TEMPE,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,1
+753,xxo0GsAFxQzUGStmCG6jWw,Genghis Grill,33.4324152,-111.9052063,"2000 E Rio Salado Pkwy, Ste 1151",3.486068111455108,TEMPE,1,average,,False,False,True,False,False,0,0,0,0,0,1,1,0,1,1
+754,WrkOKBHkRxhBVpX8qu7zDA,Freshii,33.417732300000004,-111.9344185,1290 S Normal Ave,2.5714285714285716,TEMPE,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,1,0,0
+755,G6V99_DIFF10uTDSmTklpA,Shawarma Paradise,33.416119,-111.92227920000002,"1045 E Lemon St, Ste A",4.111111111111111,TEMPE,0,,,,,,,,0,0,0,0,0,0,0,1,0,0
+756,puQ2WGO0L2KvKqNQCJYZRw,Loving Hut Tempe,33.4214795,-111.945394,"405 W University Dr, Ste 101",4.661290322580645,TEMPE,1,average,,False,False,True,False,True,0,1,0,0,0,0,0,0,1,1
+757,4K5NUsinIgtq-yuxdp2HdA,Fuzzy's Taco Shop,33.4259647,-111.9402513,"414 S Mill Ave, Ste 115",3.4968354430379747,TEMPE,1,average,,True,False,True,False,True,1,0,0,0,0,0,0,0,0,0
+758,JU9Djcynyj3ad3Djg-UHDg,Kafe 440,33.3350535,-111.9445749,"440 W Warner Rd, #104",2.75,TEMPE,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+759,ZGHynQJk7RagG2uNNAMynw,Carl's Jr.,33.3359387,-111.96877409999999,8825 S Jewel St,2.076923076923077,TEMPE,0,average,,False,False,False,False,False,0,0,0,0,0,0,0,1,0,0
+760,KuHNBKXBCk3XXNJlZW7jRQ,Half Moon Sports Grill,33.3490842,-111.9449183,"325 W Elliot Rd, Ste 104",3.3333333333333335,TEMPE,0,,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+761,vhIJ91MDgUuk4Cr9Kpj1Nw,Jimmy John's,33.423975,-111.940351,680 S Mill Ave,3.262295081967213,TEMPE,0,loud,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+762,n1AWiP49A5ROroNnbtm0ow,The Oink Cafe,33.3341827,-111.91348119999999,1701 E Warner Rd,3.7371134020618557,TEMPE,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+763,DHoUaeL5XqRX083cptIHBA,Lemon Street Tacos,33.4165712,-111.9255048,909 E Lemon St,4.444444444444445,TEMPE,0,,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+764,I-WaaqvofK2YSS4agaPKjQ,Chez Monieux,33.379567,-111.893419,5004 S Price Rd,3.65,TEMPE,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+765,hH36Av7cncv499KS3kjcXg,Arizona Sandwich Co & Catering,33.4213995886,-111.969152595,"1775 W University Dr, Ste 130",4.043103448275862,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+766,VwwwBUwayQOi6tc3ATeKlA,Red Robin Gourmet Burgers,33.34864,-111.9604696,1375 W. Elliott,2.88,TEMPE,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+767,2GmGT-7QjowR1ihup3FbVA,Haji-Baba,33.4142711,-111.9134509,1513 E Apache Blvd,4.39251040221914,TEMPE,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+768,q6igRYs2UTO-4nTwlttrAQ,Pancheros Mexican Grill,33.434369000000004,-111.92558400000001,"555 N Scottsdale Rd, Ste 105",3.10752688172043,TEMPE,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+769,OZwIcrbQy2LLMuXEtPumeQ,Jack in The Box,33.3947915428,-111.940153604,3102 S Mill Ave,1.625,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+770,2q2gGuigGrCFmx3juLAVww,Mika's Greek,33.3495575156,-111.949797459,"780 W Elliot Rd, Ste 104",4.048,TEMPE,1,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,1
+771,Ldly1D-EUrbOfjxDMqY2zA,Extreme Pita,33.3491937,-111.9593221,1320 W Elliot Rd,4.0,TEMPE,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+772,lamNK6ivdxNxlCnLu_uqBw,Tokyo Joe's,33.380021500000005,-111.9278632,"4715 S Rural Rd, Ste 104",3.5,TEMPE,0,average,,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+773,h8ZB8cLiPo3x2f1fZr7e-A,Arby's Roast Beef,33.3496042,-111.96274309999998,1392 W Elliot Rd,3.8125,TEMPE,0,loud,,False,False,False,False,False,0,0,0,0,0,0,0,1,0,0
+774,Hr5h_LG9TMBLlFz_Oici0A,Caffe Boa,33.426651,-111.940428,398 S Mill Ave,3.425287356321839,TEMPE,1,average,False,True,False,True,False,True,0,1,1,0,0,0,0,0,0,0
+775,Msp69CY6JdXTY9guRx-qkQ,McDonald's,33.3496,-111.912291,1740 E Elliot Rd,3.56,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+776,tS2Y2hMWZMvwjiY3z6LuUg,Regions Bistro & Bar,33.4233153,-111.94027379999999,690 South Mill Ave.,2.4166666666666665,TEMPE,0,,,False,False,,False,True,0,1,0,0,0,0,0,0,0,0
+777,Cv3NIg9Ahl-x86riaalXSA,The Dinner Detective Murder Mystery Dinner Show,33.3841434,-111.92754120000001,4400 S Rural Rd,3.4,TEMPE,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+778,lcbvgL5Sgx8ibQEhtbAEdg,Fifty One West,33.392511244,-111.941245723,51 W Southern Ave,4.235294117647059,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,1,1
+779,EIvHIqxB1n7lfECTt8Ssuw,Papa John's Pizza,33.421234600000005,-111.9514885,843 W University Dr,3.2222222222222223,TEMPE,0,,,,,False,,,0,0,0,0,0,0,0,0,0,0
+780,80QcucMxQp46Pqg2RqcJ1w,Pei Wei,33.4183842161,-111.93410478700001,Arizona State University,3.0,TEMPE,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+781,CO8MpD1bSkBPArXKBKkIfA,Noodles & Company,33.4334346309,-111.90162196799999,2000 E Rio Salado Pkwy,3.541284403669725,TEMPE,0,average,,False,False,True,False,False,0,0,1,1,0,1,0,1,0,0
+782,xZhCCireQYwcRHh5Nc1Vkw,3 Roots Coffee House and Cafe,33.418499,-111.94030500000001,1020 S Mill Ave,3.6666666666666665,TEMPE,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+783,tkSk6jdenjbYEcqSchFR7g,Sushi Kee,33.334831,-111.927071,"1006 E Warner Rd, Ste 113",3.935483870967742,TEMPE,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+784,-xIrVu_7prj_0GDl1tds1w,Los Dos Diablitos,33.4218059559,-111.95421356799999,"1101 West University Dr, Ste 101",4.6,TEMPE,1,average,,False,False,True,False,True,1,0,0,0,0,0,0,0,0,0
+785,u9va4ksYFYJe6FkXkHOo7Q,Ny Boyz Subz N Wingz,33.414997,-111.89727679999999,2070 E Apache Blvd,3.8333333333333335,TEMPE,0,average,,False,False,,False,False,0,0,0,0,0,0,0,1,0,0
+786,f-7sTbx8u7c9t1-r_Fdoow,AZ Bread,33.348673824,-111.94436098,"315 W Elliot Rd, Ste 107",4.0625,TEMPE,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+787,GJ9CgvTBKaDb9qLFEBbzHg,ThaiTini,33.4146297,-111.92542250000001,925 E Apache Blvd,4.764705882352941,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,1,0,0,0
+788,fRNCVV9fS-_-oW5S6ZmK9w,Chick-In,33.418516499999996,-111.93609779999998,240 E Orange Mall,4.3125,TEMPE,0,,,,,,,,0,0,0,0,0,0,0,1,0,0
+789,VYRxbF0fq_fdC5WCqCYCwA,Jack in the Box,33.4226059,-111.9396527,721 S Mill Ave,1.4242424242424243,TEMPE,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+790,GjjSC7aAXdff8jERc3URYw,Culver's,33.392955199999996,-111.93029109999999,630 E Southern Ave,3.7777777777777777,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+791,h8XdexOcJlfLOwXIDtyalg,Cafe Rio,33.3794679829,-111.92921816,5150 S Rural Rd,3.057142857142857,TEMPE,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+792,rof8X8-2R6Z2sLuDrr1OXg,Cornish Pasty Co,33.425763,-111.93961399999999,"425 S Mill Ave, Ste 111",4.2898550724637685,TEMPE,0,average,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+793,s1500k_u6yScouzQ-RUb6A,Ruby Tuesday,33.4327474,-111.90662479999999,"27 S Mcclintock Drive, Lot 15",3.129032258064516,TEMPE,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+794,ZdGWAv90dY81kpKzMLMvvA,Prankster's Gar and Brill,33.407769,-111.92304209999999,1024 E Broadway Rd,3.5625,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+795,gPc4tXMS_wt4g2yVUmco8w,The Revival,33.4216106,-111.9475676,603 W University Dr,4.095890410958904,TEMPE,0,average,,False,False,True,False,False,1,1,0,0,0,0,0,0,0,0
+796,5LJ6wKhh7zuJn4XNei9rQA,W XYZ Bar,33.4346804,-111.92437609999999,951 East Playa Del Norte Dr,4.222222222222222,TEMPE,0,,,,,True,,,0,0,0,0,0,0,0,0,0,0
+797,iikAHVLZrZn7Zy1aEPD25A,Chipotle Mexican Grill,33.3779062,-111.9292999,"815 E Baseline Rd, Ste 118",3.550561797752809,TEMPE,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,1,0,0
+798,QFHbUR4bY09yp2vO8QlICQ,Mary's Place,33.413007799999995,-111.96111129999998,1402 S Priest Dr,3.0,TEMPE,0,,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+799,BUVgOVIeyipLxHdoDtBIoA,Rivas Mexican Food,33.392841100000005,-111.9423618,240 W Southern Ave,3.2444444444444445,TEMPE,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+800,kr6OXeeiBVGTWOsByUl3tQ,Putsy's Chicken Steak Fingers,33.3350531,-111.94457279999999,"440 W Warner Rd, Ste 104",4.666666666666667,TEMPE,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+801,gDOuHjntsN37XEjROoQ2Aw,Santa Madre Taco Shop,33.3495946376,-111.960074561,"1320 W Elliot Rd, Ste 102",4.402144772117962,TEMPE,1,average,,False,False,True,False,False,1,0,0,0,1,0,0,0,0,0
+802,TSReAmFxNVCZggcx49Gf3A,Rally's,33.4223278,-111.9617909,1410 W University Dr,2.681159420289855,TEMPE,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+803,feu6_wWLD5l_2Ha3In_ENA,My Pie Pizza,33.4227968,-111.93456680000001,777 S College Ave,4.361702127659575,TEMPE,0,average,,True,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+804,Jzth-y32SyvOhJNgbIPTqQ,Hummus Xpress,33.407803263000005,-111.95375323200001,"930 W Broadway Rd, Ste 11",4.532631578947369,TEMPE,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+805,SIVi2UQp1UT0lMIoqHP0QA,Rainforest Cafe,33.3835762068,-111.96524979600001,5000 S Arizona Mills Cir,2.4061433447098977,TEMPE,0,very_loud,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+806,JzOp695tclcNCNMuBl7oxA,Four Peaks Brewing,33.419568,-111.916097,"1340 E 8th St, Ste 104",4.274439918533605,TEMPE,1,loud,,False,False,True,False,True,0,1,0,0,0,0,0,0,0,0
+807,yet0Pww_ouW49T7V41ecSw,The Dhaba,33.415079,-111.90509499999999,1872 E Apache Blvd,3.875239923224568,TEMPE,1,average,,False,False,True,False,False,0,0,0,0,1,0,0,0,1,0
+808,W7hCuNdn2gzehta6eSHzgQ,Pete's Fish & Chips,33.4144347,-111.923705,1017 E Apache Blvd,1.8795180722891567,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,1,0,0,0,0,0
+809,_BJdRw73rGb35ofd3ElTUA,YS Restaurant,33.4223217,-111.92571029999999,"920 E University Dr, Ste 104",4.4,TEMPE,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+810,ImLXYkhmd9ELwL3b9xAmsQ,Tempe Meadows,33.444083899999995,-111.91472399999999,1490 E Weber Dr,4.428571428571429,TEMPE,0,,,False,False,True,False,True,0,1,0,0,0,0,0,0,0,0
+811,SWhHaWFuijy_KDs0zVCJog,RigaTony's Authentic Italian,33.335910399999996,-111.90804490000001,1850 E Warner Rd,4.0375,TEMPE,1,average,,False,False,True,False,False,0,0,1,0,1,0,0,0,0,0
+812,ssZx3Jzhme38YTbLzaDY6Q,Mamacita's Cantina,33.4222752,-111.93606090000002,216 E University Dr,3.25,TEMPE,0,,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+813,NNkMbPtBCGelD2_hNxH0og,The Shire Cafe,33.41518,-111.924076,1000 E Apache Blvd,5.0,TEMPE,1,,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+814,MOUW8p7oXI08InzvSJwMYg,Poke2U,33.4259647,-111.9402513,"414 S Mill Ave, Ste 114",4.733333333333333,TEMPE,1,,,True,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+815,Zt4ljpwfmBufatNM1zPNcQ,Picazzo's Healthy Italian Kitchen,33.3350535,-111.9445749,440 W Warner Rd,3.6879432624113475,TEMPE,1,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+816,cbbidA4huw2XQQWlmbUQgw,Cervantes Restaurant,33.3922783,-111.9399533,3318 S Mill Ave,2.5652173913043477,TEMPE,0,quiet,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+817,FlR7sRTs_xyW8rr2aQHiww,Chillin Treats,33.418527600000004,-111.9402862,1020 S Mill Ave,3.0,TEMPE,0,,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+818,VOzk2CKZMG5JeXSTZvIhYA,Torres Mexican Food,33.3928326,-111.9429893,240 W Southern Ave,2.0,TEMPE,0,,,,,,,,1,0,0,0,0,0,0,1,0,0
+819,KUIzGuOo6fw2cRAdgFhmew,Pizza Chicago,33.3491017,-111.9265922,975 E Elliott Rd,3.5172413793103448,TEMPE,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+820,-gcS8S7aiHTwYROMC5QP5A,Schlotzsky's,33.39240039999999,-111.9611253,1401 West Southern Ave,3.081967213114754,TEMPE,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+821,ePjHWTk1AzpYbuh4lFzhxg,Moroccan Paradise,33.415242600000006,-111.9196665,1212 E Apache Blvd,4.1953125,TEMPE,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+822,366FaRQ1MWEHBhaEKTcriQ,Spinato's Pizza,33.4276,-111.89997,227 S Smith Rd,4.429378531073446,TEMPE,1,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+823,65r0LP3I5sWH-1HXM6eQAg,Burger King,33.3492198,-111.95747379999999,1220 W Elliot Rd,2.210526315789474,TEMPE,0,average,,False,False,False,False,False,0,0,0,0,0,0,0,1,0,0
+824,PQTtKaBK_WdvLm-zp4fQ1g,Aachi Southindian Kitchen,33.348750910999996,-111.944757559,"325 W Elliot Rd, Ste 101",3.9310344827586206,TEMPE,0,average,,False,True,True,False,False,0,0,0,0,0,0,0,0,0,0
+825,bO_VQFG2hMMdgZiwbEY4bA,Subway,33.4433302,-111.92679059999999,1380 N Scottsdale Rd,3.1666666666666665,TEMPE,0,average,,,,False,,,0,0,0,0,0,0,0,1,0,0
+826,4BZ7jlzQBAP94FZNyHr2dA,Jimmy John's,33.4142594,-111.9288941,"681 E Apache Blvd, Ste 102",3.409090909090909,TEMPE,0,,,,,True,,,0,0,0,0,0,0,0,0,0,0
+827,SoCVWvr5f5lYJEY_62bgAw,Bacus Bros Hotdogs and Beer,33.4259647,-111.9402513,"414 S Mill Ave, Ste 114",4.74,TEMPE,1,average,,False,False,True,False,True,0,1,0,0,0,0,0,0,0,0
+828,EX_daRmTI61Eq0kiXBuDsw,Charlie's Cafe,33.41778789999999,-111.92934509999999,1100 S McAllister Ave,1.7777777777777777,TEMPE,0,,,,,True,,,0,0,0,0,0,0,0,0,0,0
+829,d0v7c1SnmlEyK5TWfHCo8w,Capri Cafe,33.3929694,-111.910756,"1726 E Southern Ave, Ste 3",3.888888888888889,TEMPE,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+830,uNYBY0-josscxkihdfovYA,Arby's,33.4069136,-111.94727659999998,525 W Broadway Rd,2.764705882352941,TEMPE,0,,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+831,1zsM7weLS8fNHomDAqCh4Q,Blasted Barley Beer Company,33.4267462,-111.9408348,"404 S Mill Ave, Ste 101",3.7465437788018434,TEMPE,1,average,,True,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+832,Wnq5to0-jXyh0-_jRZ6VOQ,Z Tejas,33.4245625,-111.94090530000001,20 W 6th St,3.5942028985507246,TEMPE,1,average,,False,False,True,False,True,1,1,0,0,0,0,0,0,0,0
+833,vyHjtNO4TgQSXi27i6Zmjg,Caribbean Palm Tempe,33.394796591100004,-111.940832669,3134 S Mill Ave,4.375,TEMPE,0,,,False,False,True,False,False,0,0,0,0,1,0,0,0,0,0
+834,XpnkPS-56dYTdjwC8RRLuw,Panera Bread,33.334007,-111.967197,1707 W Warner Rd,2.5,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+835,uLL2uKqYnPAFwBw11LzDUQ,Gus's New York Pizza,33.4212807328,-111.925883285,933 E University Dr,2.1484375,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+836,22so15K1aqikL9FHt37CSQ,DP Dough,33.4211371127,-111.92507941299999,933 E University Dr,3.522222222222222,TEMPE,0,average,,True,False,True,False,False,0,0,1,0,0,0,0,0,1,0
+837,SFF55aiTPLvxX5b4pbpvDA,Coco's Family Restaurant,33.347632399999995,-111.9644229,1525 W Elliot Rd,2.6,TEMPE,0,average,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+838,GyHJAwBQ58L3ORBLm0G-hg,India Grill,33.3487388761,-111.94475758799999,"325 W Elliot Rd, Ste 101",3.912280701754386,TEMPE,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+839,fZM_o3kKZ9mR-1pvBeow8A,Tempe Marketplace,33.432914399999994,-111.90545049999999,2000 E Rio Salado Pkwy,3.6,TEMPE,1,,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+840,K8ZeT5Y5L0SDh18wO0ZOAQ,Famous Potato,33.425763,-111.93961399999999,425 S Mill Ave,1.7777777777777777,TEMPE,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+841,km4B50FnxFX22hrtZRtiUg,Wasted Grain,33.424521999999996,-111.940409,526 S Mill Ave,2.0,TEMPE,0,,,,,,,,0,1,0,0,0,0,0,0,0,0
+842,uaFhlzoJbiqlnkUgfSjpdA,Aachi South Indian Kitchen,33.349118,-111.944979,"325 W Elliot Rd, Ste 101",3.0163934426229506,TEMPE,0,quiet,,False,False,True,False,False,0,0,0,0,1,0,0,0,0,1
+843,KgKEmnnzL2EvfLRv0Ep4RA,Garlic & Shots,33.3482,-111.92721999999999,909 E Elliot Rd,2.064516129032258,TEMPE,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+844,Ct4daXJf_1yzJukZJeq33Q,Lucy's Fountainhead Cafe,33.4029641,-111.9629621,"1501 W Fountainhead Pkwy, Ste 140",4.466666666666667,TEMPE,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+845,QbtJvTQfTFbPqBhjkI59BA,Zipps Sports Grill,33.335595,-111.90728500000002,1860 E Warner Rd,3.1553398058252426,TEMPE,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+846,0o_JtYrz5FRVMcAEVmf42w,Grilled Ave Teriyaki House,33.422862300000006,-111.9364395,705 S Forest Ave,3.588235294117647,TEMPE,0,average,,False,False,True,False,True,0,0,0,1,0,0,0,0,0,0
+847,NxjUiGBNgyDErKXnmQ3s3w,Cartel Coffee Lab,33.4214126083,-111.94298028899999,"225 W University Dr, Ste 101",4.058103975535168,TEMPE,1,,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+848,qiR7S83_7Du_XQyj_U0zWw,IHOP,33.4234667006,-111.925738793,"705 S Rural Ave, Ste 101",2.9056603773584904,TEMPE,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+849,riM-pBsdqRRVXtAVbLfsxQ,Chompie's Deli,33.4224209766,-111.919921825,1160 E University Dr,3.59304347826087,TEMPE,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+850,0HSY1jGtyFuETZwaJN6rQQ,Hunan Express Chinese Restaurant,33.407717,-111.95080300000001,818 W Broadway Rd,3.3424657534246576,TEMPE,0,quiet,False,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+851,8PBq-MHyLDrhkaTf72Foww,Dos Gringos,33.3441506,-111.96368000000001,8000 S Priest Rd,3.0,TEMPE,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+852,LiqKk5cteNMf46-JYvnwCw,Lucky Star Asian Dining,33.4073498,-111.90970559999998,1743 E Broadway Rd,3.9375,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+853,pAvGcgYhnU1RjnV-xy5SmQ,Einstein Bros Bagels,33.422755,-111.9258646,725 S Rural Rd,3.111111111111111,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+854,OU5RFlwAoNaG32P-ZTlgYQ,El Pollo Loco,33.383831527,-111.96136224700001,5009 S Arizona Mills Cir,3.1627906976744184,TEMPE,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,1,0,0
+855,HjXI6lKGPVNQ8dYJPtaOCg,Mellow Mushroom,33.4230242165,-111.940247586,740 S Mill Ave,3.3572938689217757,TEMPE,1,average,,True,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+856,A501H7iyCmHFovaZ8L3Pkg,McDonald's,33.394448100000005,-111.9095293,3218 S McClintock Rd,2.0,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+857,39irKvcTTf6sj8WimdRXxQ,Boston Vs. New York,33.4256993034,-111.939835064,"425 S Mill Ave, Ste 111",3.6666666666666665,TEMPE,0,loud,,,,,,,0,0,0,0,0,0,0,0,0,0
+858,j-SSlq3__BQr3H7lAyVvkw,Nello's,33.3948039,-111.9074138,1806 E Southern Ave,3.408805031446541,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+859,5GoBfhIyEN-BMzVjO5QLeA,Red Robin Gourmet Burgers,33.4325021513,-111.907639753,19 S McClintock Dr,3.3401015228426396,TEMPE,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+860,NUhHkT1wfXsTLxt_tWwVXw,Thai Elephant,33.4215994533,-111.95036575399999,"815 W University Dr, Ste 108",3.81651376146789,TEMPE,1,average,,False,False,True,False,False,0,0,0,0,0,0,1,0,0,0
+861,TutpyTJYzXb2Y1HJw81KXA,Barzinis,33.4153291,-111.9185086,"1250 E Apache Blvd, Ste 101",3.642857142857143,TEMPE,0,average,,False,False,,False,False,0,0,1,0,0,0,0,0,0,0
+862,utoTa3Ngv_oSfB5TIMgN_Q,Rula Bula,33.4263511706,-111.939819684,401 S Mill Ave,3.7083333333333335,TEMPE,1,average,False,True,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+863,aXLcRseq_EfurNZ3MEmpxg,The Crepe Club,33.4203589097,-111.93144382,550 E Tyler Mall,4.125,TEMPE,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+864,-cBQKodqi77Q0vk-9iDvQA,Fat Tuesday,33.4238124118,-111.94022513200001,680 S Mill Ave,3.467741935483871,TEMPE,0,loud,,True,False,True,False,True,0,1,0,0,0,0,0,0,0,0
+865,K36554FQDOYRuw5o-UXvDA,Blondie's Sports Bar,33.424281,-111.92408799999998,"501 S Mill Ave, Ste 101",2.2222222222222223,TEMPE,0,very_loud,,False,False,,False,True,0,0,0,0,0,0,0,0,0,0
+866,tVVZcFFt3ZlWVE7nptN3EQ,Hot Wok Mr Cook,33.3335102938,-111.946448515,"655 W Warner Rd, Ste 117",3.044776119402985,TEMPE,0,quiet,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+867,hmYnzs8-aHbltaOOGDgmbA,Zipps Sports Grill,33.4233735877,-111.94025112700001,"690 S Mill Ave, Bldg C, Ste 103",2.6218487394957983,TEMPE,0,loud,,False,False,True,False,True,0,1,0,0,0,0,0,0,0,0
+868,poOnGeQlHEnWRAH9t_0KMg,NYPD Pizza,33.42791,-111.9404991,"222 S Mill Ave, Ste 127",4.492063492063492,TEMPE,1,average,,True,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+869,bZ3-_GQZkHv5YI_zzqLNWA,The Mission at Minder Binder,33.4227863,-111.90810970000001,715 S Mcclintock Dr,3.7885714285714287,TEMPE,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+870,Uk9-e66y4oWIZ5u946iJiQ,Rehab Burger Therapy,33.4240412,-111.9387343,"21 E 6th St, Ste 146",4.315789473684211,TEMPE,1,average,,False,False,True,False,True,0,1,0,0,0,0,0,0,0,0
+871,ycx58j9LCHDUp-boy0-y2w,Fusion Mediterranean Delight,33.3478761,-111.90997800000001,1805 E Elliot Rd,4.0,TEMPE,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+872,sFZqXGuACgeUys0C1F4GSQ,Popeyes Louisiana Kitchen,33.3485326,-111.9646692,1615 West Elliot Rd,2.5217391304347827,TEMPE,0,quiet,,False,False,True,False,False,0,1,0,0,0,0,0,1,0,0
+873,WAWWO9PCDTDiXwkKdkw5yA,Ramen Dozo,33.3916968,-111.90817460000001,"3415 S McClintock Dr, Ste 107",4.215189873417722,TEMPE,0,average,,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+874,W2CzAePJakvARgoQuohbOA,In-N-Out Burger,33.4349039,-111.9253304,920 E Playa Del Norte,4.263888888888889,TEMPE,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+875,Y8KeJZjYvuN5t0GMyTFyhw,Ichiban Japanese Restaurant & Sushi,33.392275399999995,-111.92631580000001,3333 S Rural Rd,2.5,TEMPE,0,average,,False,False,,False,False,0,0,0,1,0,0,0,0,0,0
+876,_M5ngf01IBY-v5LhluT-9w,Big Gumbas,33.4059958,-111.92586159999999,2107 S Rural Rd,3.0,TEMPE,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+877,6xbQJ3VdB5a0pZklDjHjCQ,Villa Italian Kitchen,33.3831468,-111.96472539999999,5000 S Arizona Mills Cir,2.5714285714285716,TEMPE,0,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+878,lx_HJMFpKEZW-e9_-LyuQg,Panera Bread,33.3613225565,-111.91028751399999,1825 E Guadalupe Rd,2.676470588235294,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+879,aw7i9IpuQHTa3VdNRMJFpQ,Firehouse Subs,33.3831468,-111.96472539999999,"5000 S Arizona Mills Cir, Ste 655",1.0,TEMPE,0,average,,,,,,,0,0,0,0,0,0,0,1,0,0
+880,7y8wJmvouRJSXgpUw94wYA,McDonald's,33.4215174,-111.9102085,1785 E University Dr,2.04,TEMPE,0,,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+881,O3swSW2vRXaPrfe0G00ngw,Denny's,33.4070950406,-111.959776282,1343 W Broadway,2.888888888888889,TEMPE,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+882,LXKVQdkTXW--JcB3ahZ9AQ,Nighttime Nosh,33.4242268,-111.89980039999999,625 S Smith Rd,4.642857142857143,TEMPE,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+883,AqYLbchnIxVSBdUJuLVdrA,The Siamese Cat,33.380005600000004,-111.89350309999999,5034 S Price Rd,3.984126984126984,TEMPE,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,1,0,0,0
+884,U6IrfKFT88TV-cWkZb3ZDQ,Little Caesars,33.4072034,-111.927283,711 E Broadway,2.130434782608696,TEMPE,0,,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+885,hRL_qCrcu9UL773su0QabQ,Kabuki Japanese Restaurant,33.4329411363,-111.90560592799999,"2000 E Rio Salado Pkwy, #1051",3.651291512915129,TEMPE,1,average,,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+886,Iqu-RwRA4XfwILKQLKQZew,Pastries N Chaat,33.4223217,-111.92571029999999,"920 E University Dr, Ste 103",3.725,TEMPE,0,,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+887,KEwpIojt2zYIIt47FTlGCA,Shawarma Stop,33.41486810000001,-111.89727690000001,2070 E Apache Blvd,4.851063829787234,TEMPE,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+888,s6oqPVuLpDRoKnrfFdRIxQ,Garcia's Mexican Restaurants,33.3836219,-111.9276757,4400 S Rural Rd,3.08,TEMPE,0,average,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+889,Pj9DDbTmjBEKXezLb0qmTw,Bp Street Cafe,33.406601,-111.9075196,"1845 E Broadway Rd, Ste 127",4.152380952380953,TEMPE,1,quiet,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+890,9XkK3G5juzkCeiQn_99V2g,Filiberto's Mexican Food,33.4151109,-111.9180356,1270 E. Apache Blvd,2.807017543859649,TEMPE,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+891,6q7TLSWByKGeIkt1HYBUgw,Black Bear Diner,33.3473696052,-111.963769756,7700 S Priest Dr,3.1171875,TEMPE,0,average,,False,False,False,False,False,0,1,0,0,0,0,0,0,0,0
+892,W39H8GlLXXj6X8E6fgrQ-A,Subway,33.3932894,-111.9770216,2714 W Southern Ave,3.0,TEMPE,0,loud,,False,False,False,False,False,0,0,0,0,0,0,0,1,0,0
+893,dDZqtA1me453GrMtpcpYOQ,Jimmy John's,33.3792519,-111.92994240000002,5128 S Rural Rd,3.0344827586206895,TEMPE,0,very_loud,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+894,Y_3wdqZUoi8qyW7ZugIQNw,Chick-fil-A,33.421667,-111.940894,25 W University Dr,3.610526315789474,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+895,bFfWZ4TEyejefj4yk41M5Q,Bite Me Subs,33.4075797,-111.94710890000002,528 W Broadway Rd,3.675324675324675,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+896,QMaaLfedGzNhHz6PZKAUkw,Filiberto's Mexican Food,33.407825300000006,-111.9578506,1250 W. Broadway Rd,1.99009900990099,TEMPE,0,quiet,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+897,Jm8q8_hOH8VPmLSTMqF9vA,El Pollo Loco,33.378719,-111.90965459999998,5130 S Mcclintock Dr,2.6052631578947367,TEMPE,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,1,0,0
+898,6KgGE8B1RsR7jc9R5nuH0Q,Ruby Tuesday,33.422191999999995,-111.93961499999999,4 E University Dr,2.25,TEMPE,0,,,,,,,,0,1,0,0,0,0,0,0,0,0
+899,JhEtJbGjAqKDHCZ11i3qoQ,YC's Mongolian Grill,33.394965,-111.909476,3206 S McClintock Dr,4.238317757009346,TEMPE,1,average,,False,False,True,False,False,0,0,0,0,0,1,0,0,1,0
+900,q4eeqVYRrO--vFFr3pBuNw,Taco Bell,33.320513149499995,-111.92997705299999,9960 S Rural Rd,2.3333333333333335,TEMPE,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,1,0,0
+901,jCg6MSfu3fgXxO2QrpDV7w,Li's Asian,33.347939000000004,-111.91216680000001,"7650 S McClintock Dr, Ste 112",3.8450704225352115,TEMPE,0,average,,False,False,True,False,False,0,0,0,1,0,1,0,0,0,0
+902,OmGErC2xoH6AJcGMwT_3WQ,Manuel's Fine Mexican Food,33.406875899999996,-111.956194,1123 W Broadway Rd,3.111111111111111,TEMPE,0,,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+903,n2HkJt3y4Uvwex5AT5IeRA,McDonald's,33.407032199999996,-111.9586534,1325 W Broadway Rd,2.125,TEMPE,0,very_loud,True,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+904,hyRJgq519Xa_HjhZb6M5JA,Taco del Mar,33.393162800000006,-111.9080584,1804 E Southern Ave,3.4285714285714284,TEMPE,0,,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+905,A_mXYtarKK_N2XbyU52k_A,Pho Tempe,33.4074267,-111.90991229999999,"1731 E Broadway Rd, Ste 1",2.57,TEMPE,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+906,DTvcpHf2gGKgSujUVXA7sA,Qdoba Mexican Grill,33.3790526,-111.9292561,5150 S Rural Rd,3.2280701754385963,TEMPE,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+907,RQ07VP-YioitUWlM-PbIFA,Bamboo Grill Yard,33.40789214,-111.95391900799999,"930 W Broadway Rd, suit 10",2.3333333333333335,TEMPE,0,quiet,,,,,,,0,0,0,0,0,1,0,0,0,0
+908,kPi1prVK54oQcUp1qKcSKw,Cousins Subs,33.395973600000005,-111.9396492,3118 S Mill Ave,2.857142857142857,TEMPE,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+909,ApeTrSttf8f4KUrBVtcKgw,Jimmy Hula's,33.4076979103,-111.957163542,1202 W Broadway Rd,4.020618556701031,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+910,J8RCVmyCB35fFdPKiC0cBA,Little Caesars,33.3220828791,-111.92910852,"9880 S Rural Rd, Ste B108",3.6666666666666665,TEMPE,0,,,,,False,,,0,0,1,0,0,0,0,0,0,0
+911,75ibA4xCKllkq97xsSe1Jw,Suki Hana,33.3831468,-111.96472539999999,5000 S Arizona Mills Cir,3.1666666666666665,TEMPE,0,average,,,,,,,0,0,0,1,0,0,0,0,0,0
+912,m1krp3dyJorAbV0HQC-TRQ,Urban Campfire,33.4220136,-111.9258172,921 E University Dr,3.2857142857142856,TEMPE,0,,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+913,q3iohdSxqYerc_0uBOvcQw,McDonalds,33.348789670100004,-111.963597136,1401-1525 W Elliot Rd,1.4666666666666666,TEMPE,0,,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+914,RCX3zz86OvwqLCr6X290EQ,The Original Hoagie Shop,33.421211199999995,-111.96019869999999,"1335 W University Dr, Ste 2",3.945945945945946,TEMPE,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+915,0HgLKI1T9WT3hJXskDtUrQ,Tea Swirl,33.4227177,-111.925843,"725 S Rural Rd, Ste 117",4.1525423728813555,TEMPE,1,,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+916,Dqzkdf0sz8lm9AFjfsDmIw,The Keg Steakhouse + Bar,33.4325515877,-111.90712451899999,23 S McClintock Dr,3.9433333333333334,TEMPE,1,average,,False,False,True,False,False,0,0,0,0,1,0,0,0,0,0
+917,UcVAkJIpGKnha1dzszep8g,McDonald's,33.393265899999996,-111.97777830000001,3255 S 48th St,2.3076923076923075,TEMPE,0,loud,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+918,YmOWkved7K8q3eXgf4NNnA,Ncounter,33.4272158793,-111.94023002700001,"310 S Mill Ave, Ste A101",3.9208400646203554,TEMPE,1,average,,True,False,True,False,True,0,1,0,0,0,0,0,0,0,0
+919,O_cvS8uAocco3R3Pg9np-g,Smile Lao Thai,33.4059958,-111.92586159999999,2107 S Rural Rd,4.206666666666667,TEMPE,1,average,,False,False,True,False,False,0,0,0,0,0,0,1,0,0,0
+920,iNbAht5CVY4KH_cympbHMA,Fired Pie,33.4221752,-111.945369,414 W University Dr,4.088888888888889,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+921,fSJFRzOF92gBuJ2ePitCEQ,Flame Broiler,33.407148498000005,-111.96546893600001,"1537 W Broadway Rd, Ste 105",4.05,TEMPE,0,average,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+922,IrXlXhmSHlIllxZSAARjLA,Flaming Kabob,33.421881,-111.925474,921 E University Dr,3.5794392523364484,TEMPE,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+923,_nB8HNT2IDRhlAoY9TPYew,Sushi Time,33.3784399134,-111.928999825,5136 S Rural Rd,3.75,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+924,ndQTAJzhhkrl1i5ToEGSZw,Oregano's Pizza Bistro,33.4216173426,-111.946675175,523 W University Dr,4.093457943925234,TEMPE,1,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+925,UZ34XAw1GJ3chCOuKL69Mg,Garcia's,33.3348350525,-111.912521362,1706 E Warner Rd,3.036144578313253,TEMPE,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+926,HwjhWHbNp56t-dRiv3-wPA,Phoenicia Cafe,33.4235278,-111.9368564,616 S Forest Ave,3.832460732984293,TEMPE,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+927,UVs04bUfNR95WZd_k2pncg,Caribou Coffee & Einstein Bros. Bagels,33.4226903,-111.92587240000002,725 South Rural Rd,3.5,TEMPE,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+928,WZIKjz9Pq50xOZUBfAebhw,Burger King,33.4215855,-111.9408399,25 W University Dr,1.5,TEMPE,0,average,,False,False,,False,False,0,0,0,0,0,0,0,1,0,0
+929,v8QuF4YX9Bb-qEtKLVPrmA,Buffalo Wild Wings,33.423573499999996,-111.9258327,"705 S Rural Rd, Ste 101",2.635593220338983,TEMPE,0,loud,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+930,M9N2eaO8PkT7MHGLLA6V3Q,Panda Express,33.3831468,-111.96472539999999,"5000 S Arizona Mills Cir, Ste 645",2.0,TEMPE,0,,,False,False,,False,False,0,0,0,0,0,1,0,1,0,0
+931,W9NUdpRX7gLXHLM2-NeKeA,SakeBomber Sushi & Grill,33.407104700000005,-111.91146540000001,1705 E Broadway Rd,3.750943396226415,TEMPE,1,average,,False,False,True,False,False,0,0,0,1,1,0,0,0,0,0
+932,2Ne7F6TMuUdRUGhyjj7abg,Fry's Food Stores,33.3938451,-111.941346,3232 S Mill Ave,3.2758620689655173,TEMPE,0,,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+933,kPBJwCX3CW5ejO6jdMgTwQ,Mika's Greek,33.394867,-111.9406085,3118 S Mill Ave,4.674418604651163,TEMPE,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,1
+934,8jm_9vT-tGT-rFe-XckCqA,Final Round Sports Bar & Grill,33.3794391,-111.9403504,"5030 S Mill Ave, Ste D20-21",3.7796610169491527,TEMPE,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+935,OuRmSRMJMgbKWkB0IcUveA,Burger King,33.4070289,-111.9083111,2011 S McClintock Dr,1.875,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+936,qspzfqFNq0iXqsW2QrDB2Q,McDonald's,33.3632982,-111.9453551,475 W Guadalupe Rd,2.375,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+937,JyaVTsBrys7l73o9eTI3Ag,Hassayampa Dining Center,33.4162446912,-111.92867465799999,720 E Apache Blvd,2.0,TEMPE,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+938,Sg9R6OwNBq5Zf-kjiVBxuw,Public House On Sixth,33.4241272,-111.9405173,"640 S Mill Ave, Ste 140",2.9130434782608696,TEMPE,0,average,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+939,1_v_fooGLY3FQkO5tH3m-A,Gameworks,33.383123,-111.96448500000001,"5000 S Arizona Mills Cir, Ste 669",2.4819277108433737,TEMPE,0,very_loud,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+940,_GcAYVlZtzmruRQ128KJnA,Barro's Pizza,33.3353841,-111.9270761,1006 E Warner Rd,3.6666666666666665,TEMPE,0,average,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+941,biVQDp3K_vNP1eK5wGZOJg,Kabab Palace,33.349623236,-111.94730327100001,"710 W Elliot Rd, Ste 108",3.528985507246377,TEMPE,0,average,False,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+942,LjTK9yifZBHgj2HZn8Znww,Vine Tavern & Eatery,33.349116200000005,-111.9265922,975 E Elliot Rd,3.5272727272727273,TEMPE,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+943,CyCa2Oco5NjPZhxA2h_TjA,Costantino's Italian Kitchen,33.4278869,-111.90711499999999,1836 E 3rd St,2.0,TEMPE,0,average,,,,,,,0,0,1,0,0,0,0,0,0,0
+944,PDAVTbXvP9yDlID8lk6L8A,Jersey Mike's Subs,33.348559911399995,-111.95962004399999,1325 W Elliot Rd,3.4166666666666665,TEMPE,0,,,,,,,,0,0,0,0,0,0,0,1,0,0
+945,44zSIjPU09F2UBYUn_KZ3Q,Salazar Bros Mexican Food,33.3792202,-111.9767429,2700 W Baseline Rd,3.9,TEMPE,0,average,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+946,EyE2NntpQyVPaLX7gSC9dA,Sa Bai On The Fly,33.4080148,-111.91048729999999,1740 E Broadway Rd,4.198275862068965,TEMPE,1,average,,False,False,True,False,False,0,0,0,0,0,0,1,0,0,0
+947,0BbRoMwVTZgYV1oqgtsHOw,Moonshine Whiskey Bar & Grill,33.426706,-111.9413378,410 S Mill Ave,2.566265060240964,TEMPE,0,very_loud,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+948,_YfwjvhsqDPLow4775ZFEg,Horse & Hound Sports Grill,33.4082862,-111.91687340000001,1320 E Broadway Rd,3.44,TEMPE,0,very_loud,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+949,_NQxJx-69on26wDXaaEDlQ,Wendy's Old Fashioned Hamburgers,33.3347856763,-111.912693339,1741 E Warner Rd,1.75,TEMPE,0,average,,False,False,,False,False,0,0,0,0,0,0,0,1,0,0
+950,yvQ7kLhXUTvvio8N1xWfkA,Diablo Deli & Grill,33.398016600000005,-111.97007409999999,2900 S Diablo Way,3.5,TEMPE,0,loud,,,,,,,0,0,0,0,0,0,0,0,0,0
+951,5MxHxh4O5BgpQuuPBElvWg,Palm Beach Middle Eastern Restaurant,33.4082094073,-111.917213034,"1320 East Broadway Rd, Ste 101",3.9444444444444446,TEMPE,0,quiet,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+952,VEorEVsg8z7Ame1oSYNBdA,MOD Pizza,33.4331023,-111.90273059999998,"2000 E Rio Salado Pkwy,, Suite 1026",4.875,TEMPE,0,,,False,False,,False,False,0,0,0,0,0,0,0,1,0,0
+953,UBv8heCQR0RPnUQG0zkXIQ,Biryani House,33.4153283,-111.91827859999998,"1250 E Apache Blvd, Ste 113",3.260869565217391,TEMPE,0,quiet,,,,,,,0,0,0,0,0,0,0,0,0,0
+954,MedWQ7ljpXnfyNnXPZaBmA,Classic Italian Pizza,33.362375199999995,-111.9112366,6434 S McClintock Dr,3.7160493827160495,TEMPE,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+955,dnB7SD38_lwiC9E-BJxq-Q,Squarz Bakery & Cafe,33.348714,-111.92668290000002,"975 E Elliot Rd, Ste 103",4.72,TEMPE,1,quiet,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+956,RN0PTeMSF_eaeXN6VV7RwA,RA Sushi Bar Restaurant,33.4260009878,-111.93982601200001,"411 S Mill Ave, Ste 103",2.9913793103448274,TEMPE,1,very_loud,False,False,False,True,False,True,0,0,0,1,0,0,0,0,0,0
+957,KfxPrJ5PzgFRm2XltnbBLQ,Passage To India,33.3486583,-111.9277442,909 E Elliot Rd,3.745945945945946,TEMPE,1,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+958,thR2m3O_PBCCbc5nZSF1Pg,Minder Binder,33.422746999999994,-111.9082,715 S Mcclintock Dr,3.3653846153846154,TEMPE,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+959,u92upJ5hzfE50tM90-iU0w,Buon Gusto Gourmet Pizzas & Salads,33.3350535,-111.9445749,"440 W Warner Rd, Ste 101",4.148148148148148,TEMPE,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+960,hVC6E29dg5Rx4ADSxt3kTA,Restaurant Mexico,33.4259416,-111.939699,423 S Mill Ave,3.3594771241830066,TEMPE,0,average,,False,False,True,False,True,1,0,0,0,0,0,0,0,0,0
+961,5zva2MTtB5IX6TaoVLL-NA,Zorbas Grill,33.3350994,-111.9445965,440 W Warner Rd,2.6666666666666665,TEMPE,0,,,,,,,,0,0,0,0,0,0,0,0,0,0

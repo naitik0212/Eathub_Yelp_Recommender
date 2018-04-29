@@ -1,0 +1,89 @@
+{	//graph_dict = {}
+  "name": "Cuisines",
+  "children": [ // graph_cuisne_array = []
+    {	// one_cuisine_dict = {}
+      "name": "Mexican",
+      "id": "Mexican", 
+      "children": [	 // one_cuisine_array = []
+        { //one_restaurant_dict = {}
+          "name": "Rest1",
+          "children": [ //one_restaurant_array = []
+            {"name": "Rest1", "size": 3938, "id": "asad"} // restaurant_name_size = {}
+          ]
+        },
+        {
+          "name": "Rest2",
+          "children": [
+            {"name": "Rest2", "size": 3534, "id": "asad"}
+          ]
+        },
+        {
+          "name": "Rest3",
+          "children": [
+            {"name": "Rest3", "size": 7074, "id": "asad"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chinese",
+      "id": "Chinese",
+      "children": [
+        {
+          "name": "Rest4",
+          "children": [
+            {"name": "Rest4", "size": 3938, "id": "asad"}
+          ]
+        },
+        {
+          "name": "Rest5",
+          "children": [
+            {"name": "Rest5", "size": 3534, "id": "asad"}
+          ]
+        },
+        {
+          "name": "Rest6",
+          "children": [
+            {"name": "Rest6", "size": 7074, "id": "asad"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Punjabi",
+      "id": "Punjabi",
+      "children": [
+        {
+          "name": "Rest7",
+          "children": [
+            {"name": "Rest7", "size": 3938, "id": "asad"}
+          ]
+        },
+        {
+          "name": "Rest8",
+          "children": [
+            {"name": "Rest8", "size": 3534, "id": "asad"}
+          ]
+        },
+        {
+          "name": "Rest9",
+          "children": [
+            {"name": "Rest9", "size": 7074, "id": "asad"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StreetFood",
+      "children": [
+        {"name": "Rest10", "size": 4116, "id": "asad"}
+      ]
+    },
+    {
+      "name": "American",
+      "children": [
+        {"name": "Rest11", "size": 1082, "id": "asad"}
+      ]
+    }
+  ]
+}

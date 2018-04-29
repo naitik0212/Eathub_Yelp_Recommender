@@ -1,0 +1,369 @@
+	address	RestaurantID	Checkins	Recommended	Name	range	Rating	Reviews
+0	627 E Green St	kyXEnWKQGWSThY6EcjORuw	195.0	Must Visit!	Zorba's Restaurant	4.0	3.9	109
+1	39 E Green St	gEJZ5USuvC1r8_QvSvDCNA	82.0	Worth Visiting	K-Bowl	4.0	3.7	50
+2	2110 N Prospect Ave	aFJ8NSdpJi9LcaMm6ICowQ	52.0	Its your say finally!	Burger King	2.0	1.5	14
+3	1905 S Neil St	qQu--8A6Ic0rytLfI1r4dg	15.0	Its your say finally!	Wendy's	2.0	1.7	3
+4	705 N Neil St	fY0Dpw5a3i1CMjMuT2SaDQ	7.0	At your own risk	Holy Land Mediterranean Grill	4.0	3.6	27
+5	1 E Main St, Ste 101	dn9lwYUxmhs_mLKPu7L25Q	504.0	Jewel of a place!	Big Grove Tavern	3.0	3.5	286
+6	612 E Daniel St	a1sp-PiwbAthYG1JR8NfLg	41.0	Its your say finally!	Silver Mine Subs	4.0	3.6	18
+7	2402 N Prospect Ave	KGpsB2dsdkxl8SGVUlJbZw	101.0	At your own risk	Outback Steakhouse	3.0	3.2	47
+8	1502 N Prospect Ave	9zGkU1ahmYCn3DlnKOXhqA	41.0	Its your say finally!	Arby's	4.0	4.3	3
+9	421 Town Center Rd	o9nGD3J0btXjE9M6IdgZTA	72.0	At your own risk	McAlister's Deli	3.0	3.0	45
+10	2 E Main St	F1qPjasn0R6-j8sa6iYNmA	242.0	Worth Visiting	Guido's Bar & Grill	3.0	3.0	102
+11	607 S 6th St	1qQ5VkxiBUjbGGdpBN-PUQ	44.0	Its your say finally!	Spicy Tang	3.0	2.7	17
+12	201 N Neil St	hP2DOm7E2H4P7MOS7XN_SQ	38.0	Worth Visiting	Hamilton Walker's	3.0	3.1	106
+13	616 E Green St	SViPlfsmwqvWNxZuVOgOMQ	31.0	Its your say finally!	Subway	2.0	2.3	10
+14	2501 Village Green Pl	JoHDOuZ1BnFi63PgC_zYeQ	5.0	Its your say finally!	Amaravati  Indian Royal Cuisine	3.0	3.4	11
+15	1 E Main St	-LfTBo0oa_uD454ScEW2XA	119.0	At your own risk	Merry Ann's Diner	3.0	3.2	46
+16	2225 S Neil St	lZ0W0-pQyS35ahsrZezNiw	15.0	At your own risk	Natural Gourmet	5.0	4.8	8
+17	2301 North Prospect Avenue	9HP13JaP9nmN3qX5v0jamw	69.0	Its your say finally!	Ruby Tuesday	3.0	2.9	32
+18	33 E Green St	sYf2auhosrx8trbyP9nGyw	50.0	At your own risk	DP Dough	3.0	3.0	50
+19	623 E Green St	yLKoESPQ8BN7dn6ADzZicQ	73.0	At your own risk	Casablanca Kabab House	3.0	3.4	42
+20	100 Trade Centre Dr	SvxSoyZn0WW0c7bFLIYfMA	27.0	At your own risk	Baxter's American Grille	4.0	4.1	31
+21	1901 N Prospect Ave	nsSfCKW9KDB4COj9bzXApw	176.0	At your own risk	Red Lobster	3.0	3.0	48
+22	901 W Anthony Dr	_zviKOPGw65MAnNjzFXSug	3.0	Its your say finally!	Lone Star Steakhouse & Saloon	3.0	3.0	3
+23	100 Trade Centre Dr, Ste 1	rQX6RVr6E4Zg9hx8GBFGHQ	26.0	Its your say finally!	TGI Friday's	3.0	3.1	16
+24	528 E Green St, Ste 101	kUICYu0N_TbtCz0Z8ynPFw	217.0	Worth Visiting	Chipotle Mexican Grill	3.0	3.1	73
+25	2501 Village Green Pl	uzpdcxvlKx5BuoWU3NRHbA	50.0	At your own risk	Minneci's at the Crossing	3.0	3.3	41
+26	408 E Green St, Ste 1	Z2W3K8x9cRGXvlGWerZH-w	3.0	Its your say finally!	Big Mouth's	3.0	2.9	19
+27	55 E Green St	8GUMO244E8CxfJcyJIWFOA	84.0	Worth Visiting	El Charro	4.0	3.8	54
+28	601 N Country Fair Dr	QayRAyqw0tvQR27rqLxPFQ	14.0	At your own risk	Leadbelly's	5.0	4.8	4
+29	2000 N. Neil Street, Space 706	Mc9sMBVNi53lqxHLCiLWiA	28.0	Its your say finally!	Taco Bell	2.0	2.5	6
+30	1605 S Neil St	CObgcxFJuEXZZpm4Mw3z1A	111.0	Its your say finally!	McDonald's	2.0	2.3	19
+31	116 N Neil St	PTQVaWA-I5ZLzwy5oBbVMg	323.0	Must Visit!	Pekara Bakery and Bistro	3.0	3.4	141
+32	907 W Marketview Dr, Ste 8	Bfh_ON-LQUcJerjcDF5KNA	18.0	At your own risk	Best Wok	4.0	3.9	20
+33	601 S 6th St, Ste 104	oD1PPb-TfMIkkg77u1zCAw	6.0	At your own risk	Salad Meister	5.0	4.8	13
+34	1211 S Mattis	I2EHSRP50SXxvfoWc8MIWw	23.0	Its your say finally!	Little Caesar's Pizza	3.0	2.8	6
+35	907 West Marketview Drive	3B74iILT_W1ptfQeW7pIYQ	162.0	Its your say finally!	Buffalo Wild Wings	3.0	2.5	33
+36	1511 W Springfield Ave	R32Yh0XxxanldkIp11fuRg	18.0	At your own risk	BoBo's BBQ	3.0	3.2	36
+37	211 N Neil St	S_9OaE_RBWBIXnUKvxJKsQ	139.0	Must Visit!	Watson's Shack & Rail	4.0	4.0	125
+38	2501 N Prospect Ave	5jXwI9WpDxGDmzmkmE0RTg	199.0	Worth Visiting	Oishi	3.0	3.2	103
+39	1713 W Kirby Ave	TpxCGW68bkqS5T0wnurOfw	4.0	Its your say finally!	Subway	2.0	2.3	3
+40	1401 S Neil St	NpNSOfnPxJKa8_qh83NArw	6.0	Its your say finally!	Subway	1.0	1.4	7
+41	32 E Chester St	L2c-qKZWumCmOCR-dqBLrg	720.0	Jewel of a place!	Seven Saints	4.0	3.9	288
+42	2101 N Prospect Ave	hHVovM_cr6GSrjDTyWfsuQ	8.0	Its your say finally!	Cheddar's Casual Cafe	3.0	3.4	5
+43	132 W Church St	0-WocGTpO3Zm4q1Zzz49Rw	227.0	Must Visit!	Sushi Kame	4.0	3.6	131
+44	512 S Neil St	u_MdwAj7eGenc0YhqQy6nA	20.0	Its your say finally!	Wingstop	3.0	2.6	34
+45	39 E Green St	RdwJXTQo3Ez9DAbGpybl_w	1.0	Its your say finally!	Six Minute Chinese	1.0	1.2	8
+46	1905 S Neil St	nG59soBP2SaQ25rf2n-0bA	123.0	At your own risk	Atlanta Bread	3.0	3.0	44
+47	904 N 4th St, Ste B	k441Clzdv9Ia4QZanEne3g	26.0	Worth Visiting	Wood N' Hog Barbecue	5.0	4.6	28
+48	1813 N Neil St	5uvf3QpmrdU2aiqmF4278A	80.0	Its your say finally!	Bob Evans	3.0	2.8	30
+49	410 E Green St, Ste 3	rwuMWGqt7L5l5lDsOYv1dw	7.0	At your own risk	Zyggyz	4.0	3.7	26
+50	134 W Church St	RofPcfgxItpYw1eQ3e1Hjw	41.0	At your own risk	Nitaya Thai Restaurant	3.0	3.1	51
+51	115 S 1st St	O4-tpRbaMfrdx_okiVAbaw	3.0	Its your say finally!	Manzella's Italian Patio Restaurant	3.0	3.0	30
+52	703 S Neil St, Ste A	ks6JgGsz7phkGEVh9hoHkg	1.0	Its your say finally!	Little Caesars Pizza	2.0	2.0	4
+53	410 East University Ave, Ste 101	Zjv2tMXDaIGd-13tgOoKAA	8.0	At your own risk	Hybrid Fit Food	4.0	4.4	9
+54	401 S 1st St	EoPd4SI9-mnkyb2CJcgkLA	27.0	At your own risk	Minneci's Ristorante	3.0	3.4	34
+55	1753 West Kirby Avenue	hPc-mAHv4jfKeXqOxYJuAw	23.0	Its your say finally!	Papa Murphy's	3.0	3.2	8
+56	415 N Neil St	vqEtZ7CtNB9G8WMzjwJA2g	127.0	Must Visit!	Wedge Tequila Bar & Grill	3.0	3.3	120
+57	510 E John St	ky0cUgRt1Bye3cxgxXpgYA	8.0	Its your say finally!	Fire Station Pizza and Pub	2.0	1.8	12
+58	617 E Green St	MpAhuv_BBhYHDElgx1pD4g	29.0	Its your say finally!	Qdoba Mexican Grill	2.0	2.2	15
+59	411 E Green St	b8iHKolCsC4ZTM8X9-L01A	10.0	Its your say finally!	Pizza Hut	2.0	2.4	14
+60	103 W Kirby Ave	bVt5eOVdpZzg83qlW9Rl2g	38.0	At your own risk	Monical's Pizza	4.0	3.5	25
+61	2502 Village Green Pl	7m8MoWuudrxU98fEw7iBIw	14.0	At your own risk	Sairam Om	4.0	3.9	18
+62	906 W Town Center Blvd	Hw0hdZnM7z5uBTwbW8jHMA	67.0	At your own risk	Penn Station	4.0	3.7	18
+63	2006 W Springfield Ave	FUr2uEolARu7rv2TQYKPqg	129.0	At your own risk	Za's Italian Cafe	3.0	3.2	49
+64	2312 W Springfield Ave	Frbldz6phswVyMNvwherhA	195.0	Must Visit!	My Thai	4.0	3.6	93
+65	2145 S Neil St	EKQiKd7EMZjsa4JokFaeAg	6.0	Its your say finally!	China King	4.0	3.8	14
+66	403 E Green St	-zEpEmDfFQL-ph0N3BDlXA	2372.0	Jewel of a place!	Sakanaya Restaurant	4.0	4.3	314
+67	49 E Green St, Ste B	mvhokWwVKgfE-koLlc4VEw	3.0	Its your say finally!	Auntie Lee's Chinese Kitchen	3.0	2.7	19
+68	2101 N Prospect Ave	bkh5o6bCzDCovSkRYBsU1w	105.0	At your own risk	LongHorn Steakhouse	3.0	2.9	56
+69	711 S 6th St	OyBStpjF5e_iRCMXflFasQ	43.0	At your own risk	Evo Cafe	2.0	2.5	53
+70	910 W Bloomington Rd	4SGa5HFu7Q4rrsAAWJa-ew	45.0	Its your say finally!	Popeyes Louisiana Kitchen	3.0	3.0	28
+71	522 E Green St	UUsS7SrTQQ2AvvpslfrvFA	211.0	Worth Visiting	Legends	3.0	3.4	75
+72	2909 W Kirby Ave	tCCBl_sHPQsJg37g2fjRpA	90.0	Its your say finally!	McDonald's	1.0	1.5	11
+73	912 1/2 W Bloomington Rd	hvPPw19VdGRsOEkxgyD7tg	263.0	Jewel of a place!	Thara Thai	4.0	4.2	172
+74	912 W Bloomington Rd	PUe3Oz-VAPMXbu_zQ51dYQ	5.0	Its your say finally!	Guadalajara Bar & Grill	4.0	3.5	14
+75	1811 W Kirby Ave	doEpdTg3l55-IWemTlG3tg	38.0	Its your say finally!	Jimmy John's	3.0	2.9	17
+76	1804 Sangamon Dr	ltqvLrYq9QjeQjQ1NlqLcA	14.0	Its your say finally!	Ming Garden	4.0	3.6	13
+77	40 E Springfield Ave	cjdX2cwSmp47ia47V3YySg	2.0	Its your say finally!	Layalina Mediterranean Grill	4.0	3.9	11
+78	2501 Village Green Pl	L57D-jGExAu6HwjByT8BOQ	13.0	Its your say finally!	Uncle Jack's Family Restaurant	4.0	3.6	9
+79	1913 W Springfield Ave	yRKrMWQxQaMeR18s5ajcYw	25.0	Its your say finally!	Arby's	2.0	2.5	4
+80	627 S Wright St	tQaIWc9qeiB1IU163LKlAw	7.0	Its your say finally!	Panda Express	3.0	3.2	17
+81	301 N Neil St	-fiUXzkxRfbHY9TKWwuptw	822.0	Jewel of a place!	DESTIHL Restaurant & Brew Works	4.0	3.8	490
+82	2041 S Neil St	C3d4HqDjWq9e_0cPfmPykg	27.0	Its your say finally!	Moe's Southwest Grill	3.0	3.4	21
+83	4910 N Market St	m8qGdllgcUSqZmcryQWM9A	7.0	Its your say finally!	McDonald's	1.0	1.3	3
+84	43 E Green St	dKncjeWnvdqYiNC8l26fog	29.0	Its your say finally!	Jimmy John's	3.0	3.2	17
+85	30 E Anthony Dr	7B-suS0RHxqxZBBfVfiPLA	218.0	At your own risk	Olive Garden Italian Restaurant	3.0	2.9	58
+86	607 S 6th St	vAUDxhbsWZKI8NJlsYwCMA	133.0	Worth Visiting	Flat Top Grill	3.0	2.8	86
+87	402 E Green St, Ste A	jKxES7iLV63H_PfyGVGIDw	176.0	Must Visit!	Lai Lai Wok	4.0	4.1	101
+88	1805 S Neil St	EmezZdxbvjydG5FkN6Mecw	9.0	Its your say finally!	Fiesta Ranchero	2.0	2.0	4
+89	10 E Chester St	CrIWqmuO2uQWwl3z11K_BA	71.0	Must Visit!	Pizzeria Antica	4.0	3.8	101
+90	505 E Green St	w2xwgqHM7dJlHfyu4ouhBg	47.0	Worth Visiting	Azzip Pizza	4.0	4.5	50
+91	404 E Green St	_zCwyuW5XrRKw8oK8EM49A	20.0	Its your say finally!	Burrito King	3.0	3.4	23
+92	, 508 E Green St	o-xFcSeSycAfqplklC222Q	8.0	Its your say finally!	One World Pizza	4.0	3.7	13
+93	301 N Neil St	VHsNB3pdGVcRgs6C3jt6Zg	148.0	Must Visit!	Dublin O'Neil's	3.0	3.4	121
+94	113 N Walnut St	jeTfL2kCyBtmFGSrSQHqVw	194.0	Must Visit!	Bacaro	4.0	4.0	150
+95	1407 S Neil St	Pj8n8jDPRdXi7RdOABJkWA	2.0	At your own risk	Amano's Pizza	5.0	4.7	10
+96	301 E Green St	CKqHfvcqx73-Uz0xGMHL6Q	16.0	At your own risk	Wingin Out	3.0	3.0	33
+97	6 E Columbia Ave	e9shtyZ7-9GYcbPIVV--XQ	161.0	Must Visit!	Escobar's Restaurant	4.0	3.9	147
+98	1501 S Neil St	Icj9QzQxqvzOmPm_liAq1Q	74.0	At your own risk	Hilton Garden Inn	4.0	3.6	34
+99	403 W Kirby Ave	bQ8ndy52Rcdv3uYvoJWQ_w	46.0	At your own risk	Seaboat	3.0	3.4	47
+100	313 N Mattis Ave	xeN57OX3lJfY96nfEx63fg	45.0	At your own risk	Garcia's Pizza In A Pan	3.0	3.0	37
+101	630 S 5th St	B9W60PTxn7XOZfk4BiTvyw	10.0	At your own risk	BrewLab Coffee	5.0	4.7	11
+102	706 S 5th St	uvVOuCbo4_5z_J5WJVG4QQ	114.0	At your own risk	Joe's Brewery	3.0	3.1	44
+103	302 S 1st St	RTmIbq33chUSa-etGiF8Lg	64.0	Worth Visiting	Bombay Indian Grill	4.0	3.6	58
+104	2501 N Prospect Ave	i9M6oO2LMUrrEytHnHjyLA	1.0	Its your say finally!	Kaiyo Japaneese Restaurant	4.0	3.7	15
+105	508 E Green Street	NXERVbjRdwe0Deg4d_fVlA	26.0	Its your say finally!	Koto Ramen	2.0	1.9	30
+106	308 E Green St	MV2sYTXcBz7bH4a960ac7w	38.0	Its your say finally!	IHOP	2.0	2.4	13
+107	705 N Neil St	62Ibju8UmUZtPIBLDS_nUw	1.0	Its your say finally!	Tasty Fish Chicken & Grill	3.0	3.3	6
+108	903 W Anthony Dr, Ste A	JbWQtVLQDEOBlvbVWk2OFg	213.0	At your own risk	Chipotle Mexican Grill	3.0	3.1	40
+109	601 N Mattis Ave	2BEJCBkNzOBXaydBJf5k0A	71.0	Its your say finally!	Sonic	3.0	2.8	16
+110	601 S 6th St, Ste 101	dtKy808TwAgtOcwSCbXFJw	62.0	Worth Visiting	Jipbap Taste of Korea	4.0	4.2	52
+111	2037 S Neil St	eJtmOfqwGj5sYKQrB01oWQ	33.0	At your own risk	Slim Chickens	3.0	3.0	47
+112	502 E John St	zp3rZNu-5qonTL3ByPYOUg	85.0	Worth Visiting	Fat Sandwich Company	3.0	3.3	84
+113	2506 Village Green Pl	zUayeEQ3_1fM_71X_1PdGQ	47.0	At your own risk	Let's Take a Seat: Thai Cuisine	4.0	3.6	30
+114	211 N Neil St	PGUuVJEzM0H-ZMB6m1D6Ig	215.0	Worth Visiting	Boltini Lounge	4.0	3.8	74
+115	308 N Randolph St	kNtToQSP_Y5U8tznLXuCaw	345.0	Jewel of a place!	Farren's Pub & Eatery	4.0	4.1	237
+116	301 N Neil St	XuByFsXXhnKmZ6hxucOj7A	99.0	Worth Visiting	301 Mongolia	3.0	3.3	59
+117	503 E John St	Tiu3iRXMlzEEI6Epp3I8lg	4.0	At your own risk	Cafe Sababa	5.0	5.0	5
+118	715 S Neil St, Ste A	WTu8B3igPYJlkJ2gHzrBYw	157.0	Worth Visiting	M Sushi & Grill	4.0	4.4	38
+119	2010 N Neil St	y2V42mxWvVoH4NvUT_n8eg	52.0	At your own risk	Red Robin Gourmet Burgers	3.0	2.6	54
+120	2028 N Prospect Ave	MRE5_phUbPZFcNOsBjIUyQ	4.0	Its your say finally!	HoneyBaked Ham & Cafe	4.0	3.8	5
+121	302 S Neil St	Q8kTugdx8Iw5AzRzz6qd8w	4.0	Its your say finally!	Chester's BBQ	4.0	4.3	7
+122	60 E Green Street	VIJ2KiDKhUVhhpNylEIfog	645.0	Jewel of a place!	Maize Mexican Grill	4.0	4.4	470
+123	505 S Chestnut St	b8zjLuBTk3SfqcNEMJUnDA	26.0	Its your say finally!	Fat City Saloon	2.0	2.3	3
+124	616 E Green St	SFh9uHtGR1lVPH2RTS2SWQ	35.0	Its your say finally!	McDonalds	3.0	3.0	21
+125	708 S 6th St	jK8PNNtv4RI6m-xd-tGjPQ	264.0	Worth Visiting	Firehaus	3.0	3.3	83
+126	1765 W Kirby Ave	S7TY9oCMqK-TffWrygetcw	140.0	Its your say finally!	Panera Bread	3.0	2.6	36
+127	1409 S Neil St	AtLv64FV-Pw6JuT3XUKU1g	9.0	At your own risk	Gumby's Pizza	4.0	3.6	41
+128	629 E Green St	abA0s0uxoeOn7zNm-1dDxw	158.0	Worth Visiting	Mia Za's Cafe	3.0	3.3	80
+129	301 N Neil St, Ste 104	boIILzBqhjWhq4G0BsB5_A	339.0	Must Visit!	Miga	4.0	3.9	135
+130	118 N Neil St	0FrYsoVHheQGoXEQsH2d2Q	300.0	Must Visit!	Aroma Cafe	4.0	4.2	124
+131	40 E Springfield Ave	gaR5jDvZsOC0RQeY-W1eqQ	136.0	Worth Visiting	Mas Amigos	4.0	4.2	59
+132	2000 N Neil St	BU44MZzM82yPiBhMyj9r7w	14.0	Its your say finally!	Sarku Japan	3.0	2.6	13
+133	1001 S Wright St	aKiE0aZ6vGyOlH-uVOHONw	15.0	At your own risk	The Y Eatery	4.0	3.7	31
+134	1510 S Neil St	wsuzuLD3KV7L8oMinLCI0A	116.0	Worth Visiting	Merry Ann's Diner	3.0	3.0	70
+135	2018 S Neil St	4hWDMVtfnpyY72_5QMbthA	34.0	Worth Visiting	Old Time Meat & Deli Shoppe	5.0	4.8	45
+136	301 S Mattis Ave	-hliqBp7tq7Z5XLaTLAXAg	19.0	Its your say finally!	Taffies Restaurant	3.0	2.6	16
+137	611 E Green St	DS3-yphtWDHAdXLtIoqdAA	14.0	Its your say finally!	The Pita Pit	4.0	3.7	3
+138	1511 N Prospect Ave	g_oOjzFgqmSEAD4crxBirA	34.0	Its your say finally!	Jimmy John's	2.0	2.5	12
+139	619 E Green St	BoTQepQTjGbTXA4g4Hj-WA	62.0	Worth Visiting	Antonio's Pizza	4.0	3.8	77
+140	106 E Green St	oYMsq2Xvzw6UbrIlMWjb-A	10.0	Its your say finally!	Papa John's Pizza	2.0	2.3	29
+141	103 W Marketview Dr	iO86eCaZJBHqi1sZ1ELk6A	97.0	At your own risk	TGI Fridays	3.0	2.9	51
+142	2506 Village Green Pl	zMcmS7YojvNbmJCa-iTSYw	6.0	Its your say finally!	Istanbul Mediterranean Cuisine	3.0	3.2	11
+143	119 N Walnut St	lWmDrnqgU6w3gFaJyn_1Uw	451.0	Jewel of a place!	Radio Maria	3.0	3.4	292
+144	415 N Neil St	epvLkQNL6MOvk3s6JlTntA	17.0	Worth Visiting	Carmon's Restaurant	4.0	3.7	45
+145	49 E Green St	YJ8Ehqq4Jr2_xmtRe5aXLQ	7.0	Its your say finally!	Mirsung	4.0	3.6	12
+146	601 S 6th St, Ste 105	Epr8Ft7LwYAzotFwxQX6uw	281.0	Worth Visiting	Latea Bubble Tea Lounge	4.0	3.9	56
+147	100 N Chestnut St	tqxS-gA5zhBvdI5lk7kDGg	27.0	At your own risk	Maize at the Station	4.0	4.1	23
+148	6 E Columbia Ave	m6nLTIrEJHtHSYJjVavnzw	170.0	Must Visit!	Kohinoor Indian Restaurant and Lounge	4.0	4.2	115
+149	803 W Anthony Dr	HvRWUE3yP3mY4mZiG6UtJg	163.0	At your own risk	Einstein Bros Bagels	4.0	4.2	10
+150	2502 Village Green Pl	1S6eB9Ag2VMx3Ab7LHORJw	51.0	At your own risk	Aroma Curry House	4.0	3.5	32
+151	2000 N Neil St	MA5R-mV6ljRM1MK6Mdiv5g	11.0	Its your say finally!	Panda Express	4.0	3.5	8
+152	505 S Neil St, Unit 4	Sp32-I-Ej0CBVJvFCghyPw	7.0	At your own risk	Fresh International Market	5.0	4.8	16
+153	1201 S Neil St	9A1C1f0m4nQltQrOOTl-Kw	28.0	Its your say finally!	Orange & Brew	3.0	2.8	38
+154	501 N Mattis Ave	beBdNA6cEuDLvrhTi_EjKQ	57.0	Its your say finally!	McDonald's	1.0	1.4	12
+155	515 S Neil St	5r-kh_n_ivSmkrfGMtbtog	8.0	Its your say finally!	Baskin Robbins	2.0	2.2	6
+156	2302 S Neil St	0Tiq09V_kdMFPa1cL6I0AA	103.0	Its your say finally!	Culver's	3.0	3.4	19
+157	134 W Church St	LyGab6ITDEMDI5E0YcC0Ng	40.0	Worth Visiting	The Himalayan Chimney	4.0	4.2	62
+158	905 S Neil St	ECKXHrl2GqNKRMG9jp4trg	44.0	At your own risk	Good Fella Korean Bistro	3.0	3.5	35
+159	2510 Village Green Pl	syP9qsN2-TiMbxh2zv1_NQ	48.0	At your own risk	Papa Del's Pizza At the Crossing	4.0	3.7	30
+160	109 N Walnut St	e0prCZXtHGQIKeQ_wTW3uw	562.0	Must Visit!	Cafe Kopi	4.0	4.0	158
+161	2504 Village Green Pl	ZxQlHVm0pj0ERqpwhEHc6w	63.0	Worth Visiting	San Maru	4.0	4.4	47
+162	611 E Green St, Ste B	cDGaMsCAx8guR1IUrxLxWA	94.0	Worth Visiting	Pho Cafe	4.0	4.1	45
+163	616 E Green St	cFp-Kr831uIA3F6o5aeV2Q	7.0	Its your say finally!	Sliders	2.0	1.8	12
+164	906 W Bloomington Rd	DysXlYb_WVlksoip8atIvQ	56.0	Its your say finally!	McDonald's	1.0	1.3	15
+165	508 E Green St	CPjWjKn4bj3QQFQ1nUlXUg	18.0	At your own risk	8F Ice Cream & Crepe	4.0	3.9	17
+166	320 N Chestnut St	pMiz7SP82Tknv1NbVqoSfg	319.0	Jewel of a place!	Black Dog Smoke & Ale House	4.0	4.0	185
+167	204 N. Country Fair Dr	NSzhahVpI_B32snhJHM0HA	273.0	Must Visit!	Texas Roadhouse	4.0	3.6	89
+168	401 E Green St	kj44upIDaMIPlYvsuweP4g	46.0	At your own risk	Geovanti's	3.0	3.3	33
+169	523 W Town Center Blvd	aqTdhZDTSjA42_Uh2E6V7A	55.0	At your own risk	Taco Loco	4.0	3.8	30
+170	2235 S Neil St	qeJnMI5RmyJ2TZvkqvjn6Q	273.0	Must Visit!	Biaggi's Ristorante Italiano	4.0	3.7	166
+171	216 S 1st St	_a6jhRFIgOe74U73T5B-Ww	86.0	Worth Visiting	Fiesta Cafe	4.0	3.8	77
+172	2504 Village Green Pl	d51qbs6CitHbFD--G-AEVw	14.0	Its your say finally!	Shanghai 1938	3.0	2.9	23
+173	2201 West Springfield Avenue	BKNPoWf3bQoxFWf-Kjt3wQ	28.0	Its your say finally!	KFC	3.0	3.0	5
+174	1703 S Neil St	r9xW1wXycs4MPpqB-Vknzg	47.0	Its your say finally!	Hardee's	2.0	2.3	15
+175	405 E University Ave	QdganL5AW9E_fNoRVroLig	136.0	Must Visit!	Golden Wok	4.0	3.8	107
+176	604 E Green St	mklo4H47YWK7f18YXTCEoA	404.0	Must Visit!	Murphy's Pub	4.0	3.7	107
+177	12 E Green St	6vVkSaymw-4MOTPh68HN3Q	11.0	Its your say finally!	Number One Wok	3.0	3.4	15
+178	2009 S Neil St	k6m3Msok7bto6biv5guEzg	18.0	Its your say finally!	Pancheros Mexican Grill	2.0	2.4	12
+179	1103 W Windsor	DO9Wp7zXwc2ZNEb8cXaqbg	22.0	At your own risk	Station 6 Pizza	4.0	3.8	23
+180	1902 Center Dr	UPCTlq-r-yZcWFFH2qOlWg	2.0	Its your say finally!	Ginger Asian Bistro	4.0	3.9	8
+181	2306 N Prospect Ave	6d82R41sVNDVS0I-c1Ghkg	79.0	Worth Visiting	Portillo's	4.0	3.6	87
+182	1737 W Kirby Ave	ezFZVzNCtPdFATNGzCumjw	12.0	Its your say finally!	Super Wok	3.0	2.8	6
+183	1609 W Springfield Ave	nyI3q0CseFbPbTobHuzgkw	59.0	Its your say finally!	Pia's Sports Bar & Grill	3.0	3.1	9
+184	39 E Main St	ODURDhURWmZr6b--O4nt3w	179.0	Must Visit!	Jupiter's Pizzeria and Billiards	4.0	3.8	96
+185	25 E Springfield Ave	hMgIF04rrJ7oB1lGIpFt5w	50.0	At your own risk	South China Restaurant	3.0	3.4	35
+186	6 E Taylor St	WDTzX_C2CbAwxBbqm-od6g	153.0	At your own risk	Cowboy Monkey	3.0	2.9	48
+187	1201 N Mattis Ave	S27XLKsX1B-scfdDQ4rTGQ	35.0	Its your say finally!	Hardee's	3.0	2.7	3
+188	102 E Green St	BvARTl3t-aztQ9HPKc9xGQ	7.0	Its your say finally!	Domino's Pizza	2.0	1.8	11
+189	900 W Bradley Ave	TjKE1Ji-XAdYDlxYMKvZAw	5.0	Its your say finally!	Krispy Krunchy Chicken	4.0	4.1	9
+190	1900 S First St	RQxLNvAra_MUUPHdhukilA	159.0	Worth Visiting	Houlihan's	3.0	2.9	82
+191	404 E Green St	EVkytEhlC1nswqmgrHdviw	8.0	Its your say finally!	Bo Bo China	2.0	2.3	30
+192	501 E Green St	7AlULGZI1pHt0imODsqdkg	148.0	At your own risk	Potbelly Sandwich Shop	4.0	4.1	33
+193	2411 Village Green Pl	6GJ9K4HadzMBZG4WY_P9bw	20.0	At your own risk	Smoke 'Que & Brew	4.0	3.5	23
+194	605 S 6th St	RwMlwusAtxZc5a3ZYduulg	38.0	Its your say finally!	Penn Station	3.0	3.1	15
+195	410 E Green St, Ste 1	zTGxLMOd9crAz0XNzqrcrA	65.0	Worth Visiting	Empire Chinese Restaurant	4.0	3.6	47
+196	1 E Main St	NEVA0IYbawceL6kz5v5DAw	389.0	Jewel of a place!	Kofusion	3.0	3.4	246
+197	2033 N Prospect Ave	oK9mdYF8q0XSkhpKs8ChHg	85.0	Its your say finally!	Wendy's	2.0	1.8	17
+198	404 E Green St	mZJdFjxvVddqPN5RZdKSHg	25.0	At your own risk	Jurassic Grill	4.0	3.7	35
+199	202 E Green St, Ste 1	vsoEZauF4lrADIqCYXySFQ	21.0	At your own risk	Chopstix	3.0	2.8	60
+200	2000 N Neil St	9XMOJYI0jh6cycrZK9Js4g	2.0	Its your say finally!	Campus Burger	2.0	2.3	6
+201	1305 S Neil St	th4pZ5LkoIIkb1Vmu_m2DA	326.0	Must Visit!	Meatheads	4.0	4.0	144
+202	420 W Towncenter Blvd	VSkNNLEGTwVCjXTqQ4rCrg	8.0	Its your say finally!	Freddy's Frozen Custard & Steakburgers	3.0	2.9	12
+203	403 E Green St	MPAPVFk66pplvv7rkcVfiQ	17.0	Its your say finally!	Sushi Avenue	3.0	3.0	23
+204	2310 S Neil St	DDm_333l9fHzlv7yfuF5dQ	22.0	Its your say finally!	Arby's	2.0	2.2	4
+205	608 E University Ave, Ste 105	wCB9mquz6W0ZuO5pPZXeDg	14.0	Its your say finally!	Lao Sze Chuan Champaign	3.0	3.3	19
+206	619 S Wright St	_n5wggIEfBzCUepjgvHXAQ	65.0	At your own risk	Sushi Ichiban	3.0	3.1	51
+207	1109 W Windsor	vVdY2qDO7dkUrU8LXYZ1uA	26.0	At your own risk	Green Jade	4.0	3.8	30
+208	730 W Town Center Blvd	aELkI0mfF1EbQo_m44vEKg	89.0	At your own risk	O'Charley's Restaurant & Bar	3.0	3.0	44
+209	3602 N Mattis Ave	O1Sp0pDa8wmMfOC-FUGZFQ	23.0	Its your say finally!	Dairy Queen	2.0	1.8	8
+210	623 E Green St	a39B-BfbCipNkNH7vwCfug	30.0	Worth Visiting	Mid-Summer Lounge	4.0	4.1	38
+211	1900 Round Barn Rd	b3qhOCXM_vpPsginjyP9Hg	2.0	Its your say finally!	Famous Dave's	3.0	3.0	3
+212	1407 N Prospect Ave	X57f6FWZiwI1wOidPPhOrQ	320.0	Must Visit!	Dos Reales	4.0	3.9	179
+213	2401 Village Green Pl	bsrqpg0zJZG4NMhA0W28LQ	83.0	At your own risk	Espresso Royale	4.0	4.3	15
+214	1917 W Springfield Ave	4cPM1Hcj3UiN3fxyOsiR9w	105.0	Must Visit!	Li'l Porgy's Bar-B-Que	4.0	3.8	84
+215	601 S 1st St, Ste 102	d_Wm9CpzIo_0T-XLfq1UcA	24.0	At your own risk	The Hub	3.0	3.3	45
+216	601 E Green St, Ste B	EZOoB2D8uQHV_gJoGCMTxQ	47.0	Its your say finally!	Jimmy John's	3.0	2.8	11
+217	902 Meijer Dr, Ste 8	B2N_XO6fX0ILL9c50QuzHg	14.0	Its your say finally!	Taco John's	3.0	3.1	14
+218	902 Meijer Dr	JCnFvoh7lU8PF_Yhh8bgOw	6.0	Its your say finally!	HuHot Mongolian Grill	3.0	2.8	23
+219	2104 W Springfield Ave, Ste B	kokytV29X4717mjIC3H7Xg	24.0	Its your say finally!	Papa John's Pizza	2.0	2.4	16
+220	601 S Wright St	7siEeRGqAJ730IkwAtcWAQ	70.0	At your own risk	Jerusalem Middle Eastern Cuisine	3.0	3.5	48
+221	1705 S Prospect Ave	DjDcRTH09r1Yma6qd0om0Q	23.0	At your own risk	Art Mart	4.0	4.5	15
+222	616 E Green St	5CSGxhesXkz2XNQB8AP6Kw	137.0	Worth Visiting	Spoon House Korean Kitchen	3.0	3.2	76
+223	401 E Green St	E6QAh8UPRo6Tlg6hkcWCHw	109.0	Worth Visiting	Bombay Indian Grill	3.0	3.5	85
+224	3214 Kimberly Dr	QHbrfA9nSNLFcevsfQk6dQ	32.0	Its your say finally!	Wienerschnitzel	3.0	3.2	6
+225	706 W Marketview Dr	8ed4YmEWPr5nfau82-OtCA	9.0	Its your say finally!	Subway	2.0	1.7	6
+226	515 S Neil St	FM-rxNJP7eSXZGwizEd-Dg	117.0	Its your say finally!	Dunkin' Donuts	3.0	3.2	19
+227	922 W Bradley Ave	rnQLIVk3U7HI7kHRMxC16A	2.0	Its your say finally!	Krispy Krunchy Chicken	3.0	3.0	4
+228	2506 Village Green Pl	1p6qHrapvuKpbZGLT9qskw	13.0	At your own risk	El Patio	4.0	3.8	30
+229	2000 N Neil St, Ste 714	TQg3tu8U3x8OaC2R4KKh7g	5.0	Its your say finally!	Mango Mango Creamery	4.0	4.1	7
+230	44 E Sprinfield	5lw5rrhFMz-liykUn8dGSw	7.0	Worth Visiting	Fernando's Food	5.0	4.9	29
+231	611 E Green St	rf8x3ZTUwzmRUyJgoIZllQ	9.0	Its your say finally!	Spicy Tang	3.0	3.2	12
+232	510 E John St	wRJQdkMCbvIj269WjXtuyQ	18.0	Its your say finally!	White Horse Inn	3.0	3.0	11
+233	206 N Randolph St	SUktrYdNQD8k2vvkM4OpfA	68.0	Worth Visiting	Peking Garden Restaurant	4.0	3.8	65
+234	204 N Neil St	l4x5FFzfiCFrGN0S-uZbBQ	64.0	Must Visit!	Nando Milano Trattoria	4.0	4.0	138
+235	2029 South Neil St	-A4suUjxa7gNaiUMDjO42g	10.0	Its your say finally!	Farmhouse Restaurant At Harvest Market	3.0	3.4	8
+236	617 E Green St	SCxtzXcvyk1hygdmOZqd1A	159.0	Must Visit!	Mashawi Grill	4.0	4.4	88
+237	512 E Green St, Ste A	U7T6ioQJ17YPh_LG6xDTWA	31.0	Its your say finally!	Which Wich	3.0	3.4	16
+238	1401 W Green St	iDDW5kjoLVN9rqrGM0cwjg	6.0	Its your say finally!	Rice Garden	2.0	1.5	4
+239	409 N Mattis Ave	5dCJy5oH6ZHqB_7cx76DhA	25.0	Its your say finally!	Pizza Hut	1.0	1.4	15
+240	1706 State St	MQ-xcuUXXBYvrXzy7BmOFw	55.0	Its your say finally!	Hooters	3.0	2.7	28
+241	106 N Walnut St	D6SCh4BwNb52wZIqXdS4JQ	383.0	Must Visit!	Esquire Lounge	4.0	3.9	110
+242	2510 Village Green Pl	6nMYROXu0VX4Ytpdsfi3XA	10.0	Worth Visiting	Pie's the Limit	5.0	4.7	24
+243	25 E Springfield	bXHbLuxyBZemyB0j7GJbTA	8.0	Its your say finally!	Boneyard Bar & Bbq	4.0	3.8	4
+244	605 S Wright St	SuQpsHxcxCAB8kxPEIXiBg	19.0	At your own risk	Wonderdogs	4.0	4.0	17
+245	605 S Wright St	uGxZdLLgMQDvFSqiXyCg_w	91.0	Worth Visiting	Ambar India	3.0	3.4	60
+246	608 S 6th St	o5Mofj5KJkYAMs_fhxftpg	62.0	Worth Visiting	Seoul Taco	3.0	3.3	65
+247	1004 W Anthony Dr	jUddhNjGAE6W7MQKaUEZ4Q	30.0	Its your say finally!	Ryan's	2.0	2.0	23
+248	607 S Wright St	ZMcbVIEXsLO7j1Q1GXKPSw	135.0	Worth Visiting	A-Ri-Rang	4.0	3.7	48
+249	207 W Clark St	HbK6IfznbVToEaKVC0WcSg	52.0	At your own risk	The Clark Bar	4.0	4.0	21
+250	Market Place Shopping Center, 2000 N Neil St	V-_Kh0RtKcKdQ0ON4eVQ-Q	61.0	At your own risk	Buca di Beppo Italian Restaurant	4.0	3.6	26
+251	1 E Main St	uGwwPkw2AEvKkVHiSufhzQ	18.0	At your own risk	Jim Gould	4.0	3.6	45
+252	408 E Green St	qIomOSnR0zaU7kv6K-0mcA	8.0	Its your say finally!	Tortica's Grill	3.0	3.1	11
+253	401 S 1st St	D-B5LsTHJgrhsHVex4gyHA	46.0	At your own risk	Layalina Mediterranean Grill	3.0	3.3	51
+254	115 N Walnut St	Gvox18F9QxsSS9qG2O8E-A	109.0	Must Visit!	Sam's Cafe	4.0	3.9	87
+255	610 E Daniel St	0xjqQ2h5SzWe8zsHr6BG5w	2.0	Its your say finally!	Subway	2.0	2.2	4
+256	116 N Chestnut St	Ez1U0wMD7Wws2BPAYfW3yQ	22.0	Worth Visiting	Luna	3.0	3.3	64
+257	2504 Village Green Pl	8ztbiTDIi-2yQLVul58c5w	3.0	Its your say finally!	Doughbelly Subs	4.0	3.8	5
+258	49 E Marketview Dr	pFvyOYi1O5umrbzGVYSYKg	3.0	At your own risk	Edible Arrangements	5.0	5.0	4
+259	2001 S Neil St	ZyOgY-z9sHdHp8_FDoQAJg	61.0	Worth Visiting	Scotty's Brewhouse	3.0	3.2	87
+260	611 E Green St	GkQxwsRXYioD2VtCjNfedw	53.0	At your own risk	The Beef Stand	4.0	3.7	23
+261	1402 S Neil St	zswdqM8Av3KxVv9o7_6ORA	100.0	Worth Visiting	Rainbow Garden	4.0	3.5	67
+262	2521 N Prospect Ave	i_t8WTwztuHweRqQ89hmuQ	56.0	Its your say finally!	Panda Express	3.0	3.4	15
+263	611 E Green St, Ste A	Kws-gPJjF4RxLxJE_2BjKQ	90.0	Worth Visiting	Mr. Kyoto	4.0	3.8	63
+264	702 W Town Center Blvd	5bTjUBhGbild5tuzfAmIJg	44.0	Its your say finally!	Denny's	2.0	2.1	42
+265	2411 Village Green Crossing	xHjcLBgB3i9u_dHQZ8rirg	7.0	Its your say finally!	Wedge Tequila Bar & Grill	3.0	3.2	14
+266	1905 N Neil St	2YnUIGGmhoJX4Cd61nQLkg	89.0	At your own risk	Za's Italian Cafe	3.0	3.0	32
+267	2411 Village Green Pl	1DedueD53YsKcpqMWPIe9w	27.0	At your own risk	Cabo's Cantina and Grill	3.0	3.4	23
+268	616 E Green St	qFwc6pD29qnTgd9tZDRYig	94.0	Its your say finally!	Panera Bread	3.0	2.6	25
+269	608 S Sixth St	KedpWqBphmRopwBd7trzFw	20.0	Its your say finally!	Wendy's	2.0	2.1	8
+270	715 S Neil St	m3qsb7Xf9Pivg9GAvx-gog	101.0	At your own risk	Kamakura Japanese Restaurant	3.0	2.9	59
+271	410 E Green St, Unit 3	5_cn7M-9swHrFbnqZtYGBQ	258.0	Must Visit!	Bangkok Thai and Pho 911	4.0	4.1	158
+272	403 E Green St	e88VWa9xdHmSFdMZne9eLQ	80.0	Worth Visiting	Mandarin Wok	3.0	3.3	56
+273	401 S 1st St	0aA5l11oXes0aS6mkN5lMQ	19.0	Its your say finally!	Szechuan China	3.0	2.8	36
+274	105 N Mattis Ave	ldKrUirpZZ6JDnNwOwLpvw	57.0	At your own risk	Ichiban Buffet	3.0	2.9	35
+275	604 E Daniel St	njngMI0mhAGJ-kH0oo68Ow	36.0	At your own risk	Home of Gourmet Chinese & Thai Restaurant	3.0	3.3	43
+276	1905 Glenn Park Dr	s173l3ubdDLHeFIBO3ydrw	33.0	Its your say finally!	La Bamba	3.0	2.9	25
+277	606 S 6th St	PD2MAlYYi9HCqPH7IBKwTg	1.0	At your own risk	La Bamba	4.0	3.8	18
+278	502 E John St	-XH3-e3jDVdjHJq7GfNY7w	24.0	At your own risk	Asian Taste Restaurant	4.0	3.7	27
+279	2411 Village Green Pl	exx_UjNFHW2uPI1ZT7JFNA	4.0	Its your say finally!	AnSun	3.0	2.8	12
+280	899 W Bradley Ave	xLeOANU-lqtDOIV6Owm3EQ	6.0	Its your say finally!	Mas Amigos Truck	3.0	3.4	5
+281	2010 N Prospect Ave	ZGIkQIh3KTLM1yOCNpvU5Q	163.0	Its your say finally!	Steak 'n Shake	2.0	2.1	42
+282	1909 W Springfield Ave, Ste B	dIZcPB3CtNjMn4O_p8QFxw	414.0	Jewel of a place!	Original Pancake House	4.0	4.2	177
+283	1206 N Mattis Ave	f_CDR6H4QL1K3SeaBe7r3g	94.0	Worth Visiting	Sammy's Pancake House	4.0	3.7	48
+284	1910 West Springfield	hxlfoblUAzNSOszKlyaV6g	57.0	Its your say finally!	Taco Bell	3.0	2.9	15
+285	408 E Green St	u7jiuYiz-zVwsh0TGRHUIg	16.0	At your own risk	Burrito King	4.0	3.6	37
+286	415 N Neil St	wfO1xdAeJMb_miGDU19W-w	57.0	Its your say finally!	Carmon's Bistro	4.0	3.6	17
+287	308 E Green St	IrW7miEN-X4Fzswh-2fYvg	9.0	Its your say finally!	Cafe Social	4.0	4.1	8
+288	1217 N Prospect	uMHk2kudlAN94fFVNdYhxw	12.0	Its your say finally!	Long John Silver's	3.0	2.7	3
+289	1903 Convenience Pl	2pbOSrbB5AtQIa240AXNvQ	199.0	Its your say finally!	Panera Bread	2.0	2.2	40
+290	1201 S Neil St	nh1-ax9wPNCqskcJYIWogg	7.0	Its your say finally!	Buttitta's	3.0	2.9	16
+291	618 E Daniel St	t0HT9od2xZ0Fc5a0PFB2BQ	9.0	Its your say finally!	Kam's	2.0	1.9	61
+292	410 E Green St, Ste 2	fbQjAy7MTR8hdt4Gg2H_dA	15.0	Its your say finally!	Milk Tea House	4.0	3.6	18
+293	502 E John St, Ste 109	68HNLNwMfXu1NuL_2E4N7A	66.0	At your own risk	Doodles	4.0	4.0	34
+294	45 E University Ave, Ste 101	QDA9xZaX4n0H7dbkTRyCYw	7.0	Its your say finally!	Subway	2.0	1.8	6
+295	202 W Anthony Dr	CpNMXASiwtJv5eCDf0n63g	84.0	Worth Visiting	Alexander's Steakhouse	3.0	3.2	62
+296	2306 N Prospect Ave	eY8afQl17K4N2bf3z6nkCQ	21.0	Its your say finally!	HomeTown Buffet	2.0	2.1	22
+297	2135 S Neil St	9V4AGrJphOIw2RC1UoPPRw	32.0	Worth Visiting	Caribbean Grill Restaurant	5.0	4.9	41
+298	105 S 5th St	tjflM9icU-y6xqNntOXtOQ	91.0	At your own risk	Far East	4.0	3.6	30
+299	1405 S Neil St, Ste C	Z7r_FJXEyfyvVsyv2y7gFQ	51.0	Worth Visiting	Cactus Grill	4.0	3.8	49
+300	103 W Marketview Dr	J03fJlz-pi9x2oqxZ4vRng	3.0	Its your say finally!	Chevys Fresh Mex	3.0	3.2	15
+301	608 West Town Center Blvd	qaS11gk1kIlrzCX1LYiZsw	48.0	At your own risk	Super Niro Gyro	4.0	3.6	42
+302	523 W Town Center Blvd	U8VXQaeog9wb_Y6hCkfitg	25.0	At your own risk	Super Taco	4.0	3.5	33
+303	505 E. Green Street, Ste 3	gaviK8-M4QdeoQOiAwdaYA	7.0	Its your say finally!	Jersey Mike's Subs	4.0	3.5	12
+304	715 S Neil St	VuMgSpUJ9ONgSkddjM4JqQ	78.0	At your own risk	Yori Q Korean Grill & Bar	4.0	3.8	41
+305	1115 W Windsor Rd	O3zVw-VAcJi8ta4B6v5iAA	197.0	Must Visit!	Sun Singer Wine and Spirits	4.0	4.0	90
+306	2006 S Neil St	C_Zj7H7bUJ5kGCwFmEwW6w	104.0	Worth Visiting	B Won	4.0	3.5	85
+307	621 E Green St	24UHe1SZ4cgm6u6bU_L6xA	84.0	At your own risk	Sushi Rock	3.0	2.9	42
+308	2561 W Springfield Ave	E8b-loa-89wsnJpu9ff_Gg	117.0	At your own risk	El Toro Bravo	3.0	2.9	42
+309	1114 N Market St	YERn2kltXVj9936i6T4Q8w	35.0	At your own risk	Big J J Fish & Chicken	4.0	4.0	34
+310	2121 N Prospect Ave	r_QcMIgY2zxdcV40kK_rxw	70.0	Its your say finally!	Applebee's Neighborhood Grill & Bar	2.0	1.9	36
+311	401 E Green St	OC5BqhpPhnJJr7IXLsXIbg	3.0	Its your say finally!	Papa D's Bar & Grill	3.0	3.0	4
+312	2001 W Springfield Ave	zrtRx2bm55zVeYIpzLLm3w	63.0	At your own risk	Niro's Gyros	4.0	3.7	34
+313	1910 N Neil St	TEXUVhF-G_v2Sxwqti8HQA	374.0	At your own risk	Old Chicago	3.0	2.9	58
+314	603 S Wright St	gnqHyA6gY2-m9S-FKt6Xqw	319.0	Must Visit!	Cravings	4.0	4.0	149
+315	903 W Marketview Dr	OrX0D6xwxmymxfzWRatT7Q	100.0	Its your say finally!	Culver's	3.0	3.4	18
+316	1805 S Neil St	-2q4dnUw0gGJniGW2aPamQ	1.0	Its your say finally!	Fiesta Ranchera	2.0	1.8	4
+317	2209 S Neil St	RnGG5bAz4nTPo_Ui99Kzbg	213.0	Must Visit!	Le Peep Restaurant	4.0	3.6	105
+318	2029 N Prospect Ave	5TPyzmhr3TKyWkPfzm01wA	62.0	Its your say finally!	Fazoli's	3.0	2.8	20
+319	617 E Green St	lG9YdIb-87LK21XnMKvzFg	2.0	At your own risk	Teamoji	5.0	5.0	4
+320	35 E Green St	cLrsYJSVjDQbaVikQSpnbQ	20.0	Its your say finally!	Green Street Cafe	3.0	3.3	11
+321	601 S 6th St, Ste 106	FsnwQwatA43aeGhJlxQ_Kg	17.0	At your own risk	Paris Super Crepes	4.0	4.2	11
+322	913 W Marketview Dr	x792tXM8gIf6-nU2IiiAEQ	57.0	Its your say finally!	Five Guys Burgers & Fries	3.0	2.9	23
+323	1812 N Neil St	MqhxKfI7oMjUTMqH2gnhyg	70.0	Its your say finally!	McDonald's	2.0	1.5	10
+324	1707 S. Neil Street	c9PkUjunOI49r9oO4ZJcmQ	48.0	Its your say finally!	Taco Bell	2.0	2.5	18
+325	2105 W Springfield Ave	Y0_KRVDTasHCTh_P-WRSqg	52.0	Its your say finally!	Burger King	2.0	2.5	4
+326	100 Trade Centre Dr	8k2l-fbaeQU9lVG4oRgxUw	48.0	Its your say finally!	Prairie Fire Restaurant	3.0	3.2	22
+327	528 E Green	yE4k_CM9L0yPVVozyELfSQ	147.0	At your own risk	Noodles & Company	3.0	2.9	44
+328	713 W Marketview Dr	mofOjB6flg-eAWOFbOkHfQ	45.0	At your own risk	ChinaTown Buffet	2.0	2.3	59
+329	2521 Village Green Pl	PmVxbit6HDDsEUS-j9aDfg	137.0	Worth Visiting	Billy Barooz Bar & Grill	4.0	3.5	70
+330	401 W Kirby Ave	t952QLgrh-5l1woJ4IFgUA	22.0	Worth Visiting	Vinny's East Coast Pizzeria	4.0	3.6	62
+331	1103 W Windsor Rd	h2vFVV5pJjn8arA7GR6mQg	19.0	Its your say finally!	Zelma's	3.0	2.8	14
+332	1201 S Neil St	u8C8pRvaHXg3PgDrsUHJHQ	304.0	Jewel of a place!	Papa Del's Pizza	3.0	3.4	371
+333	710 S 6th St	GWS5s8HSm1zjqMLJD7wQLg	167.0	Worth Visiting	Woori Jib Restaurant	3.0	3.3	88
+334	305 Cedar St	C31ExBTn_6UxbTVkWPtNkg	129.0	Must Visit!	Yellowfin Japanese Restaurant	4.0	3.5	98
+335	901 B West Anthony Dr	c2uAqJ2REpLMCZO2jxdi9w	54.0	Its your say finally!	Five Guys	3.0	3.1	27
+336	2312 W Springfield Ave	QxbVPV2xndVP-nT1IRKF1w	7.0	Its your say finally!	El Torero	4.0	3.5	16
+337	1701 S Neil St	PBmfdx-tC2D54FI3HtcKww	67.0	Worth Visiting	The Ribeye	3.0	3.3	63
+338	2401 N Prospect Ave	XbHxWOciYlBhJOjKRQbo9g	629.0	At your own risk	Meijer	3.0	3.4	49
+339	619 E Green St	xWGn7oqLOZu_00H8pZOtsQ	134.0	Must Visit!	Cracked the Egg Came First	4.0	4.4	73
+340	112 E Green St, Ste A	xD6Q0UFxO8uE4bdaBDIMlA	44.0	Worth Visiting	Hot Pot Lab	4.0	3.7	46
+341	2102 W Springfield Ave	xE4WM5ZvtBkFnojFUTQfqg	14.0	Its your say finally!	Wienerschnitzel	4.0	3.6	7
+342	505 S Neil St	t_yiQnxUDdPPCN2z4QyezA	656.0	Jewel of a place!	Golden Harbor Authentic Chinese Cuisine	4.0	4.4	362
+343	205 N Mattis Ave	ly0oNXKOoSZyr0mzOsVJhg	69.0	Its your say finally!	Monical's Pizza	3.0	2.9	33
+344	1709 S Neil St	-S1BkxguVmi2G_O6Bcoabg	173.0	Its your say finally!	Steak 'n Shake	2.0	2.4	43
+345	3902 S Duncan Rd	EYmj4QlhqgrsMXnLeGLu3Q	74.0	Worth Visiting	Curtis Orchard & Pumpkin Patch	4.0	3.6	54
+346	2511 Village Green Pl	JbnNk6do3aHF3Kr1bX4HzQ	240.0	Worth Visiting	Jupiter's Pizzeria and Billards	3.0	3.0	74
+347	1905 N Prospect Ave	PgMt7JtwUB-QUoRZAbwUng	178.0	Its your say finally!	Chili's	3.0	2.9	35
+348	512 S Neil St	6o6XxnI8RWhnAVSdxqCJWQ	26.0	Worth Visiting	Jet's Pizza	4.0	3.7	46
+349	1907 W Springfield Ave, Ste A	Piw4Xr1wNyL4lgmwLZ2eTg	10.0	Its your say finally!	Jet's Pizza	3.0	3.4	8
+350	510 E John St	xistlMeIIjG21z2SaWvfVQ	5.0	At your own risk	Kung Fu BBQ	4.0	3.6	26
+351	2821 W Kirby Ave	EBai30hil5U6WzOQYwPIXA	2.0	Its your say finally!	Sammie's Pancake House	2.0	2.3	3
+352	803 W Anthony Dr	gOMc2QcDaMIOkIVTShqoYA	26.0	Its your say finally!	Firehouse Subs	3.0	3.3	23
+353	122 N Neil St	-Jhlh8Scjy669NdtCfKSSg	95.0	Must Visit!	V Picasso	4.0	3.9	95
+354	2409 Village Green Pl	1xeyFW6daV8jdt3dM1nhqQ	38.0	Its your say finally!	Subway	2.0	2.4	5
+355	1312 W Church St	iLPBZ_ic0LyiviqfXbkjwg	33.0	Its your say finally!	Hubers	4.0	4.1	10
+356	2000 N Neil St	K2lscpx0S9wpqNz0s9AIwQ	24.0	At your own risk	Giordano's - Champaign	3.0	3.0	39
+357	723 S Neil St	iLxG2Oo8HNSZFvJvba4W6g	185.0	Worth Visiting	El Toro Mexican Restaurant	3.0	3.1	86
+358	619 S Wright	tx_0mIXEr4TPucSYyfA2eg	9.0	Its your say finally!	Sarku Japan	3.0	2.7	6
+359	1803 W Kirby Ave	wgImSrYc5LOcFaMcbOuxkg	10.0	Its your say finally!	Domino's Pizza	4.0	3.9	10
+360	601 S 6th St, Ste 102	BkqM_Ou82P3gn_PTxEN3pw	50.0	Worth Visiting	Ozu Ramen	3.0	3.1	62
+361	2043 S Neil St	_TWp4gqGF7tQUGloTClcNg	57.0	Worth Visiting	Brixx Wood Fired Pizza	3.0	3.3	70
+362	1801 W Springfield Ave	yiWYJnHngOJWuP_CFP6Itw	12.0	Its your say finally!	Jimmy John's	4.0	4.0	5
+363	1715 W Kirby	SgG5E7PUrCIsEMP0BVSlTg	77.0	Worth Visiting	Cheese and Crackers	4.0	4.2	67
+364	1702 W Bradley Ave	LwFlN4-f4cPHx6-gk8HlUw	8.0	Its your say finally!	Domino's Pizza	3.0	3.3	3
+365	627 E Green St	kyXEnWKQGWSThY6EcjORuw	3.0	Moderately recommended!	Zorba's Restaurant	1.0	1.0	4
+366	627 E Green St	kyXEnWKQGWSThY6EcjORuw	3.0	Moderately recommended!	Zorba's Restaurant	1.0	1.1	4
+367	627 E Green St	kyXEnWKQGWSThY6EcjORuw	3.0	Moderately recommended!	Zorba's Restaurant	2.0	1.6	4

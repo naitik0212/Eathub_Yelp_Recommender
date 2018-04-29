@@ -1,0 +1,817 @@
+,business_id,name,latitude,longitude,address,stars_y,city,is_recommended,attributes.NoiseLevel,attributes.Open24Hours,attributes.BusinessParking.garage,attributes.BusinessParking.validated,attributes.BikeParking,attributes.BusinessParking.valet,attributes.BusinessParking.street,categories_mexican,categories_american,categories_italian,categories_japanese,categories_seafood,categories_chinese,categories_thai,categories_fast_food,categories_vegan,categories_vegetarian
+0,75RP4HSsSJOe_e7e2e3jQQ,Rise & Shine - A Steak & Egg Place,36.0243234052,-115.062857419,75 S Valle Verde Dr,3.9655172413793105,HENDERSON,0,average,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+1,lHyTZFd8XXtvPwo-_qeTXA,Jersey Mike's Subs,36.0005078,-115.10559199999999,10520 South Eastern,3.5454545454545454,HENDERSON,0,very_loud,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+2,ceVWEkif38SMGNcBR55PNA,Tay-Yo Sushi Seafood Buffet,36.015136299999995,-115.1184733,9570 S Eastern Ave,2.25,HENDERSON,0,,,,,,,,0,0,0,0,1,0,0,0,0,0
+3,eoHkKySohgtDqWtHBqJ9xw,Lucky China,36.022945799999995,-115.04655149999999,180 S Stephanie St,3.0,HENDERSON,0,,,,,,,,0,0,0,0,0,1,0,0,0,0
+4,qLO9ES3-mKJrodFO1mzgOg,Taco Bell,36.0195785129,-115.050903269,1491 W Horizon Ridge Pkwy,3.0,HENDERSON,0,quiet,,False,False,True,False,False,1,0,0,0,0,0,0,1,0,0
+5,UwXOqtr0LCoWsGXP96fOuQ,Fiesta Filipina Cuisine,36.0054036506,-115.117831742,"2980 St Rose Pkwy, Ste 120",3.526315789473684,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+6,PBghJox_ZpSSa2nWyYuxpw,Taco Bell,35.9913338911,-115.101586374,199 N Pecos Rd,2.642857142857143,HENDERSON,0,quiet,,False,False,True,False,False,1,0,0,0,0,0,0,1,0,0
+7,uCi2ropZuhG4XVcMDaurAw,Rachel's Kitchen,36.021113,-115.08749499999999,2265 Village Walk Dr,3.82370820668693,HENDERSON,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+8,sVeSK69iNUUsMU6tpXzl6Q,Angelina's Pizzeria,35.9967416,-115.12468159999999,835 Seven Hills Dr,2.8127853881278537,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+9,PPR-7QXDjicPRA5C4rZ5eA,Evos,35.993777,-115.10158200000001,10895 S Eastern Ave,3.75,HENDERSON,0,,False,False,False,,False,False,0,0,0,0,0,0,0,1,0,0
+10,MmEV_9-EEiewVQcxPnWUaA,Big Island Boba,36.00574520000001,-115.11244070000001,10100 S Eastern Ave,3.0,HENDERSON,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+11,ahzHzyALM4ZCEVRrs2KejA,Port of Subs,36.056261799999994,-115.08538390000001,2285 N Green Valley Pkwy,4.037037037037037,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+12,1LSdIQQVvzzyDyiYPxztkg,Vegenation,36.0051261,-115.11272920000002,10075 S Eastern Ave,4.4576271186440675,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,1,0
+13,ZtJ6sTq7-5rL9ORUtQJHAQ,Gaetano's Ristorante,36.002999100000004,-115.11058349999999,"10271 S Eastern Ave, Ste 111",3.9220055710306405,HENDERSON,1,quiet,,False,False,False,False,False,0,0,1,0,0,0,0,0,0,0
+14,x7NOFYcoL0XmErLrkqBLeg,Tommy Pastrami,36.0408745,-115.02983259999999,193 N Gibson Rd,2.2857142857142856,HENDERSON,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+15,axnI-1l2a_kydvL12-toIQ,King's Fish House- Henderson,36.0208796613,-115.086857985,"2255 Village Walk Dr, Ste 139, The District at Green Valley Ranch",4.074688796680498,HENDERSON,1,average,,False,False,True,False,False,0,0,0,0,1,0,0,0,0,0
+16,JPJv82VJabWUDraSg-gRkw,Wienerschnitzel,36.0419595,-115.0987533,2575 Windmill Pkwy,3.272727272727273,HENDERSON,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+17,aqwn3jdQLCWnb59gHK4nAw,The Chicken Shack,36.0721934971,-115.072997733,4606 E. Sunset Rd,4.0173697270471465,HENDERSON,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+18,j33FFt-XONn__Z4pghA7yA,The Coffee House & Sweet Buttercupcakes,36.0335181889,-114.98357065,117 S Water St,4.28,HENDERSON,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+19,IS_IWMsFRJii__17LsP1Og,Gata Thai Cuisine,36.0302908,-115.03000159999998,35 S Gibson Rd,4.08,HENDERSON,1,quiet,,False,False,True,False,False,0,0,0,0,0,1,1,0,0,0
+20,qpdMFF6Y31ZAtE1R1OLsfA,Fatburger,36.060455299999994,-115.0410892,1301 W Sunset Rd,2.909090909090909,HENDERSON,0,average,True,False,False,False,False,False,0,1,0,0,0,0,0,1,0,0
+21,e68THiw_OdrpkEtuCDiM_w,RibCage,35.995282200000005,-115.10001399999999,"10890 S Eastern Ave, Ste 108",4.074074074074074,HENDERSON,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+22,-KYq3eqNvYJ-XHztPpXjvw,The Downstairs Bar,35.98718970000001,-115.1016247,11261 South Eastern Avenue,2.8333333333333335,HENDERSON,0,,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+23,T2leBbQ41BEHVJxxhkt_FA,Yanni's Bistro,36.0012878935,-115.109671105,"10345 S Eastern Ave, Ste 110",4.857142857142857,HENDERSON,0,,,,,True,,,0,0,0,0,0,0,0,0,0,0
+24,pIvP5G6y9ftm8hGJngI4Kw,Santora's,36.0704394,-115.0773405,4401 E Sunset Rd,3.5454545454545454,HENDERSON,0,average,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+25,LH-_iinkV1XOxSuJMBqhmw,Hammer's Grill & Bar,36.0133162,-114.9600982,771 E Horizon Dr,3.7241379310344827,HENDERSON,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+26,RrCgc8eAKbHu-2IpQXg6Rw,Hiroba Sushi,35.997721899999995,-115.1016838,"10720 S Eastern Ave, Ste 100",4.5993265993265995,HENDERSON,1,average,,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+27,R54Sh5Y3zjtZt7MjdfwDZA,Rubio's,36.0297555457,-115.085728038,"1500 N Green Valley Pkwy, Ste 210",4.011363636363637,HENDERSON,0,average,,False,False,True,False,False,1,0,0,0,1,0,0,0,0,0
+28,YZjqtFlSw4OTbZmvaq91Qg,Matteo's Gourmet Food Services,36.0107202,-115.0648029,"1770 W Horizon Ridge Pkwy, Ste 100",5.0,HENDERSON,1,,,,,,,,0,0,0,0,0,0,0,0,0,0
+29,UY9t1EL5PYxPiBGivkeE9Q,Fatburger,36.070524,-115.0717488,4663 E Sunset Rd,2.4269662921348316,HENDERSON,0,quiet,True,False,False,True,False,False,0,1,0,0,0,0,0,1,0,0
+30,POuF7alk2QVqVlcSOOjV3Q,Thai Thai Restaurant,35.995167200000004,-115.0998256,"10890 S Eastern Ave, Ste 109",4.296296296296297,HENDERSON,0,quiet,,False,False,False,False,False,0,0,0,0,0,0,1,0,0,0
+31,s2Fv9gzUnnpfnkUTAMSK7w,PT's Gold,36.0641025812,-115.051788806,"1540 West Sunset Rd, Ste 140",2.3555555555555556,HENDERSON,0,quiet,,False,False,False,False,False,0,1,0,0,0,0,0,0,0,0
+32,jvUeGNTr7M-FRyozqKRZzQ,China Spice,36.020866999999996,-115.08958,"Green Valley Ranch Resort & Spa, 2300 Paseo Verde Pkwy",2.5625,HENDERSON,0,loud,,True,False,,True,False,0,0,0,0,0,1,0,0,0,0
+33,2UaMR7lOJ3IcXizaDpv7KA,Bangkok 9 Thai-Chinese Food,36.065795200000004,-115.0473463,663 N Stephanie St,3.646551724137931,HENDERSON,1,average,False,False,False,True,False,False,0,0,0,0,0,1,1,0,0,0
+34,0iPXuywgu37dDpwLMudACQ,Taco Bell,35.994716,-115.10096999999999,11051 So. Eastern,2.6153846153846154,HENDERSON,0,quiet,,False,False,True,False,False,1,0,0,0,0,0,0,1,0,0
+35,6CFO0CoQq0l-kUZrKdCBkQ,Xing Asian Bistro,36.101406,-114.930489,10 Via Brianza,2.888888888888889,HENDERSON,0,average,,True,False,,False,False,0,0,0,0,0,1,0,0,0,0
+36,e0lS5SoozffJdgEfyuYIhg,Avanti Pizza,36.0333259146,-115.098870101,2555 Wigwam Pkwy,4.125,HENDERSON,0,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+37,ouTdW9cEZoer60mENUesPQ,Wendy's,36.0353125,-114.9761798,400 S Boulder Hwy,2.4705882352941178,HENDERSON,0,average,,False,False,False,False,False,0,0,0,0,0,0,0,1,0,0
+38,AX4ZujJqimuc_p3wWvAGAw,Wonder Sushi,36.029770299999996,-115.08560179999999,1550 N Green Valley Pkwy,3.0,HENDERSON,0,,,False,False,,False,False,0,0,0,1,0,0,0,0,0,0
+39,DugcfgyM4DhDldK_jsF0Xw,El Pollo Loco,35.9992340348,-115.10543697899999,10585 S Eastern Ave,2.4310344827586206,HENDERSON,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,1,0,0
+40,7kOAouVw8cJkm48GHhmrPg,Chef's Palate Restaurant,35.9971446,-115.10123899999999,"10740 S Eastern Ave, Suite 155",3.5,HENDERSON,0,,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+41,VIG1MhUSl5FFBJ1KtCFqBg,Papa John's Pizza,36.0241322062,-115.06310059299999,"75 S Valle Verde Dr, Ste 220",2.1515151515151514,HENDERSON,0,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+42,wAKV6rA1QppMTS3-FXRTSA,Greek Bistro,36.062368,-115.0369872,565 Marks St,4.505016722408027,HENDERSON,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+43,1xcPc2snHooElBQDQl3Ybw,Haggen Food & Pharmacy,35.942474700000005,-115.11714909999999,2910 Bicentennial Pkwy,1.6,HENDERSON,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+44,dX90qyHzfC4Cxh-lNBAEgQ,Sarahs Kitchen,36.0643771582,-115.01543453,444 W Sunset Rd,3.59375,HENDERSON,0,quiet,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+45,IrPCMMOwt_KgugTfoY9AYQ,Rachel's Kitchen,36.057014200000005,-115.04319,1340 W Warm Springs Rd,3.5454545454545454,HENDERSON,0,quiet,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+46,7QAqpKWyPvr02AsaCgi2rw,The Pizza Caffe,36.055832,-115.120023,7435 S Eastern Ave,4.333333333333333,HENDERSON,0,,,False,False,,False,False,0,0,1,0,0,0,0,0,0,0
+47,Macu_9WW2kTaHVz4WvU5lQ,One5 Lakeside,36.101973799999996,-114.93045079999999,"15 Via Bel Canto, Ste 100",3.46875,HENDERSON,0,quiet,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+48,DZbFhPkHiGFFRTVL8m7sYw,Bon Chef Cafe,35.9975751,-115.1025425,"10720 S Eastern Ave, Ste 100",4.179775280898877,HENDERSON,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+49,xoGPeHR2RPnJW470-aYBUQ,Grand Café,36.0612740034,-115.03956816799999,1301 W Sunset Rd,3.1092436974789917,HENDERSON,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+50,jQJYvzUFsz9ytI1AzW0dyQ,Applebee's Neighborhood Grill & Bar,36.002036700000005,-115.10891029999999,10305 S Eastern Ave,2.4260869565217393,HENDERSON,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+51,zPV9RXr2U_TejaJfgBdaGQ,Cook On Wok,35.9989702,-115.10398909999998,"10612 S Eastern Ave, Ste A",3.076923076923077,HENDERSON,0,,,False,False,,False,False,0,0,0,0,0,1,0,0,0,0
+52,0qSKZhVC_BHPuKro4QGWJw,Hank's Fine Steaks,36.0209607,-115.09037,2300 Paseo Verde Pkwy,3.886740331491713,HENDERSON,1,average,,True,False,True,False,False,0,0,0,0,1,0,0,0,0,0
+53,j8pUAS0qdEcPsjkqEDNbhw,Buddha Belly Deli,36.0295888,-115.062621,"50 N Valle Verde Dr, Ste 110",4.4154488517745305,HENDERSON,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+54,vNNWCCLocoJIQ5XwuG4mLg,Mary's Diner,36.032039000000005,-114.9834743,140 S Water St,3.375,HENDERSON,0,,,,,True,,,0,1,0,0,0,0,0,0,0,0
+55,iSQwKRrLYYi-dI2PpJmJJg,Kaizen Fusion Roll & Sushi,36.002999100000004,-115.11058349999999,"10271 S Eastern Ave, Ste 109",3.845622119815668,HENDERSON,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+56,vA4__eWW3zNu_Ax--LOkOw,Early Bird Cafe,35.993777,-115.10158200000001,10895 S Eastern Ave,3.6,HENDERSON,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+57,NFaA4MmgnS0u0uWCGGSHMA,KFC,36.0002,-115.10600000000001,10510 South Eastern Avenue,1.8055555555555556,HENDERSON,0,average,,False,False,False,False,False,0,0,0,0,0,0,0,1,0,0
+58,GLKg_Lu1LK7A0EqR45gpAQ,Amigos,36.0319583,-115.00912779999999,777 W Lake Mead Pkwy,2.5,HENDERSON,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+59,v6HupiIVNu5Ocdb0k_hppA,Half Shell,36.009879999999995,-114.99118999999999,30 E Horizon Ridge Pkwy,2.880952380952381,HENDERSON,0,average,,False,False,,False,False,0,0,0,0,1,0,0,0,0,0
+60,84DjKzaR26vphu9fNI9nKg,Sierra Gold,36.0557009599,-115.043451889,1341 W Warm Springs Rd,2.792682926829268,HENDERSON,0,loud,,False,False,False,False,False,0,1,0,0,0,0,0,0,0,0
+61,IZrGUQHkxOxyDmifE6p7bw,Viva Michoacan,36.069794,-115.070596,2061 W Sunset Rd,3.893939393939394,HENDERSON,0,average,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+62,AGEdjgYU0u-EAXFR0Sot3w,ZiKiZ,36.0294926469,-115.085835914,"1500 N Green Valley Pkwy, Ste 230",4.228915662650603,HENDERSON,1,quiet,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+63,18sAHGZz-WCAFqmMNqscVw,Jack In the Box,36.0308885,-115.0299456,5 S Gibson Rd,1.9047619047619047,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+64,7zDYu0-v2rUUDuf8aSGvCg,Timbers - Gibson,36.041361,-115.029799,"193 N Gibson Rd, Ste 170",3.375,HENDERSON,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+65,8lB2DlGAMJv6P2XS_AYxMw,Ichiddo Ramen,36.0057970807,-115.111642427,"10100 S Eastern Ave, Ste 130",3.6625,HENDERSON,0,quiet,,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+66,8yoe08nCUpjDQ56Y9qVPKg,Hot Dog Heaven,36.038243900000005,-114.9833676,87 E Lake Mead Pkwy,3.5080645161290325,HENDERSON,0,average,,False,False,True,False,True,0,0,1,0,0,0,0,1,0,0
+67,eLFfWcdb7VkqNyTONksHiQ,Gen Korean BBQ House,36.0667760026,-115.042471048,"1300 W Sunset Rd, Ste 2920",4.131276467029643,HENDERSON,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+68,IbsvQEsWFv_ip7_t7i6UKg,Marie Callendar,36.053033500000005,-115.04570359999998,350 N Stephanie St,3.6,HENDERSON,0,,,,,,,,0,1,0,0,0,0,0,0,0,0
+69,Q8bVGabFAYCHA9gi2q2YUA,Jason's Deli,36.003464,-115.11769299999999,3019 St Rose Pkwy,2.375,HENDERSON,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+70,SYBOBuhM1AnFmpYYQCY92Q,AP's Grill and Tavern,36.0417833,-115.03874760000001,1231 American Pacific Dr,2.0,HENDERSON,0,,,,,,,,0,1,0,0,0,0,0,0,0,0
+71,JhqsE8IGN-UXwNli474w7g,KFC,36.0124,-114.964,680 East Horizon Drive,1.8,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+72,pVOQoItV_JIOkhbVdQhEEQ,Sam-Pan Chinese Restaurant,36.033596,-114.98552649999999,14 W Pacific Ave,4.2,HENDERSON,0,,,,,,,,0,0,0,0,0,1,0,0,0,0
+73,b7cZMaV6GYVSl0uKbKGyqg,Roy's Deli,36.0002549,-115.12322809999999,3061 St Rose Pkwy,4.916666666666667,HENDERSON,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+74,PK2xVV2fqbWFrmtL8J99ig,Subway,35.9418403858,-115.116650082,"2810 Bicentennial Pkwy, Ste 110",2.3636363636363638,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+75,kCF3AuV-2LowMdVlklLy7A,Munch Box,35.9993692413,-115.104040309,"10604 S Eastern Ave, Ste C",4.575418994413408,HENDERSON,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+76,R6Aj51wBO68e03V9h_dwAA,Scorpion Cafe,35.9833544326,-114.937756851,1021 E Paradise Hills Dr,4.333333333333333,HENDERSON,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+77,pvrTxY4WCE5DfHAIMLjSbg,Subway,36.069469399999996,-115.0818493,2620 N Green Valley Pkwy,2.642857142857143,HENDERSON,0,loud,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+78,IZexpazZj8lBbrcnjoGIrA,Subway,36.0130160884,-114.964134984,"591 College Dr, Ste A",3.727272727272727,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+79,rZetIv3kG8yHjS2FR6Cfbg,Tee Shots Bar & Grill,36.0063446,-115.0839658,"2200 W Horizon Ridge Pkwy, Ste C",3.7,HENDERSON,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+80,iqntlaqSCB4hkzTzlPlEmQ,Bravo Cucina Italiana,36.0666372432,-115.043382999,"1300 W Sunset Rd, Ste 1950, The Galleria Mall",4.181818181818182,HENDERSON,1,average,,True,False,True,True,False,0,0,1,0,0,0,0,0,0,0
+81,yLTATolCkihuQ-TFaEPJkQ,Little Caesar,36.039741299999996,-114.9804469,118 E Lake Mead Dr,2.7241379310344827,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+82,IFj5l46-o-DWiJNexOAm3w,Yalla Mediterranean Grill,35.993777,-115.10158200000001,"10895 S Eastern Ave, Ste 130",4.144736842105263,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,1
+83,2KQi-CLMR045YrAkYs_UoQ,Sidelines Grill & Pub,36.0704394,-115.0773405,"4401 E Sunset Rd, Ste 7",3.875,HENDERSON,0,average,,,,,,,0,1,0,0,0,0,0,0,0,0
+84,kxYiZnd7Y-3ibdwnMFuTzw,In-N-Out Burger,36.0633628,-115.0339166,1051 W Sunset Rd,4.050279329608938,HENDERSON,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+85,9H4Q7_Fr4qtKfTcmJZmfBA,King & I,36.04213920000001,-115.10135290000001,2605 Windmill Pkwy,3.6,HENDERSON,0,,,,,,,,0,0,0,0,0,1,1,0,0,0
+86,a1Pf4wSob48LKqimWzmyGw,Chick-fil-a,36.0090818475,-115.117211556,9925 S Eastern Ave,3.797356828193833,HENDERSON,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,1,0,0
+87,ymwUAvCK7Qmf3IX58XqLGw,Chili's,36.0061759949,-115.112426758,10080 S Eastern Ave,3.1691176470588234,HENDERSON,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+88,I4-j8TV0kCstDmr_kc2NUA,Tommy Rockers Southside Grill,36.0068684,-115.111773,10050 S Eastern Ave,4.3,HENDERSON,0,average,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+89,deaiw3nhYgDvq_6GoLFcJA,Villa Fresh Italian Kitchen,36.0319583,-115.00912779999999,777 W Lake Mead Pkwy,2.5,HENDERSON,0,,,,,,,,0,0,1,0,0,0,0,0,0,0
+90,lHHT7i2Cz0hGAASI2it3MA,Burger King,36.0566158386,-115.039423574,1270 W Warm Springs Rd,2.392857142857143,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+91,nrahyQyopCtajDqUtVVVfA,The Sushi,36.011478499999996,-114.99217949999999,16 W Horizon Ridge Pkwy,3.815068493150685,HENDERSON,0,average,,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+92,rQ08JhZZgtVUfJhEbW-xsw,Subway,36.0296778823,-115.085571205,1500 N Green Valley Pkwy,2.6666666666666665,HENDERSON,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+93,97kEmDdAU8YSBz5zw3au7w,KFC,36.0224848,-115.0479051,1410 Horizon Ridge Pkwy,1.4285714285714286,HENDERSON,0,,,,,,,,0,0,0,0,0,0,0,1,0,0
+94,qCtjJp2tI-RyennIpfN6Wg,Papa Murphy's,36.0143216,-114.9643307,"565 College Drive, Suite C",3.730769230769231,HENDERSON,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+95,fAA1auoV6w5u1_KdJcSRwg,Yummy Grill Sushi,36.0620938,-115.03618540000001,560 Marks St,3.4464285714285716,HENDERSON,0,quiet,,False,False,,False,False,0,0,0,1,0,1,0,0,0,0
+96,KB9ojpV8g5G1hHS6ec4eHg,Aurelio's the Family Pizzeria,35.993367799999994,-115.10084640000001,"10960 S Eastern Ave, Ste 107",3.0952380952380953,HENDERSON,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+97,J2lK3CpbCLJUXCc0OAPMsg,Cafe Verdi,36.0053711,-115.11720829999999,2990 St Rose Pkwy,1.9090909090909092,HENDERSON,0,quiet,,False,False,,False,False,0,0,1,0,0,0,0,0,0,0
+98,rtT7RqERpHbRYOiTIgGszQ,Fausto's Mexican Grill,36.043760999999996,-115.04798899999999,229 N Stephanie St,3.736842105263158,HENDERSON,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+99,owizJxXCdMYNHdYPOBKaUQ,Fix8 Fitness Cafe,36.013061,-114.992597,"72 W Horizon Ridge Pkwy, Ste 105",4.56,HENDERSON,0,quiet,,False,False,True,False,False,0,1,0,0,0,0,0,1,0,0
+100,oudIKQI8HjqJqiF9pnMmQw,Momo Sushi,36.0601168268,-115.045728142,"550 N Stephanie St, Ste C",4.15934065934066,HENDERSON,1,average,,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+101,xwIJGDiwUz5aorokYKfxIQ,Poke Express,36.0279734108,-115.048700385,"19 S Stephanie St, Ste 140",4.72093023255814,HENDERSON,1,quiet,,False,False,False,False,False,0,0,0,0,1,0,0,0,0,0
+102,D9unP0Qn78z5HkaeT4_PTA,Papa John's Pizza,35.979927,-115.100444,2591 Anthem Village Dr,2.45,HENDERSON,0,,,,,False,,,0,0,0,0,0,0,0,0,0,0
+103,9_k-gfVfqp5KlcZWdxZdGw,Before Sunset,36.1029663086,-114.929458618,Costa Di Lago,3.25,HENDERSON,0,average,,False,False,False,False,False,0,1,0,0,0,0,0,0,0,0
+104,bV_xC1dzOhN_y4YEd4h02g,MountainSide,36.0732730942,-114.953264875,1442 E Lake Mead Pkwy,2.9444444444444446,HENDERSON,0,quiet,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+105,-CFKgOGpYPIt8NnqidaZCw,Chef Flemming's BakeShop,36.0359158,-114.98592260000001,"7 S Water St, Ste B",4.632530120481928,HENDERSON,1,,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+106,l07I7E_F5IhhBd4uvxxcdA,Gators Pizza,36.0555859718,-115.05571421299999,1639 W Warm Springs Rd,4.032258064516129,HENDERSON,0,average,,False,False,True,False,False,0,0,1,0,0,0,0,1,0,0
+107,pcxssrp4IeSN3GlYpPwlQA,Flame Kabob,35.9939755284,-115.10147988799999,"10895 S Eastern Ave, Ste 130",3.5517241379310347,HENDERSON,0,quiet,,True,True,,True,True,0,0,0,0,0,0,0,0,0,0
+108,LBVNBYNgopam1CzqPUPVvQ,Ginza Sushi,36.054252399999996,-115.04694350000001,"375 N Stephanie St, Ste 311",3.380952380952381,HENDERSON,0,quiet,,False,False,,False,False,0,0,0,1,0,0,0,0,0,0
+109,lKOvx_aAXiXQGooZ-4bq9Q,Pin Kaow Thai Restaurant,36.0162188297,-115.117161041,"9530 S Eastern Ave, Ste 100",3.7113163972286376,HENDERSON,1,average,,False,False,True,False,False,0,0,0,0,0,0,1,0,0,0
+110,FzFO8yuRtEk83HS-5afCwg,Greens Gaming & Dining,36.0538963,-115.08407779999999,2241 N Green Valley Pkwy,1.8181818181818181,HENDERSON,0,,,False,False,False,False,False,0,1,0,0,0,0,0,0,0,0
+111,x1ClWF6HF3X_7TFFnLED_Q,Henry's American Grill,36.0422838,-115.04679180000001,237 N Stephanie St,3.8256880733944953,HENDERSON,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+112,Q8kbSb0yaXVZ7-CKwZJgwQ,Dignity Health Bistro Siena,36.004546280700005,-115.11411309200001,10001 S Eastern Ave,4.75,HENDERSON,0,,,,,True,,,0,1,0,0,0,0,0,0,0,0
+113,fvLNLFLtvcDk8GEmWJxgqg,Five Guys,36.0631777,-115.04410659999999,1321 W Sunset Rd,3.3114754098360657,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+114,gnfRPDNr9aRaEMDh1zAl_w,Carl's jr,36.029929100000004,-114.97013829999999,758 S Boulder Hwy,2.7,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+115,7B3n6hizoL2CF0dEiJ0x6A,Sushi Factory,35.9975649,-115.1025545,"10720 S Eastern Ave, Ste 100",3.1333333333333333,HENDERSON,0,average,,False,False,,False,False,0,0,0,1,0,0,0,0,0,0
+116,KNn7TUf3rf_DfCYYrHv7tQ,Chick & Benny's,36.05603970000001,-115.0563054,"1659 W Warm Springs Rd, Ste 100",3.0517241379310347,HENDERSON,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,1,0,0
+117,VAvlwMwFTKH19w8Tdu9kBA,Carl's jr,36.0357744901,-115.046493933,146 North Stephanie St,3.125,HENDERSON,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+118,f-2pMptlB6cWaWnU7zYE_A,Shake Shack,36.0215226983,-115.085428882,2225 Village Walk Dr,3.8627450980392157,HENDERSON,0,average,,True,False,True,False,False,0,1,0,0,0,0,0,1,0,0
+119,xQWgzGkO72IDwaueB6mj5g,Presidio,36.0217118,-115.0853057,"2235 Village Walk Dr, Ste 141",2.9393939393939394,HENDERSON,0,average,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+120,2SbyRgHWuWNlq18eHAx95Q,The Midori Japanese Fusion Sushi,36.0276672,-115.0844903,"1550 N Green Valley Pkwy, Ste 320",4.309210526315789,HENDERSON,1,quiet,,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+121,0bqV9uzFVz98Bn_RImcJTg,QDOBA Mexican Eats,36.039929580700004,-115.047407895,"175 N Stephanie St, Ste 100",3.5970149253731343,HENDERSON,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,1,0,0
+122,TkN0yt3iWVbP4OdjsYchkg,LMCafe,36.0439819,-114.9739436,540 E Lake Mead Pkwy,4.714285714285714,HENDERSON,0,,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+123,CBBH11ua126TMlvNlCCHIw,A Taste of Heaven Cafe and Bakery,36.0321994,-114.9822392,"155 Water St, Ste 110",4.333333333333333,HENDERSON,0,,,,,,,,0,1,0,0,0,0,0,0,0,0
+124,mElvCnwgjUFwWRWCMxlz9A,Arby's,36.0407227198,-115.099874071,160 N Pecos Rd,2.44,HENDERSON,0,quiet,,False,False,False,False,False,0,0,0,0,0,0,0,1,0,0
+125,WuhUKJAoby57lLjVLpQVPw,Jessie Rae's BBQ,35.996832,-115.13716399999998,10648 S Maryland Pkwy,4.2153846153846155,HENDERSON,0,average,,False,False,True,False,True,0,1,0,0,0,0,0,0,0,0
+126,0XHMciYfPq7HzEiLCknaCA,Woods Family Sandwiches,36.0415425,-115.0261885,"931 American Pacific Dr, Ste 106",4.5978260869565215,HENDERSON,1,average,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+127,h6gxTk2qkMJfA3fHuJpi6Q,Pie Town Pizza,36.0719188,-115.08244640000001,2833 N Green Valley Pkwy,3.3333333333333335,HENDERSON,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+128,DY1_vls0_VQnTZ7CJ3AeFQ,Feast Buffet,36.0607848791,-115.04055275799999,1301 W Sunset Rd,3.022727272727273,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+129,cMlHcrlADb5gRWwFaNKhjg,Samurai Sam's,36.00564620000001,-115.11274640000002,"10075 S Eastern Ave, Ste 116",3.210526315789474,HENDERSON,0,average,,False,False,,False,False,0,0,0,1,0,0,0,0,0,0
+130,dW9cPsvOGwlOpiz3wEBgiQ,Bernards Bistro,36.101986700000005,-114.93046000000001,15 Via Bel Canto,3.9655172413793105,HENDERSON,0,average,,True,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+131,5vTdyRqZ-wnOZ4ZANrzFOQ,Bavarian Castle,35.995167200000004,-115.0998256,10890 S Eastern Ave,3.5729166666666665,HENDERSON,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+132,NHLu8M71uawlg1QaAZCvEA,Carls Jr,36.0361732,-114.99418929999999,340 W Lake Mead Pkwy,2.176470588235294,HENDERSON,0,,,False,False,False,False,False,0,0,0,0,0,0,0,1,0,0
+133,_EIIcHRJVqaDRjcffDOBSg,Roma Bistro,36.074104299999995,-115.08283840000001,2895 N Green Valley Pkwy,4.25,HENDERSON,0,average,,False,False,,False,False,0,0,1,0,0,0,0,0,0,0
+134,F5dC0aA2DIGt9bJb3AJSNw,Meat And Three,35.995289,-115.09988200000001,"10890 S Eastern Ave, Ste 108",4.183333333333334,HENDERSON,0,average,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+135,KXO9aGAOWAJEmHD_d8yQ7A,Sonic Drive-In,36.03648,-114.977473,300 S Boulder Hwy,3.0806451612903225,HENDERSON,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,1,0,0
+136,sPQ3i5lI2Tg8pbmqbDaZZw,Subway,36.035863899999995,-115.0990529,2568 Wigwam Pkwy,3.272727272727273,HENDERSON,0,,,,,True,,,0,0,0,0,0,0,0,1,0,0
+137,TAOTaNgsRs5bFeQhj3z1wA,Manhattan Pizza III,36.0800269,-115.0539696,1045 Whitney Ranch Dr,2.3013698630136985,HENDERSON,0,quiet,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+138,eBxQzBFLEPwRCxuiL50SQA,Todd's Unique Dining,36.070956,-115.078525,4350 E Sunset Rd,4.117647058823529,HENDERSON,1,average,,False,False,True,False,False,0,1,0,0,1,0,0,0,0,0
+139,q2HvtPAuc9g3v2B0AjTSFw,Magoos Lodge,36.063526,-115.009721,1817 N Boulder Hwy,3.8333333333333335,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+140,C3N3mAl93KXGm3IgsIsLag,Subway,36.0400030342,-115.047502889,"175 N Stephanie St, Ste 110",3.1538461538461537,HENDERSON,0,quiet,,False,False,False,False,False,0,0,0,0,0,0,0,1,0,0
+141,wcLH-Sg2Ef3YfEaWRHufMA,Port of Subs,36.042133,-115.1015116,2601 Windmill Pkwy,3.7333333333333334,HENDERSON,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+142,tjaPPgXtVnP8RYmSqlsGww,Pick Up Stix,36.0294181,-115.0858742,1500 N Green Valley Pkwy,4.285714285714286,HENDERSON,0,,,,,,,,0,0,0,0,0,1,0,0,0,0
+143,i8hkzA5eiUXgbPjN8vK3rQ,Cabo Mexican Restaurant,36.061504546900004,-115.040205829,1306 W Sunset Rd,3.2475247524752477,HENDERSON,0,average,,True,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+144,nz8uRlnveku1C3t-Lripkw,E-String pizzeria & poker bar,36.0693057,-115.0698807,2031 W Sunset Rd,3.5217391304347827,HENDERSON,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+145,_t8B7bb-Q7kmn50kvGEKzw,Miller's Ale House - Henderson,36.061696600000005,-115.04553600000001,594 Stephanie St,3.4010416666666665,HENDERSON,1,average,,False,False,True,False,False,0,1,0,0,1,0,0,0,0,0
+146,bNpgu9sr3K18oLLw-eL75A,Osaka Japanese Bistro,35.99411,-115.10043,10920 S Eastern Ave,3.7477477477477477,HENDERSON,1,average,,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+147,jX9DocoiY4Bo9EUkaTSqvg,DIY Poki Bowl,35.997872315900004,-115.102055496,"10624 S Eastern Ave, Ste S",4.423076923076923,HENDERSON,1,average,,False,False,False,False,False,1,0,0,1,0,0,0,0,0,0
+148,LWwAMZUiH6iBaL4a6jGRWw,Pasta Cucina,36.060455299999994,-115.0410892,1301 W Sunset Rd,3.1176470588235294,HENDERSON,0,average,,True,False,False,False,False,0,0,1,0,0,0,0,0,0,0
+149,JSTkHbW3L7onBhSIZ4GL8w,Subway,36.040004753699996,-115.029802332,"183 N Gibson Rd, Ste 100",3.076923076923077,HENDERSON,0,,,False,False,False,False,False,0,0,0,0,0,0,0,1,0,0
+150,7AblEr52iyWBuFBEiseESg,PT's,35.99419279999999,-115.0997343,10940 S Eastern Ave,2.625,HENDERSON,0,average,,False,False,False,False,False,0,1,0,0,0,0,0,0,0,0
+151,NjDC1Evc2Wa6ykj8xVpoUw,Wahoo's Fish Tacos,36.0141148895,-114.992987565,76 W Horizon Ridge Pkwy,3.391111111111111,HENDERSON,0,average,,False,False,True,False,False,1,1,0,0,1,0,0,0,0,0
+152,psQ-n0LoPpsbZ5DynxMOdg,PT'S,36.0148506,-114.95797560000001,"1331 S Boulder Hwy, Ste 100",3.142857142857143,HENDERSON,0,,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+153,7YuRqwlt_BUBlj8SgdUWZw,Subway,35.9992908,-115.1040108,"10604 S Eastern Ave, Ste D",4.583333333333333,HENDERSON,0,,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+154,n6u8lDrWBYkis8EQTwgOyA,Serrano's Mexican Grill,36.0705045,-115.0766078,4425 E Sunset Rd,4.0859375,HENDERSON,1,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+155,ttH3ZbUcncBRIXqT-YVPCg,Sabor,36.061685,-115.04601570000001,594 N Stephanie St,4.395348837209302,HENDERSON,0,quiet,,False,False,,False,False,1,1,0,0,0,0,0,0,0,0
+156,3ajYl6uAIpk6-GM6fvokxA,Port of Subs,36.026873991900004,-114.965142729,832 S Boulder Hwy,2.933333333333333,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+157,dYO978rkgyeg6tIQHuEStg,McDonald's,36.0667757,-115.0429179,"1300 W Sunset Rd, Ste 2837",1.2222222222222223,HENDERSON,0,loud,,False,False,,False,False,0,0,0,0,0,0,0,1,0,0
+158,nUpKKVwG2WctMOXux19vew,Buffalo Wild Wings,36.0648526,-115.0401514,617 Mall Ring Cir,2.96875,HENDERSON,0,loud,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+159,OMUEb_wJXOUTJISqUfO1Xg,King Teriyaki & Rolls,36.069776020300004,-115.081942677,2702 N Green Valley Pkwy,4.163934426229508,HENDERSON,0,quiet,,False,False,True,False,True,0,0,0,1,0,0,0,0,0,0
+160,3eeAyVgdYTO2w5owlbTnVQ,Brando's Grill & Bar,36.0717478,-115.0841118,2801 N Green Valley Pkwy,3.375,HENDERSON,0,quiet,,False,False,,False,False,0,1,1,0,0,0,0,0,0,0
+161,W035pMPJuocijd0BLfHaiw,World Of Beer,36.0667757,-115.0429179,"1300 W Sunset Rd, Ste 2940",3.816901408450704,HENDERSON,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+162,DZwR0EIPKlmC3mMLhTkqcQ,Stephano's Greek & Mediterranean Grill,35.9988269,-115.10386000000001,10612 S Eastern Ave,4.247139588100686,HENDERSON,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+163,OQD9QYMmI6ZRlKLGkKfAGQ,L&L Hawaiian BBQ,36.0264616215,-114.96477363700001,854 S Boulder Hwy,3.64,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+164,KLivsKKkFU3XxHM3eukVLA,Super Pizza,36.064237,-115.059525,1690 W Sunset Rd,3.535211267605634,HENDERSON,0,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+165,7tcfLr-QpzJF-y5dfNFjKg,David Clawson Restaurant,35.9428967,-115.11581480000001,2840 Bicentennial Pkwy,4.605263157894737,HENDERSON,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+166,GSiAgRigPwSvXeR7emLSiw,Red Lobster,36.062344200000005,-115.03596359999999,570 Marks St,3.3544303797468356,HENDERSON,0,average,,False,False,True,False,False,0,1,0,0,1,0,0,0,0,0
+167,982dasWTyuKUPbGTifUlEA,Islander's Grill,36.0330800436,-114.985603094,18 W Pacific Ave,3.5588235294117645,HENDERSON,0,average,,False,False,,False,True,0,0,0,0,0,0,0,0,0,0
+168,ImkAc07Pppz0D3KC4iBTng,Flame Kabob,36.054812203400004,-115.037986665,"1205 W Warm Springs Rd, Ste 112",4.333333333333333,HENDERSON,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+169,vX_U2YZV_jCK6Nj3352A4Q,Fire it Up! Gourmet Pizza,36.0614,-115.0559,"2263 N Green Valley Pkwy, Ste 1",3.25,HENDERSON,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+170,A3Zj-YXGAhgsiYT4RTCKwQ,Subway,36.08133660000001,-115.0533639,1080 Whitney Ranch Dr,1.6,HENDERSON,0,,,,,,,,0,0,0,0,0,0,0,1,0,0
+171,wWDQDPuuwQ5kFeT2a72b6Q,Romano's Macaroni Grill,36.0606574,-115.04679740000002,573 N Stephanie St,2.66046511627907,HENDERSON,0,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+172,HQdwdyGU2Qr3_T_QLEb5lw,Vfw Basic Post 3848,36.035458,-114.9953943,401 W Lake Mead Pkwy,4.8,HENDERSON,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+173,cpOELWhrJDdz5v1b3H5EcQ,Dairy Queen,36.0015215,-115.10418290000001,"2654 W Horizon Ridge Pkwy, Ste B17",1.6101694915254237,HENDERSON,0,,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+174,QNM7f0i2lW8cuJDQmqF9QQ,Quinn's,35.952556,-115.0228736,"Green Valley Ranch Resort & Spa, 2305 Paseo Verde Dr",3.8421052631578947,HENDERSON,0,loud,False,True,False,,False,False,0,0,0,0,0,0,0,0,0,0
+175,i9D9xPBV0gR1Ja9kbY4NCw,CRAFTkitchen,35.994189398,-115.099795374,"10940 S Eastern Ave, Ste 107",4.218579234972678,HENDERSON,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+176,x2JxsUlVFrcQ3FvK2UR6KA,CraftHaus Brewery,36.05470379999999,-115.0169916,"7350 Eastgate Rd, Ste 110",4.548872180451128,HENDERSON,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+177,UiUZfYqkfv61VXoe2s2ylw,Larsen's Grill,36.0671402448,-115.04285192200001,"1300 W Sunset Rd, Ste 2950",4.209039548022599,HENDERSON,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+178,L877pDtfa3FyN0fcNeCdlA,Five Guys,36.002999100000004,-115.11058349999999,"10271 S Eastern Ave, Ste 101",3.5689655172413794,HENDERSON,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,1,0,0
+179,NO2ANvvGo_LmoxlveoBzdg,Mix N Mac,36.064746,-115.04028799999999,"605 Mall Ring Cir, Ste 110",2.8448275862068964,HENDERSON,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+180,nygXiIsqtGKG6Igl3UtRaA,Wild Oats Natural Marketplace,36.0604753,-115.0462967,517 N Stephanie St,4.2,HENDERSON,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+181,XD5yy714NkCMpzO4tnQF4A,Boss's Slow Smoked BBQ,36.074028600000005,-115.0828906,"2895 N Green Valley Pkwy, Ste C",4.229508196721311,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+182,cu0Ig3kb9WymVIzjC8Xk2w,Blaze Fast-Fire'd Pizza,36.065271100000004,-115.0458364,673 Mall Ring Circle Henderson,4.078014184397163,HENDERSON,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+183,Bo8hpmBWPWHOv6cEEF7ueg,Carmine's,36.0024846,-115.1067783,10430 S Eastern Ave,2.772727272727273,HENDERSON,0,quiet,,False,False,,False,False,0,0,1,0,0,0,0,0,0,0
+184,ByThTA6BEp9b6kEDt4RYTA,Whist Stove & Spirits,36.0209675394,-115.08620227600001,2235 Village Walk Dr,3.597902097902098,HENDERSON,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+185,wd0nFRiZD5YaDHeaAqUZdw,Chicken Bonz,36.070976200000004,-115.0735699,4606 E Sunset Rd,3.4,HENDERSON,0,,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+186,TVKenh65WwJX3zEr36zKCA,Oyster Bar,36.060528000000005,-115.041156,1301 W Sunset Rd,3.8636363636363638,HENDERSON,1,average,,True,False,True,False,False,0,0,1,0,1,0,0,0,0,0
+187,hTH7a4swDNL5hR9_oHjzZw,Casino Valle Verde,36.0684161,-115.0692544,697 N Valle Verde Dr,4.3,HENDERSON,0,,,,,True,,,0,1,0,0,0,0,0,0,0,0
+188,n5jTCFF6LqNIAz6Jx5-3tw,Pei Wei,35.999147,-115.10611000000002,"10575 S Eastern Ave, Ste 100",3.0991735537190084,HENDERSON,0,average,,False,False,False,False,False,0,0,0,0,0,1,0,1,0,0
+189,DM8j5g9k28vEOTM0kz4KVA,China Tango,35.9429657,-115.115893,"2850 Bicentennial Pkwy, Ste 100",3.5454545454545454,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+190,XuklcV36NOY42qBcBx53Kg,Sunset Pizzeria - Downtown,36.0319583698,-114.98204849700001,203 S Water St,3.0444444444444443,HENDERSON,0,very_loud,,False,False,True,False,True,0,0,1,0,0,0,0,0,0,0
+191,yF-KH1l-rLVJaON8gfpyig,Red Robin Gourmet Burgers,36.0667426618,-115.041837209,"1300 W Sunset Rd, Ste 2545",2.859375,HENDERSON,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+192,E4kJ4m-UN7CvwiNQHWExQw,La Collina Cucina Italiana,36.005201899999996,-115.0958499,645 Carnegie St,3.5714285714285716,HENDERSON,0,,,False,False,,False,False,0,0,1,0,0,0,0,0,0,0
+193,EhuKnhTKJTm_EZ_QGe7PvQ,Carrabba's Italian Grill,36.0051869,-115.1111104,10160 S Eastern Ave,3.6077586206896552,HENDERSON,1,average,,False,False,True,False,False,0,0,1,0,1,0,0,0,0,0
+194,xdIaJk3UYOnt-SWAz_ZKqg,Subway,36.0369302,-114.99570619999999,382 W Lake Mead Pkwy,2.8,HENDERSON,0,quiet,,,,True,,,0,0,0,0,0,0,0,1,0,0
+195,YiEj85uB1UcDJeK8StoX9Q,Dairy Queen,36.0420857275,-115.101288717,2607 Windmill Pkwy,3.2083333333333335,HENDERSON,0,,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+196,VZpzm3HG_YXPHvY97m05qg,Villa Pizza,36.02053970000001,-115.08954250000001,2300 Paseo Verde Pkwy,2.7142857142857144,HENDERSON,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+197,p7RWwyP49cDwgvoK1Um8Mg,The Original Pancake House,35.952556,-115.0228736,"Green Valley Ranch Resort & Spa, 2300 Paseo Verde Pkwy",3.408450704225352,HENDERSON,0,loud,,True,False,,False,False,0,0,0,0,0,0,0,0,0,0
+198,zaw43jYgK4BGuTaYn37qMg,Tropical Smoothie Cafe,36.0138655,-114.9928066,"76 W Horizon Ridge Pkwy, Ste 120",3.169230769230769,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+199,JCOhsMp7XOR2-0ecwHn1dA,Horizon Ridge Mini-Mart,35.999131,-115.1061084,"10575 S Eastern Ave, Ste 190",4.541666666666667,HENDERSON,0,,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+200,I4HLQGcHaiDHfb4p6Znt1A,Port Of Subs,36.0385705261,-115.030029945,151 N Gibson Rd,3.9473684210526314,HENDERSON,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+201,1c_jEfvQBPXZ5YUaAMYJrQ,Duzan Mediterranean Cafe & Tapas,36.000929799999994,-115.10937179999999,"10345 S Eastern Ave, Unit 110",4.561320754716981,HENDERSON,1,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+202,5-fpVbhoZcuSWatzof5YIg,Rubio's Coastal Grill,36.063112700000005,-115.0382283,"1205 W Sunset Rd, Ste 130",3.786324786324786,HENDERSON,0,average,,False,False,True,False,False,1,0,0,0,1,0,0,1,0,0
+203,EetTynvxcovbSsAy7AWMtg,Daddy Macs,36.0762625,-115.08096100000002,"2920 N Green Valley Pkwy, Ste 6",2.8,HENDERSON,0,very_loud,,False,False,,False,False,0,1,1,0,0,0,0,0,0,0
+204,p2nstdjiVQyz312Zz5u3DQ,Boxers Pizza & Sandwich Shop,36.05780120000001,-115.00340179999999,1439 N Boulder Hwy,4.06,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+205,46zwhZduYYqI2pKQyrd1Pg,PT's Ranch,36.0280898,-115.11781640000001,2430 E Pebble Rd,2.6515151515151514,HENDERSON,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+206,7YpipG1N4nsvQZ_WGiV9PA,Parmezan Subs,35.9970981,-115.1022456,10720 S Eastern Ave,4.068493150684931,HENDERSON,0,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+207,RHoFn4B0AfyqyWGYFqeSXA,Santa Rosa Taco Shop,36.0306642348,-114.978033825,23 E Basic Rd,4.277310924369748,HENDERSON,1,quiet,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+208,TOi6KY8b7e1Au-TqC-I7lw,Branded Meats,36.0182071,-115.0546223,"1550 Horizon Ridge Pkwy, Ste M",4.078431372549019,HENDERSON,0,average,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+209,YXdriiIKA4b1nQiRQ4XaDA,Roberto's Taco Shop,36.072359000000006,-115.07278600000001,4604 E Sunset Rd,2.253731343283582,HENDERSON,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,1,0,0
+210,HuzhmzDHcI66G17449rPAg,DJ's Taco Bar,36.0673136929,-115.042009708,"1300 W Sunset Dr, Ste 2829",2.4444444444444446,HENDERSON,0,,,,,,,,1,0,0,0,0,0,0,0,0,0
+211,FIs33y1BVzzcfrDDHh8O5g,Bangkok Orchid,36.0710032,-115.07221489999999,4662 E Sunset Rd,3.627906976744186,HENDERSON,0,quiet,,False,False,True,False,False,0,0,0,0,0,1,1,0,0,0
+212,ff35pl2735rHc5UAK6Z9tw,Veloce Cibo,35.964779,-115.168524,12300 Las Vegas Blvd S,3.72,HENDERSON,0,average,,True,False,,True,False,0,1,0,0,0,0,0,0,0,0
+213,OW9CcNpg336qpnnJr-bIUQ,China Star,36.065575200000005,-115.0453713,617 Mall Ring Cir,2.6666666666666665,HENDERSON,0,average,,,,,,,0,0,0,0,0,1,0,0,0,0
+214,X6CGGlpEBD1Bgiz7Dto83Q,San Francisco Sourdough Eatery,36.0180244,-115.10122539999999,"2530 St Rose Pkwy, Ste 100",3.4444444444444446,HENDERSON,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+215,fh05S2FxDd_9Q95xf-ouww,Slice House,36.020696,-115.09019280000001,2300 Paseo Verde Pkwy,2.9565217391304346,HENDERSON,0,loud,,,,True,,,0,0,1,0,0,0,0,0,0,0
+216,q5X9Yyd-UPQ30MnbCRrPig,Kathy's Southern Cooking,36.1295952464,-115.092666149,6407 Mountain Vista St,3.526315789473684,HENDERSON,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+217,fOzbCeNnB1_mIb-RR4zw1g,Wild Grill,36.004894,-114.941267,2000 S Boulder Hwy,3.823529411764706,HENDERSON,0,average,,False,False,False,False,False,0,1,0,0,0,0,0,0,0,0
+218,f1mT6WrHD0YrQGVlw4kTKg,Ravella Hotel Firenze Lounge,36.1022631,-114.93175740000001,1610 Lake Las Vegas Pkwy,4.2,HENDERSON,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+219,ZjKpGYdQCQPxzkYWAsV56w,Thailicious Authentic Thai & Vegan,36.0280487,-115.0488253,"19 S Stephanie St, Ste 160",4.684210526315789,HENDERSON,1,average,,False,False,True,False,False,0,0,0,0,0,0,1,0,1,1
+220,zHAR8MmCbjrkNnLGm1ozEQ,Rivas Mexican Grill,36.0568721961,-115.056553222,1654 W Warm Springs Rd,4.116279069767442,HENDERSON,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,1,0,0
+221,D3SphPFz2cXzqGiI0LuwUw,Henderson Restaurant Supply,36.0412026,-115.0385173,"1201 American Pacific Dr, Ste A",4.142857142857143,HENDERSON,0,,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+222,IK-N8tsV-zDw6M7MKKeisQ,Cruzers Burgers,36.043214,-114.98508700000001,340 N Boulder Hwy,3.0434782608695654,HENDERSON,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+223,SqdaY4rEgFh51SbWrj3Wqw,Purple Penguin Snowcone Shack,35.9974092,-114.9888078,401 E Horizon Ridge Pkwy,3.0,HENDERSON,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+224,DNip7JeIjjK3rBqE8Qhi1Q,M Sushi & Roll,36.0697660013,-115.081900048,2702 N Green Valley Pkwy,4.392857142857143,HENDERSON,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+225,BJeHWkccQRXZKKyBcauenA,Manna Mediterranean Pizza,35.996832,-115.13716399999998,10648 S Maryland Pkwy,3.5,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+226,nZAI0smLBu8csERVofe7uQ,Bonefish Grill,35.9955927,-115.10113229999999,10839 S Eastern Ave,4.1,HENDERSON,0,,,False,False,,False,False,0,0,0,0,1,0,0,0,0,0
+227,D-2eSknNE6-MRBB2e90xlQ,Auntie Anne's,36.067348700000004,-115.04212930000001,"1300 W Sunset Rd, Ste 2423",2.8333333333333335,HENDERSON,0,,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+228,iY7E-MZPwBuFKSMtMhCIBg,Hot Dog on A Stick,36.0667757,-115.0429179,1300 W Sunset Rd,3.1,HENDERSON,0,average,,False,False,False,False,False,0,0,0,0,0,0,0,1,0,0
+229,I-5qHCVwT7k_KH67-YOx3A,The Cheesecake Factory,36.022082,-115.08318500000001,160 S Green Valley Pkwy,3.5386100386100385,HENDERSON,1,average,,False,False,True,False,False,0,1,0,0,1,0,0,0,0,0
+230,gs7OB_f3MCv-r5yGKfLW9A,Bautista Filipino Kitchen,36.0672531801,-115.041684769,"Sunset Galleria Food Court, 1300 W Sunset Rd",1.6666666666666667,HENDERSON,0,average,,False,False,,False,False,0,0,0,0,0,0,0,1,0,0
+231,QMabpBYQ2qAh16GPbCvMrA,Wendy's,36.0333471779,-115.046293381,76 N Stephanie St,2.772727272727273,HENDERSON,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+232,wyCFQRdX2HygoaqgqBu3qw,Stetson's Saloon & Casino,36.029748,-114.969874,754 S Boulder Hwy,3.5,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+233,Rv4aYEKmRsLrijjtq5CS5Q,Ricos Tacos El Tio,36.0215414723,-115.049146667,1430 W Horizon Ridge Pkwy,4.234567901234568,HENDERSON,0,quiet,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+234,T419Y3fiJW9EuFDkFougVA,Marssa,36.11426877,-114.922281504,101 Montelago Blvd,4.054054054054054,HENDERSON,0,quiet,,False,True,True,True,False,0,0,0,0,0,0,0,0,0,0
+235,rD32POdIhGN9eR8aUxl-3A,Chipotle Mexican Grill,36.0033972,-115.11047090000001,"10251 S Eastern Ave, Ste 100",2.5714285714285716,HENDERSON,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,1,0,0
+236,IoyamGmKao_hfQBvFKihyA,Amigo's Mexican Cantina,36.032336598,-115.008519136,777 W Lake Mead Pkwy,2.757142857142857,HENDERSON,0,average,,True,False,True,False,False,1,0,0,0,1,0,0,0,0,0
+237,-d0Ou1JmEK2j5HR4PGMahA,IHOP,36.0166853346,-114.958591805,1201 S Boulder Hwy,3.03125,HENDERSON,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,1,0,0
+238,WBlYp-nmLiBLp7VjP1FJFg,The Original Las Vegas Buffet,36.0722723705,-115.07962751,"4300 E Sunset Rd, Unit C",1.8494623655913978,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+239,rhG-H3PNvMtuNdaKFcRwjg,Brooklyn Bagel Deli,36.0293246869,-115.08584839299999,"1500 N Green Valley Pkwy, Ste 110",3.5277777777777777,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+240,lAFCW5rCTRCIDQWzEpysbA,Rosati's,36.0131432,-114.9925851,"72 W Horizon Ridge Pkwy, Ste 140",3.5555555555555554,HENDERSON,0,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+241,I0bJzODprmb8H7CRVlOS7Q,Kopper Keg,36.0003115,-115.1226144,3051 Saint Rose Pkwy,3.0,HENDERSON,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+242,WifBAENwZVGlwCMYchBG3g,Jack in the Box,36.055824900000005,-115.03979650000001,1261 W Warm Springs Rd,2.0555555555555554,HENDERSON,0,,,False,False,False,False,False,0,0,0,0,0,0,0,1,0,0
+243,YNjavvZq9SasjkIndOOK4Q,The Habit Burger Grill,36.058747,-115.046677,543 N Stephanie St,4.23463687150838,HENDERSON,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+244,SGyQqYXVq2Rck8ipEmJKmg,Purple Penguin Snowcone Shack,36.0194179,-115.0530027,1500 W Horizon Ridge Pkwy,4.15929203539823,HENDERSON,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+245,rOz9BGGD-UWAgQJ0jbQVuQ,808 Island Craves,36.062976780999996,-114.95510101299999,18 W Pacific Ave,4.0,HENDERSON,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+246,Uuxwgc8kA88Cvt8LthoRdQ,Mi Peru South American Grill,36.023089963800004,-115.048998752,1450 W Horizon Ridge Pkwy,4.1182266009852215,HENDERSON,1,average,,,,True,,,0,1,0,0,0,0,0,0,0,0
+247,taHfilUl29TDeggkNIk0ww,Sushi Bay,36.0421419,-115.1014336,2603 Windmill Pkwy,3.6914285714285713,HENDERSON,0,average,,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+248,kePOQesdciZkNi8jJkolCg,Sbarro's Italian Eatery,36.060455299999994,-115.0410892,1301 W Sunset Rd,3.0,HENDERSON,0,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+249,VsRAIb4k5CjEF-3l_bac0g,Akropolis Gyro & Pizza,36.0643468121,-115.059517734,"1690 W Sunset Rd, Ste 104",4.836448598130841,HENDERSON,1,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+250,yx52nzTjYnc_cHu4_SkH1w,3 Brothers from Italy Jersey Shore Pizza,36.006677,-115.09703300000001,"2520 W Horizon Ridge Pkwy, Ste 150",3.6,HENDERSON,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+251,MW6hyPt6Xz6cIVyp_r1yLg,Sammy's Woodfired Pizza and Grill,36.0724229,-115.07989979999999,4300 E Sunset Rd #A-6,3.491228070175439,HENDERSON,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+252,Hv2BwfsNSsUanW2pJ-VCRA,Don Tortaco Mexican Grill,36.0202146714,-115.05003532399999,"1475 W Horizon Ridge Pkwy, Ste 140",3.0,HENDERSON,0,average,,False,False,True,False,False,1,0,0,0,1,0,0,0,0,0
+253,ZBSiW9qT95tJ2xL9JnHpWw,Sunset Pizzeria,36.0182071,-115.0546223,1550 W Horizon Ridge Pkwy,3.9166666666666665,HENDERSON,0,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+254,b9b58YAzTzgOZDREH_cDfw,Rosati's Pizza,36.0345731,-115.09779990000001,2555 Wigwam Parkway,3.106060606060606,HENDERSON,0,quiet,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+255,kbTAyySlUZrTAr0nJOjiUw,Coyote's Cafe & Cantina,36.0714684,-115.07841770000002,4350 E Sunset Rd,3.5098039215686274,HENDERSON,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+256,Mq8QTBAR7r-vUL6C2JVkRA,Super Burrito,36.0056333,-115.11228909999998,10110 S Eastern Ave,3.090909090909091,HENDERSON,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+257,6o-ordLlcytlaIsGZzOF0w,Caribbean Cooker,36.027297499999996,-115.0473614,65 S Stephanie St,3.1538461538461537,HENDERSON,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+258,SEeFkKq1Y__OQiPMQykG7Q,Marco's Pizza,36.0254612,-115.04663570000001,90 S Stephanie St,3.517857142857143,HENDERSON,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+259,WgCx3vMpALkUo4w-zrHjhg,Manna Mediterranean,36.0395488,-115.02986770000001,171 N Gibson Rd,3.746153846153846,HENDERSON,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+260,IS4cv902ykd8wj1TR0N3-A,Raising Cane's Chicken Fingers,36.0352125,-115.0463163,110 N Stephanie St,3.2386363636363638,HENDERSON,0,loud,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+261,xlxDYmBKcxivtawHudutRw,Fatburger,36.0319583,-115.00912779999999,777 W Lake Mead Pkwy,2.2083333333333335,HENDERSON,0,quiet,True,False,False,False,False,False,0,1,0,0,0,0,0,1,0,0
+262,ad-TfpxfthN6UpIbor3PDg,Fresh Cafe,36.003616,-115.0837028,"665 S Green Valley Pkwy, Ste 100",3.2857142857142856,HENDERSON,0,quiet,,False,False,True,False,True,0,1,0,0,0,0,0,0,0,0
+263,fqoxgDiCuQbEwVRAzj8svw,Como's Restaurant,36.1021168,-114.9306573,10 Via Brianza,3.6666666666666665,HENDERSON,0,,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+264,vraKC3CB9KSDCxYX0q3gWA,Pei Wei,36.063161,-115.043594,"1311 W Sunset Rd, Ste 120",3.255639097744361,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,1,0,1,0,0
+265,BY7KbGp2dPDiw-9TjF0Zyw,Frost Bites Shavery,36.0252336101,-114.96548527200001,898 S Boulder Hwy,4.882352941176471,HENDERSON,1,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+266,bIl02CY-4wSCCGxxeMOsig,Burger Factory,36.068063799099995,-115.041700155,1300 Mall Ring Cir,4.0,HENDERSON,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+267,q5GKRL_u3YsP8ADaU4uNbw,Carmine's Pizza Kitchen,36.00668220000001,-115.09646529999999,2520 W Horizon Ridge,3.801980198019802,HENDERSON,0,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+268,2cib4FSxfh8OxRf9wX5RzQ,The Chocolate Moose,36.0719996188,-115.076077945,4500 E Sunset Rd,4.2105263157894735,HENDERSON,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+269,gbdAew4vA0Gt4IEXFOMEwg,Janelas Restaurant & Bar,35.9759485,-115.1107956,2851 Grand Hills Dr,4.0,HENDERSON,0,,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+270,CAf4_XjAQSqCz1ODB6ScYA,Pink Kingdom Cafe,36.032303999999996,-114.98221699999999,155 S Water St,3.0,HENDERSON,0,quiet,,False,False,,False,True,0,1,0,0,0,0,0,0,0,0
+271,nWx5GEaJ1dpc-psAbG_v5Q,Jesse's Pizza,36.02322879999999,-115.04832820000001,1450 W Horizon Ridge Pkwy,3.774193548387097,HENDERSON,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+272,9xMM3pGCokNTvC6Ao3PByw,IHOP,36.028118,-115.117269,2450 Pebble Rd,2.9722222222222223,HENDERSON,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+273,ZkoF4-snThlABQ1NXlF0ng,Steelz,36.0704394,-115.0773405,4401 E Sunset Rd,3.3333333333333335,HENDERSON,0,average,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+274,DPP0CBruunTELEtNgQ3RIQ,Sultan's Grill- Henderson,36.013265597,-114.992729939,"72 W Horizon Ridge Pkwy, Ste 105",3.641025641025641,HENDERSON,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+275,6PQve0oFCLPSh4wnIzvJtg,Buon Gusto Ristorante,36.001841579899995,-115.103057694,2642 W Horizon Ridge Pkwy,3.801829268292683,HENDERSON,1,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+276,zyJWc8oW8JpPg2xXMQsnAA,McDonald's,36.0607079,-115.0332406,540 Marks St,1.5,HENDERSON,0,loud,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+277,MDpFE-wM7_6nHjtuAENxsQ,Village Pub & Poker,36.070587700000004,-115.0742924,4563 E Sunset Rd,3.122448979591837,HENDERSON,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+278,hEsLl030Ncw10VKCD6g-dg,Denny's,36.0558473557,-115.03788471200001,1201 W Warm Springs Rd,2.5517241379310347,HENDERSON,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+279,rF183_3e0ybElRKdNSwJqQ,Twin Peaks,36.0161804,-115.1180745,"9510 S Eastern Ave, Ste 100",3.3677884615384617,HENDERSON,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+280,G3pcVtRukZM2oKiLeNiUUA,Felipito's Mexican Food,36.0641001415,-115.059247875,"1680 Sunset Rd, Ste A",3.4423076923076925,HENDERSON,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+281,JSiArG-rHBcX1McctDXMhw,Wing & Grill Cafe,36.035046200000004,-115.09815049999999,"2548 Wigwam Pkwy, Ste 140",3.0526315789473686,HENDERSON,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+282,Yp1swb-8pO8i-6-jaK2tsA,Mimi's Cafe,36.0624835344,-115.04578047,596 N Stephanie St,3.45021645021645,HENDERSON,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+283,84D3me3nDXXWDBzT0qcbbA,Roadrunner Saloon,36.0397,-115.0758,2430 E Pebble Rd,3.0454545454545454,HENDERSON,0,average,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+284,EqF8ZWFpz0YkL5I0tC3Q-A,Hot Dog On A Stick,36.055859999999996,-115.056284,"1659 W Warm Springs Rd, Ste 100",4.175,HENDERSON,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+285,m2R3fjLag8EzYPAeIXdC7g,Pizza Hut,36.029427610300004,-115.08594947899999,"1500 N. Green Valley Pkwy., #120",3.6666666666666665,HENDERSON,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+286,7mMxJjeZqnN_nOhWhyU-Vg,Sai Sushi,35.9798771,-115.0979138,"2540 Anthem Village Dr, Ste 120",4.180952380952381,HENDERSON,1,average,,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+287,7kzQjGmeI0Z1q06q_aE1PQ,Gimme Some Sugar,36.028135467199995,-115.04831568,"19 S Stephanie St, Ste 160",3.696035242290749,HENDERSON,1,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+288,6F3QLjJ6iHnK3AAGsoXwsw,Las Pupusas,36.0637862,-115.0519679,"1540 W Sunset Rd, Ste 130",3.1481481481481484,HENDERSON,0,,,False,False,False,False,False,1,1,0,0,0,0,0,0,0,0
+289,-sjCxkxv6xU5rEVLFybAuA,Tony Roma's,36.0594861,-115.0468547,555 N Stephanie St,3.44,HENDERSON,0,average,,False,False,,False,False,0,1,0,0,1,0,0,0,0,0
+290,lQuzqmiE4bfZb19mip9uPA,Jack in the Box,36.064281099999995,-115.05912679999999,1680 W Sunset Rd,4.0,HENDERSON,0,,,,,,,,0,0,0,0,0,0,0,1,0,0
+291,yMw8l729casywLY0oKKbNg,Fix8 Fitness Cafe & Grill,36.0114231,-114.96405700000001,650 E Horizon Dr,3.9153846153846152,HENDERSON,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+292,zIpW3YlE9fFwyWOT5HGI6A,Dairy Queen,36.0410688,-114.9786554,240 E Lake Mead Pkwy,1.96875,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+293,yNS9sDkxDGP9DQV7ilS0NQ,HoneyBaked Ham,36.0632736428,-115.05121837,1533 W Sunset Rd,4.405405405405405,HENDERSON,0,quiet,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+294,5cBF1x9873GVQ6FIw_Fnjg,Kneaders Bakery & Cafe,35.986692244000004,-115.10159944200001,11271 S Eastern Ave,3.3856209150326797,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+295,38-sjGYYVcQEKrZe5Nu47A,Johnny Mac's,36.0266831873,-114.964889005,842 S Boulder Hwy,4.009174311926605,HENDERSON,1,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+296,q7aNYIUEkmisLTE3qBPRog,Panda Express,36.0129763678,-114.963834446,591 College Dr Suite,2.625,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,1,0,1,0,0
+297,A3BzaW-pEmIH4Fu6dav7HA,Grand Café,36.020696,-115.09019280000001,2300 Paseo Verde Pkwy,2.602836879432624,HENDERSON,0,average,,True,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+298,UKVxg3eFNvdKuPDSRT_yxA,Frediani's Authentic Italian Restaurant,36.074104299999995,-115.08283840000001,"2895 N Green Valley Pkwy, #1A",2.3333333333333335,HENDERSON,0,,,,,,,,0,0,1,0,0,0,0,0,0,0
+299,aOv8M2mLogfGNrjoxYfsGw,Straight From Philly Steakout,36.0556542261,-115.056432607,"1659 W Warm Springs Rd, Ste 100",4.45945945945946,HENDERSON,1,average,,False,False,False,False,False,0,1,0,0,0,0,0,1,0,0
+300,1i2zvEyKaxoHX6CyR4WdrQ,The Chicken Shack,36.0295888,-115.062621,"50 N. Valle Verde Dr, Ste 110",3.975609756097561,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+301,vvHr2uKKIhfxVk-fYDmX9Q,Del Taco,36.035583200000005,-115.0470361,135 N Stephanie St,2.1,HENDERSON,0,,,False,False,True,False,False,1,0,0,0,0,0,0,1,0,0
+302,e6MbizDdtMLDMnc8LDmYrQ,Fanny's Bistro & Deli,36.0332333,-115.09952790000001,80 N Pecos Rd,4.5396825396825395,HENDERSON,1,quiet,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+303,mxMwo3zfJwVoCIayeNcA5w,East Ocean Dim Sum & Seafood Restaurant,36.014398799999995,-115.11829159999999,9570 S Eastern Ave,2.9251497005988023,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+304,6hw5xnu6X1goLMLflgOKkA,Rounders Anthem,35.9413734745,-115.11821015299999,2940 Bicentennial Pkwy,3.6315789473684212,HENDERSON,0,loud,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+305,GjZmO5sGxsxwfQpqy-DTvA,Chefery,35.952556,-115.0228736,,5.0,HENDERSON,1,,,,,False,,,0,1,0,0,0,0,0,0,0,0
+306,pqOn3CAS8IfeBa-ZfuH7Sg,Hibachi-San,36.0667757,-115.0429179,1300 W Sunset Rd,2.9444444444444446,HENDERSON,0,average,,False,False,False,False,False,0,0,0,1,0,1,0,1,0,0
+307,LNGBEEelQx4zbfWnlc66cw,Studio B Buffet,35.9658025616,-115.169019763,12300 S Las Vegas Blvd,4.0,HENDERSON,1,average,,True,False,False,True,False,0,0,0,0,1,0,0,0,0,0
+308,n7myBA912X_vl4bSz_tgOA,Haggen Food & Pharmacy,36.0136924,-114.9648686,575 College Dr,1.9583333333333333,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+309,ugGqbJFuVs4pEyrvDS1TYQ,Ohjah Japanese Steakhouse,36.044715000000004,-115.1009236,239 N Pecos Rd,4.311827956989247,HENDERSON,1,average,,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+310,DeiDY5I2scn86glfEVj9Ow,Roberto's Taco Shop,36.039108500000005,-114.9805988,114 S Boulder Hwy,2.8524590163934427,HENDERSON,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+311,LSfCrSK6klyEosPXSCzG2g,Cafe V,35.955563,-115.09566299999999,2450 Hampton Rd,3.378787878787879,HENDERSON,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+312,d85ye7OjCfRXd9MHGChaFQ,Jimmy John's,36.063165999999995,-115.044151,"1321 W Sunset Rd, Ste 110",3.1166666666666667,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+313,QsKhwKYB3YeWXqpIPd5QMg,Sonoma Cellar,36.0613739924,-115.04091891700001,1301 W Sunset Rd,3.756521739130435,HENDERSON,0,quiet,,True,False,True,True,False,0,0,0,0,0,0,0,0,0,0
+314,i0rVOregYLFcp7C1RKoE3g,Dairy Queen,36.0565535,-115.0564142,1660 W Warm Springs Rd,2.6530612244897958,HENDERSON,0,,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+315,qNYLt8zizn--wEpT1KILfw,Egg Works,35.9950796602,-115.101603357,10839 S Eastern Ave,4.342560553633218,HENDERSON,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+316,j5GSeCT_oq5AteGXKGWcnA,Lady Luck Cafe & Catering,36.0310804,-114.9773951,"35 E Basic Rd, Ste B",3.875,HENDERSON,0,quiet,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+317,w2yx8dfNXi3TcPZSdQOw3A,Metro Pizza,36.0217965,-115.048651,1420 W Horizon Ridge Pkwy,3.4613095238095237,HENDERSON,1,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+318,mFzawhJ-qGsfnzGaBTt8Vg,Dos Brothers,36.1560309239,-115.151405869,2222 Fremont St,5.0,HENDERSON,1,,,,,,,,1,0,0,0,0,0,0,0,0,0
+319,dC6erJ1htWZO9N-Z3BakZQ,Pat Thai,35.995289,-115.09988200000001,"10890 S Eastern Ave, Ste 109",3.4444444444444446,HENDERSON,0,quiet,,False,False,,False,False,0,0,0,0,0,0,1,0,0,0
+320,Piie0HHGJlgZP5woDuWhlg,Tony's Place,36.0557242,-115.05593329999999,1639 W Warm Springs Rd,3.7142857142857144,HENDERSON,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+321,uRbuizm1j_9gTRMJJaev0w,Villa Pizza,36.0649691,-115.0462399,639 N Stephanie St,2.7222222222222223,HENDERSON,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+322,erfeEg2sOOGRXYfLIM9BvA,Long John Silver's,36.041221,-114.978614,240 E Lake Mead Dr,1.7272727272727273,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+323,mvvh-raAmdM5UbLUoKnnAg,Inaka Sushi,36.00581470000001,-115.11185659999998,"10100 S Eastern Ave, Ste 130",3.2988505747126435,HENDERSON,0,average,,False,False,False,False,False,0,0,0,1,0,0,0,0,0,0
+324,-qdhAN_Ep0kv0EMB2QEAjg,Sonic Drive-In,36.06992381,-114.957392281,1426 E Lake Mead Pkwy,2.8461538461538463,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+325,hitpsDvCvgajUbSHxaUDlg,Arby's,36.061044,-115.0458027,590 N Stephanie St,1.7872340425531914,HENDERSON,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+326,RkqN70Pidy6_tAWMvodOLg,Ta Ta Bistro,36.0228024608,-115.04855723,1450 W Horizon Ridge Pkwy,3.4474885844748857,HENDERSON,0,quiet,,False,False,True,False,False,0,0,0,1,0,1,0,0,0,0
+327,At2bqa8emnEr5WNIosi0ow,The Cracked Egg,36.02852,-115.084506,"1000 N Green Valley Pkwy, Ste 480",3.703056768558952,HENDERSON,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+328,XbLwKIZTYIpR4ybtJeM7BA,Firelight Barn,36.0330116,-114.98290290000001,133 S Water St,5.0,HENDERSON,1,average,,,,,,,0,1,0,0,0,0,0,0,0,0
+329,BbPzn-vXI4q1ZCEtTO2iBw,Toppled Tortoise,36.028177299999996,-115.0490159,"27 S Stephanie St, Ste 100",3.3636363636363638,HENDERSON,0,,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+330,WpI5MZC3XzlTpcUOKXzCbA,Lindo Michoacan,36.005031,-115.09604250000001,645 Carnegie St,3.6941580756013748,HENDERSON,1,average,,False,False,True,False,False,1,0,0,0,1,0,0,0,0,0
+331,XGr23OTr51qYJ-kSFMzTUA,Daisy's Deli,36.0297,-114.97912,303 Water St,3.6,HENDERSON,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+332,kxBiQz2AcOJLc6je6OD9vw,Firehouse Subs,35.998737,-115.10177,10624 S Eastern Ave,3.5555555555555554,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+333,-VYYKJBVTX1BtaJU4eFJ8A,Teriyaki Madness,36.0274535,-115.04931640000001,43 S Stephanie St,3.4242424242424243,HENDERSON,0,average,,False,False,True,False,True,0,0,0,1,0,0,0,0,0,0
+334,p_bUsbOgUsKSPRtbBzErxw,Tony D's,36.063514700000006,-115.04369109999999,"1311 W Sunset Rd, Ste 105",3.3333333333333335,HENDERSON,0,average,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+335,1nqfF7z_bAnODz7cJ-uekA,Viva Salsa,36.061236,-115.04036,1301 W Sunset Rd,2.9285714285714284,HENDERSON,0,loud,,False,False,False,False,False,1,0,0,0,0,0,0,0,0,0
+336,FYddq7fUtzobZcw4jOJgVA,Taco Bell,36.0705045,-115.0766078,4425 E Sunset Rd,3.75,HENDERSON,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,1,0,0
+337,1zMzkxYgVqJbKGTMQorarA,Coo Coo's Gourmet Coffee Cafe,36.033107,-114.985419,19 W Pacific Ave,4.061946902654867,HENDERSON,0,quiet,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+338,KqxJcRmPEdiUTXHwsZcOZw,Annie's Gourmet Italian,36.0241573,-115.06297830000001,75 S Valle Verde Dr,3.234042553191489,HENDERSON,0,quiet,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+339,OHaJn1FKwEIpCmwt3VsKrA,Images,36.0327021,-114.9836882,122 S Water St,4.222222222222222,HENDERSON,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+340,lcBqrThg5onr6IIsxMQZ1A,Fatburger,36.021228,-115.08890600000001,"2300 Paseo Verde Pkwy, Ste 2011",3.1818181818181817,HENDERSON,0,average,,True,False,True,False,False,0,1,0,0,0,0,0,1,0,0
+341,SR0Q2hAEMJ_m23O_x-khSQ,LYFE Kitchen,36.0224413067,-115.083539126,"140 S Green Valley Pkwy, Ste 142",3.7992047713717696,HENDERSON,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,1
+342,g6l78EOVGYzMmnTSGj8TcA,Due & Proper,36.0211903557,-115.086465552,2255 Village Walk Dr,3.337748344370861,HENDERSON,0,average,,True,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+343,AXr-GJxC4JtjFsY2PoGBWQ,The Tangerine Cafe,35.993777,-115.10158200000001,"10895 S Eastern Ave, Ste 100",4.245614035087719,HENDERSON,1,quiet,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+344,DKY6neYbUjeb2Hfq4YMdgw,Subway,36.0086203,-114.9916305,"75 E Horizon Ridge Pkwy, Ste 150",4.043478260869565,HENDERSON,0,average,,False,False,False,False,False,0,0,0,0,0,0,0,1,0,0
+345,cr_z86T0Tscb2PGakN4Q2A,Sunset Cafe,36.060455299999994,-115.0410892,1301 W Sunset Rd,3.3636363636363638,HENDERSON,0,,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+346,pKTIxpM_2Qk7l_Kb0LImbQ,Chipotle Mexican Grill,36.063156299999996,-115.0435192,"1311 W Sunset Rd, Ste 100",2.985294117647059,HENDERSON,0,average,,False,False,False,False,False,1,0,0,0,0,0,0,1,0,0
+347,OCFBflnJKmGyTgGpK7X7eQ,Burger Shoppe,36.043213969600004,-114.985198751,340 N Boulder Hwy,3.92,HENDERSON,0,quiet,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+348,epETdeCmoF_-ufT5b8ACUA,Omelet House,36.0427823,-114.9846324,316 N Boulder Hwy,4.337231968810916,HENDERSON,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+349,tDV2oFNTGrUWAkxYCqP0jw,A Slice of Chicago At the Inn Zone,36.005320394099996,-115.11824445,2990 St Rose Pkwy,3.275,HENDERSON,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+350,bfIizwyT3-QXrntWbBpfKA,Firefly Tapas Kitchen and Bar,35.9874346,-115.10160459999999,"11261 S Eastern Ave, Ste 200",3.8193548387096774,HENDERSON,0,loud,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+351,SJxm96AkOPhXZFRM5-RbTA,Slice 19,36.0786771,-114.967027,901 Olivia Pkwy,3.3181818181818183,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+352,RPjBB_uhHQ4oxp39Jqm_HQ,Capriotti's Sandwich Shop,35.98973970000001,-115.1015848,11155 S Eastern Ave,3.4754098360655736,HENDERSON,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+353,OOHlm2lbVgPHhSe98YW3yA,Me Gusta Tacos,36.0212602901,-115.086439045,"2235 Village Walk Dr, Ste 153",4.3559322033898304,HENDERSON,1,average,,False,False,True,False,False,1,1,0,0,0,0,0,0,0,1
+354,2fVnJlyKVkt1WjPOlNdP7g,McDonald's,36.0640231,-115.0466871,601 N Stephanie St,2.4318181818181817,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+355,TgTiw8lMYoRNreSeYN9qWg,The Coffee Press,36.017363404,-115.07991626399999,280 S Green Valley Pkwy,4.394736842105263,HENDERSON,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+356,kxP6hLB4lvpPLpCPYlQ8JQ,Klondike Sunset Casino,36.064429499999996,-115.0152091,444 W Sunset Rd,3.21875,HENDERSON,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+357,fxO2uOXjwS_gwG__oawDEw,Rae's Restaurant & Lounge,36.0346501,-115.0974426,2531 Wigwam Pkwy,3.1052631578947367,HENDERSON,0,quiet,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+358,RiTK-37J5yp1sYMFp2n3Qw,Pizza Mania,36.1021220102,-114.930426154,Montelagio Village,1.6666666666666667,HENDERSON,0,loud,,False,False,,False,False,0,0,1,0,0,0,0,0,0,0
+359,1nF8Me63cpxIkFK8Ysx-DA,Shabu Shabu Paradise,36.011899,-115.06284140000001,"1716 W Horizon Ridge Pkwy, Ste 110",4.276315789473684,HENDERSON,1,quiet,False,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+360,jyWnalvlMFz5pZPXN9CRpA,East Coast Eats,36.029585100000006,-115.06254820000001,"50 N Valle Verde Dr, Ste 110",3.838235294117647,HENDERSON,0,,,,,,,,0,1,0,0,0,0,0,1,0,0
+361,W8xPHUqL088jdcmNZyH-eA,Noodle Pot II,36.00581470000001,-115.11185659999998,"10100 S Eastern Ave, Ste 130",3.966386554621849,HENDERSON,0,average,,False,False,True,False,True,0,0,0,0,0,1,0,0,0,0
+362,l0-d7zbmkwvQ6YaUhFBE-w,McDonald's,36.0250367764,-115.062984413,65 S Valle Verde Dr,2.0925925925925926,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+363,7W-7QBBU67ax2nERXrDM1Q,Ohjah Noodle House #2,36.009764700000005,-114.9935124,"35 E Horizon Ridge Pkwy, Ste 160",4.522292993630574,HENDERSON,1,average,,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+364,TCoBE_BkDRrK0bWrh5VueQ,Taco Y Taco,36.0175605896,-115.11789469899999,9470 S Eastern Ave,3.9406867845993756,HENDERSON,1,average,,False,False,True,False,True,1,0,0,0,0,0,0,0,0,1
+365,blSo58x1yUZdT30VwnpOmw,PizzaRev,36.0630661,-115.04534479999998,1381 W Sunset Rd,3.915151515151515,HENDERSON,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,1,0
+366,Ln3jC2yAs5KtopUDAhYZBA,Carl's Jr.,36.061676,-115.03681999999999,535 Marks St,3.090909090909091,HENDERSON,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,1,0,0
+367,xlXwxfiUD4bgJFKUYwkzOg,Borracha Mexican Cantina,36.020481,-115.088674,2300 Paseo Verde Pkwy,4.045325779036827,HENDERSON,1,average,,True,False,True,True,False,1,0,0,0,0,0,0,0,0,0
+368,4VLfpv1q_aoMv8DGwa97YQ,Monstah Lobstah,35.979795,-115.099084,"2551 Anthem Village Dr, Ste D",3.066666666666667,HENDERSON,0,quiet,,False,False,,False,False,0,0,0,0,1,0,0,0,0,0
+369,EC0a-hNGqWZyVUIdtQxPlg,1888 BBQ,35.942474700000005,-115.11714909999999,2910 Bicentennial Pkwy,3.6666666666666665,HENDERSON,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+370,MQAh7G93keNYlFKTus2CDQ,La Flor de Michoacan Ice Cream,36.0798893,-115.0539824,1039 Whitney Ranch Dr,4.9375,HENDERSON,1,,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+371,YmDBXcZI0BvoFmnyQP9pUg,Hooters,36.0612766,-115.0414723,1301 W Sunset Rd,2.857142857142857,HENDERSON,0,average,,True,False,,True,False,0,1,0,0,0,0,0,0,0,0
+372,5RzpBgHNbOZiFCgQ2Zuoog,Endless Swirls,36.0720388597,-115.07635822700001,"4500 E Sunset Rd, Ste 8",3.4473684210526314,HENDERSON,0,,,True,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+373,KdKzTRoSKEUIlxfKTbWUaw,Crepe Shack & Waffles,36.0012900071,-115.109771449,"10345 S Eastern Ave, Ste 100",4.4665012406947895,HENDERSON,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+374,9z3eb67r3ZWs4KOlSP9rSA,Chandelier Meditaranean Restaurant,36.0053075,-115.1177757,2980 St Rose Pkwy,3.8333333333333335,HENDERSON,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+375,BYtGiZr3dbxa2qAhg_3I4w,Elixir - A Local Lounge,36.0763752282,-115.081754934,"2920 N Green Valley Pkwy, Ste 6",4.112781954887218,HENDERSON,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+376,oQi2rgl-ajKDoTAaceLBag,Tides Oyster Bar,36.0192061,-115.0869192,"Green Valley Ranch Station Casino, 2312 Paseo Verde Pkwy",3.1025641025641026,HENDERSON,0,average,,True,False,True,False,False,0,0,0,0,1,0,0,0,0,0
+377,iNKMTWEZ-uuXzCbPsAv-kQ,Café Zupas,36.0628768403,-115.045627851,1381 W Sunset Rd,3.876923076923077,HENDERSON,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+378,46P5yEu3aurgJ9IiGGloVQ,Roberto's Taco Shop,36.0407336214,-115.029965323,"193 N Gibson Rd, Ste 100",2.217391304347826,HENDERSON,0,,,,,True,,,1,0,0,0,0,0,0,0,0,0
+379,4KYnY1nNTaD7vb3Eo1G3Hw,Pizza Hut,35.9992598204,-115.10745523799999,"10525 S Eastern Ave, Ste 130",2.292682926829268,HENDERSON,0,,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+380,ky5L-EfUwU9chSPcIeXM5w,China A Gogo,36.0414027704,-114.981148299,170 N Boulder Hwy,3.795275590551181,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+381,87j14nON0RPB9DSkcWsF7g,Panera Bread,36.0646853186,-115.03913998600001,605 Mall Ring Cir,3.0833333333333335,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+382,9_qI_MCXaxUFfiArlHvGIA,El Pollo Loco,36.012353999999995,-114.96386909999998,690 E Horizon Dr,2.5,HENDERSON,0,,,,,,,,0,0,0,0,0,0,0,1,0,0
+383,FMWWSFWp7o2J5IHqJJr7yg,Panda Express,36.0213012646,-115.08906126,2260 Village Walk Dr,2.6666666666666665,HENDERSON,0,,,,,,,,0,0,0,0,0,1,0,1,0,0
+384,07ysr1ZON5nOOUynGZtPHw,Subway,36.0060629546,-115.112151757,"10090 S Eastern Ave, Ste 110",3.4615384615384617,HENDERSON,0,,,,,True,,,0,0,0,0,0,0,0,1,0,0
+385,q2GzUNQj998GSC8IhkN9hg,HUMMUS,35.9937886267,-115.10190837100001,"10895 S Eastern Ave, Ste 100",4.891025641025641,HENDERSON,1,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,1,0
+386,FcFBgOQuIShzoHG83h9Lyg,Medici Cafe and Terrace,36.1022631,-114.93175740000001,"Ravella Hotel, 1610 Lake Las Vegas Pkwy",4.133333333333334,HENDERSON,0,quiet,,True,False,,True,False,0,1,0,0,0,0,0,0,0,0
+387,fgrMJzwI-AcdvhNZgFCgvw,Port of Subs,36.0632835833,-115.046862401,"1405 W Sunset Rd, Ste 101",3.9,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+388,v1ZcX46_bS-9foXvxWsxLw,Del Taco,36.0410721601,-114.98274754100001,150 N Boulder Hwy,2.1875,HENDERSON,0,,,False,False,True,False,False,1,0,0,0,0,0,0,1,0,0
+389,YgL5oNrTj6rxr1KQjCM-fw,McDonald's,36.042558899999996,-114.9841945,310 N Boulder Hwy,2.2162162162162162,HENDERSON,0,loud,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+390,y6QP5IrOJ7_FsB51jN2_Jg,Pizza Rock,36.020173,-115.0891,2300 Paseo Verde Pkwy,3.925553319919517,HENDERSON,1,loud,,True,False,True,True,False,0,0,0,0,0,0,0,0,0,0
+391,qi6uzJEhA9puZM2io46-_A,P.F. Chang's,36.0224124063,-115.084901422,101 S Green Valley Pkwy,3.2723880597014925,HENDERSON,1,average,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+392,Yo8ODT7aFMM2xKUd1yaBVw,Bella Vita,36.0214603348,-115.08586680299999,"2225 Village Walk Dr, Ste 181",3.9552845528455283,HENDERSON,1,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+393,m1BDEL9C4GsG-0FmAp5P8A,The Players Club LV,36.025888,-115.04786499999999,75 S Stephanie St,4.166666666666667,HENDERSON,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+394,WuTfKVz5g5cM2Cq5UD0Nxw,Haiku & Thai,36.01488,-115.17146699999999,"9620 Las Vegas S Blvd, Ste N-8",1.75,HENDERSON,0,,,False,True,,False,False,0,0,0,1,0,0,1,0,0,0
+395,ZPiiFtSUDsYn-LiudUjhUA,Subway,35.997471600000004,-115.1250805,"3255 Saint Rose Pkwy, Ste 100",3.2857142857142856,HENDERSON,0,average,,False,False,False,False,False,0,0,0,0,0,0,0,1,0,0
+396,wZj7Z_cvC_14fE885TIqoA,Fazoli's,36.056727,-115.04151599999999,1290 W Warm Springs Rd,3.111111111111111,HENDERSON,0,average,,False,False,,False,False,0,0,1,0,0,0,0,0,0,0
+397,PxANrd2dLItNNSAWyiQTjQ,Mama DePalmas Pizza & Bistro,36.066666605500004,-115.04780748600001,639 N Stephanie St,3.7142857142857144,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+398,RTu_YXj2Za0Jf7rsFEcOhw,Robertos Taco Shop,35.9989702,-115.10398909999998,10612 S Eastern Ave,2.717391304347826,HENDERSON,0,average,,False,False,False,False,False,1,0,0,0,0,0,0,1,0,0
+399,pW5PgyIuL8932znvVOekPg,Sbarro,36.070388200000004,-115.0430332,1300 Mall Ring Cir,4.0,HENDERSON,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+400,TqcynTkmvUceKUHOy2GBeQ,Sports Deli,36.11327735,-115.06328654,Sams Town,2.6875,HENDERSON,0,loud,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+401,GW-vTdsS8fFkkfF6gNG0CQ,Sanchos's Mexican Grill,36.0686726,-115.0695301,2021 W Sunset Rd,4.136363636363637,HENDERSON,0,,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+402,3WipOV5JlbCEO_o0tV49yA,Buffalo Wild Wings,36.003156,-115.11164199999999,"10271 S. Eastern Avenue, Suite 121",3.01271186440678,HENDERSON,0,loud,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+403,iA9xu-6oOFynZQxO5qrauQ,DOC Holliday's Saloon,35.9796433,-115.09921750000001,2551 Anthem Village Dr,3.0,HENDERSON,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+404,V9st1APIh04cP1WUfnvxmA,Chimera Golf Club,36.0786771,-114.967027,901 Olivia Pkwy,3.323529411764706,HENDERSON,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+405,WA5c3d6rhjioD3Ri4nCX1A,Subway,36.597704441,-78.1475605017,1413 N Garnett St,4.0,HENDERSON,0,,,,,,,,0,0,0,0,0,0,0,1,0,0
+406,_JwfmRh0T8mEEx-A4FqMOw,Tuscany Grill,35.9904395,-115.10156880000001,11105 S Eastern Ave,4.109243697478991,HENDERSON,1,average,,False,False,False,False,False,0,0,1,0,0,0,0,0,0,0
+407,sr2500NlogeAa52rH0vrcw,Wildfire Sunset,36.0632572,-115.0366038,1195 W Sunset Rd,3.272727272727273,HENDERSON,0,quiet,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+408,y3RlbCN0UrDdLnjSF9NkXA,El Torito Cafe,36.0034634429,-114.940157134,2126 S Boulder Hwy,3.4339622641509435,HENDERSON,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+409,4IN3sNUrqA8uLiLcBg-IWA,Flour & Grounds,36.057005981799996,-115.056659633,1650 W Warm Springs Rd,3.9545454545454546,HENDERSON,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,1,0
+410,rT9OKEmoTr2uHzj3m2HTkQ,Rick's Cafe,36.114390111,-114.922614098,101 Montelago Blvd,3.2666666666666666,HENDERSON,0,average,,False,False,False,True,False,0,0,0,0,0,0,0,0,0,0
+411,dRDLwXHFLsMgpVMxNIRIiQ,Straight From Philly,36.036503,-114.987301,65 W Lake Mead Pkwy,4.372881355932203,HENDERSON,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+412,gSBXlhvRIJPRiMOzO6smoQ,Grand Kebab,36.0647763818,-115.04650030299999,641 N Stephanie St,4.509433962264151,HENDERSON,1,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+413,4UQtSydgZ0-7peghGCb-eg,Legacy Golf Club Restaurant,36.035121600000004,-115.08216270000001,130 Par Excellence Dr,4.333333333333333,HENDERSON,0,quiet,,False,False,False,False,False,0,1,0,0,0,0,0,0,0,0
+414,N8ArHOgRDI8wOJIOZaEHyg,Olive Garden Italian Restaurant,36.0714455193,-115.077228885,4400 E Sunset Rd,3.2857142857142856,HENDERSON,1,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+415,LRWM3vktESJJEYpBs-_x4g,Papa Murphy's,36.0403026412,-115.04759522799999,"175 North Stephanie St, Ste 160",4.117647058823529,HENDERSON,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+416,ehRigNzlkRQlvhzKr7PLCQ,KIT's Kitchen,36.0686726,-115.0695301,2021 W Sunset Rd,4.089285714285714,HENDERSON,0,quiet,,False,False,False,False,False,1,1,1,0,0,0,0,0,0,0
+417,4n-dVQjgPPSg_xxuLB_QLQ,Tides Seafood & Sushi Bar,36.020872400100004,-115.08942994799999,2300 Paseo Verde Pkwy,3.1416666666666666,HENDERSON,0,average,,True,False,True,False,False,0,0,0,0,1,0,0,0,0,0
+418,AVhYkxAqQSFqYMSa01hPbQ,The Cafe,36.032039000000005,-114.9834743,"Eldorado Casino, 140 Water St",3.4,HENDERSON,0,quiet,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+419,IGEy2RbKHrQrZAaofec5jw,Burger King,36.0318359097,-114.972344659,550 S Boulder Hwy,2.5555555555555554,HENDERSON,0,average,,False,False,False,False,False,0,0,0,0,0,0,0,1,0,0
+420,UtZgmOHDW_fbXasbTuZhWA,Farmer Boys,36.03350820000001,-115.0471237,85 N Stephanie St,2.75,HENDERSON,0,loud,,False,False,False,False,False,1,1,0,0,0,0,0,0,0,0
+421,WQn2j45QmB7iX8C5YjZVCw,Red Hots Mexican Restaurant,36.0547761514,-115.03790617,"1205 W Warm Springs, Ste 112",1.6666666666666667,HENDERSON,0,,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+422,D1Zz5Ea3kgsHUMDH0M-jNA,Subway,36.0035774439,-115.08370861700001,665 S Green Valley Pkwy,4.583333333333333,HENDERSON,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+423,iqQEH6olFhpqwZjFRRFmuA,Spicy Tuna Sushi,36.000712807,-115.10918941,"10345 S Eastern Ave, Ste 190",4.399253731343284,HENDERSON,1,average,,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+424,t4EnHrsawt4P8-DFz5rF7Q,Turf Grill,36.020696,-115.09019280000001,2300 Paseo Verde Dr,2.6470588235294117,HENDERSON,0,average,,,,False,,,0,1,0,0,0,0,0,0,0,0
+425,Qgh-6o1N_GG_BFfw0pxBtg,Papa John's Pizza,36.0133162,-114.9600982,"771 E Horizon Dr, Ste 156",2.5483870967741935,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+426,YfsNZho-s38tB9H30Umpqg,Aloha Kitchen,36.063112700000005,-115.0382283,"1205 W Sunset Rd, Ste 120",3.2389380530973453,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+427,vyQD-pu9jFKRXWI9tt16_Q,Shakespeare's Grille & Pub,36.002943279499995,-115.107695315,"790 Coronado Center Dr, Ste 130",3.759259259259259,HENDERSON,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+428,Hu4982iLVNhBy3HI3s_22g,Del Taco,36.0410495,-115.10018740000001,180 N Pecos Rd,3.210526315789474,HENDERSON,0,,,,,True,,,1,0,0,0,0,0,0,0,0,0
+429,0imWty0eKpz8YpuZAKF83Q,McDonald's,36.0066992156,-115.11291662100001,10020 S Eastern Ave,2.721311475409836,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+430,aNnYV9FRtlKMXKU92qGNJA,Emily's Cafe,36.0177243,-114.9482148,725 S Racetrack Rd,3.238095238095238,HENDERSON,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+431,m1GXhsLGEE6Y38bBpWHRBg,Panera Bread,36.0210640803,-115.085968226,2235 Village Walk Dr,3.3548387096774195,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+432,kj1KQgC-mCRV4vYZlWitzg,Panda Express,36.001155100000005,-115.1051946,2654 W Horizon Ridge Pkwy,3.0,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,1,0,1,0,0
+433,OnAKZQCawiLhAxdjhvGYOw,Sunset & Vines,36.1031046018,-114.92959857,40 Costa Di Lago,3.330188679245283,HENDERSON,0,quiet,,True,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+434,IxU1xb7j8SM9WPghWWlE_Q,Sucker-Punch Grill,36.013400384099995,-114.957476078,1401 S Boulder Hwy,5.0,HENDERSON,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+435,6ofwgPTHGJf22dUSK_6fAg,Motor City Coney Island,36.0354393,-114.98557609999999,"19 S Water St, Ste D",3.92,HENDERSON,0,average,,False,False,,False,True,0,0,0,0,0,0,0,0,0,0
+436,g90X9fhKPi0r8rFtICFgxg,Village Pub & Poker,35.994723799999996,-115.1004178,10900 S Eastern Ave,3.95,HENDERSON,0,quiet,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+437,1T1E5g1e-94becqAzvbLDQ,Wendy's,36.0345735,-115.00145490000001,603 W Lake Mead Pkwy,1.8636363636363635,HENDERSON,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+438,LNOnYo13ggdoEGD-syYHIA,Feast Buffet,36.0206092246,-115.08983874799999,2300 Paseo Verde Pkwy,3.144578313253012,HENDERSON,1,average,False,True,False,True,False,False,0,1,0,0,1,0,0,0,0,0
+439,F8nWy6FX8k-hpIf4MbjeNQ,San Francisco Style Sourdough Eatery,36.055709,-115.042496,"1331 W Warm Springs, Ste 190",3.4827586206896552,HENDERSON,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,1,0,0
+440,0hFVE-lqnEytSsWZGevJDg,Marinelli's Pasta Bar,35.964686205700005,-115.17050170600001,12300 Las Vegas Blvd S,3.264705882352941,HENDERSON,0,average,,True,False,False,True,False,0,0,1,0,0,0,0,0,0,0
+441,d17TNvbQP8h5_WniCnma1A,Live Fire Q,36.0719030757,-115.08053854,"4300 E Sunset Rd, Ste A6",3.761904761904762,HENDERSON,0,average,,False,False,True,False,False,1,1,0,0,0,0,0,0,0,0
+442,dFyaVVHLcfNE98-NMftL7w,Noble Roman's Take-n-Bake Pizza,36.0713618,-115.08407179999999,4140 E Sunset Rd,3.5,HENDERSON,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+443,3xykzfVY2PbdjKCRDLdzTQ,Samurai Japanese Steakhouse & Sushi,36.063167,-115.037421,1199 W Sunset Rd,3.9882005899705013,HENDERSON,1,average,,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+444,EnSwLkFQUy1QHgTA0vSbEQ,Fix8 Fitness Cafe,36.0254612,-115.04663570000001,"90 S Stephanie St, Ste 140",3.4761904761904763,HENDERSON,0,quiet,,,,True,,,0,1,0,0,0,0,0,0,0,0
+445,Xck2KzJcZDJGMtwxMwD71w,Sumo Sushi Bar,36.0718892489,-115.083353143,2861 N Green Valley Pkwy,3.4074074074074074,HENDERSON,0,average,,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+446,lIDgEB1HnKAq03H1fpjzLQ,Bad Owl Coffee,35.9991841832,-115.106075853,"10575 S Eastern Ave, Ste 160",4.043771043771044,HENDERSON,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+447,Xx3sljwYFrA1z_5eR8KjOg,Berwick's Urban Lounge,36.0319956,-114.981839,203 S Water St,4.0,HENDERSON,0,quiet,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+448,cCM2b60BomgMixIJVpXaLg,Outlaws Backyard BBQ,36.0169498,-115.11855190000001,9500 S Eastern Ave,3.4285714285714284,HENDERSON,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+449,hoskgfXQRZXc9HV48nVFvg,Standard & Pour,35.9870994,-115.1013916,"11261 S Eastern Ave, Ste 200",4.173684210526316,HENDERSON,1,average,,False,False,True,True,False,0,1,0,0,0,0,0,0,0,0
+450,OhrbZ8e4v0XsD5Qi2eWb7g,Half Shell Seafood & Gaming,36.0015149,-115.1072422,10430 S Eastern Ave,3.127659574468085,HENDERSON,0,average,,False,False,,False,False,0,0,0,0,1,0,0,0,0,0
+451,zitXLajbETOuHQJfok4a4g,Burger Joint,35.995167200000004,-115.0998256,"10890 S Eastern Ave, Ste 108",4.423076923076923,HENDERSON,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,1,0,0
+452,JE5tkxtE2E-iOQ9RR_Ysfg,Chopstix,36.061784700000004,-115.03602340000002,"560 Marks St, Ste C",2.6363636363636362,HENDERSON,0,average,,False,False,,False,False,0,0,0,0,0,1,0,0,0,0
+453,M0A8RFdN1UqSd-tIqXFEBQ,Golden Gate Chinese Restaurant,36.056917,-115.056549,1654 W Warm Springs Rd,3.6341463414634148,HENDERSON,0,quiet,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+454,stK7zVTmMar1ThpzT0Wjvg,Tokyo Boys,36.0546891161,-115.046903021,"375 N Stephanie St, Ste 311",4.254545454545455,HENDERSON,1,average,,False,False,True,False,False,0,0,0,1,1,0,0,0,0,0
+455,AWWqMTqLx9EYyYHOwZ8yBA,Device Pitstop Henderson,36.063156899999996,-115.044634,"1351 W Sunset Rd, Ste 110",3.857142857142857,HENDERSON,0,,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+456,DcD4NnR24iiUj7w6Q6hxzA,TGI Fridays,36.0712378,-115.0797088,4330 E Sunset Rd,2.5837837837837836,HENDERSON,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+457,SkHMTJG0VICBpC-f4RhkxQ,Subway,36.067974,-115.04151599999999,"1300 W Sunset Rd, Unit 2825",3.125,HENDERSON,0,loud,,,,,,,0,0,0,0,0,0,0,1,0,0
+458,t5QPwHMuPQn_kN809Ir6TQ,Le Cafe Du Lac,36.1032238152,-114.929030114,"40 Costa Di Lago, Ste 100",4.466666666666667,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+459,AktuBx1W7c3ZdzwuaOp8xg,Little Dumpling,36.022945799999995,-115.04655149999999,180 S Stephanie St,3.1979166666666665,HENDERSON,0,quiet,,False,False,False,False,False,0,0,0,0,1,1,1,0,0,0
+460,KduMkA9Hq0Nz_7MGj1siKA,Tom Yum Thai Kitchen,36.0677967567,-115.041365912,"1300 W Sunset Rd, Ste 2809",4.566666666666666,HENDERSON,0,loud,,False,False,True,False,False,0,0,0,0,0,0,1,0,0,0
+461,XH4jDFKyeCI7qkKq6PB9Nw,Baja Fresh Mexican Grill,36.065113399999994,-115.0453797,675-A Mall Ring Cir,2.2045454545454546,HENDERSON,0,average,,False,False,False,False,False,1,0,0,0,0,0,0,0,0,0
+462,3b94MZ9agaZL8SMBagTwpA,Bread and Butter,35.994110938,-115.099850426,"10940 S Eastern Ave, Ste 107",4.063091482649842,HENDERSON,1,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+463,618yZxC6stz-Un4xLsp5vw,China A Go Go,35.9799764,-115.1004084,2591 Anthem Village Dr,3.3220338983050848,HENDERSON,0,quiet,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+464,GPX3TnZ0-4pAxKPJUESbeA,Raising Cane's,36.003254,-115.1183707,3023 St Rose Pkwy,3.8962962962962964,HENDERSON,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,1,0,0
+465,01aNlDhbMObjc9OdAHuNpQ,Rose Garden Chinese Restaurant,36.033505130500004,-114.985688059,14 W Pacific Ave,3.8275862068965516,HENDERSON,0,quiet,,False,False,True,False,True,0,0,0,0,0,1,0,0,0,0
+466,MjB1mTO0Thw0csSIe5xxLg,Mustang Sally's Diner,36.048726,-115.027721,280 N Gibson Rd,4.03921568627451,HENDERSON,0,average,,False,False,False,False,True,0,1,0,0,0,0,0,0,0,0
+467,FPAOrUsP7GuIyqmK9UoPUQ,Teriyaki Madness,36.035151899999995,-115.09816869999999,"2548 Wigwam Pkwy, Ste 150",3.647887323943662,HENDERSON,0,average,,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+468,auTNigMttjBBTj1MNxOeFQ,Taj Palace,36.015472515999996,-115.117112761,"9530 S Eastern Ave, Ste 180",4.109243697478991,HENDERSON,1,average,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+469,J-gyEd7lgoNLSYdOd__JtA,The Willows Restaurant,36.0065158,-115.0766525,2020 W Horizon Ridge Pkwy,3.3333333333333335,HENDERSON,0,,,,,,,,0,1,0,0,0,0,0,0,0,0
+470,NO4dgY9EMXts88pfAKH8vA,Nanay Gloria's Filipino Buffet,36.0058936,-115.11183600000001,"10100 S Eastern Ave, Ste 120",3.111111111111111,HENDERSON,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+471,UgcPEMKI7vEIT27rzBIqoA,Pizza Hut,36.056709000000005,-115.040383,1280 W. Warm Springs Rd,2.3513513513513513,HENDERSON,0,average,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+472,eppng2FiFAJa1CZBDX6mbQ,Little Caesar's Pizza,36.0674907529,-115.06864716700001,"690 N Valle Verde Dr, Ste 1",2.4285714285714284,HENDERSON,0,quiet,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+473,LVLctMJ018ShlsFkIuYGTg,Burgers & Brews,35.9651113583,-115.170579956,12300 Las Vegas Blvd S,3.6448087431693987,HENDERSON,0,average,,True,False,False,True,False,0,0,0,0,0,0,0,0,0,0
+474,4SWx95nlvFKzI9uzpQ6wjQ,Del Taco,36.0705352,-115.07584890000001,4449 E Sunset Rd,2.4545454545454546,HENDERSON,0,,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+475,tcfL9_Qe-12eX4rdmK_6XA,Elephant Bar Restaurant,36.021434,-115.088176,2270 Village Walk Dr,3.4659685863874348,HENDERSON,1,average,,False,False,True,False,True,0,1,0,0,0,0,0,0,0,0
+476,w2b0ve7xpuCQkwYICFIUOg,Pasta Shop Ristorante,36.005373399999996,-115.0965399,2525 W Horizon Ridge Pkwy,4.260586319218241,HENDERSON,1,average,,False,False,True,False,False,0,0,1,0,1,0,0,0,1,0
+477,yrdEtp8Z-4QxbiOpPmXYpg,Sushi Club,35.9975649,-115.1025545,10720 S Eastern Ave,3.75,HENDERSON,0,,,False,False,,False,False,0,0,0,1,0,0,0,0,0,0
+478,EBfuq8ctwTXN3Pv4ALOAyA,Arby's,36.0361551,-114.97712890000001,310 S Boulder Hwy,2.0,HENDERSON,0,,,False,False,False,False,False,0,0,0,0,0,0,0,1,0,0
+479,mfMTS_2YBhmq9phSx1bnxg,Remedy's Tavern,35.993443412,-114.93324232299999,530 Conestoga Way,3.646153846153846,HENDERSON,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+480,x78iqNaO9FvKTN5YYXDZFA,Burger King,36.0433448,-115.10094950000001,209 N Pecos Rd,1.5833333333333333,HENDERSON,0,,,,,False,,,0,0,0,0,0,0,0,0,0,0
+481,SHDpSpDjX5tiQQrKKryNkg,Kennedy Tavern,36.0217253,-115.08531049999999,"2235 Village Walk Dr, Ste 157",3.5625,HENDERSON,0,,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+482,gBHFF3xGzN1_ZIOfmN_lzw,Subway,35.979927,-115.100444,2591 Anthem Village Dr,2.3333333333333335,HENDERSON,0,,,,,,,,0,0,0,0,0,0,0,1,0,0
+483,5wTs_RnU7XE_S2uw20kU9A,McDonald's,36.013119200000006,-114.9629304,701 E Horizon Dr,2.0232558139534884,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+484,LLWwWBCg7cek0YS6NqZ2sA,Thai Thai Restaurant,35.9959487915,-115.10034942600001,"10890 S Eastern Ave, Ste 109",3.646153846153846,HENDERSON,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,1,0,0,0
+485,9o06B3dg47Dyx6sLleFh8Q,Teriyaki Madness,36.0827939,-115.0469753,5749 E Russell Road,3.0,HENDERSON,0,,,,,,,,0,0,0,1,0,0,0,0,0,0
+486,zYb4kj2R54R2YPeNm829BA,Sauce Italian Bistro & Bar,36.069818,-115.044513,721 Mall Ring Cir,3.3577235772357725,HENDERSON,0,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+487,uyoZHZzHaZpqMzXovJxDTw,China a Go Go,36.024299299999996,-115.06308670000001,"75 S Valle Verde Dr, Ste 240",3.5277777777777777,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+488,ktAYPbPwmV7cWH-RWwihpA,The Steakhouse at The Pass,35.972629,-114.91200400000001,2800 S Boulder Hwy,3.8666666666666667,HENDERSON,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+489,Rc3fdyxa9IbhBDL-q1Q_Og,Al's Garage,36.0217253,-115.08531049999999,"2235 Village Walk Dr, Ste 147",3.2295081967213113,HENDERSON,0,loud,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+490,F5vj2ZUaemyUB4E6SHVDQA,Seasons Grocery,36.1031584442,-114.92904863,"20 Costa Di Lago, Ste 120",4.238095238095238,HENDERSON,0,,,True,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+491,oq7yB9GwWzJkCWeAMIqIvw,Starbucks,36.020696,-115.09019280000001,2300 Paseo Verde Pkwy,2.7,HENDERSON,0,,,True,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+492,U3ShrvhAFpv5mfT6z07eGw,Rosarita's Beach,36.0131441,-114.9925851,72 W Horizon Ridge Pkwy,3.6578947368421053,HENDERSON,0,quiet,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+493,z3bUwDC1wUPGeIB8Rt90wA,Layers Bakery Cafe,36.004888799999996,-115.0832955,"665 S Green Valley Pkwy, Ste 100",3.9295154185022025,HENDERSON,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+494,5KP7PQywLRMq0WbSF3n2sA,Le Golosita,36.0169498,-115.11855190000001,9500 S Eastern Ave,2.7777777777777777,HENDERSON,0,,,False,False,,False,False,0,0,1,0,0,0,0,0,0,0
+495,HpK1ILGUm5W129toiRSsXw,Fausto's Mexican Grill 3,36.013104999999996,-114.96363799999999,595 College Dr,3.7606837606837606,HENDERSON,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+496,iBPSrhDr7IlfMywxCIp-wA,Cafe Rio,36.0087750748,-114.99154773,65 E Horizon Ridge Pkwy,2.120567375886525,HENDERSON,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+497,fkH7X87RFAJrj81nOZPaNw,Fuego Steakhouse,36.032175206999995,-115.010061209,777 W Lake Mead Pkwy,3.893617021276596,HENDERSON,0,quiet,,True,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+498,I0f12eU-xFn6Kd_4H57jrQ,Napoli Pizza,36.0554558,-115.04141070000001,1275 W Warm Springs Rd,2.837974683544304,HENDERSON,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+499,mGUXzktXl1BlRdsVOy1WjA,Korean BBQ & Rolls,36.070010215,-115.082264543,2702 N Green Valley Pkwy,4.689814814814815,HENDERSON,1,quiet,,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+500,xWq3LQw8w4OIK-fSiGwNLg,Fat Boy,36.0172756313,-115.055440776,"1570 W Horizon Ridge, Ste 160",4.519736842105263,HENDERSON,1,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+501,Wajw_eLLNwapDQI2LLQHHg,Proof Tavern,36.1021168,-114.932846,"10 Via Brianza, Ste 110",3.0789473684210527,HENDERSON,0,quiet,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+502,0s5M9t1SvzuRbfPzSUJ8gg,Vincent's Sandwich & Deli,36.005417,-115.096899,2525 W Horizon Ridge Pkwy,3.3333333333333335,HENDERSON,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+503,KWo_0NYGYkID9EM5-YLmJQ,21 Buffet,36.065575200000005,-115.0453713,"617 Mall Ring Cir, Ste 120",2.0,HENDERSON,0,quiet,,,,,,,0,0,0,0,0,0,0,0,0,0
+504,ifHBH2gZS_feI6JlFbGFfQ,Balboa Pizza Company,36.021039200000004,-115.0878173,2265 Village Walk Dr,3.687830687830688,HENDERSON,1,average,True,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+505,SYGbbZlLk81_bOlBptbS7A,Kyklos Greek Cafe,36.067781367100004,-115.041540166,1300 W Sunset Rd,4.4772727272727275,HENDERSON,1,average,,False,False,True,True,False,0,0,0,0,0,0,0,0,0,1
+506,bzz1t-CEN_G2MDdeirmySQ,New York Chinese Restaurant,36.0039869792,-115.08379229100001,"655 S Green Valley Pkwy, Ste 140",3.6,HENDERSON,1,average,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+507,O3y-5O1n5l0ge_6KGyR_4A,Fausto's Mexican Grill,36.001521399999994,-115.1041828,2654 W Horizon Ridge Pkwy,3.8702290076335877,HENDERSON,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+508,-FtngCwHCD2tRlH8jpj_Ag,Hash House A Go Go,36.0594470666,-115.046847863,555 North Stephanie St,3.301158301158301,HENDERSON,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+509,RzPqAx9QLEccTpxJcLqyfg,Sugar & Spice,35.993777,-115.10158200000001,"10895 S Eastern Ave, Ste 100",4.4,HENDERSON,0,quiet,,False,False,,False,False,0,1,1,0,0,0,0,0,0,0
+510,OXSN9Jrp5JeF5VnXpDNHpg,Sbarro,36.0667757,-115.0429179,"1300 W Sunset Rd, Ste 2845",2.888888888888889,HENDERSON,0,,,,,True,,,0,0,1,0,0,0,0,0,0,0
+511,--FBCX-N37CMYDfs790Bnw,The Bar At Bermuda & St. Rose,35.9786886,-115.1550159,11624 Bermuda Rd,3.7222222222222223,HENDERSON,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+512,cI1qHDTMH70jptTkWYocQg,Grand Cafe,36.020709981399996,-115.08983326,2485 Village View Dr,2.48,HENDERSON,0,average,,True,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+513,SvrxuO2ihYbOW092eQ-dqA,Costa Del Sol At Sunset Station,36.0612766,-115.0414723,1301 W Sunset Road,4.75,HENDERSON,0,average,,False,False,False,False,False,1,0,1,0,1,0,0,0,0,0
+514,EzZ7EN6-f8Yo4qe5fcENiQ,Blues BarBQ,36.069818,-115.044513,721 Mall Ring Cir,2.125,HENDERSON,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+515,TF4iJDrgB_ygfJWN4POg8A,Siri Thai,36.04213920000001,-115.10135290000001,2605 Windmill Pkwy,3.684848484848485,HENDERSON,0,quiet,,False,False,False,False,False,0,0,0,0,1,0,1,0,0,0
+516,RB4ZbZ5MkwfOrZ3Y7OczHQ,Mugshots,36.054609,-114.99808,1120 N Boulder Hwy,3.6666666666666665,HENDERSON,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+517,LESkmUg-nOQcGs_hyiXQbw,Starbucks,36.0122673,-114.96386640000001,690 E Horizon Dr,2.704081632653061,HENDERSON,0,,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+518,f4eUHYdkgfaOvi6rU-o7Kg,The Shake and Dog,36.0441924,-115.0466392,237 N Stephanie St,3.142857142857143,HENDERSON,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+519,KMKPusWbBaIORB669W0EeQ,Kabob Oasis,36.005900700000005,-115.1118635,"10100 S Eastern Ave, Ste 120",3.3934426229508197,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+520,iP0o0sxOhxLssSdME4SZvg,Great Grubbing,36.0180244,-115.10122539999999,"2530 St Rose Pkwy, Ste 130",4.263414634146342,HENDERSON,1,average,,True,False,True,False,False,0,0,0,0,0,0,0,0,1,0
+521,ZBitvpKY5rbsDGqKrlo2Dg,KFC,36.0565,-115.041,1282 W. Warm Springs Road,1.3269230769230769,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+522,FEWTPBUv-QiugBe-2uXD4A,Chopstix,36.061784700000004,-115.03602340000002,"560 Mark St, Ste C",3.5348837209302326,HENDERSON,0,quiet,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+523,uBdYMY6a6A7FyxzTSwOiDg,Kitchen Table,36.0118991,-115.06284140000001,"1716 W Horizon Ridge Pkwy, Ste 100",4.2331786542923435,HENDERSON,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+524,NXNa5OYmN1CNmXwHhDxpRA,Monta Chaya,36.019768,-115.11720600000001,"9310 S Eastern Ave, Ste 116",4.1749539594843466,HENDERSON,1,average,,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+525,us-OuaNldsHAV-ljYsH-nA,Intimate Fine Dining,36.0351,-114.9766,"1770 Horizon Pkwy, Ste 100",4.0,HENDERSON,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+526,Ru09o7KDyRyRX_Le3eHjNQ,Del Taco,36.025018200000005,-114.96425220000002,898 S Boulder Hwy,2.6818181818181817,HENDERSON,0,average,,False,False,True,False,False,1,1,0,0,0,0,0,1,0,0
+527,dPbzlRWQzBlVdhkkDigfOw,Jack In the Box,36.0001957736,-115.106703196,10505 S Eastern Ave,3.05,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+528,dQ4pxV6AxBaD3X4gssg5zg,Giuseppe's Italian Grille,36.001746000000004,-115.10233999999998,2630 W Horizon Ridge Pkwy,3.482142857142857,HENDERSON,0,average,,False,False,True,False,False,0,1,1,0,1,0,0,0,0,0
+529,5zDP3Y2hdh6GJL9DVbQ2KA,Ventano Italian Grill & Seafood,36.019811,-115.053357,191 S Arroyo Grande Blvd,3.885496183206107,HENDERSON,1,average,,False,False,True,False,False,0,0,1,0,1,0,0,0,0,0
+530,VwZhwflLnTq19aAeFLJHCQ,Bernard's Bistro,36.0686777,-115.06955249999999,2021 W Sunset Rd,4.151315789473684,HENDERSON,1,average,,False,False,True,False,True,0,1,1,0,0,0,0,0,0,0
+531,nCwAk9FHldJzop3N88SdaA,PT's,36.0128199,-114.99373,61 W Horizon Ridge Pkwy,3.0161290322580645,HENDERSON,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+532,BQIscJNv1rNEZpV9S7Z_tQ,Noodle ChaCha,36.068756,-115.069468,2021 W Sunset Rd,3.3870967741935485,HENDERSON,0,quiet,,False,False,,False,False,0,0,0,1,0,1,0,0,0,0
+533,lsRa519UE_Iuk_ymGnPuUw,wingzza,35.9933694,-115.09973909999998,"10960 S Eastern Ave, Ste 107",3.0,HENDERSON,0,,,,,,,,0,0,1,0,0,0,0,0,0,0
+534,c_VcdG84KcGRRQ23x-EpPA,Heidi's Brooklyn Deli,36.0383734,-115.0298557,151 N Gibson Rd,4.166666666666667,HENDERSON,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+535,BQqwIYQuo2W94smjrBjy5g,IL Chianti Italian Steak & Seafood,36.0133950245,-114.99275905399999,"72 W Horizon Ridge Pkwy, Ste 100",4.595854922279793,HENDERSON,1,average,,False,False,True,False,False,0,0,1,0,1,0,0,0,0,0
+536,jaW_S2fuJg3pf5JCQ5M_vg,Blues Bar-B-Q,36.069818,-115.044513,721 Mall Ring Cir,2.0,HENDERSON,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+537,gcXSimnpz5q1j_jIzvgcCA,Blueberry Hill Restaurant and Lounge,36.0718573,-115.08304199999999,2855 N Green Valley Pkwy,3.0853658536585367,HENDERSON,0,average,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+538,KW5edXlPGeZ0cx7MiJyamw,Hi-Coffee Cafe,36.0254348939,-115.046733468,"90 S Stephanie St, Ste 150",4.588571428571429,HENDERSON,1,quiet,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+539,pYL6JqKtqlMNXbWonw3yNA,Arby's,36.0016516,-115.1085481,10365 S Eastern Ave,1.7297297297297298,HENDERSON,0,,,False,False,False,False,False,0,0,0,0,0,0,0,1,0,0
+540,Z3lxyVf_RfaCOGwF9J9Mmg,Iron Rail Café,35.9719102027,-114.911081215,2800 S Boulder Hwy,3.7142857142857144,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+541,gOdxnf4C3xiTpEnY66hVlQ,Wok In Express,36.030262,-115.02991599999999,35 S Gibson Rd,3.25,HENDERSON,0,,,,,,,,0,1,0,0,0,1,0,0,0,0
+542,grx2VIhIT7LpK0-kthPHzQ,White Chocolate Grill,36.016853399999995,-115.11869399999999,9510 Eastern Ave,2.9166666666666665,HENDERSON,0,,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+543,0NT3Hhu2RcAmFKBy2BiRmQ,Metro Diner,36.044686313,-115.047274066,"249 N Stephanie St, Ste 2",4.229007633587786,HENDERSON,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+544,CQk3WJtULz_xOkUM6o7wpQ,Babystacks Cafe,36.060316750700004,-115.045475596,"550 N Stephanie St, Ste D",3.8877086494688924,HENDERSON,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+545,6Gm8wh3N-su9wMaYzGreAg,Roberto's Taco Shop,36.0408735,-115.0298797,193 N Gibson Rd,3.119565217391304,HENDERSON,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,1,0,0
+546,syNB957bkdanLVhC0f28nw,Shawarma Plus,36.005900700000005,-115.1118635,"10100 S Eastern Ave, Ste 120",4.296296296296297,HENDERSON,0,quiet,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+547,5DQWy769hUv1vl9wbywE3A,Unique Pizza and Subs,36.063117,-115.04539399999999,1381 W Sunset Rd,4.25,HENDERSON,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+548,8ERLNXNjxiKf3qnlSGjRIg,Saporo Sushi,36.0653716,-115.04625619999999,641 N Stephanie St,3.4285714285714284,HENDERSON,0,,False,False,False,,False,False,0,0,0,1,0,0,0,0,0,0
+549,DTzkUTH90xMMJ3CVhcUZwA,Salon Nouveau,35.9900621,-115.10104579999998,"11125 S Eastern Ave, Ste 100",2.3559322033898304,HENDERSON,0,,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+550,3ViGD_AF1AUmxF4zeHB_kQ,Pho King Phonomenal Noodle Lab & Grill,36.0310443714,-114.97732143799999,"35 E Basic Rd, Ste B",4.166666666666667,HENDERSON,1,quiet,,False,False,False,False,False,0,0,0,0,0,0,1,0,0,0
+551,42romV8altAeuZuP2OC1gw,Ohana Hawaiian BBQ,36.029596485,-115.08582115200001,"1500 N Green Valley Pkwy, Ste 230",3.8157894736842106,HENDERSON,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+552,9q0s7-EfafubLeLUJg_7BQ,Las Pupusas Restaurant,36.0653716,-115.04625659999999,641 N Stephanie St,3.871794871794872,HENDERSON,0,average,,False,False,True,False,False,1,1,0,0,0,0,0,0,0,0
+553,fL2vdjn-ApNcsVntxtg4Dg,Fiesta Henderson,36.0319583,-115.00912779999999,777 W Lake Mead Pkwy,2.411522633744856,HENDERSON,0,,,,,,,,1,0,0,0,1,0,0,0,0,0
+554,IYNhLtGRSdb0Kr_t7EvQHw,OYummy Sushi & Roll,36.0697915,-115.08231289999999,2702 N Green Valley Pkwy,4.153846153846154,HENDERSON,0,quiet,,False,False,,False,False,0,0,0,1,0,0,0,0,0,0
+555,IrVTxR6Dk7TIh1DsrnzVTg,Village Pub & Poker,36.0410034633,-115.029906329,193 N Gibson Rd,3.59375,HENDERSON,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+556,Q-fXNh68OldNdotEVEJuhQ,Born And Raised,36.0064518043,-115.111569152,10050 S Eastern Ave,3.9116465863453813,HENDERSON,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+557,jScBTQtdAt-8RshaiBEHgw,Served,36.0107202,-115.0648029,"1770 W Horizon Ridge, Ste 100",4.455205811138015,HENDERSON,1,quiet,,False,False,False,False,False,1,1,0,0,0,0,0,0,0,0
+558,fknU3sWplCBn26b6HwJ1kQ,Gaati Thai Kitchen,35.99908920000001,-115.10699579999999,"10545 S Eastern Ave, Ste 100",3.916967509025271,HENDERSON,1,quiet,,False,False,True,False,False,0,0,0,0,0,0,1,0,0,0
+559,RYnz1zmq64aEEtVX8L9JQw,Hawaiian Grill,36.068241,-115.045078,1300 W Sunset Rd,4.0,HENDERSON,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+560,Rf41BVuBNLsSWbCla28Tig,Capriotti's Sandwich Shop,36.041169884,-114.980379157,170 N Boulder Hwy,2.5,HENDERSON,0,average,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+561,JjV6kIq-pVkI4CZI4yIHCQ,Matteo's Gourmet Cafe,35.9985837597,-115.10962933299999,"2779 W Horizon Ridge Pkwy, Ste 120",4.6,HENDERSON,0,average,,,,True,,,0,0,0,0,0,0,0,0,0,0
+562,E1oljAejCOeW53XdUKQuVQ,Café Fiesta,36.0319583,-115.00912779999999,777 W Lake Mead Pkwy,2.783333333333333,HENDERSON,0,average,,True,False,True,True,False,0,1,0,0,0,0,0,0,0,0
+563,caUPXiOxvLGMsorJBtNlhg,Sammy's Restaurant & Bar,36.0297380296,-115.08690566,1501 N Green Valley Pkwy,3.662878787878788,HENDERSON,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+564,1jdiIc69VElLkloLKY0RAg,Little Caesars Pizza,36.0408717745,-115.101507212,2639 Windmill Pkwy,1.6666666666666667,HENDERSON,0,average,,,,False,,,0,0,0,0,0,0,0,0,0,0
+565,KVwflracbADEUzLn1wTEKg,Jack In the Box,36.036819,-114.977853,290 S Boulder Hwy,2.6842105263157894,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+566,RzhTIiTkiawbuwmsrz5Qqg,The Chicken Shack,35.996832,-115.13716399999998,10648 S Maryland Pkwy,3.5,HENDERSON,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+567,kG4dBv7FYM7y5msCKb-wcg,Bouncy World,36.0435448,-115.0481534,225 N Stephanie St,4.2712765957446805,HENDERSON,1,loud,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+568,ONJ0wyIKvCMpXRRDZ_iy7g,Majesty Bakeries - Green Valley,36.003542729,-115.083951987,"665 S Green Valley Pkwy, Ste 100",3.4166666666666665,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+569,uYtlrzBwtekPt8GKwUBoWw,Sushi Cafe,36.044644344299996,-115.048000145,"237 N Stephanie St, Ste J",4.491166077738516,HENDERSON,1,average,,False,False,True,False,False,0,0,0,1,1,0,0,0,0,0
+570,aWfMtaarS0Ufw9v6fKKegA,The 052,35.9870994,-115.1013916,11261 S Eastern Ave,3.9166666666666665,HENDERSON,0,quiet,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+571,Z5N79y9y0d0QKTuNKqyYpQ,Gold Rush Casino and Cafe',36.063175,-115.03686,1195 W Sunset Rd,3.4545454545454546,HENDERSON,0,,,,,,,,0,1,0,0,0,0,0,0,0,0
+572,jc4Wlgme6xI0-c1U_AKuBQ,NAGA - Thai Dining,36.0138655,-114.9928066,"76 W Horizon Ridge Pkwy, Ste 150",4.132564841498559,HENDERSON,1,quiet,,False,False,True,False,False,0,0,0,0,0,0,1,0,0,0
+573,dbOyrP0eTEXyJTVieTrUZQ,Costco Food Court,36.0694179454,-115.03778624799999,791 Marks St,4.090909090909091,HENDERSON,0,average,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+574,0C4b8LsgLuL7_DuPXE729A,Pizza Buddha,36.0070475466,-115.09660418200001,"2520 W Horizon Ridge Pkwy, Ste 150",4.416666666666667,HENDERSON,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+575,WUwSC6YDIplLPYucqIQIFg,Wendy's,36.0632417,-115.03558259999998,1131 W Sunset Rd,2.0,HENDERSON,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+576,0ldxjei8v4q95fApIei3Lg,Lucille's Smokehouse Bar-B-Que,36.020598309200004,-115.086390434,2245 Village Walk Dr,3.9516908212560384,HENDERSON,1,average,False,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+577,7V82ANZ7_ARkA7o0pAMAlA,Galaxy Cafe,35.9967217,-115.12464479999998,"835 Seven Hills Dr, Ste 190",3.6666666666666665,HENDERSON,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+578,Aaywarn83SRxwXOYyXcJuw,Claim Jumper,36.0259925,-115.0856658,601 N Green Valley Pkwy,3.2531120331950207,HENDERSON,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+579,7svPiqFz7ad82VcdDbBcJw,Starbucks,36.0014383,-115.10822979999999,10385 S Eastern Ave,3.0,HENDERSON,0,loud,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+580,1YyZKh-R8aDvySArk-hCpg,Tamale Hut,36.025403000000004,-115.04668799999999,"90 S Stephanie St, Ste 140",3.409090909090909,HENDERSON,0,quiet,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+581,iA4zWe_L1R4ruaEZ8N4KPA,Brooklyn Bagel,35.9992533,-115.10400279999999,10604 S Eastern Ave,3.4838709677419355,HENDERSON,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+582,LI-uxZLODzG5ccYIXDHCCQ,Tropical Smoothie Cafe,36.0217234764,-115.08980490299999,"Green Valley Ranch Resort, 2300 Paseo Verde Pkwy",3.8,HENDERSON,0,very_loud,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+583,5tiXpKNobwttA5uYB16ttA,Wendy's,35.9920521,-115.1022554,11011 S Eastern Ave,2.3684210526315788,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+584,GQNkJWhFyIw9J6WGytCARw,Great Harvest Bread,36.0066826661,-115.09646743399999,"2520 W Horizon Ridge Pkwy, Ste 160",4.2444444444444445,HENDERSON,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+585,Z3JilPsbidx5KqDCTcdQWg,Thai Chili,36.071381,-115.08337900000001,2879 N Green Valley Pkwy,4.171806167400881,HENDERSON,1,quiet,,False,False,True,False,True,0,0,0,0,0,0,1,0,0,0
+586,QoKn3zRpDrBj3hCPYGDCSA,El Pollo Loco,36.0368808081,-114.990726341,274 W Lake Mead Pkwy,3.073170731707317,HENDERSON,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,1,0,0
+587,a7i-o5jRWgibGFEboEMYPQ,Panda Express,36.060455299999994,-115.0410892,"1301 W Sunset Rd, Ste C107",4.333333333333333,HENDERSON,0,,,,,,,,0,0,0,0,0,1,0,1,0,0
+588,Gzek9CZGUVk-SEqqNgBHTg,Domino's Pizza,36.0204273,-114.9621225,971 S Boulder Hwy,2.823529411764706,HENDERSON,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+589,Fmnqq_eqF7qd6VNnZj6tvg,Buckman's Grille,35.954998100000005,-115.1022551,2600 Hampton Rd,3.2777777777777777,HENDERSON,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+590,bIzoX_6PNnpxPiwhJeUMfg,BIBIM KITCHEN,36.0009299,-115.1093717,"10345 S Eastern Ave, Ste 110",4.514285714285714,HENDERSON,1,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+591,qoiUo-7k2ATm0eokxNr8nA,Cook On Wok,36.0551232602,-115.04570823600001,"390 N Stephanie St, Ste 101",3.140625,HENDERSON,0,quiet,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+592,C6uYx1g7TxmuzjfNtxK86w,Freddy's Frozen Custard & Steakburgers,36.056809200000004,-115.041459,1290 W Warm Springs Rd,4.044303797468355,HENDERSON,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+593,GZifPY-KTnZQ9iYfGwT2wg,Straight From Philly,36.0438829,-115.0467533,237 N Stephanie St,4.1525423728813555,HENDERSON,1,average,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+594,TdfdX7QAHPQYiWmpE27KaA,Lil Brown Sugar's Cupcakes Cafe,36.0299987793,-115.03050231899999,"55 S Gibson Rd, Ste 110",4.243243243243243,HENDERSON,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+595,gesHfxT78R3uUd44xdSLig,Champion Pizza,36.030109700000004,-115.0306342,55 S Gibson Rd,3.8,HENDERSON,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+596,HxfrVqxnsFI7MByNI7QINg,Joe's Crab Shack,36.0714005,-115.08089620000001,4250 E Sunset Rd,3.181395348837209,HENDERSON,0,loud,,False,False,True,False,False,0,1,0,0,1,0,0,0,0,0
+597,7-orNjFM9FDNIhITbr37wA,Domino's Pizza,35.9939799,-114.93489209999998,"209 S, Stephanie St",2.6296296296296298,HENDERSON,0,quiet,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+598,FPSEdTcWqsoCuxOsrQ4PFw,Sweet Tomatoes Express,36.0005078,-115.10559199999999,10520 S Eastern Ave,3.4545454545454546,HENDERSON,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,0,0,1
+599,hDlRzzxfVkVNjnveJ8sLmg,Rainbow Club & Casino,36.032742999999996,-114.983609,122 S Water St,3.869565217391304,HENDERSON,1,average,,False,False,True,False,True,0,1,0,0,0,0,0,0,0,0
+600,gbsDvIBVQtVTpzUUzlE3GA,El Pollo Loco,36.0406999,-115.04714409999998,185 N Stephanie St,2.909090909090909,HENDERSON,0,average,,False,False,False,False,False,1,0,0,0,0,0,0,1,0,0
+601,3tSCyhkRIa7-drYrG5_6uA,The Mad Batter Café & Bakery,36.012995000000004,-114.96194399999999,"709 E Horizon Dr, Ste 100",3.8864468864468864,HENDERSON,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+602,E_sO3D6lGkd_AURPBz8yrw,The Auld Dubliner,36.1020303795,-114.930126753,40 Via Bel Canto,3.5371900826446283,HENDERSON,0,average,,True,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+603,Jhdvmro7mzdMuTMaqoPsvQ,Dylans Grill and Pub,36.0704218,-115.0774607,4401 E Sunset Rd,4.208333333333333,HENDERSON,0,,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+604,jxlFEDBb4-ntP_GDjH3WLw,Jack In the Box,36.021635100000005,-115.04904930000001,1430 W Horizon Ridge Pkwy,4.0,HENDERSON,0,,,,,,,,0,0,0,0,0,0,0,1,0,0
+605,w6-qlTncaWlSxTJwK_HvfQ,Wendy's,36.071217700000005,-115.0759988,4450 E Sunset Rd,1.8387096774193548,HENDERSON,0,average,,False,False,False,False,False,0,0,0,0,0,0,0,1,0,0
+606,LxnZTxUoj063tbJaLQ7DHQ,Taco Bell,36.0563,-115.0411,1284 W Warm Springs Rd,4.113636363636363,HENDERSON,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,1,0,0
+607,m2AEBwg1b0VlsC3n-wqxIg,Domino's Pizza,35.9974256,-115.1019624,10710 S Eastern Ave,2.230769230769231,HENDERSON,0,very_loud,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+608,Wr30AyA6PyGsuGS2FyJUcQ,Tropical Smoothie Cafe,35.9989702,-115.10398909999998,10612 S Eastern Ave,2.2598425196850394,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+609,jTnD_YpFIeUzhopfuvKpvA,Giada's Italian Cucina,35.9798771,-115.0979138,"2540 Anthem Village Dr, Ste 100",3.7625,HENDERSON,0,quiet,,False,False,False,False,False,0,0,1,0,0,0,0,0,0,0
+610,mqt-UWQau0NUF75LT3NmUw,Tacone,36.0217253,-115.08531049999999,2265 Village Walk Dr,3.0,HENDERSON,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+611,sDT7CvVLsPG1JizVddhxzg,Pho MaiLan,35.9936634844,-115.10151813600001,"10895 S Eastern Ave, Ste 140",3.8229426433915212,HENDERSON,1,average,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+612,SaGyztBfvEHdDbfq8DYMQg,Fukuda,36.063167,-115.037421,1199 Sunset Rd,3.2142857142857144,HENDERSON,0,average,,False,False,,False,False,0,0,0,1,0,0,0,0,0,0
+613,JTBxVGHe_fPZkfBN_EkA1Q,Emery's  La Barrista Catering Ii,36.029334999999996,-114.979873,306 S Water St,3.7777777777777777,HENDERSON,0,quiet,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+614,9d0OggD2_SleuHmHwPExdA,The Steamie Weenie,36.0297483369,-115.085935185,"1500 N Green Valley Pkwy, Ste 130",4.411764705882353,HENDERSON,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,1,0,0
+615,P2l7s26bzzN_QgkWSVg3sw,El Mexicano,36.033502500000004,-114.98565159999998,18 W Pacific Ave,2.6,HENDERSON,0,,,,,,,,1,0,0,0,0,0,0,0,0,0
+616,RCJB5mZjD8NWHiTY1wYHFQ,Buffet Asia,36.0725902,-115.0799169,"4300 E Sunset Rd, Ste C1",3.6666666666666665,HENDERSON,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+617,_sS2RlnyS_rJdQgs-eVPUg,Denny's,36.034096000000005,-115.008803,"Fiesta Henderson, 781 W Lake Mead Pkwy",2.4,HENDERSON,0,average,,,,,,,0,1,0,0,0,0,0,0,0,0
+618,DQtxU4uae3MzlnP_JZXqPQ,Famous Dave's Barbeque,36.0642567,-115.04365,651 Mall Ring Cir,3.308056872037915,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+619,94c__bSLvs3vG2lKaBKVRg,Five Star Tavern,36.0253848,-114.9645655,886 S Boulder Hwy,3.076923076923077,HENDERSON,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+620,R85cLeVsvN1FketwQ_LyrQ,Corner Bakery Cafe,36.058998483,-115.045643881,494 N Stephanie St,3.9702970297029703,HENDERSON,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+621,jnjsulBGlR-NGhy2OAI_mA,Black Pepper Grill,36.0168531,-115.11867649999999,9510 S Eastern Ave,2.2857142857142856,HENDERSON,0,loud,,False,False,,False,True,0,1,0,0,0,0,0,0,0,0
+622,GRaFqN1QdLFRZpQR-03Dvw,The Gin Mill,36.041455600000006,-115.09834690000001,2561 Windmill Pkwy,3.121212121212121,HENDERSON,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+623,bvOCy8DkgijF9gKgASKV_Q,Thai Thai Restaurant,35.995167200000004,-115.0998256,"10890 S Eastern Ave, Ste 109",3.9302325581395348,HENDERSON,0,quiet,,False,False,False,False,False,0,0,0,0,0,0,1,0,0,0
+624,vtj3lt38T9Icu_RXHAQ__w,China Wan Wan,36.01331629999999,-114.9600983,"771 E Horizon Dr, Unit 168",3.942857142857143,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+625,qr3iie2aA1ddJasU-6N1gQ,Mimi' & Coco' Bistro,36.1032374358,-114.92991945,"40 Costa Di Lago, Ste 120",4.288888888888889,HENDERSON,0,quiet,,True,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+626,Oe7FYgamhSFuxQy9cMNI0A,BellaLinda Gelato,36.1030672191,-114.92987617899999,"40 Costa Di Lago, Unit 130",4.525,HENDERSON,1,,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+627,hrIS-4Z3uYwiPZRCc9eE_g,Design & Dine,36.034589000000004,-115.0978689,"2558 E Wigwam Pkwy, Ste B",4.313253012048193,HENDERSON,1,,,,,,,,0,1,0,0,0,0,0,0,0,0
+628,gFfb5Mq4lhU7Rx0_ZPHwEg,Mediterranean Grill,36.0557242,-115.05593329999999,1639 W Warm Springs Rd,2.8333333333333335,HENDERSON,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+629,k7Sy557_ZaQSGHFlZgeJzw,Weiss Restaurant Deli Bakery,36.0701915,-115.0821267,2744 N Green Valley Pkwy,4.072463768115942,HENDERSON,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+630,2zPtma1ajsJlrXQak98TlQ,Panda Express,36.067348700000004,-115.04212930000001,1300 Sunset Rd Space,2.625,HENDERSON,0,,,,,False,,,0,0,0,0,0,1,0,1,0,0
+631,5Q95IfYIbP6vXz4wjtYWFw,Applebee's Neighborhood Grill & Bar,36.0655476,-115.046645,699 N Stephanie St,2.9178082191780823,HENDERSON,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+632,SsgVFuslMoArNoVBEsfl4A,Great Steak,36.0678405392,-115.040977058,"1300 W Sunset Rd, Ste 2841, Space 2841",1.5,HENDERSON,0,loud,,,,False,,,0,0,0,0,0,0,0,0,0,0
+633,FTVDICd-uxoEGYh4pU0pcw,Joey's NY Pizza,35.989517,-115.10156429999999,"11165 S Eastern Ave, Ste 100",3.7394957983193278,HENDERSON,0,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+634,FuxEwSFbJ73D7UuIdiIBPQ,PKWY Tavern,36.057841100000005,-115.0378923,445 Marks St,3.1219512195121952,HENDERSON,0,loud,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+635,mxQaRW6HZxXcvHSo31H-Yw,The Landings,35.9773336,-115.1390361,"3500 Executive Terminal Dr, Ste 200",3.6338028169014085,HENDERSON,0,quiet,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+636,3BvoqrkBhqnrCeSnuZY-9w,PT's,36.0051261,-115.11272930000001,10075 S Eastern Ave,2.7636363636363637,HENDERSON,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+637,avkOIpslBUFZMQhELpl3JQ,Genghis Grill,36.0601255,-115.04574960000001,550 N Stephanie St,3.407202216066482,HENDERSON,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+638,XFhpL8cZgax0RnMdhWaugg,Lobsterman's Restaurant,36.1030396477,-114.929413785,"40 Costa Di Lago, Ste 100",4.222222222222222,HENDERSON,0,quiet,,False,False,False,False,False,0,0,0,0,1,0,0,0,0,0
+639,4TyDUOjjB0Z1nffg-ZjC3A,McDonalds,36.0653153723,-115.01299641700001,220 W Sunset Rd,1.8095238095238095,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+640,9qlC9wfQIdADyqxWAOZvyw,Papa Murphy's,36.003993,-115.0834834,"655 S Green Valley PKWY, Ste 100",4.476190476190476,HENDERSON,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+641,1VHNeig1A12AaJKEKRI7Uw,Fruit Palace,36.032499,-114.972222,"536 S Boulder Hwy, Ste B",4.454545454545454,HENDERSON,0,average,,False,False,True,False,False,1,1,0,0,0,0,0,1,0,0
+642,AMsfjpim5WohOzQJOtLyQg,Jason's Deli,36.0559407,-115.04129180000001,"1281 West Warm Springs Rd, Ste 7",3.6933333333333334,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+643,bROdCU8DqDE4IY3qENFlow,Jack In the Box,36.012077000000005,-114.9919903,"26 W Horizon Ridge Pkwy, Ste 110",1.9545454545454546,HENDERSON,0,average,,False,False,False,False,False,0,0,0,0,0,0,0,1,0,0
+644,Bs_AR85Lm4eiHXAfeaKnVA,Bertolucci Brazilian Steakhouse,36.074289,-115.08286299999999,"2895 N Green Valley Pkwy, Ste A",2.973333333333333,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+645,mVyi_f4b1Ls_tnunL_aDkA,Presto Cafe - Henderson,36.0280487,-115.0488253,"19 S Stephanie, Ste140",4.1923076923076925,HENDERSON,1,quiet,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+646,_EBa6I5KkADiCdcBHOC_tg,Daily Kitchen Healthy Food & Juice Bar,36.0047876087,-115.11237524799999,10075 S Eastern Ave,4.014423076923077,HENDERSON,1,average,,True,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+647,MjGoXHDENY6M5NzXQDWJXw,China Inn,36.0253755069,-114.96455989299999,894 S Boulder Hwy,3.3617021276595747,HENDERSON,0,quiet,,False,False,True,False,False,0,0,0,0,0,1,1,0,0,0
+648,nwnizMdBAhJ9CVDHXf3QNw,Giuseppe's Bar & Grille,35.9413282617,-115.118206143,2940 Bicentennial Pkwy,3.3636363636363638,HENDERSON,0,average,,False,False,,False,False,0,0,1,0,0,0,0,0,0,0
+649,y5KAK-uNq1M-cOuqLq2t1g,Marie Callender's Restaurant & Bakery,36.0595960836,-115.04575196,530 N Stephanie St,2.923076923076923,HENDERSON,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+650,zEOfVGv6DeprEzmFYMFhXA,Outback Steakhouse,36.057686499999996,-115.0468364,521 N Stephanie St,3.7028985507246377,HENDERSON,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+651,FVSv5UsqzjwuT29gSmVKuw,Pumi Oriental Restaurant,36.0446996,-115.10093710000001,239 N Pecos Rd,2.7096774193548385,HENDERSON,0,quiet,,False,False,,False,False,0,0,0,1,0,0,0,0,0,0
+652,68_nIoStgS3XUoZiW6doAg,Ernie's High Adventure Pub & Deli,36.027297499999996,-115.0473614,65 S Stephanie S,3.8,HENDERSON,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+653,V3U21fM0in_0qpKUMYPNOw,Lee's Sandwiches,36.0155847768,-115.11730760299999,"9530 S Eastern Ave, Ste 150",3.59375,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+654,ejSiOheW5Kv4hqqiGyAZ_A,Capriotti's Sandwich Shop,36.0254612,-115.04663570000001,"90 S Stephanie St, Ste 140",3.6122448979591835,HENDERSON,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+655,jhNjEYLVyS5X8xis_ravig,Roma Grill,36.015136299999995,-115.1184733,9570 S Eastern Ave,3.35,HENDERSON,0,,,False,False,,False,False,0,0,1,0,0,0,0,0,0,0
+656,Y2S3pShEEh_i2UwQ9NfCUg,Port of Subs,36.024299299999996,-115.06308670000001,"75 S Valle Verde Dr, Bldg 200, Ste 230",3.3846153846153846,HENDERSON,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+657,xGn4RxYKA-RYdE2hukuyNw,Sprocket Bar & Restaurant,36.023340399999995,-115.08242690000002,100 S Green Valley Pkwy,4.0,HENDERSON,0,quiet,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+658,ICdoTODBaprN0UReete9VQ,Big B's Texas BBQ,36.003414165,-115.11751178700001,"3019 St Rose Pkwy, Ste 130",4.186379928315413,HENDERSON,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+659,SueEpC916vd8Lo3Lyl9_pQ,Ross J's Aloha Grill,36.071403000000004,-115.07235800000001,"4650 E Sunset Rd, Ste A",4.148984198645598,HENDERSON,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+660,xpAm-NN8JQbL5JdBal_Ptg,Del Taco,36.0609521,-115.03609170000001,550 Marks St,3.0416666666666665,HENDERSON,0,quiet,,False,False,True,False,False,1,1,0,0,0,0,0,0,0,0
+661,bysPjs8xmBLc6yu8CZwJDg,"RARE Fine Steak, Wine & Lounge",35.98718970000001,-115.1016247,"11261 S Eastern Ave, Ste 200",3.0,HENDERSON,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+662,r4ZWXDKCX1K4_ZrZJZpkUA,Panda Express,36.0657932,-115.03742350000002,641 Marks St,3.08,HENDERSON,0,average,,,,True,,,0,0,0,0,0,1,0,1,0,0
+663,xYxAJFjQBTgIcMLyiIIh-g,Wendy's,36.071217700000005,-115.0759988,4450 E Sunset Rd,1.8,HENDERSON,0,,,,,,,,0,0,0,0,0,0,0,1,0,0
+664,o6jHRzuoTDCt6xiJA3VwUQ,Sushi Imagine,36.0240974975,-115.06309254600001,"75 S Valle Verde, Ste 210",4.282208588957055,HENDERSON,1,average,,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+665,hZaTI-r6eJcabuyY3e0TdQ,Teriyaki Madness,36.024846999999994,-115.0059172,"72 W Horizon Ridge Pkwy, #B-105",4.15,HENDERSON,0,quiet,,,,False,,,0,0,0,1,0,0,0,0,0,0
+666,ta8b82eEUnzGq1Z1h0fwyA,DeSimone's Steakhouse,35.972519299999995,-114.91196979999998,2800 S Boulder Hwy,4.155555555555556,HENDERSON,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+667,lYUV48sb2mdJsyd3TgYzbg,Wild Grill @ Wildfire Sunset,36.063175,-115.03686,1195 W Sunset Rd,4.0,HENDERSON,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+668,L4PI4kh8plShtrcWt6aBTQ,Pizza Hut,36.0315955637,-114.970038554,714 S. Boulder Highway,2.25,HENDERSON,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+669,eA8RJa5U2Ep8Ks3ECE6xfA,Haggen Food & Pharmacy,36.0416401,-114.9812631,190 N. Boulder Hwy,2.8,HENDERSON,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+670,SA4qeFCkbEV7MU5vEx_tUw,Carl's Jr,36.0025077,-115.0837128,705 S Green Valley Pkwy,1.6,HENDERSON,0,,,,,,,,0,0,0,0,0,0,0,1,0,0
+671,rkqTVzTkLaWSUybaWUMIdA,Red Robin Gourmet Burgers,36.0138377,-115.1179682,9600 S. Eastern Ave,2.9701986754966887,HENDERSON,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+672,c_xCs0pCLZVM6ImvqXEFPA,Roberto's Taco Shop,36.0128348019,-114.99262793700001,"72 W Horizon Ridge Pkwy, Ste B-150",3.28,HENDERSON,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+673,PFZttUCEfHHjNnM-qzWQEQ,Sweet Tomatoes,36.0556942302,-115.04692221,375 N Stephanie St,3.647457627118644,HENDERSON,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,1
+674,sz59vCd4YrfF2JBf153dDQ,Timbers - Horizon Ridge,36.022297200000004,-115.05062020000001,1450 W Horizon Ridge Pkwy,3.5125,HENDERSON,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+675,TKcq0hOqesiDOwQb-ZwFAw,Black Mountain Grill,35.99201779999999,-115.1028854,11021 S Eastern Ave,3.3537414965986394,HENDERSON,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+676,Pcv_90ROLrK5X_Odikv8mw,Metro Garden,36.0671229,-115.04282509999999,1300 W Sunset Rd,4.125,HENDERSON,0,loud,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+677,gWeYW0E5Tfmmj_9fugfLNw,Thelma's Filipino Restaurant,36.063112700000005,-115.0382283,"1205 W Sunset Rd, Ste 180",3.8606271777003482,HENDERSON,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+678,gJWQV6tavsLo2PdHgDw4KQ,Phat Karmines Pizza,36.0351,-114.9766,"2540 Anthem Village Dr, Ste 100, Bldg B",3.0,HENDERSON,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+679,SgoPKzmU5CjuD5ewuoJ7oQ,VeggiEAT Xpress,36.0551099,-115.0455774,390 N Stephanie St,4.444444444444445,HENDERSON,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,1,1
+680,V90fC_aF-_DNYzQvUtbLww,Jayde Fuzion,35.965173,-115.168773,12300 Las Vegas Blvd S,3.3018018018018016,HENDERSON,0,average,,True,False,True,True,False,0,0,0,0,0,0,0,0,0,0
+681,PWGIAIXAoh91nayfIOQMTQ,Panera Bread,36.009507,-115.11792,9911 S Eastern Ave,3.514792899408284,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+682,lL6rDgbf3KuYC7xG9_oOGg,The Berliner,36.0180702209,-115.118583679,"9400 S Eastern Ave, Ste 106A",3.3636363636363638,HENDERSON,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+683,JEkqwOk7WVT2tlNhQvubDw,Steak,36.013921,-114.99288,76 W Horizon Ridge Pkwy,2.857142857142857,HENDERSON,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+684,_blrEZQZ6et5QEUa-a2WLg,Panda Express,36.041158,-115.047221,195 N Stephanie St,2.325,HENDERSON,0,quiet,,False,False,True,False,False,0,0,0,0,0,1,0,1,0,0
+685,_GxeaxAMKoWiW2TiDiHyPA,New Day Cafe,35.9417107701,-115.115628541,2840 Bicentennial Pkwy,3.5789473684210527,HENDERSON,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+686,lqPuSiWypNCACEMhArSZ2A,Subway,36.0663648969,-115.046603539,689 N Stephanie St,2.7777777777777777,HENDERSON,0,average,,,,True,,,0,0,0,0,0,0,0,1,0,0
+687,ZIUs7gncPOX0OXr1ZYviAQ,Kings Fish House,36.021770000000004,-115.08526699999999,"The District at Green Valley Ranch, 2255 Village Walk Dr, Ste 139",3.6317991631799162,HENDERSON,1,average,,False,False,True,False,False,0,0,0,0,1,0,0,0,0,0
+688,3oajqiPFhYQJsHHiVCchEQ,Sushi Wa,36.0029457248,-115.107755577,"790 Coronado Center Dr, Ste 125",3.8617021276595747,HENDERSON,1,average,,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+689,6zjv75DW7a_XkYiBBb3S7A,Tio Julios,36.033502500000004,-114.98565159999998,18 W Pacific Ave,3.25,HENDERSON,0,average,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+690,NqCHqgF_FY0Aw9gD-Z3ABQ,Popeyes Louisiana Kitchen,36.032957700000004,-115.04645729999999,60 N Stephanie St,2.1018518518518516,HENDERSON,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,1,0,0
+691,oeGABTHjS2EEJg9j7WIHoA,Santarosa Taco Stop,36.054058000000005,-114.967575,866 E Lake Mead Pkwy,4.119047619047619,HENDERSON,0,quiet,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+692,s1w-XoUJ2wuK9OJ7ivpi3Q,CB's Legacy,36.0687272283,-115.069504939,2021 W. Sunset Rd,4.4,HENDERSON,0,quiet,,,,True,,,0,0,0,0,0,0,0,0,0,0
+693,18XkigL5OzBq8BsICKinQw,Henderson Fresh Bakery,35.9993645,-115.10403840000001,10604-C S Eastern Ave,3.0434782608695654,HENDERSON,0,,,,,True,,,0,0,0,0,0,0,0,0,0,0
+694,G87Yg6as3LU5Af1IwoPIYg,Crazy Pita Rotisserie & Grill,36.0213130793,-115.08498429999999,"2225 Village Walk Dr, Ste 175, The District At Green Valley Ranch",4.111111111111111,HENDERSON,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+695,sZIVzaaEBp_HiYutZ2lWag,Purple Potato,36.0061287813,-115.11207277700001,"10090 S Eastern Ave, Ste 110",4.639344262295082,HENDERSON,1,average,,False,False,True,False,False,0,1,0,0,1,0,0,0,1,1
+696,l0Gop1Hu8XJYpHHCpvG6SA,Chile Caliente Tacos Y Mariscos,36.0792706,-115.0536845,1017 Whitney Ranch Dr,4.650406504065041,HENDERSON,1,average,,False,False,True,False,False,1,1,0,0,0,0,0,0,0,0
+697,QJcJaqhxFGaj0V6rRWupvA,Einstein Bros Bagels,36.063369099999996,-115.04701659999999,1405 W Sunset Rd,2.5531914893617023,HENDERSON,0,,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+698,r7IvPMyza853adkAvi1RNQ,Carmine's,36.0578113,-115.03792759999999,445 Marks St,3.188679245283019,HENDERSON,0,average,,False,False,,False,False,0,0,1,0,0,0,0,0,0,0
+699,kbaXNZLUyVuWbeQxH-NNKw,Bell's BBQ,35.993777,-115.10158200000001,"10895 S Eastern Ave, Ste 130",4.16710182767624,HENDERSON,1,average,,False,False,False,False,False,0,1,0,0,0,0,0,0,0,0
+700,nlxHRv1zXGT0c0K51q3jDg,Firehouse Subs,36.060036500100004,-115.035922845,"510 Marks St, Ste 110",3.596774193548387,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+701,Ory33UEFnbnvdOO4UTBaFQ,Chuck E. Cheese's,36.0626067,-115.0510575,1521 W Sunset Rd,2.951219512195122,HENDERSON,0,loud,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+702,0QzCeORfF8EY34UODWRV9A,Sunset Station Hotel & Casino,36.060455299999994,-115.0410892,1301 W Sunset Rd,3.3303370786516853,HENDERSON,1,,,,,,,,0,0,0,0,0,0,0,0,0,0
+703,p-5u8qhYmB-IcTaQcq2_pw,Tropical Smoothie Cafe,36.0655925425,-115.047737879,621 N Stephanie St,1.9391891891891893,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+704,lI3kXSfqsoTeb3mfX6sa7A,Olivo Bistro,35.941517,-115.1183,2940 Bicentennial Pkwy,2.5,HENDERSON,0,quiet,,False,False,False,False,False,0,0,1,0,0,0,0,0,0,0
+705,A8ZXAfU9AM_s3ZWHu_HVFQ,Port of Subs,36.0018297767,-115.102957635,"2642 West Horizon Ridge, Ste A-1",3.875,HENDERSON,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+706,MQu-unZeJadbVhN3Y1vyuA,Restaurant 2 DOS Potrillos,36.0328906,-114.98284620000001,139 S Water St,2.4583333333333335,HENDERSON,0,quiet,,False,False,,False,False,1,0,0,0,1,0,0,0,0,0
+707,IrlQaDI6bz6VKheJdWL-vw,Carmine's On The Hill,36.005201899999996,-115.0958499,645 Carnegie St,3.25,HENDERSON,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+708,EgilPuvZVfxoHd3F3XFs6A,Robertos Taco Shop,36.005925,-115.084534,"2240 W Horizon Ridge Pkwy, Ste 140",3.4705882352941178,HENDERSON,0,quiet,,False,False,True,False,False,1,0,0,0,0,0,0,1,0,0
+709,7pkiQvVfcsa-wtBEeNHHUg,Hot Head Burritos,36.0013888471,-115.08364353299999,725 S Green Valley Pkwy,3.3366336633663365,HENDERSON,0,average,,False,False,True,False,True,1,0,0,0,0,0,0,0,0,0
+710,aVxhELj5r4oOKOw7p4JqcQ,Bagels Las Vegas,36.0352661982,-115.098205048,2548 Wigwam Pkwy,4.15,HENDERSON,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+711,Zmp2_b2gpSloz4Dv2VsVNg,Terra Verde,36.019323,115.08676899999999,"Green Valley Ranch Resort, 2309 Paseo Verde Pkwy",3.563380281690141,HENDERSON,0,quiet,,True,False,,False,False,0,0,1,0,0,0,0,0,0,0
+712,GuQb8N1CUuLv8xduVFofGQ,Yummy Sushi Roll,36.0697915,-115.08231289999999,2702 N Green Valley Pwy,4.0,HENDERSON,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+713,6EWqsE6Ojvt-FA-rl8Sm4Q,Original Tommy's Hamburgers,36.0039594,-115.1175713,3009 St Rose Pkwy,3.1293103448275863,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+714,rYVIEEW5O3ZUKCqNg1hiNA,Little Caesars Pizza,35.99959570000001,-115.1025168,"10608 S Eastern Ave, Ste A",2.275,HENDERSON,0,quiet,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+715,W8Vi1Hc3DcFnIfkgv_WClw,Papa Murphy's Take 'n' Bake Pizza,36.0403065,-114.97699420000001,"276 E Lake Mead Pkwy, Ste A",3.6666666666666665,HENDERSON,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+716,wpuG6LPJJoPw7NN8a0FlTw,Frankly Good Coffee,36.0304718018,-114.98110199,240 S Water St,3.6666666666666665,HENDERSON,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+717,8Aswo1-FW3_8PKVyM_oVQg,McDonald's,36.05347020000001,-115.0829999,2217 N Green Valley Pkwy,2.735294117647059,HENDERSON,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+718,OK0ba4X5seibH8oMWh4bhw,I Love Sushi,35.991622864899995,-115.102851375,11041 S Eastern Ave,4.385714285714286,HENDERSON,1,average,,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+719,AwNqWc0YmEwmSoI8rY9v5A,Straight From Philly Steakout,35.979665999999995,-115.097955,2540 Anthem Village Dr,3.0,HENDERSON,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+720,NVXpsc0s_MUiTXoPzB2d0g,Boardhouse Serious Sandwiches,36.041393299999996,-114.9808176,170 N Boulder Hwy,3.3333333333333335,HENDERSON,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+721,-RmFfWUyUU1RPIGtih7J-w,Grand China,36.0086203,-114.9916305,"75 E Horizon Ridge Pkwy, Ste 120",3.7830188679245285,HENDERSON,0,quiet,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+722,vAXlIzBMGaw-Oqjq1DMuKQ,Capriotti's Sandwich Shop,36.064200299999996,-115.0356856,1146 W Sunset Rd,3.19672131147541,HENDERSON,0,average,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+723,a5QDNEbhGXBuwBPsm-Kb5g,Harry's,36.1026698,-114.92843710000001,8 Strada di Villaggio,3.413793103448276,HENDERSON,0,average,,True,False,,True,False,0,1,0,0,0,0,0,0,0,0
+724,zx1iW-K5dR1pI9PPs4UHwQ,Taco Bell,36.047558,-114.97341899999999,524 E Lake Mead Pkwy,4.0,HENDERSON,0,quiet,,False,False,False,False,False,1,0,0,0,0,0,0,1,0,0
+725,oAngC9V69vyzBVYwKEJQaw,China Tango,36.029537376,-115.08583691,1500 N Green Valley Pkwy,4.034146341463415,HENDERSON,1,average,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+726,P-0LHbAX0z3Zstm4GumhMA,Remedy's Tavern,35.9977566,-115.12637190000001,3265 St Rose Pkwy,3.7927927927927927,HENDERSON,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+727,0s1DqJlSSgR1Ftg9Q_HEOg,Enzos Pizza,36.069713147399995,-115.080409795,2724 N Green Valley Pkwy,3.0805369127516777,HENDERSON,0,average,,False,False,True,False,False,0,0,1,0,1,0,0,0,0,0
+728,V2td86VD0ezfCJcmUz-ddQ,Tropical Smoothie Cafe,35.9429657,-115.115893,2850 Bicentennial Pkwy,1.9024390243902438,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+729,UvLZYSU8H6KRpnYwnWAVYQ,PT's,35.9432589,-115.11725220000001,2890 Bicentennial Pkwy,3.2857142857142856,HENDERSON,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+730,sspdrxTyqt7ug3J0s4TqAQ,Hometown Classic American Eats,36.036553773499996,-114.987245398,65 W Lake Mead Pkwy,4.0,HENDERSON,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+731,V-M3ofC2sdpYQpuvkc54Sg,Essence and Herbs,36.1016495,-114.93073590000002,15 Via Bel Canto,4.0875,HENDERSON,0,average,,True,False,True,False,False,0,1,0,0,1,0,0,0,0,0
+732,I4Gbdz5RizunE-RF2w3zkA,Villa Pizza,36.0359136,-114.97764109999999,308 S Boulder Hwy,3.6666666666666665,HENDERSON,0,quiet,,False,False,,False,False,0,0,1,0,0,0,0,0,0,0
+733,SkSkWld_ijmWVEDo9_ztKw,Bistro Pizza,36.0302581787,-115.03046417200001,"55 S Gibson Rd, Ste 112",4.337468982630273,HENDERSON,1,average,,False,False,True,False,True,0,0,1,0,0,0,0,0,0,0
+734,WxBclAFq06uQsh0RsIaw6g,Pizza Forte,36.060455299999994,-115.0410892,1301 W Sunset Rd,3.3333333333333335,HENDERSON,0,average,,True,False,False,True,False,0,0,1,0,0,0,0,0,0,0
+735,YQPBL0x8fmnIY752eUoPqA,Opus Too,36.0245717,-115.0903277,2350 Corporate Cir,3.769230769230769,HENDERSON,0,quiet,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+736,ZVGbouYqiY577WGCYZJbTQ,Panda Express,36.065707873,-114.9539,120 E Lake Mead Pkwy,3.5,HENDERSON,0,average,,,,False,,,0,0,0,0,0,1,0,1,0,0
+737,dGDkqrsZNyZdRwaJtF3HwQ,Mariana's Cantina,36.032039000000005,-114.9834743,140 Water St,2.0,HENDERSON,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+738,RJtgNpUFthlJ5grLr16GxA,En Sushi & Robata Grill,35.9798537,-115.0978712,"2540 Anthem Village Dr, Ste 120",3.960526315789474,HENDERSON,0,average,,False,False,True,False,True,0,0,0,1,0,0,0,0,0,0
+739,jMZxeaQTu0fY0M4iv1cVyw,Jimmy John's,36.037381200000006,-114.9923788,"310 W Lake Mead Pkwy, Ste 100",3.253968253968254,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+740,1BM4iXyCU-dIRnNQw-JtmA,Jack In The Box,35.9674046321,-115.16877336700001,"4161 St Rose Pkwy, Ste B",2.28,HENDERSON,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+741,abIzzrpso-fjVTjcEvsNwg,Veloce Restaurant,35.99463,-115.11896999999999,"M  Hotel, 12300 Las Vegas Blvd S",4.0,HENDERSON,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+742,3_iktCOnhHho1P4bJ2VHZg,Potato Corner,36.0676779327,-115.04086172299999,1300 W Sunset Rd,3.948717948717949,HENDERSON,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,1,0,0
+743,ALNI-EwLTSdP6k0ftvY7Gw,Chilly Palmers,36.0569255639,-115.05610147899999,1640 W Warm Springs Rd,3.15,HENDERSON,0,average,,False,False,True,False,False,0,1,1,0,0,0,0,0,0,0
+744,xUEoAG8qto7HXQnEqMcuuA,Cheeburger Cheeburger,36.0100415,-115.11866090000002,9905 S Eastern Ave,2.9788732394366195,HENDERSON,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+745,eaiv4-X0JhNGP_2UmFmhGw,L & L Hawaiian Barbecue,36.0670394389,-115.046709005,687 N Stephanie St,2.5760869565217392,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+746,m3uS5kwBVOwYarGbt98Gjg,Chick-fil-A,36.0576164913,-115.045751967,460 N Stephanie St,3.7724867724867726,HENDERSON,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+747,MSYpFcm5FAkQYLcY6tkOgw,China ok go,36.0548953697,-115.08465137200001,"2263 N Green Valley Pkwy, Ste 1",3.2063492063492065,HENDERSON,0,quiet,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+748,dakUSKq6Vp9X2Qvp54t4vQ,China Joe's,36.031057098000005,-114.96938115200001,720 S Boulder Hwy,2.2777777777777777,HENDERSON,0,quiet,,False,False,False,False,True,0,0,0,0,0,1,0,0,0,0
+749,7JWWeXqil03Ua_wV9KN8ZQ,Luna Rossa,36.1026491424,-114.93040579,10 Via Bel Canto,3.6564885496183206,HENDERSON,1,average,,True,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+750,yZ5yE5HV-BCAfI0pEi22eA,Foodslingers,35.960733700000006,-114.939821,,4.4,HENDERSON,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+751,3f0zDyiZIY8cBF-g_EkpuQ,Domino's Pizza,36.0677217,-115.0366746,711 Marks St,2.857142857142857,HENDERSON,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+752,5eV8oUGdBXylwB7HeaDFOA,The Great Greek,36.0555174045,-115.04165183100001,"1275 W Warm Springs Rd, Ste 160",4.600499375780275,HENDERSON,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+753,Yvg5kUVlywcTqlDg4m7VtA,Pizza Hut,35.9429657,-115.115893,2850 Bicentennial Pkwy #130,2.814814814814815,HENDERSON,0,quiet,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+754,x_eIYAOPCSM1BKvID2Vcbg,Vig Deli,35.964660358,-115.16862971200001,12300 Las Vegas Blvd S,3.4836065573770494,HENDERSON,0,average,,True,False,True,True,False,0,1,0,0,1,0,0,0,0,0
+755,LhaOYo_5j5W_JIY5fYPKuQ,Brooklyn's Restaurant,36.1020406613,-114.930216084,10 Via Brianza,3.142857142857143,HENDERSON,0,quiet,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+756,E3yER5W6Wsyc5ncGKb9Nzw,Railroad Pass Hotel & Casino,35.972876825,-114.91255171200001,2800 S Boulder Hwy,2.925,HENDERSON,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+757,DwS5_jKur2mfxvqDp_gptg,Barley's Brew Pub,36.0722642263,-115.074880219,4500 E Sunset Rd,2.9591836734693877,HENDERSON,0,loud,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+758,a44h5KtCKxN6L7ScrE63HQ,Subway,36.038926700000005,-114.9804071,118 Boulder Hwy,1.8888888888888888,HENDERSON,0,,,,,False,,,0,0,0,0,0,0,0,1,0,0
+759,tf8Ge1hPe-zGZIHI2Cgvyg,Tucky's Smokin BBQ,36.0420457,-114.9838133,308 N Boulder Hwy,3.8222222222222224,HENDERSON,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+760,OTcBXjDkViDPds4Lxy8KIQ,Carlito's Burritos,36.0724521382,-115.08016672,"4300 E Sunset Rd, Ste A-5",3.9152542372881354,HENDERSON,1,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+761,x7V0aE2j6wXtlWue55gVqg,Albertson's,35.942474700000005,-115.11714909999999,2910 Bicentennial Pkwy,3.111111111111111,HENDERSON,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+762,Kb_FHcPVmZpF4FlKla3TPQ,Hooters Eastern,36.001557557800005,-115.10699685700001,10430 S Eastern Ave,2.8838709677419354,HENDERSON,0,average,,False,False,False,False,False,0,1,0,0,0,0,0,0,0,0
+763,_NtZzLahKjnS_rWGYsfuDw,Cino's,36.013061,-114.992597,"72 W Horizon Ridge Pkwy, Ste 105",3.6666666666666665,HENDERSON,0,average,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+764,7tNY4BYLA4laqWNV4IWGQg,Settebello Pizzeria Napoletana,36.022468449,-115.083168448,140 Green Valley Pkwy,4.264444444444444,HENDERSON,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+765,Gx1i3fXHzKkcPYrxTCGeoQ,Taco Bell,36.012095,-114.961849,730 East Horizon Drive,2.2777777777777777,HENDERSON,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,1,0,0
+766,Wcuo6YmYj3xhCso5sMQcOw,Blaze Fast-Fire'd Pizza,36.00050770000001,-115.10559199999999,10520 S Eastern Ave,4.3975,HENDERSON,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+767,WkR2ud9YAFvI8fNcWyU_vQ,Wingstop,36.065342,-115.036698,"641 Marks St, Ste A",3.673076923076923,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+768,OBSxiVTm8TuKN-IbtY8fmg,Republic Kitchen & Bar,36.017604999999996,-115.1178915,9470 S Eastern Ave,3.3957219251336896,HENDERSON,0,average,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+769,GKC6EYmFFOU245qBtVxetw,Sal's Pizza,36.0419163,-115.09986709999998,"198 N Pecos Rd, Ste 2",3.98019801980198,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+770,VaItWOY6iKmiqBXwFSc4_Q,Hog's Heaven BBQ,36.056605,-115.056444,1650 W Warm Springs Rd,4.045454545454546,HENDERSON,0,average,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+771,ptiTZuUff6I-OgnfSD3Urw,Buffalo Wild Wings,36.0090370342,-114.991672792,65 Horizon Ridge Parkway,2.5572519083969465,HENDERSON,0,loud,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+772,bLF_INz6frJTji3CVvKkuA,Schlotzky's,36.0649321,-115.04509569999999,673 Mall Ring Cir,3.27027027027027,HENDERSON,0,average,,False,False,True,False,True,0,1,0,0,0,0,0,0,0,0
+773,nQkRCLpTwypQf97MyotaRA,Albertsons,36.0416401,-114.9812631,190 N Boulder Hwy,2.625,HENDERSON,0,,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+774,Eis_z-uF_2gUf83UE9blog,Cafe Rio,36.0567964447,-115.04681729,501 N Stephanie St,3.2709923664122136,HENDERSON,0,average,,False,False,True,False,False,1,1,0,0,0,0,0,0,0,0
+775,FcYAwxuOys7NtnUPhRkA_Q,Lotus Chinese Restaurant & Lounge,36.0316495,-114.9814807,215 S Water St,3.484375,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+776,Lz0AJ2Hzr1ITh160NAnMoQ,Wendy's,36.026794,-115.084754,500 N Green Valley Pkwy,2.4705882352941178,HENDERSON,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+777,E0YuuRpK_4RpaUF7JK3mhg,Bratalian Neapolitan Cantina,35.997255700000004,-115.1012173,"10740 S Eastern Ave, Ste 155",3.819512195121951,HENDERSON,1,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+778,np8vGHEpwEOgx_yktx2hnA,The Court Cafe,36.0519065857,-114.99475097700001,920 N Boulder Hwy,3.3333333333333335,HENDERSON,0,quiet,,,,,,,0,1,0,0,0,0,0,0,0,0
+779,R6Vd0KrHR4VvaEoY_w2P0w,Subway,36.0290187,-115.06257409999999,"40 N Valle Verde Dr, Ste 100",3.6666666666666665,HENDERSON,0,,,,,False,,,0,0,0,0,0,0,0,1,0,0
+780,U8-1KmkPTZ0PpDK75NwdNg,Carl's Jr,36.0025077,-115.0837128,705 S Green Valley Pkwy,2.3636363636363638,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+781,lMYs3z3Y7977TVMn6OWObA,Black Bear Diner,36.0698811698,-115.08281808299999,2751 N Green Valley Pkwy,3.7579462102689485,HENDERSON,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+782,4OUGSeQeASZGn9nSb8Ialg,Sonrisa Grill,36.102059796999995,-114.929359765,"Montelago Village, 30 Via Brianza, Ste 100",3.3409961685823757,HENDERSON,1,average,,True,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+783,zw9_mqWBn1QCfZg88w0Exg,Chevys Fresh Mex,36.0669667963,-115.04200434399999,1300 W Sunset Rd,3.2948717948717947,HENDERSON,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+784,W_KohMrqtPqcFXW8lBVJYA,The Box Car Buffet,35.972519299999995,-114.91196979999998,2800 S Boulder Hwy,2.3636363636363638,HENDERSON,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+785,uI-dbKk_9cUen7pi3-16Sg,BJ's Restaurant & Brewhouse,36.0157947429,-115.118127488,9520 S. Eastern Ave.,3.569090909090909,HENDERSON,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+786,If6Bku2jkgPiikR6HBu-XQ,IHOP,36.0567647,-115.0384868,1230 W Warm Springs Rd,2.638888888888889,HENDERSON,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+787,yooVq4aUUthr7DOQiZ7yEA,Jolly Beans Cafe - Inspirada,35.9551970923,-115.12559175,2016 Via Firenze,4.472972972972973,HENDERSON,1,average,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+788,bjJcDCx5uMUr89nxBdGizw,Peg's Glorified Ham n Eggs,36.010087,-115.118656,"9905 S Eastern Ave, Ste 100",4.6761904761904765,HENDERSON,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+789,BtyVnPhv-w7x80gj3aITdw,Wildburger @ Wildfire Lanes,36.069821000000005,-115.074583,4451 E Sunset Rd,3.7555555555555555,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+790,sUXs9ATmb423TcxgtMalzQ,Penn's Thai House,36.0645190234,-115.023740106,724 W Sunset Rd,4.149837133550489,HENDERSON,1,quiet,,False,False,True,False,False,0,0,0,0,0,0,1,0,0,0
+791,xi4yGWRFBRaLDygBj2lqBw,Marrakesh Express,36.1136776,-114.9231635,101 Montelago Blvd,3.5,HENDERSON,0,,,,,True,,,0,0,0,0,0,0,0,0,0,0
+792,44FSoN5Wj2B9vZTTYHlQZQ,Roberto's Taco Shop,35.941655079600004,-115.116587411,"2810 Bicentennial Pkwy, Ste 120",3.5531914893617023,HENDERSON,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,1,0,0
+793,neHvFz_Q2thklke5wJ7LiQ,Pizza Hut,36.012064,-114.964577,642 E. Horizon Drive #130,3.1176470588235294,HENDERSON,0,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+794,xxcGx-mGyGx8mTkYPHBJtA,Festival Buffet,36.0320227724,-115.01018109799999,777 W Lake Mead Pkwy,2.6027397260273974,HENDERSON,0,average,,True,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+795,T4OvU9iSqGnZ1g69QUG7Gw,Don Tortaco,36.0139215481,-114.95438151100001,1461 S Boulder Hwy,2.9,HENDERSON,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+796,364NaWNZN_2wEGr_5l77DA,Coco's Family Restaurant,36.0220804,-115.11762659999998,9210 S Eastern Ave,3.0238095238095237,HENDERSON,0,average,,False,False,False,False,False,0,1,0,0,0,0,0,0,0,0
+797,ee8aiHC6zaY9JoLUVUSc1w,Winchell's Pub & Grill,35.998540500000004,-115.10337620000001,10620 S Eastern Ave,3.9622641509433962,HENDERSON,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+798,HNEhE83F1X6kN7BKVmR_9g,Panda Express,36.041250899999994,-115.10278980000001,2667 E Windmill Pkwy,3.272727272727273,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,1,0,1,0,0
+799,XFFRWQjmc41_5iuxI12xgQ,Capriotti's Sandwich Shop,36.01331629999999,-114.9600983,"771 East Horizon Drive, Suite 128",2.6808510638297873,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+800,KpjRKjSNDFof2x-Nr-CWzQ,Terzetto,35.964772100000005,-115.1684896,12300 Las Vegas Blvd S,3.925925925925926,HENDERSON,0,average,,False,False,,True,False,0,0,0,0,1,0,0,0,0,0
+801,XhUec_6-kgPy1_ZYUrzvPQ,Anthony's Prime Steak & Seafood,35.9650514289,-115.16953474700001,12300 Las Vegas Blvd S,4.2444444444444445,HENDERSON,1,quiet,,True,False,True,True,False,0,0,0,0,1,0,0,0,0,0
+802,PNTLekVzAWm6PIrU93gwDQ,Red Cup Cafe,35.964779,-115.168524,12300 Las Vegas Blvd. S,3.0,HENDERSON,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+803,WQ7Qys-keM0MCO7IGpEduQ,Sunset Pizzeria,36.024339700000006,-114.9662213,869 S Boulder Hwy,3.265734265734266,HENDERSON,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+804,T8-8C1C7QwxzZcMGK_8H4A,Hash House A Go Go,35.9650379875,-115.169479015,"The M Resort, 12300 Las Vegas Blvd S",3.459627329192547,HENDERSON,1,average,,True,False,,False,False,0,1,0,0,0,0,0,0,0,0
+805,pX3TM1r3PTgUdfUTAjk44w,The Beach House,36.0015244,-115.1068875,10430 S Eastern Ave,1.9230769230769231,HENDERSON,0,loud,,False,False,,False,False,0,0,0,0,1,0,0,0,0,0
+806,OhUvHNtMiRzWLiKiaaXYBg,Pizza Fusion,36.0012277308,-115.109715611,"10345 S Eastern Ave, Ste 110",3.74,HENDERSON,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+807,k_3NA3abBzae4aTDjrMHtg,Red Hawk,36.001458,-115.10269299999999,2634 W Horizon Ridge Pkwy,3.3333333333333335,HENDERSON,0,,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+808,7ExQwvixD7FhnBRFVhpPcA,Putters Bar & Grill,36.041572391799996,-115.04032076799999,1231 American Pacific Dr,4.066666666666666,HENDERSON,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+809,Hoyxjh8sLWi7TgMv17ZA-w,Goldilocks Bakeshop,36.01430560000001,-115.1175105,"9550 S Eastern Ave, Unit 110",3.4,HENDERSON,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+810,NhMEvtG8TA6AnCLFC63v_A,Annie's Gourmet Italian,36.0118753,-115.0628743,"1716 W Horizon Ridge Pkwy, Ste 100",2.824561403508772,HENDERSON,0,quiet,,False,False,,False,False,0,0,1,0,0,0,0,0,0,0
+811,5gC3o2QHCTsowiVrIk7G9g,Palio Bar and Sports Book,36.101344886999996,-114.930145741,"Casino MonteLago, 8 Strada Di Villaggio",4.25,HENDERSON,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+812,-bVpSr0gfct_Rka_AWZYAw,Johnny's Pizzeria,36.00506729999999,-115.1182702,2990 St Rose Pkwy,2.25,HENDERSON,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+813,BZdpKOUmFOR1mrMJ8sZgxw,Wild Burger,36.013560999999996,-114.940453,2000 S Boulder Hwy,3.5555555555555554,HENDERSON,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+814,89JOFyRj5uFdK6DvIRfd5g,Sourdough Escape,36.0180739949,-115.10122407200001,"2530 St Rose Pkwy, Ste 100",3.7777777777777777,HENDERSON,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+815,pAGbg3xqAvkHbasxKOAqjQ,Hot Rod Grille,36.0413085,-115.0402688,1231 American Pacific Drive,3.142857142857143,HENDERSON,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0

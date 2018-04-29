@@ -1,0 +1,393 @@
+,business_id,name,latitude,longitude,address,stars_y,city,is_recommended,attributes.NoiseLevel,attributes.Open24Hours,attributes.BusinessParking.garage,attributes.BusinessParking.validated,attributes.BikeParking,attributes.BusinessParking.valet,attributes.BusinessParking.street,categories_mexican,categories_american,categories_italian,categories_japanese,categories_seafood,categories_chinese,categories_thai,categories_fast_food,categories_vegan,categories_vegetarian
+0,zV_aclADLjx2KOql9F_FTw,Crepe Cafe,40.109986,-88.233777,"313 E Green St, Ste 5",3.0,CHAMPAIGN,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+1,kyXEnWKQGWSThY6EcjORuw,Zorba's Restaurant,40.110085,-88.229304,627 E Green St,3.853211009174312,CHAMPAIGN,1,average,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+2,gEJZ5USuvC1r8_QvSvDCNA,K-Bowl,40.109988,-88.24050600000001,39 E Green St,3.74,CHAMPAIGN,1,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+3,aFJ8NSdpJi9LcaMm6ICowQ,Burger King,40.1421019,-88.2571648,2110 N Prospect Ave,1.5,CHAMPAIGN,0,average,,False,False,False,False,False,0,0,0,0,0,0,0,1,0,0
+4,qQu--8A6Ic0rytLfI1r4dg,Wendy's,40.0908819198,-88.2463012616,1905 S Neil St,1.6666666666666667,CHAMPAIGN,0,,,,,,,,0,0,0,0,0,0,0,1,0,0
+5,fY0Dpw5a3i1CMjMuT2SaDQ,Holy Land Mediterranean Grill,40.1221403,-88.243543,705 N Neil St,3.6296296296296298,CHAMPAIGN,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+6,RQKrr8j4jS_7ubGMfAwnIQ,Garcia's Pizza In A Pan,40.110515,-88.237634,108 E Green St,3.6666666666666665,CHAMPAIGN,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+7,dn9lwYUxmhs_mLKPu7L25Q,Big Grove Tavern,40.1183809,-88.2429963,"1 E Main St, Ste 101",3.4634146341463414,CHAMPAIGN,1,average,,True,True,True,False,True,0,1,0,0,0,0,0,0,0,0
+8,a1sp-PiwbAthYG1JR8NfLg,Silver Mine Subs,40.108174,-88.22969300000001,612 E Daniel St,3.611111111111111,CHAMPAIGN,0,quiet,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+9,KGpsB2dsdkxl8SGVUlJbZw,Outback Steakhouse,40.144995,-88.257184,2402 N Prospect Ave,3.1914893617021276,CHAMPAIGN,0,average,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+10,9zGkU1ahmYCn3DlnKOXhqA,Arby's,40.13114,-88.2575618,1502 N Prospect Ave,4.333333333333333,CHAMPAIGN,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,1,0,0
+11,o9nGD3J0btXjE9M6IdgZTA,McAlister's Deli,40.14166846,-88.25036014370001,421 Town Center Rd,3.0444444444444443,CHAMPAIGN,0,average,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+12,F1qPjasn0R6-j8sa6iYNmA,Guido's Bar & Grill,40.1178627014,-88.2433013916,2 E Main St,2.980392156862745,CHAMPAIGN,1,average,,False,False,True,False,True,0,1,0,0,0,0,0,0,0,0
+13,1qQ5VkxiBUjbGGdpBN-PUQ,Spicy Tang,40.1107483422,-88.23063163280001,607 S 6th St,2.7058823529411766,CHAMPAIGN,0,average,,True,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+14,hP2DOm7E2H4P7MOS7XN_SQ,Hamilton Walker's,40.117490999999994,-88.243875,201 N Neil St,3.0654205607476634,CHAMPAIGN,1,average,,False,False,True,False,True,0,0,0,0,1,0,0,0,0,0
+15,SViPlfsmwqvWNxZuVOgOMQ,Subway,40.1106295,-88.2296312,616 E Green St,2.3,CHAMPAIGN,0,quiet,,,,,,,0,0,0,0,0,0,0,1,0,0
+16,JoHDOuZ1BnFi63PgC_zYeQ,Amaravati  Indian Royal Cuisine,40.081760816999996,-88.29615814809999,2501 Village Green Pl,3.3636363636363638,CHAMPAIGN,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+17,-LfTBo0oa_uD454ScEW2XA,Merry Ann's Diner,40.1181331448,-88.242899908,1 E Main St,3.1739130434782608,CHAMPAIGN,0,loud,,False,False,True,False,True,0,1,0,0,0,0,0,0,0,0
+18,VsLcYJHIat78FUyP08GusA,Boston Pizza,40.145176899999996,-88.258404,2501 N. Prospect Ave,1.6,CHAMPAIGN,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+19,lZ0W0-pQyS35ahsrZezNiw,Natural Gourmet,40.0867848496,-88.2479522377,2225 S Neil St,4.75,CHAMPAIGN,1,,,False,False,True,False,False,0,0,0,0,0,0,1,0,0,0
+20,9HP13JaP9nmN3qX5v0jamw,Ruby Tuesday,40.1437944,-88.2583963,2301 North Prospect Avenue,2.875,CHAMPAIGN,0,average,,False,False,False,False,False,0,1,0,0,0,0,0,0,0,0
+21,sYf2auhosrx8trbyP9nGyw,DP Dough,40.1099064,-88.2407666,33 E Green St,2.98,CHAMPAIGN,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+22,yLKoESPQ8BN7dn6ADzZicQ,Casablanca Kabab House,40.1102799,-88.22980140000001,623 E Green St,3.357142857142857,CHAMPAIGN,0,average,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+23,SvxSoyZn0WW0c7bFLIYfMA,Baxter's American Grille,40.0972098875,-88.24582993979999,100 Trade Centre Dr,4.129032258064516,CHAMPAIGN,1,quiet,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+24,nsSfCKW9KDB4COj9bzXApw,Red Lobster,40.138436799999994,-88.25858290000001,1901 N Prospect Ave,3.0208333333333335,CHAMPAIGN,0,average,,False,False,False,False,False,0,1,0,0,1,0,0,0,0,0
+25,_zviKOPGw65MAnNjzFXSug,Lone Star Steakhouse & Saloon,40.1374723,-88.2586063,901 W Anthony Dr,3.0,CHAMPAIGN,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+26,rQX6RVr6E4Zg9hx8GBFGHQ,TGI Friday's,40.097136,-88.245695,"100 Trade Centre Dr, Ste 1",3.0625,CHAMPAIGN,0,average,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+27,kUICYu0N_TbtCz0Z8ynPFw,Chipotle Mexican Grill,40.110374778200004,-88.2306922227,"528 E Green St, Ste 101",3.0684931506849313,CHAMPAIGN,0,loud,,False,False,True,False,True,1,0,0,0,0,0,0,1,0,0
+28,xX2uM2EIeR03KrGBCrOrcA,Los Amigos,40.1104696,-88.23311770000001,404 E Green St,4.25,CHAMPAIGN,0,average,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+29,uzpdcxvlKx5BuoWU3NRHbA,Minneci's at the Crossing,40.081711927,-88.29638850709999,2501 Village Green Pl,3.268292682926829,CHAMPAIGN,0,loud,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+30,Z2W3K8x9cRGXvlGWerZH-w,Big Mouth's,40.11028889999999,-88.23247090000001,"408 E Green St, Ste 1",2.9473684210526314,CHAMPAIGN,0,average,,False,False,,False,True,0,0,0,0,0,0,0,0,0,0
+31,8GUMO244E8CxfJcyJIWFOA,El Charro,40.1100704,-88.2395746,55 E Green St,3.7777777777777777,CHAMPAIGN,1,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+32,wBQRhH9fEqME-sPU5sUlaw,Harold's Chicken Shack,40.1092117,-88.23147,502 E John St,4.2,CHAMPAIGN,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+33,QayRAyqw0tvQR27rqLxPFQ,Leadbelly's,40.121049763,-88.28289404510001,601 N Country Fair Dr,4.75,CHAMPAIGN,0,,,,,False,,,0,0,0,0,0,0,0,0,0,0
+34,Mc9sMBVNi53lqxHLCiLWiA,Taco Bell,40.137097999999995,-88.24345500000001,"2000 N. Neil Street, Space 706",2.5,CHAMPAIGN,0,,,False,False,,False,False,1,0,0,0,0,0,0,1,0,0
+35,CObgcxFJuEXZZpm4Mw3z1A,McDonald's,40.0975069,-88.24528259999998,1605 S Neil St,2.263157894736842,CHAMPAIGN,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+36,PTQVaWA-I5ZLzwy5oBbVMg,Pekara Bakery and Bistro,40.1170088,-88.24324820000001,116 N Neil St,3.352112676056338,CHAMPAIGN,1,average,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+37,Bfh_ON-LQUcJerjcDF5KNA,Best Wok,40.137698,-88.260784,"907 W Marketview Dr, Ste 8",3.9,CHAMPAIGN,0,quiet,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+38,oD1PPb-TfMIkkg77u1zCAw,Salad Meister,40.1111668574,-88.2305980101,"601 S 6th St, Ste 104",4.846153846153846,CHAMPAIGN,1,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+39,I2EHSRP50SXxvfoWc8MIWw,Little Caesar's Pizza,40.102573,-88.276899,1211 S Mattis,2.8333333333333335,CHAMPAIGN,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+40,3B74iILT_W1ptfQeW7pIYQ,Buffalo Wild Wings,40.137778000000004,-88.261075,907 West Marketview Drive,2.515151515151515,CHAMPAIGN,0,loud,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+41,R32Yh0XxxanldkIp11fuRg,BoBo's BBQ,40.1125152,-88.27157509999999,1511 W Springfield Ave,3.1944444444444446,CHAMPAIGN,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+42,S_9OaE_RBWBIXnUKvxJKsQ,Watson's Shack & Rail,40.117733,-88.243876,211 N Neil St,4.015873015873016,CHAMPAIGN,1,average,,False,False,True,False,True,0,1,0,0,0,0,0,0,0,0
+43,5jXwI9WpDxGDmzmkmE0RTg,Oishi,40.1451075,-88.258478,2501 N Prospect Ave,3.1826923076923075,CHAMPAIGN,1,average,,False,False,False,False,False,0,0,0,1,0,0,1,0,0,0
+44,TpxCGW68bkqS5T0wnurOfw,Subway,40.0976951,-88.27468859999999,1713 W Kirby Ave,2.3333333333333335,CHAMPAIGN,0,,,,,,,,0,0,0,0,0,0,0,1,0,0
+45,NpNSOfnPxJKa8_qh83NArw,Subway,40.099749200000005,-88.244739,1401 S Neil St,1.4285714285714286,CHAMPAIGN,0,,,False,False,,False,False,0,0,0,0,0,0,0,1,0,0
+46,L2c-qKZWumCmOCR-dqBLrg,Seven Saints,40.1165558776,-88.2420127724,32 E Chester St,3.9375,CHAMPAIGN,1,average,,False,False,True,False,True,0,1,0,0,0,0,0,0,0,0
+47,hHVovM_cr6GSrjDTyWfsuQ,Cheddar's Casual Cafe,40.1413931,-88.2584949,2101 N Prospect Ave,3.4,CHAMPAIGN,0,,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+48,0-WocGTpO3Zm4q1Zzz49Rw,Sushi Kame,40.1185309,-88.2448027,132 W Church St,3.643939393939394,CHAMPAIGN,1,quiet,,False,False,True,False,True,0,0,0,1,0,0,0,0,0,0
+49,u_MdwAj7eGenc0YhqQy6nA,Wingstop,40.1107138379,-88.2430895568,512 S Neil St,2.5588235294117645,CHAMPAIGN,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+50,RdwJXTQo3Ez9DAbGpybl_w,Six Minute Chinese,40.109988,-88.24050600000001,39 E Green St,1.25,CHAMPAIGN,0,,,False,False,,False,False,0,0,0,0,0,1,0,0,0,0
+51,nG59soBP2SaQ25rf2n-0bA,Atlanta Bread,40.0929439,-88.2459946,1905 S Neil St,2.977272727272727,CHAMPAIGN,0,average,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+52,k441Clzdv9Ia4QZanEne3g,Wood N' Hog Barbecue,40.12454,-88.233577,"904 N 4th St, Ste B",4.607142857142857,CHAMPAIGN,1,,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+53,5uvf3QpmrdU2aiqmF4278A,Bob Evans,40.137522,-88.244351,1813 N Neil St,2.774193548387097,CHAMPAIGN,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+54,rwuMWGqt7L5l5lDsOYv1dw,Zyggyz,40.110554,-88.232373,"410 E Green St, Ste 3",3.730769230769231,CHAMPAIGN,0,loud,,False,False,,False,True,0,0,0,0,0,0,0,0,0,0
+55,RofPcfgxItpYw1eQ3e1Hjw,Nitaya Thai Restaurant,40.1185125,-88.2449947,134 W Church St,3.1176470588235294,CHAMPAIGN,0,quiet,,False,False,,False,True,0,0,0,0,0,0,1,0,0,0
+56,a3hjBPsnpcTpcquQXLeS0w,Dragon Fire Pizza,40.116420399999996,-88.2433829,,4.413793103448276,CHAMPAIGN,1,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+57,O4-tpRbaMfrdx_okiVAbaw,Manzella's Italian Patio Restaurant,40.1159,-88.23873,115 S 1st St,3.0,CHAMPAIGN,0,average,,False,False,True,False,True,0,0,1,0,0,0,0,0,0,0
+58,ks6JgGsz7phkGEVh9hoHkg,Little Caesars Pizza,40.108833611,-88.2435071468,"703 S Neil St, Ste A",2.0,CHAMPAIGN,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+59,Zjv2tMXDaIGd-13tgOoKAA,Hybrid Fit Food,40.1166334,-88.2327205,"410 East University Ave, Ste 101",4.444444444444445,CHAMPAIGN,0,,,,,True,,,0,0,0,0,0,0,0,0,0,0
+60,EoPd4SI9-mnkyb2CJcgkLA,Minneci's Ristorante,40.112801,-88.239078,401 S 1st St,3.3529411764705883,CHAMPAIGN,0,average,,False,False,,False,False,0,0,1,0,0,0,0,0,0,0
+61,hPc-mAHv4jfKeXqOxYJuAw,Papa Murphy's,40.0975463,-88.2749977,1753 West Kirby Avenue,3.25,CHAMPAIGN,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+62,vKYpxfU-51z-pc16wrGVng,Stone Baked Pizzeria,40.107665000000004,-88.233749,901 S 4th St,3.0,CHAMPAIGN,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+63,vqEtZ7CtNB9G8WMzjwJA2g,Wedge Tequila Bar & Grill,40.119807,-88.2438559,415 N Neil St,3.2666666666666666,CHAMPAIGN,1,average,,False,False,True,False,True,1,0,0,0,0,0,0,0,0,0
+64,ky0cUgRt1Bye3cxgxXpgYA,Fire Station Pizza and Pub,40.109334999999994,-88.23084,510 E John St,1.8333333333333333,CHAMPAIGN,0,loud,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+65,MpAhuv_BBhYHDElgx1pD4g,Qdoba Mexican Grill,40.110040999999995,-88.22968890000001,617 E Green St,2.2,CHAMPAIGN,0,quiet,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+66,b8iHKolCsC4ZTM8X9-L01A,Pizza Hut,40.1100834,-88.2323204,411 E Green St,2.4285714285714284,CHAMPAIGN,0,quiet,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+67,bVt5eOVdpZzg83qlW9Rl2g,Monical's Pizza,40.097774,-88.24573000000001,103 W Kirby Ave,3.52,CHAMPAIGN,0,average,,False,False,False,False,False,0,0,1,0,0,0,0,0,0,0
+68,7m8MoWuudrxU98fEw7iBIw,Sairam Om,40.081896,-88.295835,2502 Village Green Pl,3.888888888888889,CHAMPAIGN,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+69,Hw0hdZnM7z5uBTwbW8jHMA,Penn Station,40.1432914,-88.2591227,906 W Town Center Blvd,3.6666666666666665,CHAMPAIGN,0,average,,False,False,False,False,True,0,0,0,0,0,0,0,0,0,0
+70,FUr2uEolARu7rv2TQYKPqg,Za's Italian Cafe,40.113246999999994,-88.28197850000001,2006 W Springfield Ave,3.2448979591836733,CHAMPAIGN,0,average,False,False,False,False,False,False,0,1,0,0,0,0,0,0,0,0
+71,Frbldz6phswVyMNvwherhA,My Thai,40.1130999636,-88.2858967781,2312 W Springfield Ave,3.6236559139784945,CHAMPAIGN,1,quiet,,False,False,False,False,False,0,0,0,0,0,0,1,0,0,0
+72,EKQiKd7EMZjsa4JokFaeAg,China King,40.0877237618,-88.2479701689,2145 S Neil St,3.7857142857142856,CHAMPAIGN,0,quiet,,False,False,,False,False,0,0,0,0,0,1,0,0,0,0
+73,-zEpEmDfFQL-ph0N3BDlXA,Sakanaya Restaurant,40.110113,-88.23321800000001,403 E Green St,4.336507936507936,CHAMPAIGN,1,average,,False,False,True,False,True,0,0,0,1,0,0,0,0,0,0
+74,mvhokWwVKgfE-koLlc4VEw,Auntie Lee's Chinese Kitchen,40.110198499999996,-88.24027290000001,"49 E Green St, Ste B",2.6842105263157894,CHAMPAIGN,0,very_loud,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+75,bkh5o6bCzDCovSkRYBsU1w,LongHorn Steakhouse,40.1413941,-88.2585101,2101 N Prospect Ave,2.892857142857143,CHAMPAIGN,0,average,,False,False,False,False,False,0,1,0,0,0,0,0,0,0,0
+76,OyBStpjF5e_iRCMXflFasQ,Evo Cafe,40.1094391,-88.2306035,711 S 6th St,2.452830188679245,CHAMPAIGN,0,average,False,False,False,True,False,True,0,0,0,0,1,1,0,0,0,0
+77,4SGa5HFu7Q4rrsAAWJa-ew,Popeyes Louisiana Kitchen,40.133549,-88.260065,910 W Bloomington Rd,3.0,CHAMPAIGN,0,loud,,False,False,False,False,False,0,1,0,0,0,0,0,1,0,0
+78,UUsS7SrTQQ2AvvpslfrvFA,Legends,40.110557899999996,-88.2311675,522 E Green St,3.4266666666666667,CHAMPAIGN,1,average,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+79,tCCBl_sHPQsJg37g2fjRpA,McDonald's,40.0978775,-88.29385309999999,2909 W Kirby Ave,1.4545454545454546,CHAMPAIGN,0,loud,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+80,hvPPw19VdGRsOEkxgyD7tg,Thara Thai,40.1351145,-88.26544679999999,912 1/2 W Bloomington Rd,4.174418604651163,CHAMPAIGN,1,average,,False,False,False,False,False,0,0,0,0,0,0,1,0,0,0
+81,PUe3Oz-VAPMXbu_zQ51dYQ,Guadalajara Bar & Grill,40.133775,-88.25993299999999,912 W Bloomington Rd,3.5,CHAMPAIGN,0,,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+82,doEpdTg3l55-IWemTlG3tg,Jimmy John's,40.0974664,-88.2769858,1811 W Kirby Ave,2.888888888888889,CHAMPAIGN,0,very_loud,,,,,,,0,0,0,0,0,0,0,0,0,0
+83,ltqvLrYq9QjeQjQ1NlqLcA,Ming Garden,40.1025734113,-88.277292841,1804 Sangamon Dr,3.6153846153846154,CHAMPAIGN,0,quiet,,False,False,False,False,False,0,0,0,0,0,1,0,0,0,0
+84,XIFPoEPkvGlTSlm9JRA_Ag,Slice Factory,40.1101096,-88.2293787,625 E Green St,2.0,CHAMPAIGN,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+85,cjdX2cwSmp47ia47V3YySg,Layalina Mediterranean Grill,40.112846000000005,-88.240661,40 E Springfield Ave,3.909090909090909,CHAMPAIGN,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+86,L57D-jGExAu6HwjByT8BOQ,Uncle Jack's Family Restaurant,40.082367,-88.296204,2501 Village Green Pl,3.5555555555555554,CHAMPAIGN,0,quiet,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+87,yRKrMWQxQaMeR18s5ajcYw,Arby's,40.1124149,-88.2794573,1913 W Springfield Ave,2.5,CHAMPAIGN,0,average,,False,False,False,False,False,0,0,0,0,0,0,0,1,0,0
+88,VRKJpWhQeUE_38jnKrgsrA,ROKs Tacos - Korean BBQ Tacos,40.116420399999996,-88.2433829,,3.125,CHAMPAIGN,0,,,,,True,,,0,0,0,0,0,0,0,0,0,0
+89,tQaIWc9qeiB1IU163LKlAw,Panda Express,40.1105984,-88.2290979,627 S Wright St,3.176470588235294,CHAMPAIGN,0,quiet,,False,False,False,False,True,0,0,0,0,0,1,0,1,0,0
+90,-fiUXzkxRfbHY9TKWwuptw,DESTIHL Restaurant & Brew Works,40.1189773,-88.24427209999999,301 N Neil St,3.820408163265306,CHAMPAIGN,1,average,,True,True,True,False,True,0,1,0,0,0,0,0,0,0,0
+91,C3d4HqDjWq9e_0cPfmPykg,Moe's Southwest Grill,40.0902821733,-88.24634331600001,2041 S Neil St,3.409090909090909,CHAMPAIGN,0,average,,False,False,False,False,False,1,0,0,0,0,0,0,1,0,0
+92,m8qGdllgcUSqZmcryQWM9A,McDonald's,40.177811299999995,-88.24037659999999,4910 N Market St,1.3333333333333333,CHAMPAIGN,0,,,,,,,,0,0,0,0,0,0,0,1,0,0
+93,dKncjeWnvdqYiNC8l26fog,Jimmy John's,40.109789299999996,-88.24081009999999,43 E Green St,3.176470588235294,CHAMPAIGN,0,,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+94,7B-suS0RHxqxZBBfVfiPLA,Olive Garden Italian Restaurant,40.135721999999994,-88.241153,30 E Anthony Dr,2.896551724137931,CHAMPAIGN,0,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+95,vAUDxhbsWZKI8NJlsYwCMA,Flat Top Grill,40.111425700000005,-88.2304288,607 S 6th St,2.802325581395349,CHAMPAIGN,0,average,,False,False,True,False,True,0,0,0,0,0,0,0,0,1,1
+96,jKxES7iLV63H_PfyGVGIDw,Lai Lai Wok,40.1104755,-88.2333105,"402 E Green St, Ste A",4.0594059405940595,CHAMPAIGN,1,average,,False,False,True,False,True,0,0,0,0,0,1,0,0,0,0
+97,EmezZdxbvjydG5FkN6Mecw,Fiesta Ranchero,40.0940675,-88.2457853,1805 S Neil St,2.0,CHAMPAIGN,0,quiet,,,,,,,1,0,0,0,0,0,0,0,0,0
+98,CrIWqmuO2uQWwl3z11K_BA,Pizzeria Antica,40.116869,-88.242964,10 E Chester St,3.8217821782178216,CHAMPAIGN,1,average,,False,False,True,False,True,0,0,1,0,0,0,0,0,0,0
+99,w2xwgqHM7dJlHfyu4ouhBg,Azzip Pizza,40.1099251,-88.23146170000001,505 E Green St,4.46,CHAMPAIGN,1,,,True,False,False,False,True,0,0,1,0,0,0,0,0,0,0
+100,_zCwyuW5XrRKw8oK8EM49A,Burrito King,40.1104696,-88.23311770000001,404 E Green St,3.391304347826087,CHAMPAIGN,0,loud,,False,False,False,False,True,1,0,0,0,0,0,0,0,0,0
+101,o-xFcSeSycAfqplklC222Q,One World Pizza,40.110827,-88.231612,", 508 E Green St",3.6923076923076925,CHAMPAIGN,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+102,VHsNB3pdGVcRgs6C3jt6Zg,Dublin O'Neil's,40.1190386,-88.2438816,301 N Neil St,3.4262295081967213,CHAMPAIGN,1,average,,True,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+103,jeTfL2kCyBtmFGSrSQHqVw,Bacaro,40.1169069806,-88.2426019246,113 N Walnut St,3.96,CHAMPAIGN,1,average,,False,False,False,False,True,0,1,1,0,0,0,0,0,0,0
+104,Pj8n8jDPRdXi7RdOABJkWA,Amano's Pizza,40.0995658,-88.24438190000001,1407 S Neil St,4.7,CHAMPAIGN,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+105,CKqHfvcqx73-Uz0xGMHL6Q,Wingin Out,40.109962700000004,-88.2351409,301 E Green St,3.0,CHAMPAIGN,0,loud,,False,False,True,False,False,0,1,0,0,0,0,0,1,0,0
+106,e9shtyZ7-9GYcbPIVV--XQ,Escobar's Restaurant,40.1212439,-88.2428344,6 E Columbia Ave,3.8783783783783785,CHAMPAIGN,1,average,,False,False,True,False,True,1,1,0,0,0,0,0,0,0,0
+107,Icj9QzQxqvzOmPm_liAq1Q,Hilton Garden Inn,40.099126500000004,-88.2462073,1501 S Neil St,3.588235294117647,CHAMPAIGN,0,,,,,,,,0,1,0,0,0,0,0,0,0,0
+108,bQ8ndy52Rcdv3uYvoJWQ_w,Seaboat,40.0977581,-88.24879490000001,403 W Kirby Ave,3.4468085106382977,CHAMPAIGN,0,loud,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+109,xeN57OX3lJfY96nfEx63fg,Garcia's Pizza In A Pan,40.119051,-88.277525,313 N Mattis Ave,2.972972972972973,CHAMPAIGN,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+110,B9W60PTxn7XOZfk4BiTvyw,BrewLab Coffee,40.1106891,-88.23205420000001,630 S 5th St,4.7272727272727275,CHAMPAIGN,1,,,True,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+111,uvVOuCbo4_5z_J5WJVG4QQ,Joe's Brewery,40.109713,-88.2317829,706 S 5th St,3.088888888888889,CHAMPAIGN,0,very_loud,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+112,RTmIbq33chUSa-etGiF8Lg,Bombay Indian Grill,40.114132,-88.23836899999999,302 S 1st St,3.586206896551724,CHAMPAIGN,1,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+113,i9M6oO2LMUrrEytHnHjyLA,Kaiyo Japaneese Restaurant,40.145176899999996,-88.258404,2501 N Prospect Ave,3.6666666666666665,CHAMPAIGN,0,,,False,False,,False,False,0,0,0,1,0,0,0,0,0,0
+114,NXERVbjRdwe0Deg4d_fVlA,Koto Ramen,40.110827,-88.231612,508 E Green Street,1.8666666666666667,CHAMPAIGN,0,average,,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+115,MV2sYTXcBz7bH4a960ac7w,IHOP,40.110546899999996,-88.234234,308 E Green St,2.3846153846153846,CHAMPAIGN,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+116,62Ibju8UmUZtPIBLDS_nUw,Tasty Fish Chicken & Grill,40.1221402,-88.2435608,705 N Neil St,3.3333333333333335,CHAMPAIGN,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+117,JbWQtVLQDEOBlvbVWk2OFg,Chipotle Mexican Grill,40.1361978,-88.2599453,"903 W Anthony Dr, Ste A",3.1,CHAMPAIGN,0,average,,False,False,False,False,False,1,0,0,0,0,0,0,1,0,0
+118,2BEJCBkNzOBXaydBJf5k0A,Sonic,40.1213626,-88.27753349999999,601 N Mattis Ave,2.8125,CHAMPAIGN,0,average,,False,False,False,False,False,0,0,0,0,0,0,0,1,0,0
+119,dtKy808TwAgtOcwSCbXFJw,Jipbap Taste of Korea,40.1113775415,-88.23049464610001,"601 S 6th St, Ste 101",4.211538461538462,CHAMPAIGN,1,average,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+120,eJtmOfqwGj5sYKQrB01oWQ,Slim Chickens,40.0905314,-88.2463795,2037 S Neil St,3.0,CHAMPAIGN,0,loud,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+121,zp3rZNu-5qonTL3ByPYOUg,Fat Sandwich Company,40.1092381,-88.2315641,502 E John St,3.2976190476190474,CHAMPAIGN,1,average,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+122,zUayeEQ3_1fM_71X_1PdGQ,Let's Take a Seat: Thai Cuisine,40.08182670000001,-88.2963454,2506 Village Green Pl,3.6,CHAMPAIGN,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,1,0,0,0
+123,PGUuVJEzM0H-ZMB6m1D6Ig,Boltini Lounge,40.117733,-88.243876,211 N Neil St,3.810810810810811,CHAMPAIGN,1,loud,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+124,kNtToQSP_Y5U8tznLXuCaw,Farren's Pub & Eatery,40.118679,-88.244834,308 N Randolph St,4.130252100840337,CHAMPAIGN,1,average,,True,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+125,XuByFsXXhnKmZ6hxucOj7A,301 Mongolia,40.1189773,-88.24427209999999,301 N Neil St,3.305084745762712,CHAMPAIGN,0,average,,True,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+126,Tiu3iRXMlzEEI6Epp3I8lg,Cafe Sababa,40.108761,-88.231538,503 E John St,5.0,CHAMPAIGN,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,1
+127,7U7uLS9YjjhBM1SoyNH30w,Basmati Indian Cuisine,40.114132,-88.23836899999999,302 S 1st St,2.5,CHAMPAIGN,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,1
+128,WTu8B3igPYJlkJ2gHzrBYw,M Sushi & Grill,40.10768529999999,-88.2436688,"715 S Neil St, Ste A",4.421052631578948,CHAMPAIGN,1,quiet,,False,False,True,False,False,0,0,0,1,1,0,0,0,0,0
+129,y2V42mxWvVoH4NvUT_n8eg,Red Robin Gourmet Burgers,40.141131,-88.246249,2010 N Neil St,2.574074074074074,CHAMPAIGN,0,very_loud,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+130,MRE5_phUbPZFcNOsBjIUyQ,HoneyBaked Ham & Cafe,40.1410498,-88.2551505,2028 N Prospect Ave,3.8,CHAMPAIGN,0,average,,,,,,,0,1,0,0,0,0,0,0,0,0
+131,Q8kTugdx8Iw5AzRzz6qd8w,Chester's BBQ,40.113786,-88.243041,302 S Neil St,4.285714285714286,CHAMPAIGN,0,,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+132,831BmmuoZF8px1KhBmRB9w,Rocks,40.112114,-88.241292,25 E Springfield Ave,3.3333333333333335,CHAMPAIGN,0,,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+133,0LCgN42C9H6iqClFevdiBA,Papa George,40.1111456,-88.2441689,505 S Neil St,3.3,CHAMPAIGN,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+134,VIJ2KiDKhUVhhpNylEIfog,Maize Mexican Grill,40.1104086,-88.2389546,60 E Green Street,4.439490445859873,CHAMPAIGN,1,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+135,b8zjLuBTk3SfqcNEMJUnDA,Fat City Saloon,40.110966999999995,-88.242733,505 S Chestnut St,2.3333333333333335,CHAMPAIGN,0,average,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+136,ndyX7UHI9XHWmZklg_TCxQ,Pasha Mediterranean Cuisine,40.0816364,-88.2963618,2506 Village Green Pl,2.25,CHAMPAIGN,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+137,SFh9uHtGR1lVPH2RTS2SWQ,McDonalds,40.1104207856,-88.2297450105,616 E Green St,3.0476190476190474,CHAMPAIGN,0,loud,,False,False,True,False,False,0,1,0,0,0,0,0,1,0,0
+138,jK8PNNtv4RI6m-xd-tGjPQ,Firehaus,40.109693799999995,-88.2303603,708 S 6th St,3.325301204819277,CHAMPAIGN,1,loud,,False,False,True,False,True,0,1,0,0,0,0,0,0,0,0
+139,S7TY9oCMqK-TffWrygetcw,Panera Bread,40.097838,-88.275366,1765 W Kirby Ave,2.638888888888889,CHAMPAIGN,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+140,AtLv64FV-Pw6JuT3XUKU1g,Gumby's Pizza,40.0995845,-88.2443792,1409 S Neil St,3.5853658536585367,CHAMPAIGN,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+141,abA0s0uxoeOn7zNm-1dDxw,Mia Za's Cafe,40.1101105,-88.2292247,629 E Green St,3.2875,CHAMPAIGN,1,average,,False,False,True,False,True,0,0,1,0,0,0,0,0,0,0
+142,boIILzBqhjWhq4G0BsB5_A,Miga,40.1183926387,-88.2439332381,"301 N Neil St, Ste 104",3.9411764705882355,CHAMPAIGN,1,average,,True,True,False,False,True,0,1,0,1,0,0,0,0,0,0
+143,0FrYsoVHheQGoXEQsH2d2Q,Aroma Cafe,40.117055799999996,-88.2432469,118 N Neil St,4.24,CHAMPAIGN,1,quiet,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+144,gaR5jDvZsOC0RQeY-W1eqQ,Mas Amigos,40.1127011,-88.24072790000001,40 E Springfield Ave,4.220338983050848,CHAMPAIGN,1,average,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+145,BU44MZzM82yPiBhMyj9r7w,Sarku Japan,40.143071899999995,-88.2396119,2000 N Neil St,2.6153846153846154,CHAMPAIGN,0,loud,,,,,,,0,0,0,1,0,0,0,0,0,0
+146,aKiE0aZ6vGyOlH-uVOHONw,The Y Eatery,40.1065381,-88.22929,1001 S Wright St,3.6774193548387095,CHAMPAIGN,0,average,,False,False,True,False,True,0,0,0,0,0,0,1,0,0,0
+147,wsuzuLD3KV7L8oMinLCI0A,Merry Ann's Diner,40.0984525132,-88.2442462116,1510 S Neil St,3.0142857142857142,CHAMPAIGN,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+148,4hWDMVtfnpyY72_5QMbthA,Old Time Meat & Deli Shoppe,40.091901,-88.245362,2018 S Neil St,4.822222222222222,CHAMPAIGN,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+149,-hliqBp7tq7Z5XLaTLAXAg,Taffies Restaurant,40.1145467413,-88.27720396459999,301 S Mattis Ave,2.625,CHAMPAIGN,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+150,a92JNh69GKZod2RAadWpvw,Kato's Cajun,40.116610200000004,-88.24125040000001,,2.6666666666666665,CHAMPAIGN,0,average,,,,,,,0,0,0,0,0,0,0,0,0,0
+151,DS3-yphtWDHAdXLtIoqdAA,The Pita Pit,40.110039,-88.229804,611 E Green St,3.6666666666666665,CHAMPAIGN,0,,,False,False,,False,True,0,0,0,0,0,0,0,0,0,0
+152,g_oOjzFgqmSEAD4crxBirA,Jimmy John's,40.1321258,-88.25874940000001,1511 N Prospect Ave,2.5,CHAMPAIGN,0,very_loud,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+153,BoTQepQTjGbTXA4g4Hj-WA,Antonio's Pizza,40.1100646,-88.22960920000001,619 E Green St,3.831168831168831,CHAMPAIGN,1,average,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+154,oYMsq2Xvzw6UbrIlMWjb-A,Papa John's Pizza,40.110356200000005,-88.2380132,106 E Green St,2.310344827586207,CHAMPAIGN,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+155,iO86eCaZJBHqi1sZ1ELk6A,TGI Fridays,40.1375274658,-88.24530029299999,103 W Marketview Dr,2.9038461538461537,CHAMPAIGN,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+156,zMcmS7YojvNbmJCa-iTSYw,Istanbul Mediterranean Cuisine,40.0816364,-88.2963618,2506 Village Green Pl,3.1818181818181817,CHAMPAIGN,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+157,lWmDrnqgU6w3gFaJyn_1Uw,Radio Maria,40.117125099999996,-88.24266870000001,119 N Walnut St,3.4486301369863015,CHAMPAIGN,1,average,,False,False,True,False,True,1,0,0,0,0,0,0,0,0,0
+158,epvLkQNL6MOvk3s6JlTntA,Carmon's Restaurant,40.119807,-88.2438559,415 N Neil St,3.7333333333333334,CHAMPAIGN,1,quiet,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+159,YJ8Ehqq4Jr2_xmtRe5aXLQ,Mirsung,40.109787299999994,-88.2404819,49 E Green St,3.5833333333333335,CHAMPAIGN,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+160,Epr8Ft7LwYAzotFwxQX6uw,Latea Bubble Tea Lounge,40.111167,-88.230671,"601 S 6th St, Ste 105",3.9298245614035086,CHAMPAIGN,1,,,True,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+161,tqxS-gA5zhBvdI5lk7kDGg,Maize at the Station,40.1168537098,-88.24061036110001,100 N Chestnut St,4.130434782608695,CHAMPAIGN,0,average,,False,False,True,False,True,1,0,0,0,0,0,0,0,0,0
+162,m6nLTIrEJHtHSYJjVavnzw,Kohinoor Indian Restaurant and Lounge,40.12125533,-88.24279985860001,6 E Columbia Ave,4.226086956521739,CHAMPAIGN,1,average,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+163,HvRWUE3yP3mY4mZiG6UtJg,Einstein Bros Bagels,40.1365794371,-88.2573496356,803 W Anthony Dr,4.2,CHAMPAIGN,0,quiet,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+164,1S6eB9Ag2VMx3Ab7LHORJw,Aroma Curry House,40.082023299999996,-88.2959126,2502 Village Green Pl,3.53125,CHAMPAIGN,0,quiet,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+165,8BUVhDF9yLzzthhFxeceYA,Murphy's Deli,40.1127011,-88.24072790000001,40 E Springfield Ave,4.333333333333333,CHAMPAIGN,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+166,MA5R-mV6ljRM1MK6Mdiv5g,Panda Express,40.1427776,-88.243865,2000 N Neil St,3.5,CHAMPAIGN,0,average,,False,False,True,False,False,0,0,0,0,0,1,0,1,0,0
+167,Sp32-I-Ej0CBVJvFCghyPw,Fresh International Market,40.1111367,-88.2443171,"505 S Neil St, Unit 4",4.8125,CHAMPAIGN,1,,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+168,9A1C1f0m4nQltQrOOTl-Kw,Orange & Brew,40.103147174899995,-88.24421990190001,1201 S Neil St,2.763157894736842,CHAMPAIGN,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+169,beBdNA6cEuDLvrhTi_EjKQ,McDonald's,40.1205722,-88.27742049999999,501 N Mattis Ave,1.4166666666666667,CHAMPAIGN,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+170,5r-kh_n_ivSmkrfGMtbtog,Baskin Robbins,40.1104641,-88.2439326,515 S Neil St,2.1666666666666665,CHAMPAIGN,0,,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+171,0Tiq09V_kdMFPa1cL6I0AA,Culver's,40.0854477,-88.2461953,2302 S Neil St,3.3684210526315788,CHAMPAIGN,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+172,LyGab6ITDEMDI5E0YcC0Ng,The Himalayan Chimney,40.1185125,-88.2449947,134 W Church St,4.2063492063492065,CHAMPAIGN,1,average,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+173,ECKXHrl2GqNKRMG9jp4trg,Good Fella Korean Bistro,40.1051831,-88.2438923,905 S Neil St,3.4857142857142858,CHAMPAIGN,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+174,syP9qsN2-TiMbxh2zv1_NQ,Papa Del's Pizza At the Crossing,40.081760100000004,-88.2959863,2510 Village Green Pl,3.6666666666666665,CHAMPAIGN,0,loud,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+175,e0prCZXtHGQIKeQ_wTW3uw,Cafe Kopi,40.1167979,-88.2427614,109 N Walnut St,3.9622641509433962,CHAMPAIGN,1,,,False,False,True,False,True,0,1,0,0,0,0,0,0,0,0
+176,ZxQlHVm0pj0ERqpwhEHc6w,San Maru,40.0818615,-88.2963452,2504 Village Green Pl,4.425531914893617,CHAMPAIGN,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+177,cDGaMsCAx8guR1IUrxLxWA,Pho Cafe,40.110039,-88.229804,"611 E Green St, Ste B",4.108695652173913,CHAMPAIGN,1,average,,False,False,True,False,False,0,0,0,0,0,0,1,0,0,0
+178,cFp-Kr831uIA3F6o5aeV2Q,Sliders,40.110240600000004,-88.2290836,616 E Green St,1.8333333333333333,CHAMPAIGN,0,very_loud,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+179,DysXlYb_WVlksoip8atIvQ,McDonald's,40.1334973279,-88.25949579520001,906 W Bloomington Rd,1.3333333333333333,CHAMPAIGN,0,,,,,True,,,0,0,0,0,0,0,0,1,0,0
+180,CPjWjKn4bj3QQFQ1nUlXUg,8F Ice Cream & Crepe,40.1103078524,-88.23173224930001,508 E Green St,3.888888888888889,CHAMPAIGN,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+181,pMiz7SP82Tknv1NbVqoSfg,Black Dog Smoke & Ale House,40.117978,-88.24027099999999,320 N Chestnut St,4.032085561497326,CHAMPAIGN,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+182,NSzhahVpI_B32snhJHM0HA,Texas Roadhouse,40.117932,-88.2810949,204 N. Country Fair Dr,3.5842696629213484,CHAMPAIGN,1,loud,,False,False,False,False,False,0,1,0,0,0,0,0,0,0,0
+183,kj44upIDaMIPlYvsuweP4g,Geovanti's,40.1100246,-88.2332899,401 E Green St,3.303030303030303,CHAMPAIGN,0,,,False,False,,False,False,0,0,1,0,0,0,0,0,0,0
+184,aqTdhZDTSjA42_Uh2E6V7A,Taco Loco,40.142194700000005,-88.2516073,523 W Town Center Blvd,3.7666666666666666,CHAMPAIGN,0,average,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+185,qeJnMI5RmyJ2TZvkqvjn6Q,Biaggi's Ristorante Italiano,40.0865504478,-88.2469860629,2235 S Neil St,3.682634730538922,CHAMPAIGN,1,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+186,_a6jhRFIgOe74U73T5B-Ww,Fiesta Cafe,40.1147989,-88.2384807,216 S 1st St,3.7662337662337664,CHAMPAIGN,1,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+187,d51qbs6CitHbFD--G-AEVw,Shanghai 1938,40.0822044585,-88.2959151641,2504 Village Green Pl,2.869565217391304,CHAMPAIGN,0,quiet,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+188,BKNPoWf3bQoxFWf-Kjt3wQ,KFC,40.1127,-88.2838,2201 West Springfield Avenue,3.0,CHAMPAIGN,0,average,,False,False,,False,False,0,0,0,0,0,0,0,1,0,0
+189,r9xW1wXycs4MPpqB-Vknzg,Hardee's,40.0956999,-88.2454984,1703 S Neil St,2.2666666666666666,CHAMPAIGN,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+190,QdganL5AW9E_fNoRVroLig,Golden Wok,40.1160086,-88.2328394,405 E University Ave,3.8317757009345796,CHAMPAIGN,1,average,,False,False,False,False,False,0,0,0,0,0,1,1,0,0,0
+191,mklo4H47YWK7f18YXTCEoA,Murphy's Pub,40.110379906599995,-88.2301879674,604 E Green St,3.6542056074766354,CHAMPAIGN,1,average,,False,False,True,False,True,0,1,0,0,0,0,0,0,0,0
+192,6vVkSaymw-4MOTPh68HN3Q,Number One Wok,40.1101982,-88.2430455,12 E Green St,3.4,CHAMPAIGN,0,average,,False,False,,False,False,0,0,0,0,0,1,0,0,0,0
+193,JENZ-Yjl6D5ZPqV5fPSO3g,Caribbean Grill Food Truck,40.101758200000006,-88.27531440000001,,4.742857142857143,CHAMPAIGN,1,quiet,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+194,k6m3Msok7bto6biv5guEzg,Pancheros Mexican Grill,40.091838672399994,-88.245879896,2009 S Neil St,2.4166666666666665,CHAMPAIGN,0,quiet,,False,False,False,False,False,1,0,0,0,0,0,0,0,0,0
+195,DO9Wp7zXwc2ZNEb8cXaqbg,Station 6 Pizza,40.083276,-88.264031,1103 W Windsor,3.782608695652174,CHAMPAIGN,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+196,UPCTlq-r-yZcWFFH2qOlWg,Ginger Asian Bistro,40.139173,-88.24458100000001,1902 Center Dr,3.875,CHAMPAIGN,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+197,6d82R41sVNDVS0I-c1Ghkg,Portillo's,40.1442010834,-88.25703386219999,2306 N Prospect Ave,3.574712643678161,CHAMPAIGN,1,loud,,False,False,True,False,False,0,1,0,0,0,0,0,1,0,0
+198,ezFZVzNCtPdFATNGzCumjw,Super Wok,40.0973,-88.275177,1737 W Kirby Ave,2.8333333333333335,CHAMPAIGN,0,average,,False,False,False,False,False,0,1,0,0,0,0,0,0,0,0
+199,nyI3q0CseFbPbTobHuzgkw,Pia's Sports Bar & Grill,40.112482899999996,-88.2737458,1609 W Springfield Ave,3.111111111111111,CHAMPAIGN,0,very_loud,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+200,ODURDhURWmZr6b--O4nt3w,Jupiter's Pizzeria and Billiards,40.1177419112,-88.241513984,39 E Main St,3.78125,CHAMPAIGN,1,loud,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+201,hMgIF04rrJ7oB1lGIpFt5w,South China Restaurant,40.112114,-88.241292,25 E Springfield Ave,3.4285714285714284,CHAMPAIGN,0,average,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+202,WDTzX_C2CbAwxBbqm-od6g,Cowboy Monkey,40.1175498,-88.24313409999999,6 E Taylor St,2.8958333333333335,CHAMPAIGN,0,very_loud,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+203,S27XLKsX1B-scfdDQ4rTGQ,Hardee's,40.1278221,-88.27965970000001,1201 N Mattis Ave,2.6666666666666665,CHAMPAIGN,0,,,,,,,,0,1,0,0,0,0,0,0,0,0
+204,BvARTl3t-aztQ9HPKc9xGQ,Domino's Pizza,40.1104557,-88.238411,102 E Green St,1.8181818181818181,CHAMPAIGN,0,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+205,TjKE1Ji-XAdYDlxYMKvZAw,Krispy Krunchy Chicken,40.127171000000004,-88.257965,900 W Bradley Ave,4.111111111111111,CHAMPAIGN,0,average,,,,False,,,0,0,0,0,0,0,0,0,0,0
+206,RQxLNvAra_MUUPHdhukilA,Houlihan's,40.0938755447,-88.23775659340001,1900 S First St,2.9146341463414633,CHAMPAIGN,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+207,EVkytEhlC1nswqmgrHdviw,Bo Bo China,40.1104696,-88.23311770000001,404 E Green St,2.3,CHAMPAIGN,0,average,,False,False,False,False,True,0,0,0,0,0,1,0,0,0,0
+208,pA3ltu4j31uatVu0_Gu1PQ,Crazy Buffet,40.143141799999995,-88.2547899,702 W Town Ctr Blvd,3.8,CHAMPAIGN,0,,,,,,,,0,0,0,0,0,1,0,0,0,0
+209,7AlULGZI1pHt0imODsqdkg,Potbelly Sandwich Shop,40.110062899999996,-88.231789,501 E Green St,4.0606060606060606,CHAMPAIGN,1,average,,False,False,True,False,True,0,0,0,0,0,0,0,1,0,0
+210,6GJ9K4HadzMBZG4WY_P9bw,Smoke 'Que & Brew,40.083446,-88.297332,2411 Village Green Pl,3.5217391304347827,CHAMPAIGN,0,loud,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+211,RwMlwusAtxZc5a3ZYduulg,Penn Station,40.110788799999995,-88.2306384,605 S 6th St,3.1333333333333333,CHAMPAIGN,0,quiet,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+212,zTGxLMOd9crAz0XNzqrcrA,Empire Chinese Restaurant,40.110554,-88.232373,"410 E Green St, Ste 1",3.574468085106383,CHAMPAIGN,0,average,,False,False,True,False,True,0,0,0,0,0,1,0,0,0,0
+213,NEVA0IYbawceL6kz5v5DAw,Kofusion,40.1185666238,-88.24323303860001,1 E Main St,3.4186991869918697,CHAMPAIGN,1,average,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+214,E1R-eyNDimJzdtajqh9KsQ,Jack's Grill & Mediterranean Cuisine,40.1221403,-88.243543,705 N Neil St,3.7777777777777777,CHAMPAIGN,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+215,oK9mdYF8q0XSkhpKs8ChHg,Wendy's,40.140351,-88.258461,2033 N Prospect Ave,1.8235294117647058,CHAMPAIGN,0,quiet,,False,False,False,False,False,0,0,0,0,0,0,0,1,0,0
+216,mZJdFjxvVddqPN5RZdKSHg,Jurassic Grill,40.1104696,-88.23311770000001,404 E Green St,3.742857142857143,CHAMPAIGN,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+217,vsoEZauF4lrADIqCYXySFQ,Chopstix,40.1105234,-88.2366661,"202 E Green St, Ste 1",2.8333333333333335,CHAMPAIGN,0,average,,False,False,True,False,True,0,0,0,0,0,1,0,0,0,0
+218,9XMOJYI0jh6cycrZK9Js4g,Campus Burger,40.142331799999994,-88.2429304,2000 N Neil St,2.3333333333333335,CHAMPAIGN,0,,,,,,,,0,1,0,0,0,0,0,0,0,0
+219,th4pZ5LkoIIkb1Vmu_m2DA,Meatheads,40.101521999999996,-88.24448000000001,1305 S Neil St,4.020833333333333,CHAMPAIGN,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+220,VSkNNLEGTwVCjXTqQ4rCrg,Freddy's Frozen Custard & Steakburgers,40.1418304,-88.24995990000001,420 W Towncenter Blvd,2.9166666666666665,CHAMPAIGN,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+221,MPAPVFk66pplvv7rkcVfiQ,Sushi Avenue,40.110113,-88.23321800000001,403 E Green St,3.0434782608695654,CHAMPAIGN,0,quiet,,False,False,,False,True,0,0,0,1,0,0,0,0,0,0
+222,DDm_333l9fHzlv7yfuF5dQ,Arby's,40.0846950551,-88.24629134870001,2310 S Neil St,2.25,CHAMPAIGN,0,average,,,,,,,0,1,0,0,0,0,0,1,0,0
+223,wCB9mquz6W0ZuO5pPZXeDg,Lao Sze Chuan Champaign,40.116659000000006,-88.229487,"608 E University Ave, Ste 105",3.263157894736842,CHAMPAIGN,0,very_loud,,False,False,True,False,True,0,0,0,0,0,1,0,0,0,0
+224,_n5wggIEfBzCUepjgvHXAQ,Sushi Ichiban,40.1108158,-88.22914909999999,619 S Wright St,3.1346153846153846,CHAMPAIGN,0,average,,False,False,True,False,True,0,0,0,1,0,0,0,0,0,0
+225,vVdY2qDO7dkUrU8LXYZ1uA,Green Jade,40.0833851146,-88.2643835833,1109 W Windsor,3.8333333333333335,CHAMPAIGN,0,average,,False,False,,False,False,0,0,0,0,1,1,0,0,0,0
+226,aELkI0mfF1EbQo_m44vEKg,O'Charley's Restaurant & Bar,40.143257,-88.256006,730 W Town Center Blvd,3.0454545454545454,CHAMPAIGN,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+227,O1Sp0pDa8wmMfOC-FUGZFQ,Dairy Queen,40.1585488,-88.2762061,3602 N Mattis Ave,1.75,CHAMPAIGN,0,,,,,,,,0,0,0,0,0,0,0,1,0,0
+228,a39B-BfbCipNkNH7vwCfug,Mid-Summer Lounge,40.1102797,-88.22980140000001,623 E Green St,4.076923076923077,CHAMPAIGN,1,average,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+229,b3qhOCXM_vpPsginjyP9Hg,Famous Dave's,40.1118938,-88.2780325,1900 Round Barn Rd,3.0,CHAMPAIGN,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+230,X57f6FWZiwI1wOidPPhOrQ,Dos Reales,40.1298862,-88.2584824,1407 N Prospect Ave,3.8547486033519553,CHAMPAIGN,1,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+231,bsrqpg0zJZG4NMhA0W28LQ,Espresso Royale,40.083399,-88.29660600000001,2401 Village Green Pl,4.266666666666667,CHAMPAIGN,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+232,4cPM1Hcj3UiN3fxyOsiR9w,Li'l Porgy's Bar-B-Que,40.112421000000005,-88.280002,1917 W Springfield Ave,3.764705882352941,CHAMPAIGN,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+233,d_Wm9CpzIo_0T-XLfq1UcA,The Hub,40.1111448,-88.23912890000001,"601 S 1st St, Ste 102",3.2888888888888888,CHAMPAIGN,0,loud,,False,False,True,False,True,0,1,0,0,0,0,0,0,0,0
+234,EZOoB2D8uQHV_gJoGCMTxQ,Jimmy John's,40.1103674315,-88.23063956879999,"601 E Green St, Ste B",2.8181818181818183,CHAMPAIGN,0,loud,,False,False,True,False,True,0,1,0,0,0,0,0,1,0,0
+235,B2N_XO6fX0ILL9c50QuzHg,Taco John's,40.146818757199995,-88.259077211,"902 Meijer Dr, Ste 8",3.142857142857143,CHAMPAIGN,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,1,0,0
+236,JCnFvoh7lU8PF_Yhh8bgOw,HuHot Mongolian Grill,40.1465169,-88.2581333,902 Meijer Dr,2.8260869565217392,CHAMPAIGN,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+237,kokytV29X4717mjIC3H7Xg,Papa John's Pizza,40.1131801,-88.2837494,"2104 W Springfield Ave, Ste B",2.375,CHAMPAIGN,0,,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+238,XtJj67rKT16a4tQw7bxtyw,Basil Thai Cafe,40.110554,-88.232373,"410 E Green St, Ste 1",2.6923076923076925,CHAMPAIGN,0,,,False,False,,False,True,0,0,0,0,0,0,1,0,0,0
+239,7siEeRGqAJ730IkwAtcWAQ,Jerusalem Middle Eastern Cuisine,40.1113,-88.229192,601 S Wright St,3.489795918367347,CHAMPAIGN,0,quiet,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+240,DjDcRTH09r1Yma6qd0om0Q,Art Mart,40.0959706657,-88.257621411,1705 S Prospect Ave,4.5,CHAMPAIGN,1,,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+241,5CSGxhesXkz2XNQB8AP6Kw,Spoon House Korean Kitchen,40.1106295,-88.2296313,616 E Green St,3.1973684210526314,CHAMPAIGN,1,average,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+242,gEPH0lm8IJcC8dkkwHJ7fA,Jillian's,40.103246,-88.244236,1201 S Neil St,3.6,CHAMPAIGN,0,,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+243,E6QAh8UPRo6Tlg6hkcWCHw,Bombay Indian Grill,40.110473999999996,-88.233544,401 E Green St,3.488372093023256,CHAMPAIGN,1,average,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+244,QHbrfA9nSNLFcevsfQk6dQ,Wienerschnitzel,40.111393,-88.300547,3214 Kimberly Dr,3.1666666666666665,CHAMPAIGN,0,quiet,,False,False,,False,False,0,0,0,0,0,0,0,1,0,0
+245,EcgJ_PI0DBPP1UyLCF1zxQ,Dom's Patio Villa,40.114144,-88.239757,301 S Locust St,4.5,CHAMPAIGN,0,,,False,False,,False,False,0,0,1,0,0,0,0,0,0,0
+246,8ed4YmEWPr5nfau82-OtCA,Subway,40.137875799999996,-88.2553746,706 W Marketview Dr,1.6666666666666667,CHAMPAIGN,0,,,False,False,,False,False,0,0,0,0,0,0,0,1,0,0
+247,FM-rxNJP7eSXZGwizEd-Dg,Dunkin' Donuts,40.1104641,-88.2439326,515 S Neil St,3.1578947368421053,CHAMPAIGN,0,,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+248,rnQLIVk3U7HI7kHRMxC16A,Krispy Krunchy Chicken,40.127586,-88.260263,922 W Bradley Ave,3.0,CHAMPAIGN,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+249,1p6qHrapvuKpbZGLT9qskw,El Patio,40.08182670000001,-88.2963454,2506 Village Green Pl,3.8333333333333335,CHAMPAIGN,0,quiet,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+250,TQg3tu8U3x8OaC2R4KKh7g,Mango Mango Creamery,40.1411129848,-88.2446333333,"2000 N Neil St, Ste 714",4.142857142857143,CHAMPAIGN,0,,,,,False,,,0,0,0,0,0,0,0,0,0,0
+251,5lw5rrhFMz-liykUn8dGSw,Fernando's Food,40.112846000000005,-88.240511,44 E Sprinfield,4.862068965517241,CHAMPAIGN,1,,,,,True,,,1,0,0,0,0,0,0,0,0,0
+252,rf8x3ZTUwzmRUyJgoIZllQ,Spicy Tang,40.1101814367,-88.22967063639999,611 E Green St,3.25,CHAMPAIGN,0,,,,,,,,0,0,0,0,0,1,0,0,0,0
+253,wRJQdkMCbvIj269WjXtuyQ,White Horse Inn,40.1093708,-88.23085920000001,510 E John St,3.0,CHAMPAIGN,0,loud,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+254,SUktrYdNQD8k2vvkM4OpfA,Peking Garden Restaurant,40.1178481689,-88.24511916590001,206 N Randolph St,3.830769230769231,CHAMPAIGN,1,quiet,,False,False,True,False,True,0,0,0,0,0,1,0,0,0,0
+255,l4x5FFzfiCFrGN0S-uZbBQ,Nando Milano Trattoria,40.1175503,-88.243507,204 N Neil St,3.9928057553956835,CHAMPAIGN,1,average,,False,False,True,False,True,0,0,1,0,0,0,0,0,0,0
+256,-A4suUjxa7gNaiUMDjO42g,Farmhouse Restaurant At Harvest Market,40.090645527199996,-88.2477702837,2029 South Neil St,3.375,CHAMPAIGN,0,loud,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+257,SCxtzXcvyk1hygdmOZqd1A,Mashawi Grill,40.110040999999995,-88.22968890000001,617 E Green St,4.359550561797753,CHAMPAIGN,1,average,,True,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+258,U7T6ioQJ17YPh_LG6xDTWA,Which Wich,40.110507299999995,-88.2314522,"512 E Green St, Ste A",3.375,CHAMPAIGN,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+259,iDDW5kjoLVN9rqrGM0cwjg,Rice Garden,40.109976,-88.26899499999999,1401 W Green St,1.5,CHAMPAIGN,0,loud,,False,False,,False,False,0,0,0,0,0,1,0,0,0,0
+260,5dCJy5oH6ZHqB_7cx76DhA,Pizza Hut,40.1201855,-88.27728359999999,409 N Mattis Ave,1.4,CHAMPAIGN,0,,,,,False,,,0,0,1,0,0,0,0,0,0,0
+261,MQ-xcuUXXBYvrXzy7BmOFw,Hooters,40.095434000000004,-88.246253,1706 State St,2.6785714285714284,CHAMPAIGN,0,quiet,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+262,D6SCh4BwNb52wZIqXdS4JQ,Esquire Lounge,40.116597,-88.242292,106 N Walnut St,3.909090909090909,CHAMPAIGN,1,loud,,False,False,True,False,True,0,1,0,0,0,0,0,0,0,0
+263,6nMYROXu0VX4Ytpdsfi3XA,Pie's the Limit,40.081643299999996,-88.2959913,2510 Village Green Pl,4.708333333333333,CHAMPAIGN,1,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+264,bXHbLuxyBZemyB0j7GJbTA,Boneyard Bar & Bbq,40.112114,-88.241292,25 E Springfield,3.75,CHAMPAIGN,0,very_loud,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+265,SuQpsHxcxCAB8kxPEIXiBg,Wonderdogs,40.1113062,-88.2289026,605 S Wright St,4.0,CHAMPAIGN,0,average,,False,False,,False,True,0,0,0,0,0,0,0,0,0,0
+266,uGxZdLLgMQDvFSqiXyCg_w,Ambar India,40.1113654,-88.22890699999999,605 S Wright St,3.377049180327869,CHAMPAIGN,1,average,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+267,o5Mofj5KJkYAMs_fhxftpg,Seoul Taco,40.1114033,-88.23039109999999,608 S 6th St,3.3076923076923075,CHAMPAIGN,1,average,,False,False,True,False,True,1,0,0,0,0,0,0,0,0,0
+268,jUddhNjGAE6W7MQKaUEZ4Q,Ryan's,40.136306,-88.2619969,1004 W Anthony Dr,2.0434782608695654,CHAMPAIGN,0,average,,False,False,True,False,True,0,1,0,0,0,0,0,0,0,0
+269,ZMcbVIEXsLO7j1Q1GXKPSw,A-Ri-Rang,40.1111783,-88.22888309999999,607 S Wright St,3.6875,CHAMPAIGN,1,average,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+270,HbK6IfznbVToEaKVC0WcSg,The Clark Bar,40.1150169,-88.2461385,207 W Clark St,4.0,CHAMPAIGN,0,average,,False,False,True,False,True,0,1,0,0,0,0,0,0,0,0
+271,V-_Kh0RtKcKdQ0ON4eVQ-Q,Buca di Beppo Italian Restaurant,40.142536,-88.243055,"Market Place Shopping Center, 2000 N Neil St",3.6153846153846154,CHAMPAIGN,0,average,,False,False,False,False,False,0,0,1,0,0,0,0,0,0,0
+272,uGwwPkw2AEvKkVHiSufhzQ,Jim Gould,40.1182231,-88.2435515,1 E Main St,3.6444444444444444,CHAMPAIGN,0,average,,False,False,,False,True,0,0,0,0,1,0,0,0,0,0
+273,qIomOSnR0zaU7kv6K-0mcA,Tortica's Grill,40.1102881,-88.2325689,408 E Green St,3.090909090909091,CHAMPAIGN,0,average,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+274,D-B5LsTHJgrhsHVex4gyHA,Layalina Mediterranean Grill,40.112801,-88.239078,401 S 1st St,3.326923076923077,CHAMPAIGN,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+275,Gvox18F9QxsSS9qG2O8E-A,Sam's Cafe,40.116985299999996,-88.2427068,115 N Walnut St,3.9318181818181817,CHAMPAIGN,1,average,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+276,0xjqQ2h5SzWe8zsHr6BG5w,Subway,40.1081556,-88.2297751,610 E Daniel St,2.25,CHAMPAIGN,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+277,Ez1U0wMD7Wws2BPAYfW3yQ,Luna,40.116715,-88.240606,116 N Chestnut St,3.3125,CHAMPAIGN,1,quiet,,False,False,,False,True,0,0,0,0,0,0,0,0,0,0
+278,8ztbiTDIi-2yQLVul58c5w,Doughbelly Subs,40.081860600000006,-88.2963455,2504 Village Green Pl,3.8,CHAMPAIGN,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+279,pFvyOYi1O5umrbzGVYSYKg,Edible Arrangements,40.1373077478,-88.24008152260001,49 E Marketview Dr,5.0,CHAMPAIGN,1,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+280,ZyOgY-z9sHdHp8_FDoQAJg,Scotty's Brewhouse,40.092351,-88.246124,2001 S Neil St,3.159090909090909,CHAMPAIGN,1,very_loud,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+281,GkQxwsRXYioD2VtCjNfedw,The Beef Stand,40.110039,-88.229804,611 E Green St,3.6956521739130435,CHAMPAIGN,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+282,E4t43bnsfeOY2bv_8IPmSw,Prime Time Pizza,40.116061,-88.231376,505 E University Ave,2.25,CHAMPAIGN,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+283,NFUINoS0tUsp3qy7wLIB1A,Dorcas Restaurant,40.110031899999996,-88.23307790000001,403 E Green St,4.0,CHAMPAIGN,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+284,zswdqM8Av3KxVv9o7_6ORA,Rainbow Garden,40.10045039999999,-88.24394620000001,1402 S Neil St,3.537313432835821,CHAMPAIGN,1,average,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+285,i_t8WTwztuHweRqQ89hmuQ,Panda Express,40.1460326346,-88.25853616709999,2521 N Prospect Ave,3.4,CHAMPAIGN,0,loud,,False,False,True,False,False,0,0,0,0,0,1,0,1,0,0
+286,Kws-gPJjF4RxLxJE_2BjKQ,Mr. Kyoto,40.1104378577,-88.2297856361,"611 E Green St, Ste A",3.761904761904762,CHAMPAIGN,1,average,,True,False,True,False,True,0,0,0,1,0,0,0,0,0,0
+287,5bTjUBhGbild5tuzfAmIJg,Denny's,40.1432615061,-88.2547938824,702 W Town Center Blvd,2.0952380952380953,CHAMPAIGN,0,quiet,,False,False,False,False,False,0,1,0,0,0,0,0,0,0,0
+288,xHjcLBgB3i9u_dHQZ8rirg,Wedge Tequila Bar & Grill,40.083446,-88.297332,2411 Village Green Crossing,3.2142857142857144,CHAMPAIGN,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+289,2YnUIGGmhoJX4Cd61nQLkg,Za's Italian Cafe,40.1399247,-88.2458532,1905 N Neil St,3.03125,CHAMPAIGN,0,average,,False,False,False,False,False,0,0,1,0,0,0,0,0,0,0
+290,1DedueD53YsKcpqMWPIe9w,Cabo's Cantina and Grill,40.083446,-88.297332,2411 Village Green Pl,3.4347826086956523,CHAMPAIGN,0,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+291,qFwc6pD29qnTgd9tZDRYig,Panera Bread,40.110470166700004,-88.2294295728,616 E Green St,2.576923076923077,CHAMPAIGN,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+292,KedpWqBphmRopwBd7trzFw,Wendy's,40.1108047945,-88.2302965969,608 S Sixth St,2.125,CHAMPAIGN,0,quiet,,,,True,,,0,0,0,0,0,0,0,1,0,0
+293,N9bjF5E2ms6fSWEMmvt39w,Pickles,40.1111456,-88.2441689,505 S Neil St,2.0,CHAMPAIGN,0,,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+294,m3qsb7Xf9Pivg9GAvx-gog,Kamakura Japanese Restaurant,40.107869,-88.2435628,715 S Neil St,2.9322033898305087,CHAMPAIGN,0,quiet,,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+295,5_cn7M-9swHrFbnqZtYGBQ,Bangkok Thai and Pho 911,40.1105683,-88.2325823,"410 E Green St, Unit 3",4.056962025316456,CHAMPAIGN,1,average,,False,False,True,False,True,0,0,0,0,0,0,1,0,0,0
+296,e88VWa9xdHmSFdMZne9eLQ,Mandarin Wok,40.110031899999996,-88.23307790000001,403 E Green St,3.3214285714285716,CHAMPAIGN,0,average,,False,False,True,False,True,0,0,0,0,0,1,0,0,0,0
+297,0aA5l11oXes0aS6mkN5lMQ,Szechuan China,40.112825,-88.239211,401 S 1st St,2.8055555555555554,CHAMPAIGN,0,quiet,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+298,ldKrUirpZZ6JDnNwOwLpvw,Ichiban Buffet,40.11704829999999,-88.2783637,105 N Mattis Ave,2.942857142857143,CHAMPAIGN,0,average,,False,False,True,False,False,0,0,0,0,0,1,0,0,0,0
+299,njngMI0mhAGJ-kH0oo68Ow,Home of Gourmet Chinese & Thai Restaurant,40.108115999999995,-88.230005,604 E Daniel St,3.2790697674418605,CHAMPAIGN,0,loud,,False,False,True,False,True,0,0,0,0,0,1,1,0,0,0
+300,s173l3ubdDLHeFIBO3ydrw,La Bamba,40.118873799999996,-88.2782876,1905 Glenn Park Dr,2.88,CHAMPAIGN,0,quiet,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+301,PD2MAlYYi9HCqPH7IBKwTg,La Bamba,40.111016,-88.230183,606 S 6th St,3.7777777777777777,CHAMPAIGN,0,,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+302,-XH3-e3jDVdjHJq7GfNY7w,Asian Taste Restaurant,40.1092811348,-88.2313949615,502 E John St,3.6785714285714284,CHAMPAIGN,0,average,,False,False,True,False,True,0,0,0,0,0,1,0,0,0,0
+303,exx_UjNFHW2uPI1ZT7JFNA,AnSun,40.083446,-88.297332,2411 Village Green Pl,2.75,CHAMPAIGN,0,quiet,,False,False,,False,False,0,0,0,0,0,1,0,0,0,0
+304,xLeOANU-lqtDOIV6Owm3EQ,Mas Amigos Truck,40.127078027399996,-88.2578811049,899 W Bradley Ave,3.4,CHAMPAIGN,0,,,False,False,True,False,False,1,0,0,0,0,0,0,1,0,0
+305,ZGIkQIh3KTLM1yOCNpvU5Q,Steak 'n Shake,40.1404213,-88.2573123,2010 N Prospect Ave,2.0714285714285716,CHAMPAIGN,0,quiet,,False,False,False,False,False,0,1,0,0,0,0,0,1,0,0
+306,dIZcPB3CtNjMn4O_p8QFxw,Original Pancake House,40.11246,-88.278196,"1909 W Springfield Ave, Ste B",4.162011173184357,CHAMPAIGN,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+307,f_CDR6H4QL1K3SeaBe7r3g,Sammy's Pancake House,40.128623700000006,-88.276612,1206 N Mattis Ave,3.6666666666666665,CHAMPAIGN,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+308,hxlfoblUAzNSOszKlyaV6g,Taco Bell,40.112702,-88.278467,1910 West Springfield,2.857142857142857,CHAMPAIGN,0,quiet,,False,False,False,False,False,1,0,0,0,0,0,0,1,0,0
+309,u7jiuYiz-zVwsh0TGRHUIg,Burrito King,40.1103801,-88.2327902,408 E Green St,3.6486486486486487,CHAMPAIGN,0,average,,False,False,False,False,False,1,0,0,0,0,0,0,0,0,0
+310,wfO1xdAeJMb_miGDU19W-w,Carmon's Bistro,40.119807,-88.2438559,415 N Neil St,3.588235294117647,CHAMPAIGN,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+311,IrW7miEN-X4Fzswh-2fYvg,Cafe Social,40.1105359,-88.2342809,308 E Green St,4.111111111111111,CHAMPAIGN,0,,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+312,3TBouLwX21Ic5cJNlAl7Eg,Drew's Pizza,40.110827,-88.231612,508 E Green St,2.8461538461538463,CHAMPAIGN,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+313,uMHk2kudlAN94fFVNdYhxw,Long John Silver's,40.1290679,-88.2583071,1217 N Prospect,2.6666666666666665,CHAMPAIGN,0,,,,,,,,0,0,0,0,1,0,0,1,0,0
+314,2pbOSrbB5AtQIa240AXNvQ,Panera Bread,40.138507000000004,-88.243173,1903 Convenience Pl,2.225,CHAMPAIGN,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+315,nh1-ax9wPNCqskcJYIWogg,Buttitta's,40.103246,-88.244236,1201 S Neil St,2.875,CHAMPAIGN,0,quiet,,False,False,,False,False,0,0,1,0,0,0,0,0,0,0
+316,t0HT9od2xZ0Fc5a0PFB2BQ,Kam's,40.1079898,-88.2295058,618 E Daniel St,1.901639344262295,CHAMPAIGN,0,very_loud,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+317,fbQjAy7MTR8hdt4Gg2H_dA,Milk Tea House,40.1105683,-88.2325823,"410 E Green St, Ste 2",3.611111111111111,CHAMPAIGN,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+318,68HNLNwMfXu1NuL_2E4N7A,Doodles,40.10933,-88.231668,"502 E John St, Ste 109",4.0,CHAMPAIGN,1,average,,False,False,,False,True,0,0,0,0,0,0,0,0,0,0
+319,QDA9xZaX4n0H7dbkTRyCYw,Subway,40.1157886,-88.241201,"45 E University Ave, Ste 101",1.8333333333333333,CHAMPAIGN,0,loud,,,,,,,0,0,0,0,0,0,0,1,0,0
+320,CpNMXASiwtJv5eCDf0n63g,Alexander's Steakhouse,40.136796000000004,-88.245076,202 W Anthony Dr,3.2419354838709675,CHAMPAIGN,0,average,,False,False,True,False,False,0,0,0,0,1,0,0,0,0,0
+321,eY8afQl17K4N2bf3z6nkCQ,HomeTown Buffet,40.144166,-88.257164,2306 N Prospect Ave,2.1363636363636362,CHAMPAIGN,0,average,,False,False,False,False,True,0,1,0,0,0,0,0,0,0,0
+322,9V4AGrJphOIw2RC1UoPPRw,Caribbean Grill Restaurant,40.087699,-88.247455,2135 S Neil St,4.853658536585366,CHAMPAIGN,1,average,,False,False,True,False,True,0,0,0,0,0,0,0,0,1,1
+323,tjflM9icU-y6xqNntOXtOQ,Far East,40.115755,-88.232332,105 S 5th St,3.566666666666667,CHAMPAIGN,0,,,False,False,True,False,True,0,1,0,0,0,0,0,0,0,0
+324,Z7r_FJXEyfyvVsyv2y7gFQ,Cactus Grill,40.099647600000004,-88.2447937,"1405 S Neil St, Ste C",3.795918367346939,CHAMPAIGN,1,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+325,J03fJlz-pi9x2oqxZ4vRng,Chevys Fresh Mex,40.137405,-88.245935,103 W Marketview Dr,3.2,CHAMPAIGN,0,,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+326,qaS11gk1kIlrzCX1LYiZsw,Super Niro Gyro,40.1432102493,-88.25192665649999,608 West Town Center Blvd,3.642857142857143,CHAMPAIGN,0,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+327,U8VXQaeog9wb_Y6hCkfitg,Super Taco,40.141473691,-88.2520852472,523 W Town Center Blvd,3.515151515151515,CHAMPAIGN,0,average,,False,False,False,False,False,1,0,0,0,0,0,0,0,0,0
+328,gaviK8-M4QdeoQOiAwdaYA,Jersey Mike's Subs,40.1099251,-88.23146170000001,"505 E. Green Street, Ste 3",3.5,CHAMPAIGN,0,average,,False,False,,False,False,0,0,0,0,0,0,0,1,0,0
+329,VuMgSpUJ9ONgSkddjM4JqQ,Yori Q Korean Grill & Bar,40.1076966669,-88.2436596975,715 S Neil St,3.8048780487804876,CHAMPAIGN,1,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+330,O3zVw-VAcJi8ta4B6v5iAA,Sun Singer Wine and Spirits,40.0831838,-88.264391,1115 W Windsor Rd,3.9555555555555557,CHAMPAIGN,1,average,,False,False,False,False,False,0,1,0,0,0,0,0,0,0,0
+331,C_Zj7H7bUJ5kGCwFmEwW6w,B Won,40.09209439999999,-88.24529809999999,2006 S Neil St,3.5058823529411764,CHAMPAIGN,1,average,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+332,24UHe1SZ4cgm6u6bU_L6xA,Sushi Rock,40.1100643,-88.22949399999999,621 E Green St,2.9302325581395348,CHAMPAIGN,0,average,,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+333,E8b-loa-89wsnJpu9ff_Gg,El Toro Bravo,40.112390977,-88.28981217120001,2561 W Springfield Ave,2.880952380952381,CHAMPAIGN,0,average,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+334,YERn2kltXVj9936i6T4Q8w,Big J J Fish & Chicken,40.12694329999999,-88.23860340000002,1114 N Market St,4.0,CHAMPAIGN,1,quiet,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+335,r_QcMIgY2zxdcV40kK_rxw,Applebee's Neighborhood Grill & Bar,40.1421399,-88.2585105,2121 N Prospect Ave,1.8611111111111112,CHAMPAIGN,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+336,OC5BqhpPhnJJr7IXLsXIbg,Papa D's Bar & Grill,40.110251399999996,-88.2335202,401 E Green St,3.0,CHAMPAIGN,0,average,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+337,zrtRx2bm55zVeYIpzLLm3w,Niro's Gyros,40.1125258,-88.2804392,2001 W Springfield Ave,3.676470588235294,CHAMPAIGN,0,quiet,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+338,TEXUVhF-G_v2Sxwqti8HQA,Old Chicago,40.139794,-88.243786,1910 N Neil St,2.9152542372881354,CHAMPAIGN,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+339,gnqHyA6gY2-m9S-FKt6Xqw,Cravings,40.1112203703,-88.2290604075,603 S Wright St,4.006711409395973,CHAMPAIGN,1,loud,,False,False,True,False,True,0,0,0,0,0,1,0,0,0,0
+340,OrX0D6xwxmymxfzWRatT7Q,Culver's,40.137791799999995,-88.2596769,903 W Marketview Dr,3.4444444444444446,CHAMPAIGN,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+341,-2q4dnUw0gGJniGW2aPamQ,Fiesta Ranchera,40.0940675,-88.2457853,1805 S Neil St,1.75,CHAMPAIGN,0,quiet,,,,,,,1,0,0,0,0,0,0,0,0,0
+342,RnGG5bAz4nTPo_Ui99Kzbg,Le Peep Restaurant,40.086871,-88.248177,2209 S Neil St,3.6226415094339623,CHAMPAIGN,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+343,5TPyzmhr3TKyWkPfzm01wA,Fazoli's,40.139841,-88.258482,2029 N Prospect Ave,2.75,CHAMPAIGN,0,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+344,lG9YdIb-87LK21XnMKvzFg,Teamoji,40.110040999999995,-88.22968890000001,617 E Green St,5.0,CHAMPAIGN,1,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+345,cLrsYJSVjDQbaVikQSpnbQ,Green Street Cafe,40.10990220000001,-88.24103709999999,35 E Green St,3.272727272727273,CHAMPAIGN,0,loud,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+346,FsnwQwatA43aeGhJlxQ_Kg,Paris Super Crepes,40.1112889,-88.23059079999999,"601 S 6th St, Ste 106",4.181818181818182,CHAMPAIGN,0,average,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+347,x792tXM8gIf6-nU2IiiAEQ,Five Guys Burgers & Fries,40.1377293292,-88.2586995927,913 W Marketview Dr,2.869565217391304,CHAMPAIGN,0,average,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+348,MqhxKfI7oMjUTMqH2gnhyg,McDonald's,40.1375686,-88.2430516,1812 N Neil St,1.5,CHAMPAIGN,0,,,False,False,,False,False,0,0,0,0,0,0,0,1,0,0
+349,c9PkUjunOI49r9oO4ZJcmQ,Taco Bell,40.096139,-88.245141,1707 S. Neil Street,2.5,CHAMPAIGN,0,quiet,,False,False,,False,False,1,0,0,0,0,0,0,1,0,0
+350,Y0_KRVDTasHCTh_P-WRSqg,Burger King,40.1125075,-88.28148420000001,2105 W Springfield Ave,2.5,CHAMPAIGN,0,,,,,False,,,0,0,0,0,0,0,0,0,0,0
+351,8k2l-fbaeQU9lVG4oRgxUw,Prairie Fire Restaurant,40.097136,-88.245695,100 Trade Centre Dr,3.227272727272727,CHAMPAIGN,0,average,,False,False,,False,False,0,1,0,0,0,0,0,0,0,0
+352,yE4k_CM9L0yPVVozyELfSQ,Noodles & Company,40.11050170000001,-88.2306324,528 E Green,2.909090909090909,CHAMPAIGN,0,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+353,mofOjB6flg-eAWOFbOkHfQ,ChinaTown Buffet,40.1373032,-88.2560119,713 W Marketview Dr,2.3389830508474576,CHAMPAIGN,0,average,,False,False,False,False,False,0,0,0,0,0,1,0,0,0,0
+354,PmVxbit6HDDsEUS-j9aDfg,Billy Barooz Bar & Grill,40.081322,-88.29670899999999,2521 Village Green Pl,3.5285714285714285,CHAMPAIGN,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+355,t952QLgrh-5l1woJ4IFgUA,Vinny's East Coast Pizzeria,40.0977984,-88.2484631,401 W Kirby Ave,3.6129032258064515,CHAMPAIGN,1,quiet,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+356,h2vFVV5pJjn8arA7GR6mQg,Zelma's,40.083191139600004,-88.26396859020001,1103 W Windsor Rd,2.7857142857142856,CHAMPAIGN,0,loud,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+357,u8C8pRvaHXg3PgDrsUHJHQ,Papa Del's Pizza,40.1032417,-88.2441637,1201 S Neil St,3.396782841823056,CHAMPAIGN,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+358,GWS5s8HSm1zjqMLJD7wQLg,Woori Jib Restaurant,40.109590000000004,-88.230064,710 S 6th St,3.340909090909091,CHAMPAIGN,1,average,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+359,C31ExBTn_6UxbTVkWPtNkg,Yellowfin Japanese Restaurant,40.0987255,-88.2470903,305 Cedar St,3.520408163265306,CHAMPAIGN,1,average,,False,False,True,False,False,0,0,0,1,0,0,0,0,0,0
+360,c2uAqJ2REpLMCZO2jxdi9w,Five Guys,40.1374723,-88.2586063,901 B West Anthony Dr,3.111111111111111,CHAMPAIGN,0,very_loud,,False,False,False,False,False,0,1,0,0,0,0,0,1,0,0
+361,QxbVPV2xndVP-nT1IRKF1w,El Torero,40.1131042,-88.28575759999998,2312 W Springfield Ave,3.5,CHAMPAIGN,0,,,False,False,,False,False,1,0,0,0,0,0,0,0,0,0
+362,PBmfdx-tC2D54FI3HtcKww,The Ribeye,40.0961547,-88.2454175,1701 S Neil St,3.2857142857142856,CHAMPAIGN,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+363,XbHxWOciYlBhJOjKRQbo9g,Meijer,40.145120399999996,-88.2606888,2401 N Prospect Ave,3.36734693877551,CHAMPAIGN,0,,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+364,xWGn7oqLOZu_00H8pZOtsQ,Cracked the Egg Came First,40.1100646,-88.22960920000001,619 E Green St,4.3561643835616435,CHAMPAIGN,1,quiet,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+365,xD6Q0UFxO8uE4bdaBDIMlA,Hot Pot Lab,40.110518,-88.23728100000001,"112 E Green St, Ste A",3.6956521739130435,CHAMPAIGN,1,quiet,,False,False,True,False,True,0,0,0,0,0,0,0,0,0,0
+366,xE4WM5ZvtBkFnojFUTQfqg,Wienerschnitzel,40.113217306799996,-88.2831241065,2102 W Springfield Ave,3.5714285714285716,CHAMPAIGN,0,average,,False,False,False,False,False,0,0,0,0,0,0,0,1,0,0
+367,t_yiQnxUDdPPCN2z4QyezA,Golden Harbor Authentic Chinese Cuisine,40.1111456,-88.2441689,505 S Neil St,4.355371900826446,CHAMPAIGN,1,average,,False,False,True,False,True,0,0,0,0,0,1,0,0,0,0
+368,ly0oNXKOoSZyr0mzOsVJhg,Monical's Pizza,40.118026,-88.277573,205 N Mattis Ave,2.878787878787879,CHAMPAIGN,0,average,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+369,-S1BkxguVmi2G_O6Bcoabg,Steak 'n Shake,40.0949565,-88.245852,1709 S Neil St,2.4186046511627906,CHAMPAIGN,0,average,,False,False,True,False,False,0,1,0,0,0,0,0,1,0,0
+370,EYmj4QlhqgrsMXnLeGLu3Q,Curtis Orchard & Pumpkin Patch,40.0634243532,-88.29501628879999,3902 S Duncan Rd,3.6296296296296298,CHAMPAIGN,1,average,,False,False,True,False,False,0,1,0,0,0,0,0,0,0,0
+371,JbnNk6do3aHF3Kr1bX4HzQ,Jupiter's Pizzeria and Billards,40.081504200000005,-88.29634370000001,2511 Village Green Pl,3.0,CHAMPAIGN,0,loud,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+372,PgMt7JtwUB-QUoRZAbwUng,Chili's,40.139041999999996,-88.258619,1905 N Prospect Ave,2.857142857142857,CHAMPAIGN,0,loud,,False,False,False,False,False,0,1,0,0,0,0,0,0,0,0
+373,6o6XxnI8RWhnAVSdxqCJWQ,Jet's Pizza,40.110655,-88.242885,512 S Neil St,3.739130434782609,CHAMPAIGN,1,average,,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0
+374,Piw4Xr1wNyL4lgmwLZ2eTg,Jet's Pizza,40.112342,-88.278054,"1907 W Springfield Ave, Ste A",3.375,CHAMPAIGN,0,,,False,False,,False,False,0,0,0,0,0,0,0,0,0,0
+375,xistlMeIIjG21z2SaWvfVQ,Kung Fu BBQ,40.1093708,-88.23085920000001,510 E John St,3.576923076923077,CHAMPAIGN,0,average,,False,False,False,False,True,0,0,0,0,0,1,0,0,0,0
+376,EBai30hil5U6WzOQYwPIXA,Sammie's Pancake House,40.09843,-88.2932282,2821 W Kirby Ave,2.3333333333333335,CHAMPAIGN,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+377,gOMc2QcDaMIOkIVTShqoYA,Firehouse Subs,40.136804999999995,-88.257355,803 W Anthony Dr,3.3043478260869565,CHAMPAIGN,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,1,0,0
+378,-Jhlh8Scjy669NdtCfKSSg,V Picasso,40.117237,-88.24319190000001,122 N Neil St,3.873684210526316,CHAMPAIGN,1,average,,True,False,True,False,True,0,1,0,0,0,0,0,0,0,0
+379,1xeyFW6daV8jdt3dM1nhqQ,Subway,40.0836476,-88.2965982,2409 Village Green Pl,2.4,CHAMPAIGN,0,,,,,,,,0,0,0,0,0,0,0,1,0,0
+380,iLPBZ_ic0LyiviqfXbkjwg,Hubers,40.1185465,-88.2684951,1312 W Church St,4.1,CHAMPAIGN,0,average,,False,False,False,False,False,0,1,0,0,0,0,0,0,0,0
+381,1KGLQ6Sxji5jqsQnsC6fdQ,MezzaLuna,40.081896,-88.295835,2502 Village Green Pl,3.111111111111111,CHAMPAIGN,0,,,False,False,,False,False,0,0,1,0,0,0,0,0,0,0
+382,K2lscpx0S9wpqNz0s9AIwQ,Giordano's - Champaign,40.1422324798,-88.2446145825,2000 N Neil St,3.0256410256410255,CHAMPAIGN,0,,,False,False,True,False,False,0,0,1,0,0,0,0,0,0,0
+383,ZvSy8yaly9Aeh64Qm4Dsfw,Red Cape Hot Pot,40.110477,-88.23750679999999,"112 E Green St, Ste A",3.5454545454545454,CHAMPAIGN,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+384,iLxG2Oo8HNSZFvJvba4W6g,El Toro Mexican Restaurant,40.1070836,-88.2438972,723 S Neil St,3.116279069767442,CHAMPAIGN,1,average,,False,False,True,False,False,1,0,0,0,0,0,0,0,0,0
+385,tx_0mIXEr4TPucSYyfA2eg,Sarku Japan,40.110821,-88.229156,619 S Wright,2.6666666666666665,CHAMPAIGN,0,,,False,False,,False,False,0,0,0,1,0,0,0,1,0,0
+386,wgImSrYc5LOcFaMcbOuxkg,Domino's Pizza,40.0972527,-88.27682440000001,1803 W Kirby Ave,3.9,CHAMPAIGN,0,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,0,0
+387,BkqM_Ou82P3gn_PTxEN3pw,Ozu Ramen,40.1112889,-88.23059079999999,"601 S 6th St, Ste 102",3.109375,CHAMPAIGN,0,loud,,False,False,True,False,True,0,0,0,1,0,0,0,0,0,0
+388,_TWp4gqGF7tQUGloTClcNg,Brixx Wood Fired Pizza,40.0900638618,-88.24640633620001,2043 S Neil St,3.2535211267605635,CHAMPAIGN,1,average,,False,False,True,False,False,0,0,0,0,0,0,0,0,1,0
+389,yiWYJnHngOJWuP_CFP6Itw,Jimmy John's,40.114051,-88.27700899999999,1801 W Springfield Ave,4.0,CHAMPAIGN,0,,,,,,,,0,0,0,0,0,0,0,0,0,0
+390,SgG5E7PUrCIsEMP0BVSlTg,Cheese and Crackers,40.098225799999994,-88.27398000000001,1715 W Kirby,4.223880597014926,CHAMPAIGN,1,quiet,,False,False,False,False,False,0,0,0,0,1,0,0,0,0,0
+391,LwFlN4-f4cPHx6-gk8HlUw,Domino's Pizza,40.1274143,-88.27543730000001,1702 W Bradley Ave,3.3333333333333335,CHAMPAIGN,0,,,,,,,,0,0,1,0,0,0,0,0,0,0

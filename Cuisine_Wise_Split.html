@@ -1,0 +1,1509 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link href="CSS/header.css" rel="stylesheet"/>
+    <link href="CSS/cuisine_graph.css" rel="stylesheet" />
+
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+
+
+
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <!--<script src="https://d3js.org/d3.v2.js"></script>-->
+    <!--<script src="https://d3js.org/d3.v3.min.js"></script>-->
+
+
+
+    <link href="https://netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css" rel="stylesheet"
+          id="bootstrap-css">
+    <link rel="stylesheet" href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+          integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+
+
+
+    <meta charset="UTF-8">
+    <title>EatHub</title>
+</head>
+<body>
+<section id="container auth">
+    <div class="header" style="background-color: #2A363B">
+        <a href="index.html" class="logo">EatHub</a>
+        <div class="header-right">
+            <a href="index.html#main-content">Home</a>
+            <a href="index.html#map">Location Based</a>
+            <a href="index.html#restaurant">Restaurant Info</a>
+            <a class="active" href="Cuisine_Wise_Split.html">Cuisine Based</a>
+            <a href="team.html">About Us</a>
+        </div>
+    </div>
+</section>
+
+<div id="chartContainer" style="text-align: center">
+
+    <h2 style="text-align: center;color: #2A363B">Recommended Cuisines</h2>
+    <div class="col-xs-9">
+
+        <div class="form-group" style="color:#2A363B">
+            <div class="container auth">
+                <label class=" control-label" for="selectbasic">City: </label>
+
+                <select id="selectbasic12" name="selectbasic" class="form-control" style="text-align: center" onchange="changeCuisine();">
+                    <option value="Phoenix">Phoenix</option>
+                    <option value="Las_Vegas">Las Vegas</option>
+                    <option value="Charlotte">Charlotte</option>
+                    <option value="Pittsburgh">Pittsburgh</option>
+                    <option value="Scottsdale">Scottsdale</option>
+                    <option value="Cleveland">Cleveland</option>
+                    <option value="Mesa">Mesa</option>
+                    <option value="Champaign">Champaign</option>
+                    <option value="Tempe" SELECTED>Tempe</option>
+                    <option value="Henderson">Henderson</option>
+
+                </select>
+            </div>
+        </div>
+    </div>
+    <div class="col-xs-3">
+
+        <div class="smoothscroll btn btn--stroke" style="text-align: center; background-color: #2A363B">
+
+            <a href="index.html#main-content">
+                <h5 style="color: white">EatHub Recommendation</h5>
+            </a>
+        </div>
+        <div><br></div>
+
+        <div class="smoothscroll btn btn--stroke" style="text-align: center; background-color: #2A363B;">
+            <!--<h2><span>Average People Visiting</span></h2>-->
+
+            <a href="index.html#map">
+                <h5 style="color: white">Location Based</h5>
+            </a>
+        </div>
+    </div>
+
+</div>
+
+<section id="bubblegraph">
+
+    <div class="bubblegraph" align="center" id="bubble">
+        <svg width="800" height="800" id="bubbleSVG"></svg>
+        <script src="https://d3js.org/d3.v4.min.js"></script>
+
+        <script type='text/javascript' src='JS/cuisinegraph.js'></script>
+    </div>
+</section>
+
+
+<section id = "comparison">
+
+
+
+    <!--<div id=main>-->
+        <!--<br>-->
+        <!--<div id="pieChartsvg" style="width: 100%;margin-left: 20px; margin-right: 20px">-->
+
+
+            <!--<script type='text/javascript' src='JS/comparison.js'></script>-->
+            <!--&lt;!&ndash;<svg id="barChart" width="960" height="500"></svg>&ndash;&gt;-->
+
+
+        <!--</div>-->
+    <!--</div>-->
+
+
+
+</section>
+
+
+
+
+<section id=restaurant>
+    <div>
+        <div>
+            <!--<div class="heatmap" id="busy" style="width:50%;float: left" align="left">-->
+                <!--<h4 style="text-align: center;color:#2A363B;">Busy Hours</h4>-->
+                <!--&lt;!&ndash;<script src="https://d3js.org/d3.v4.min.js"></script>&ndash;&gt;-->
+                <!--&lt;!&ndash;<script type='text/javascript' src='JS/heatmap1.js'></script>&ndash;&gt;-->
+
+            <!--</div>-->
+
+            <div id=main style="width:50%;float: left" align="center">
+                <br>
+                <h4 style="text-align: center;color:#2A363B;">Cuisine Info</h4>
+
+                <div id="pieChartsvg" style="width: 100%;margin-left: 20px; margin-right: 20px">
+
+
+                    <script type='text/javascript' src='JS/comparison.js'></script>
+                    <!--<svg id="barChart" width="960" height="500"></svg>-->
+
+
+                </div>
+            </div>
+
+            <div id="myDiv2" style="width:50%;float: right" align="right">
+
+                <script src="JS/rating1.js"></script>
+
+                <!--<button onclick="rating_graph(2)"></button>-->
+            </div>
+
+
+        </div>
+
+
+        <!--<div>-->
+
+        <!--&lt;!&ndash;<script src="https://d3js.org/d3.v4.min.js"></script>&ndash;&gt;-->
+        <!--&lt;!&ndash;<div style="width:50%;float: right" align="right">&ndash;&gt;-->
+        <!--&lt;!&ndash;<script type='text/javascript' src='JS/rating.js' ></script>&ndash;&gt;-->
+        <!--&lt;!&ndash;</div>&ndash;&gt;-->
+        <!--</div>-->
+    </div>
+
+
+    <script type='text/javascript' src='JS/slider.js'></script>
+
+    <div class="auth-box1" style="text-align: center">
+
+        <div class="col-xs-12" style="text-align: center">
+            <h4 style="text-align: center;color:#2A363B;">Reviews of restaurant</h4>
+
+            <div class="col-xs-6" >
+
+
+                <div class="card" style="width: 30rem; left: 160px;  text-align: center">
+                    <img class="card-img-top" src="Data/Graphs-NLP/GRAPH_1/1_good_.png" id="imageGood2" alt="Positive Reviews Not Available">
+                    <div class="card-body">
+                        <h5 class="card-title">Positive Reviews</h5>
+                        <p class="card-text">Here are the most used positive words for this restaurant</p>
+                        <!--<a href="#" class="btn btn-primary">Go somewhere</a>-->
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-xs-6">
+                <div class="card" style="width: 30rem; text-align: center" >
+                    <img class="card-img-top" src="Data/Graphs-NLP/GRAPH_1/1_bad_.png" id="imageBad2" style=" text-align: center" alt="Negative Reviews Not Available">
+                    <div class="card-body">
+                        <h5 class="card-title">Negative Reviews</h5>
+                        <p class="card-text">Some things to take care about this restaurant!</p>
+                        <!--<a href="#" class="btn btn-primary">Go somewhere</a>-->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+
+    <!--<link rel="stylesheet" href="https://cdn.metroui.org.ua/v4/css/metro.min.css">-->
+
+    <!--<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>-->
+    <!--<script src="https://cdn.metroui.org.ua/v4/js/metro.min.js"></script>-->
+</section>
+
+<script>
+
+    function changeImage() {
+        console.log("Hello");
+        var imgBad = document.getElementById("imageBad2");
+        var imgGood = document.getElementById("imageGood2");
+//        d3.select("#images1").remove();
+        //img.src="Data/Graphs-NLP/GRAPH_10/10_bad_.png";
+
+        var value = (Math.floor(Math.random() * 12) + 1);
+        console.log("Random Value Generated " + value  );
+        console.log("Data/Graphs-NLP/GRAPH_"+ value + "/" + value + "_bad_.png");
+        console.log("Data/Graphs-NLP/GRAPH_"+ value + "/" + value + "_good_.png");
+
+        imgBad.setAttribute("src","Data/Graphs-NLP/GRAPH_"+ value + "/" + value + "_bad_.png");
+        imgGood.setAttribute("src","Data/Graphs-NLP/GRAPH_"+ value + "/" + value + "_good_.png");
+
+
+
+    }
+	
+	function CPie(cuisineType){
+		var cityName = document.getElementById("selectbasic12").value.toLowerCase();
+		console.log(cityName);
+		
+		d3.select("#pieChartsvg").selectAll("*").remove();
+		
+		
+function showDiv() {
+    document.getElementById('tips').style.display = "block"
+    document.getElementById('a').classList.add('hide');
+
+}
+
+var formatAsPercentage = d3.format("%");
+
+function dsPieChart() {
+
+    // list = [mexican,chinese,japanese,indian,American];
+    //var valuepassed = "japanese";
+	var valuepassed = cuisineType.toLowerCase();
+		console.log("Pie chart change requested by: " + valuepassed + " " + cityName);
+	
+	 if(cityName === "phoenix"){
+		if(valuepassed == "american"){
+            var dataset = [
+                {category: "Positive", value: 0.54},
+                {category: "Negative", value: 0.24},
+                {category: "Neutral", value: 0.22},
+            ];
+
+        } else if(valuepassed == "mexican"){
+            var dataset = [
+                {category: "Positive", value: 0.56},
+                {category: "Negative", value: 0.24},
+                {category: "Neutral", value: 0.2},
+            ];
+
+        } else if(valuepassed == "italian"){
+            var dataset = [
+                {category: "Positive", value: 0.55},
+                {category: "Negative", value: 0.23},
+                {category: "Neutral", value: 0.22},
+            ];
+
+        } else if(valuepassed == "japanese"){
+            var dataset = [
+                {category: "Positive", value: 0.6},
+                {category: "Negative", value: 0.26},
+                {category: "Neutral", value: 0.14},
+            ];
+
+        } else if(valuepassed == "seafood"){
+            var dataset = [
+                {category: "Positive", value: 0.46},
+                {category: "Negative", value: 0.26},
+                {category: "Neutral", value: 0.28},
+            ];
+
+        } else if(valuepassed == "chinese"){
+            var dataset = [
+                {category: "Positive", value: 0.5},
+                {category: "Negative", value: 0.29},
+                {category: "Neutral", value: 0.21},
+            ];
+
+        } else if(valuepassed == "thai"){
+            var dataset = [
+                {category: "Positive", value: 0.62},
+                {category: "Negative", value: 0.25},
+                {category: "Neutral", value: 0.13},
+            ];
+
+        } else if(valuepassed == "fastfood"){
+            var dataset = [
+                {category: "Positive", value: 0.4},
+                {category: "Negative", value: 0.3},
+                {category: "Neutral", value: 0.3},
+            ];
+
+        } else if(valuepassed == "vegan"){
+            var dataset = [
+                {category: "Positive", value: 0.47},
+                {category: "Negative", value: 0.23},
+                {category: "Neutral", value: 0.3},
+            ];
+
+        } else {
+            var dataset = [
+                {category: "Positive", value: 0.46},
+                {category: "Negative", value: 0.26},
+                {category: "Neutral", value: 0.28},
+            ];
+
+        }
+	 } else if(cityName === "las_vegas"){
+		if(valuepassed == "american"){
+            var dataset = [
+                {category: "Positive", value: 0.64},
+                {category: "Negative", value: 0.24},
+                {category: "Neutral", value: 0.12},
+            ];
+
+        } else if(valuepassed == "mexican"){
+            var dataset = [
+                {category: "Positive", value: 0.62},
+                {category: "Negative", value: 0.14},
+                {category: "Neutral", value: 0.24},
+            ];
+
+        } else if(valuepassed == "italian"){
+            var dataset = [
+                {category: "Positive", value: 0.5},
+                {category: "Negative", value: 0.23},
+                {category: "Neutral", value: 0.27},
+            ];
+
+        } else if(valuepassed == "japanese"){
+            var dataset = [
+                {category: "Positive", value: 0.54},
+                {category: "Negative", value: 0.18},
+                {category: "Neutral", value: 0.28},
+            ];
+
+        } else if(valuepassed == "seafood"){
+            var dataset = [
+                {category: "Positive", value: 0.61},
+                {category: "Negative", value: 0.27},
+                {category: "Neutral", value: 0.12},
+            ];
+
+        } else if(valuepassed == "chinese"){
+            var dataset = [
+                {category: "Positive", value: 0.57},
+                {category: "Negative", value: 0.25},
+                {category: "Neutral", value: 0.18},
+            ];
+
+        } else if(valuepassed == "thai"){
+            var dataset = [
+                {category: "Positive", value: 0.43},
+                {category: "Negative", value: 0.19},
+                {category: "Neutral", value: 0.38},
+            ];
+
+        } else if(valuepassed == "fastfood"){
+            var dataset = [
+                {category: "Positive", value: 0.44},
+                {category: "Negative", value: 0.25},
+                {category: "Neutral", value: 0.31},
+            ];
+
+        } else if(valuepassed == "vegan"){
+            var dataset = [
+                {category: "Positive", value: 0.62},
+                {category: "Negative", value: 0.28},
+                {category: "Neutral", value: 0.1},
+            ];
+
+        } else {
+            var dataset = [
+                {category: "Positive", value: 0.64},
+                {category: "Negative", value: 0.15},
+                {category: "Neutral", value: 0.21},
+            ];
+
+        }
+	 } else if(cityName === "charlotte"){
+		if(valuepassed == "american"){
+            var dataset = [
+                {category: "Positive", value: 0.63},
+                {category: "Negative", value: 0.21},
+                {category: "Neutral", value: 0.16},
+            ];
+
+        } else if(valuepassed == "mexican"){
+            var dataset = [
+                {category: "Positive", value: 0.57},
+                {category: "Negative", value: 0.21},
+                {category: "Neutral", value: 0.22},
+            ];
+
+        } else if(valuepassed == "italian"){
+            var dataset = [
+                {category: "Positive", value: 0.56},
+                {category: "Negative", value: 0.28},
+                {category: "Neutral", value: 0.16},
+            ];
+
+        } else if(valuepassed == "japanese"){
+            var dataset = [
+                {category: "Positive", value: 0.59},
+                {category: "Negative", value: 0.18},
+                {category: "Neutral", value: 0.23},
+            ];
+
+        } else if(valuepassed == "seafood"){
+            var dataset = [
+                {category: "Positive", value: 0.5},
+                {category: "Negative", value: 0.28},
+                {category: "Neutral", value: 0.22},
+            ];
+
+        } else if(valuepassed == "chinese"){
+            var dataset = [
+                {category: "Positive", value: 0.44},
+                {category: "Negative", value: 0.27},
+                {category: "Neutral", value: 0.29},
+            ];
+
+        } else if(valuepassed == "thai"){
+            var dataset = [
+                {category: "Positive", value: 0.52},
+                {category: "Negative", value: 0.23},
+                {category: "Neutral", value: 0.25},
+            ];
+
+        } else if(valuepassed == "fastfood"){
+            var dataset = [
+                {category: "Positive", value: 0.6},
+                {category: "Negative", value: 0.16},
+                {category: "Neutral", value: 0.24},
+            ];
+
+        } else if(valuepassed == "vegan"){
+            var dataset = [
+                {category: "Positive", value: 0.47},
+                {category: "Negative", value: 0.15},
+                {category: "Neutral", value: 0.38},
+            ];
+
+        } else {
+            var dataset = [
+                {category: "Positive", value: 0.5},
+                {category: "Negative", value: 0.2},
+                {category: "Neutral", value: 0.3},
+            ];
+
+        }
+	 } else if(cityName === "pittsburgh"){
+		if(valuepassed == "american"){
+            var dataset = [
+                {category: "Positive", value: 0.51},
+                {category: "Negative", value: 0.23},
+                {category: "Neutral", value: 0.26},
+            ];
+
+        } else if(valuepassed == "mexican"){
+            var dataset = [
+                {category: "Positive", value: 0.64},
+                {category: "Negative", value: 0.26},
+                {category: "Neutral", value: 0.1},
+            ];
+
+        } else if(valuepassed == "italian"){
+            var dataset = [
+                {category: "Positive", value: 0.6},
+                {category: "Negative", value: 0.29},
+                {category: "Neutral", value: 0.11},
+            ];
+
+        } else if(valuepassed == "japanese"){
+            var dataset = [
+                {category: "Positive", value: 0.47},
+                {category: "Negative", value: 0.24},
+                {category: "Neutral", value: 0.29},
+            ];
+
+        } else if(valuepassed == "seafood"){
+            var dataset = [
+                {category: "Positive", value: 0.54},
+                {category: "Negative", value: 0.29},
+                {category: "Neutral", value: 0.17},
+            ];
+
+        } else if(valuepassed == "chinese"){
+            var dataset = [
+                {category: "Positive", value: 0.45},
+                {category: "Negative", value: 0.15},
+                {category: "Neutral", value: 0.39},
+            ];
+
+        } else if(valuepassed == "thai"){
+            var dataset = [
+                {category: "Positive", value: 0.46},
+                {category: "Negative", value: 0.15},
+                {category: "Neutral", value: 0.39},
+            ];
+
+        } else if(valuepassed == "fastfood"){
+            var dataset = [
+                {category: "Positive", value: 0.6},
+                {category: "Negative", value: 0.22},
+                {category: "Neutral", value: 0.18},
+            ];
+
+        } else if(valuepassed == "vegan"){
+            var dataset = [
+                {category: "Positive", value: 0.43},
+                {category: "Negative", value: 0.17},
+                {category: "Neutral", value: 0.4},
+            ];
+
+        } else {
+            var dataset = [
+                {category: "Positive", value: 0.43},
+                {category: "Negative", value: 0.15},
+                {category: "Neutral", value: 0.42},
+            ];
+
+        }
+	 } else if(cityName === "scottsdale"){
+		if(valuepassed == "american"){
+            var dataset = [
+                {category: "Positive", value: 0.61},
+                {category: "Negative", value: 0.22},
+                {category: "Neutral", value: 0.17},
+            ];
+
+        } else if(valuepassed == "mexican"){
+            var dataset = [
+                {category: "Positive", value: 0.56},
+                {category: "Negative", value: 0.22},
+                {category: "Neutral", value: 0.22},
+            ];
+
+        } else if(valuepassed == "italian"){
+            var dataset = [
+                {category: "Positive", value: 0.59},
+                {category: "Negative", value: 0.15},
+                {category: "Neutral", value: 0.26},
+            ];
+
+        } else if(valuepassed == "japanese"){
+            var dataset = [
+                {category: "Positive", value: 0.55},
+                {category: "Negative", value: 0.28},
+                {category: "Neutral", value: 0.17},
+            ];
+
+        } else if(valuepassed == "seafood"){
+            var dataset = [
+                {category: "Positive", value: 0.46},
+                {category: "Negative", value: 0.14},
+                {category: "Neutral", value: 0.4},
+            ];
+
+        } else if(valuepassed == "chinese"){
+            var dataset = [
+                {category: "Positive", value: 0.63},
+                {category: "Negative", value: 0.23},
+                {category: "Neutral", value: 0.14},
+            ];
+
+        } else if(valuepassed == "thai"){
+            var dataset = [
+                {category: "Positive", value: 0.41},
+                {category: "Negative", value: 0.26},
+                {category: "Neutral", value: 0.33},
+            ];
+
+        } else if(valuepassed == "fastfood"){
+            var dataset = [
+                {category: "Positive", value: 0.41},
+                {category: "Negative", value: 0.22},
+                {category: "Neutral", value: 0.37},
+            ];
+
+        } else if(valuepassed == "vegan"){
+            var dataset = [
+                {category: "Positive", value: 0.43},
+                {category: "Negative", value: 0.22},
+                {category: "Neutral", value: 0.35},
+            ];
+
+        } else {
+            var dataset = [
+                {category: "Positive", value: 0.48},
+                {category: "Negative", value: 0.2},
+                {category: "Neutral", value: 0.32},
+            ];
+
+        }
+	 } else if(cityName === "cleveland"){
+		if(valuepassed == "american"){
+            var dataset = [
+                {category: "Positive", value: 0.58},
+                {category: "Negative", value: 0.26},
+                {category: "Neutral", value: 0.16},
+            ];
+
+        } else if(valuepassed == "mexican"){
+            var dataset = [
+                {category: "Positive", value: 0.63},
+                {category: "Negative", value: 0.2},
+                {category: "Neutral", value: 0.17},
+            ];
+
+        } else if(valuepassed == "italian"){
+            var dataset = [
+                {category: "Positive", value: 0.62},
+                {category: "Negative", value: 0.18},
+                {category: "Neutral", value: 0.2},
+            ];
+
+        } else if(valuepassed == "japanese"){
+            var dataset = [
+                {category: "Positive", value: 0.56},
+                {category: "Negative", value: 0.20},
+                {category: "Neutral", value: 0.24},
+            ];
+
+        } else if(valuepassed == "seafood"){
+            var dataset = [
+                {category: "Positive", value: 0.42},
+                {category: "Negative", value: 0.25},
+                {category: "Neutral", value: 0.33},
+            ];
+
+        } else if(valuepassed == "chinese"){
+            var dataset = [
+                {category: "Positive", value: 0.6},
+                {category: "Negative", value: 0.18},
+                {category: "Neutral", value: 0.22},
+            ];
+
+        } else if(valuepassed == "thai"){
+            var dataset = [
+                {category: "Positive", value: 0.46},
+                {category: "Negative", value: 0.15},
+                {category: "Neutral", value: 0.39},
+            ];
+
+        } else if(valuepassed == "fastfood"){
+            var dataset = [
+                {category: "Positive", value: 0.40},
+                {category: "Negative", value: 0.28},
+                {category: "Neutral", value: 0.32},
+            ];
+
+        } else if(valuepassed == "vegan"){
+            var dataset = [
+                {category: "Positive", value: 0.51},
+                {category: "Negative", value: 0.22},
+                {category: "Neutral", value: 0.27},
+            ];
+
+        } else {
+            var dataset = [
+                {category: "Positive", value: 0.52},
+                {category: "Negative", value: 0.25},
+                {category: "Neutral", value: 0.23},
+            ];
+
+        }
+	 } else if(cityName === "mesa"){
+		if(valuepassed == "american"){
+            var dataset = [
+                {category: "Positive", value: 0.51},
+                {category: "Negative", value: 0.22},
+                {category: "Neutral", value: 0.27},
+            ];
+
+        } else if(valuepassed == "mexican"){
+            var dataset = [
+                {category: "Positive", value: 0.63},
+                {category: "Negative", value: 0.17},
+                {category: "Neutral", value: 0.2},
+            ];
+
+        } else if(valuepassed == "italian"){
+            var dataset = [
+                {category: "Positive", value: 0.43},
+                {category: "Negative", value: 0.18},
+                {category: "Neutral", value: 0.39},
+            ];
+
+        } else if(valuepassed == "japanese"){
+            var dataset = [
+                {category: "Positive", value: 0.54},
+                {category: "Negative", value: 0.27},
+                {category: "Neutral", value: 0.19},
+            ];
+
+        } else if(valuepassed == "seafood"){
+            var dataset = [
+                {category: "Positive", value: 0.48},
+                {category: "Negative", value: 0.15},
+                {category: "Neutral", value: 0.37},
+            ];
+
+        } else if(valuepassed == "chinese"){
+            var dataset = [
+                {category: "Positive", value: 0.52},
+                {category: "Negative", value: 0.14},
+                {category: "Neutral", value: 0.34},
+            ];
+
+        } else if(valuepassed == "thai"){
+            var dataset = [
+                {category: "Positive", value: 0.65},
+                {category: "Negative", value: 0.25},
+                {category: "Neutral", value: 0.1},
+            ];
+
+        } else if(valuepassed == "fastfood"){
+            var dataset = [
+                {category: "Positive", value: 0.46},
+                {category: "Negative", value: 0.22},
+                {category: "Neutral", value: 0.32},
+            ];
+
+        } else if(valuepassed == "vegan"){
+            var dataset = [
+                {category: "Positive", value: 0.42},
+                {category: "Negative", value: 0.25},
+                {category: "Neutral", value: 0.33},
+            ];
+
+        } else {
+            var dataset = [
+                {category: "Positive", value: 0.42},
+                {category: "Negative", value: 0.30},
+                {category: "Neutral", value: 0.28},
+            ];
+
+        }
+	 } else if(cityName === "champaign"){
+		if(valuepassed == "american"){
+            var dataset = [
+                {category: "Positive", value: 0.61},
+                {category: "Negative", value: 0.16},
+                {category: "Neutral", value: 0.23},
+            ];
+
+        } else if(valuepassed == "mexican"){
+            var dataset = [
+                {category: "Positive", value: 0.2},
+                {category: "Negative", value: 0.6},
+                {category: "Neutral", value: 0.2},
+            ];
+
+        } else if(valuepassed == "italian"){
+            var dataset = [
+                {category: "Positive", value: 0.6},
+                {category: "Negative", value: 0.2},
+                {category: "Neutral", value: 0.2},
+            ];
+
+        } else if(valuepassed == "japanese"){
+            var dataset = [
+                {category: "Positive", value: 0.52},
+                {category: "Negative", value: 0.25},
+                {category: "Neutral", value: 0.23},
+            ];
+
+        } else if(valuepassed == "seafood"){
+            var dataset = [
+                {category: "Positive", value: 0.58},
+                {category: "Negative", value: 0.26},
+                {category: "Neutral", value: 0.16},
+            ];
+
+        } else if(valuepassed == "chinese"){
+            var dataset = [
+                {category: "Positive", value: 0.63},
+                {category: "Negative", value: 0.20},
+                {category: "Neutral", value: 0.17},
+            ];
+
+        } else if(valuepassed == "thai"){
+            var dataset = [
+                {category: "Positive", value: 0.62},
+                {category: "Negative", value: 0.18},
+                {category: "Neutral", value: 0.2},
+            ];
+
+        } else if(valuepassed == "fastfood"){
+            var dataset = [
+                {category: "Positive", value: 0.56},
+                {category: "Negative", value: 0.2},
+                {category: "Neutral", value: 0.24},
+            ];
+
+        } else if(valuepassed == "vegan"){
+            var dataset = [
+                {category: "Positive", value: 0.42},
+                {category: "Negative", value: 0.25},
+                {category: "Neutral", value: 0.33},
+            ];
+
+        } else {
+            var dataset = [
+                {category: "Positive", value: 0.46},
+                {category: "Negative", value: 0.16},
+                {category: "Neutral", value: 0.38},
+            ];
+
+        }
+	 } else if(cityName === "tempe"){
+		if(valuepassed == "american"){
+            var dataset = [
+                {category: "Positive", value: 0.53},
+                {category: "Negative", value: 0.17},
+                {category: "Neutral", value: 0.3},
+            ];
+
+        } else if(valuepassed == "mexican"){
+            var dataset = [
+                {category: "Positive", value: 0.6},
+                {category: "Negative", value: 0.22},
+                {category: "Neutral", value: 0.18},
+            ];
+
+        } else if(valuepassed == "italian"){
+            var dataset = [
+                {category: "Positive", value: 0.63},
+                {category: "Negative", value: 0.24},
+                {category: "Neutral", value: 0.13},
+            ];
+
+        } else if(valuepassed == "japanese"){
+            var dataset = [
+                {category: "Positive", value: 0.48},
+                {category: "Negative", value: 0.24},
+                {category: "Neutral", value: 0.28},
+            ];
+
+        } else if(valuepassed == "seafood"){
+            var dataset = [
+                {category: "Positive", value: 0.52},
+                {category: "Negative", value: 0.16},
+                {category: "Neutral", value: 0.32},
+            ];
+
+        } else if(valuepassed == "chinese"){
+            var dataset = [
+                {category: "Positive", value: 0.48},
+                {category: "Negative", value: 0.21},
+                {category: "Neutral", value: 0.31},
+            ];
+
+        } else if(valuepassed == "thai"){
+            var dataset = [
+                {category: "Positive", value: 0.44},
+                {category: "Negative", value: 0.25},
+                {category: "Neutral", value: 0.31},
+            ];
+
+        } else if(valuepassed == "fastfood"){
+            var dataset = [
+                {category: "Positive", value: 0.43},
+                {category: "Negative", value: 0.28},
+                {category: "Neutral", value: 0.29},
+            ];
+
+        } else if(valuepassed == "vegan"){
+            var dataset = [
+                {category: "Positive", value: 0.52},
+                {category: "Negative", value: 0.22},
+                {category: "Neutral", value: 0.26},
+            ];
+
+        } else {
+            var dataset = [
+                {category: "Positive", value: 0.49},
+                {category: "Negative", value: 0.19},
+                {category: "Neutral", value: 0.32},
+            ];
+
+        }
+	 } else if(cityName === "henderson"){
+		if(valuepassed == "american"){
+            var dataset = [
+                {category: "Positive", value: 0.48},
+                {category: "Negative", value: 0.29},
+                {category: "Neutral", value: 0.23},
+            ];
+
+        } else if(valuepassed == "mexican"){
+            var dataset = [
+                {category: "Positive", value: 0.55},
+                {category: "Negative", value: 0.26},
+                {category: "Neutral", value: 0.19},
+            ];
+
+        } else if(valuepassed == "italian"){
+            var dataset = [
+                {category: "Positive", value: 0.58},
+                {category: "Negative", value: 0.18},
+                {category: "Neutral", value: 0.31},
+            ];
+
+        } else if(valuepassed == "japanese"){
+            var dataset = [
+                {category: "Positive", value: 0.57},
+                {category: "Negative", value: 0.25},
+                {category: "Neutral", value: 0.18},
+            ];
+
+        } else if(valuepassed == "seafood"){
+            var dataset = [
+                {category: "Positive", value: 0.46},
+                {category: "Negative", value: 0.16},
+                {category: "Neutral", value: 0.38},
+            ];
+
+        } else if(valuepassed == "chinese"){
+            var dataset = [
+                {category: "Positive", value: 0.61},
+                {category: "Negative", value: 0.16},
+                {category: "Neutral", value: 0.23},
+            ];
+
+        } else if(valuepassed == "thai"){
+            var dataset = [
+                {category: "Positive", value: 0.6},
+                {category: "Negative", value: 0.20},
+                {category: "Neutral", value: 0.20},
+            ];
+
+        } else if(valuepassed == "fastfood"){
+            var dataset = [
+                {category: "Positive", value: 0.43},
+                {category: "Negative", value: 0.28},
+                {category: "Neutral", value: 0.29},
+            ];
+
+        } else if(valuepassed == "vegan"){
+            var dataset = [
+                {category: "Positive", value: 0.56},
+                {category: "Negative", value: 0.18},
+                {category: "Neutral", value: 0.26},
+            ];
+
+        } else {
+            var dataset = [
+                {category: "Positive", value: 0.49},
+                {category: "Negative", value: 0.19},
+                {category: "Neutral", value: 0.32},
+            ];
+
+        }
+	 }
+         
+
+
+
+    var width = 400;
+    var height = 400;
+    var biggerRadius = Math.min(width, height) / 2;
+    var smallRadius = biggerRadius * .99;
+    // var color = d3.scaleOrdinal(d3.schemeCategory10);
+    var color = d3.scaleOrdinal() // D3 Version 4
+        .domain(["Positive", "Negative", "Neutral"])
+        .range(["#009933", "#FF0000" , "#697EAD"]);
+
+
+    var arc = d3.arc()
+        .outerRadius(biggerRadius)
+        .innerRadius(smallRadius);
+
+
+    var pieChartViz = d3.select("#pieChartsvg")
+        .append("svg:svg")
+        .data([dataset])
+        .attr("height", height)
+        .attr("width", width)
+        .append("svg:g")
+        .attr("align", "center")
+        .attr("transform", "translate(" + biggerRadius + "," + biggerRadius + ")")
+    ;
+
+    var arcFinal = d3.arc().innerRadius(biggerRadius * .35).outerRadius(biggerRadius);
+
+
+    var pie = d3.pie()
+        .value(function (da) {
+            return da.value;
+        });
+
+    var arcs = pieChartViz.selectAll("g.slice")
+        .data(pie)
+        .enter()
+        .append("svg:g")
+        .attr("class", "slice")
+        .on("mouseover", function hover() {
+            d3.select(this).select("path").transition()
+                .attr("d", d3.arc().innerRadius(biggerRadius * .20).outerRadius(biggerRadius))
+                .style("cursor", "pointer")
+                // .style('fill', '#FFFACD')
+                .duration(1000)
+
+            ;
+        })
+        .on("mouseout", function emptyspace() {
+            d3.select(this).select("path").transition()
+                .duration(500)
+                .style("cursor", "default")
+                // .style('fill', function (da, i) {
+                //     return color(i);
+                // })
+                .attr("d", d3.arc().innerRadius(biggerRadius * .35).outerRadius(biggerRadius))
+            ;
+        })
+        .on("click", up)
+    ;
+
+    arcs.append("svg:path")
+        .attr("d", arc)
+        .attr("fill", function (da, i) {
+            return color(i);
+        })
+        .append("svg:title")
+        .text(function (da) {
+            return da.data.category + ": " + formatAsPercentage(da.data.value);
+        });
+
+    d3.selectAll("g.slice").selectAll("path").transition()
+        .delay(50)
+        .duration(800)
+        .attr("d", arcFinal)
+    ;
+
+    arcs.filter(function (da) {
+        return da.endAngle - da.startAngle > .2;
+    })
+        .append("svg:text")
+        .attr("dy", ".35em")
+        .attr("text-anchor", "middle")
+        .attr("transform", function (da) {
+            return "translate(" + arcFinal.centroid(da) + ")rotate(" + angle(da) + ")";
+        })
+        .on("mouseover", function(da) {
+            d3.select(this).style("cursor", "pointer").style("fill", "white");
+        })
+        .on("mouseout", function(da) {
+            d3.select(this).style("cursor", "default").style("fill", "black");
+        })
+        //.text(function(d) { return formatAsPercentage(da.value); })
+        .text(function (da) {
+            return da.data.category;
+        })
+    ;
+
+    function angle(da) {
+        var a = (da.startAngle + da.endAngle) * 90 / Math.PI - 90;
+        return a > 90 ? a - 180 : a;
+    }
+
+    pieChartViz.append("svg:text")
+        .attr("dy", ".35em")
+        .attr("text-anchor", "middle")
+        .text("Reviews")
+        .attr("class", "title")
+    ;
+
+    function up(da, i) {
+        console.log(da.data.category);
+        updateBarChart(da.data.category, color(i));
+    }
+}
+
+dsPieChart();
+
+function updateBarChart(group, colorChosen) {
+    var group1 = group;
+    var color = colorChosen;
+
+    console.log("Over Here");
+    var datasetBarChart;
+    d3.json("Data/abc.json",function (data) {
+       //console.log(data);
+        datasetBarChart = data;
+        myFunc(datasetBarChart,group1,colorChosen);
+
+    });
+
+}
+
+function myFunc(data, group,colorChosen) {
+    //console.log(data);
+    var datasetBarChart = data;
+    console.log(datasetBarChart);
+    var barChart = d3.select("#barChart");
+    barChart.selectAll("*").remove();
+    // d3.select("svg").selectAll("*").remove();
+
+
+
+    var svg = d3.select("#barChart"),
+        margin = {top: 50, right: 20, bottom: 30, left: 40},
+        width = +svg.attr("width") - margin.left - margin.right,
+        height = +svg.attr("height") - margin.top - margin.bottom,
+        g = svg.append("g").attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+    var x0 = d3.scaleBand()
+        .rangeRound([0, width])
+        .paddingInner(0.1);
+
+    var x1 = d3.scaleBand()
+        .padding(0.05);
+
+    var y = d3.scaleLinear()
+        .rangeRound([height, 0]);
+
+    var z = d3.scaleOrdinal()
+        .range([colorChosen, "#EEDD15"]);
+
+
+    d3.csv("Data/data1.csv", function (data, i, columns) {
+        },
+        function (error, data) {
+            //if (error) throw error;
+            var name = group;
+            data = datasetBarChart[group];
+
+            // for(var i = 0; i < 5; i++){
+            //     temp = {};
+            //     temp['Year'] = 2009 + i;
+            //     temp['Winner'] = datasetBarChart['Aces'].Winner;
+            //     temp['Loser'] = datasetBarChart['Aces'].Loser;
+            //
+            //     data.push(temp);
+            // }
+
+            // var nest = d3.nest()
+            //     .key(function(d) { return d.Year; })
+            //     .key(function(d) { return d.Winner; })
+            //     .key(function(d) { return d.Winner; })
+            //     .entries(datasetBarChart);
+
+            data.push(['Year', 'Positive_Reviews', 'Negative_Reviews']);
+            console.log(data);
+            var keys = data[data.length - 1].slice(1);
+
+
+            // var keys = data.columns.slice(1);
+
+            x0.domain(data.map(function (d) {
+                return d.Year;
+            }));
+            x1.domain(keys).rangeRound([0, x0.bandwidth()]);
+            y.domain([0, d3.max(data, function (d) {
+                return d3.max(keys, function (key) {
+                    return d[key];
+                });
+            })]).nice();
+
+
+            g.append("g")
+                .selectAll("g")
+                .data(data)
+                .enter().append("g")
+                .attr("transform", function (d) {
+                    return "translate(" + x0(d.Year) + ",0)";
+                })
+                .selectAll("rect")
+                .data(function (d) {
+                    return keys.map(function (key) {
+                        return {key: key, value: d[key]};
+                    });
+                })
+                .enter().append("rect")
+
+                .attr("x", function (d) {
+                    return x1(d.key);
+                })
+                .attr("y", function (d) {
+                    return y(d.value);
+                })
+                .attr("width", x1.bandwidth())
+                .attr("height", function (d) {
+                    return height - y(d.value);
+                })
+                .attr("fill", function (d) {
+                    return z(d.key);
+                })
+                .append('title') // Tooltip
+                .text(function (d) {
+                    return 'No of games won by ' + d.key + ' is ' + d.value + ' for ' + group
+                });
+
+
+            g.append("g")
+                .attr("class", "axis")
+                .text("No. of Games")
+                .attr("transform", "translate(0," + height + ")")
+                .call(d3.axisBottom(x0));
+
+            g.append("g")
+                .attr("class", "axis")
+                .call(d3.axisLeft(y).ticks(null, "s"))
+                .append("text")
+                .attr("x", 2)
+                .attr("y", y(y.ticks().pop()) + 0.5)
+                .attr("dy", "0.71em")
+                .attr("fill", "#000")
+                .attr("font-weight", "bold")
+                .attr("text-anchor", "start")
+                .text("No. of Games");
+
+            var legend = g.append("g")
+                .attr("font-family", "sans-serif")
+                .attr("font-size", 15)
+                .attr("text-anchor", "end")
+                .selectAll("g")
+                .data(keys.slice().reverse())
+                .enter().append("g")
+                .attr("transform", function (d, i) {
+                    return "translate(0," + i * 20 + ")";
+                });
+
+            legend.append("rect")
+                .attr("x", width - 19)
+                .attr("width", 19)
+                .attr("height", 19)
+                .attr("fill", z);
+
+            legend.append("text")
+                .attr("x", width - 24)
+                .attr("y", 9.5)
+                .attr("dy", "0.32em")
+                .text(function (d) {
+                    return d;
+                });
+            console.log(name);
+            svg.append("text")
+                .attr("x", (width + margin.left + margin.right) / 2)
+                .attr("y", 42)
+                .attr('font-weight', 'bold')
+                .attr("class", "title")
+                .attr("text-anchor", "middle")
+                .text("Comparison of " + name + " reviews and negative reviews over the years")
+            ;
+
+        });
+}
+	}
+	
+	function CRestInfo(business_id){
+	
+				var filePath = "Data/Ratings_f/rating_" + business_id + ".csv";
+				console.log("File Path is: " +filePath);
+			
+				if(!fileExists(filePath)){
+			//alert("NO FILE FOUND");
+		//	console.log("asd");
+			var value = (Math.floor(Math.random() * 10) + 1);
+	//		console.log("Random Value Generated " + value  );
+        
+			filePath = "Data/Ratings_f/rating_random_" + value +".csv";
+			}
+		//	console.log("File Path is: " +filePath);
+	
+		console.log("Restaurent Info change requested by: " +business_id);
+		
+		Plotly.purge('myDiv2');
+		console.log("Calling: " +filePath);
+		Plotly.d3.csv(filePath, function(err, rows) {
+
+    function unpack(rows, key) {
+        return rows.map(function (row) {
+            return row[key];
+        });
+    }
+
+    var trace1 = {
+        type: "scatter",
+        mode: 'lines+markers',
+
+        marker: {
+            color: 'rgb(128, 0, 128)',
+            size: 8
+        },
+
+        line: {
+            color: 'rgb(55, 128, 191)',
+            width: 3,
+            shape: 'spline'
+        },
+        name: 'stars',
+        x: unpack(rows, 'date'),
+        y: unpack(rows, 'stars'),
+        // x: ["2006","2007"],
+        // y: graph_json.rating
+        line: {color: '#17BECF'}
+    };
+    console.log("Ready function rating_graph");
+    console.log(trace1);
+
+    //
+    // var trace2 = {
+    //     type: "scatter",
+    //     mode: 'lines+markers',
+    //     marker: {
+    //         color: 'rgb(128, 0, 128)',
+    //         size: 8
+    //     },
+    //     line: {
+    //         color: 'rgb(55, 128, 191)',
+    //         width: 3
+    //     },
+    //     name: 'McDonald',
+    //     x: unpack(rows, 'Year'),
+    //     y: unpack(rows, 'McDonald')
+    // }
+    //
+    // var data = [trace1,trace2];
+    var data = [trace1];
+    var layout = {
+        title: 'Ratings of Restaurant', color: '#2A363B',
+        "titlefont": {
+            family: 'Arial',
+            size: 26,
+            color: '#2A363B'
+        },
+
+
+
+        xaxis: {
+            range: ['2006', '2017'],
+            // type: 'linear',
+            title: 'Year',
+            showgrid: false,
+            showline: true,
+            color: '#6F257F'
+
+        },
+        yaxis: {
+            range: [0, 5],
+            type: 'linear',
+            title: 'Rating',
+            showgrid: false,
+            showline: true,
+            color: '#6F257F'
+
+        },
+        paper_bgcolor: 'rgba(0,0,0,0)',
+        plot_bgcolor: 'rgba(0,0,0,0)'
+
+    };
+    Plotly.newPlot('myDiv2', data, layout, {displayModeBar: false});
+
+});
+	
+	changeImage();
+	document.getElementById("myDiv2").scrollIntoView();
+		
+	}
+	
+	function changeCuisine(){
+		var city = document.getElementById("selectbasic12").value.toLowerCase();
+		
+		console.log("Updated City is: " +city);
+		
+		d3.select("#bubbleSVG").selectAll("*").remove();
+		
+		var svg = d3.select("svg"),
+    margin = 20,
+    diameter = +svg.attr("width"),
+    g = svg.append("g").attr("transform", "translate(" + diameter / 2 + "," + diameter / 2 + ")");
+
+var color = d3.scaleLinear()
+    .domain([-1, 5])
+    .range(["hsl(152,80%,80%)", "hsl(228,30%,40%)"])
+    .interpolate(d3.interpolateHcl);
+
+var pack = d3.pack()
+    .size([diameter - margin, diameter - margin])
+    .padding(2);
+
+function callnewrestaurantdetails(restroid) {
+    console.log("Restaurant Id is: " + restroid);
+	CRestInfo(restroid);
+
+    // window.location.href = "index.html#busy";
+}
+
+function gotorestaurant(d) {
+    //console.log("restroid in function");
+    // console.log(d.children[0].data.id);
+    restroid=d.children[0].data.id;
+    cuisinetype=d.data.id;
+   // console.log(restroid,"hello");
+   // console.log(d.data.id);
+
+    if(restroid === "undefined" || cuisinetype === undefined){
+        //console.log("reached here in if");
+        callnewrestaurantdetails(restroid);
+    }else {
+		if(d.data.id !== undefined || d.data.id !== "undefined")
+		console.log("Selected Cuisine is : " + d.data.id);
+		CPie(d.data.id);
+	}
+}
+
+d3.json("Data/BubbleChart/Bubble-chart/bubble_" + city +".json", function(error, root) {
+    if (error) throw error;
+
+    root = d3.hierarchy(root)
+        .sum(function(d) { return Math.floor(d.size); })
+        .sort(function(a, b) { return b.value - a.value; });
+
+    var focus = root,
+        nodes = pack(root).descendants(),
+        view;
+
+    var circle = g.selectAll("circle")
+        .data(nodes)
+        .enter().append("circle")
+        .attr("class", function(d) { return d.parent ? d.children ? "node" : "node node--leaf" : "node node--root"; })
+        .style("fill", function(d) { return d.children ? color(d.depth) : null; })
+        .on("click", function(d) { if (focus !== d)
+            zoom(d),
+            gotorestaurant(d)
+//                console.log(d.children[0].data.id); 
+//				console.log(d.data.id);
+				d3.event.stopPropagation();
+        });
+
+    var text = g.selectAll("text")
+        .data(nodes)
+        .enter().append("text")
+        .attr("class", "label")
+        .style("fill-opacity", function(d) { return d.parent === root ? 1 : 0; })
+        .style("display", function(d) { return d.parent === root ? "inline" : "none"; })
+        .text(function(d) { return d.data.name; });
+
+    var node = g.selectAll("circle,text");
+
+    svg
+        .style("background", color(-1))
+        .on("click", function() { zoom(root); });
+
+    zoomTo([root.x, root.y, root.r * 2 + margin]);
+
+    function zoom(d) {
+        var focus0 = focus; focus = d;
+        //console.log(d);
+        var transition = d3.transition()
+            .duration(d3.event.altKey ? 7500 : 750)
+            .tween("zoom", function(d) {
+                var i = d3.interpolateZoom(view, [focus.x, focus.y, focus.r * 2 + margin]);
+                return function(t) { zoomTo(i(t)); };
+            });
+
+        transition.selectAll("text")
+            .filter(function(d) { return d.parent === focus || this.style.display === "inline"; })
+            .style("fill-opacity", function(d) { return d.parent === focus ? 1 : 0; })
+            .on("start", function(d) { if (d.parent === focus) this.style.display = "inline"; })
+            .on("end", function(d) { if (d.parent !== focus) this.style.display = "none"; });
+    }
+
+    function zoomTo(v) {
+        var k = diameter / v[2]; view = v;
+        node.attr("transform", function(d) { return "translate(" + (d.x - v[0]) * k + "," + (d.y - v[1]) * k + ")"; });
+        circle.attr("r", function(d) { return d.r * k; });
+    }
+});
+	}
+	
+		function fileExists(url){
+		try{
+		var http = new XMLHttpRequest();
+		http.open('HEAD',url,false);
+		http.send();
+		return http.status != 404;
+	}
+	
+	catch(exception){
+		if(exception.name == "NetworkError"){
+		//console.log("saksdshiuahd");
+		}
+	}
+}
+</script>
+
+</body>
+</html>

@@ -1,0 +1,1629 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>EatHub</title>
+
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+    <!-- Latest compiled JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+
+    <!--CSS FILES-->
+    <link href="CSS/header.css" rel="stylesheet"/>
+    <link href="CSS/chloropeth.css" rel="stylesheet"/>
+    <link href="CSS/googlemap.css" rel="stylesheet"/>
+    <link href="CSS/heatmap.css" rel="stylesheet"/>
+    <link href="CSS/dropdown.css" rel="stylesheet">
+
+
+    <link href="https://netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css" rel="stylesheet"
+          id="bootstrap-css">
+    <link rel="stylesheet" href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+          integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+
+    <!--JavaScript Files and JQuery-->
+    <script src="https://d3js.org/d3.v3.min.js"></script>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script src="https://code.jquery.com/jquery-2.2.3.min.js"></script>
+
+
+    <!--<script src="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>-->
+    <!--<script src="js/jquery-1.11.3.min.js"></script>-->
+    <!--<script src="js/bootstrap.min.js"></script>-->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+            integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+            crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+            integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+            crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+            integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+            crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+    <script src="https://netdna.bootstrapcdn.com/bootstrap/3.1.0/js/bootstrap.min.js"></script>
+
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+
+
+</head>
+<body style="background-color: white">
+<section id="container auth">
+    <div class="header" style="background-color: #2A363B">
+        <a href="index.html" class="logo">EatHub</a>
+        <div class="header-right">
+            <a class="active" href="#chartContainer">Home</a>
+            <a href="#map">Location Based</a>
+            <a href="#busy">Restaurant Info</a>
+            <a href="Cuisine_Wise_Split.html">Cuisine Based</a>
+            <a href="team.html">About Us</a>
+
+        </div>
+    </div>
+</section>
+
+<section id="main-content">
+
+    <div id="chartContainer" style="text-align: center">
+
+        <h2 style="text-align: center;color: #2A363B">Recommended Restaurants</h2>
+        <div class="col-xs-9">
+
+            <div class="form-group" style="color:#2A363B">
+                <div class="container auth">
+                    <label class=" control-label" for="selectbasic">City: </label>
+
+                    <select id="selectbasic1" name="selectbasic" class="form-control" style="text-align: center" onchange="updateRec(); updateButton()">
+                        <option value="Phoenix" >Phoenix</option>
+                        <option value="Las_Vegas" >Las Vegas</option>
+                        <option value="Charlotte" >Charlotte</option>
+                        <option value="Pittsburgh" >Pittsburgh</option>
+                        <option value="Scottsdale" >Scottsdale</option>
+                        <option value="Cleveland" >Cleveland</option>
+                        <option value="Mesa" >Mesa</option>
+                        <option value="Champaign" >Champaign</option>
+                        <option value="Tempe" SELECTED >Tempe</option>
+                        <option value="Henderson">Henderson</option>
+
+                    </select>
+                </div>
+            </div>
+        </div>
+        <div class="col-xs-3">
+
+            <div class="smoothscroll btn btn--stroke" style="text-align: center; background-color: #2A363B">
+
+                <a href="#map">
+                    <h5 style="color: white">Location Based</h5>
+                </a>
+            </div>
+            <div><br></div>
+
+            <div class="smoothscroll btn btn--stroke" style="text-align: center; background-color: #2A363B;">
+                <!--<h2><span>Average People Visiting</span></h2>-->
+
+                <a href="Cuisine_Wise_Split.html">
+                    <h5 style="color: white">Cuisine Based &nbsp</h5>
+                </a>
+            </div>
+        </div>
+
+    </div>
+
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+
+
+
+    <script src="JS/dimple.js"></script>
+
+    <script type="text/javascript">
+
+        var svg = dimple.newSvg("#chartContainer", 1300, 600);
+        d3.tsv("Data/Recommendation_data/tempe.tsv", function (data) {
+
+            var myChart = new dimple.chart(svg, data);
+            myChart.setBounds(50, 30, 1150, 510);
+            myChart.addMeasureAxis("x", "Reviews");
+            //Change by Malav
+            var y = myChart.addCategoryAxis("y", "Rating");
+            myChart.addMeasureAxis("z", "Checkins");
+            var s = myChart.addSeries(["Name", "RestaurantID", "Recommended"], dimple.plot.bubble);
+            //Change by Malav
+            y.addOrderRule("Rating");
+
+//            myChart.addSeries("Name", dimple.plot.bubble);
+//            var s = myChart.addSeries("Name", dimple.plot.bubble);
+//                x.shapes.selectAll("path.dimple-custom-axis-line").style("stroke", "white");
+//            x.shapes.select("*").style("fill", "white")
+
+            myChart.assignColor("Jewel of a place!","#00FF00");
+            myChart.assignColor("Must Visit!","#80FF00");
+            myChart.assignColor("Worth Visiting","#FFFF00");
+            myChart.assignColor("At your own risk","#FF8000");
+            myChart.assignColor("Its your say finally!","#FF0000");
+
+            var myLegend = myChart.addLegend(1120, 400, 60, 300, "Right");
+
+            myChart.draw();
+
+            myChart.legends = [];
+
+            var filterValues = dimple.getUniqueValues(data, "Recommended");
+
+
+            svg.selectAll("title_text")
+                .data(["Click legend to show/hide Recommendations"])
+                .enter()
+                .append("text")
+                .attr("x", 1000)
+                .attr("y", 500)
+                .style("font-family", "sans-serif")
+                .style("font-size", "10px")
+                .style("color", "Black")
+                .text(function (d) { return d; });
+
+            myLegend.shapes.selectAll("rect")
+            // Add a click event to each rectangle
+                .on("click", function (e) {
+                    // This indicates whether the item is already visible or not
+                    var hide = false;
+                    var newFilters = [];
+                    // If the filters contain the clicked shape hide it
+                    filterValues.forEach(function (f) {
+                        if (f === e.aggField.slice(-1)[0]) {
+                            hide = true;
+                        } else {
+                            newFilters.push(f);
+                        }
+                    });
+                    // Hide the shape or show it
+                    if (hide) {
+                        d3.select(this).style("opacity", 0.2);
+                    } else {
+                        newFilters.push(e.aggField.slice(-1)[0]);
+                        d3.select(this).style("opacity", 0.9);
+                    }
+                    // Update the filters
+                    filterValues = newFilters;
+                  //  console.log(filterValues);
+                    for(var i = 0; i < 5; i++){
+                        console.log("entered");
+                        if(filterValues[i] === "Its your say finally!") {
+                           break;
+                        }else {
+                            if (i === 4) {
+                              //  console.log("jugaad");
+                                filterValues[i] = "Its your say finally!"
+                            }
+                        }
+                    }
+                    // Filter the data
+                    //console.log(data)
+                    myChart.data = dimple.filterData(data, "Recommended", filterValues);
+                    // Passing a duration parameter makes the chart animate. Without
+                    // it there is no transition
+                    myChart.draw(500);
+                });
+
+
+            s.shapes.on("click", function (e) {
+                console.log(e.aggField[1]);
+                changeImage();
+				changeHeatmap(e.aggField[1]);
+				changeRating(e.aggField[1]);
+				document.getElementById('myDiv').scrollIntoView();
+            });
+//            myChart.on("click", function (e) {
+//                dimple._showPointTooltip(e, this, myChart, addSeries("Name", dimple.plot.bubble));
+        });
+
+    </script>
+
+
+    </div>
+
+    <div class="Map">
+
+        <div>
+
+            <div class="container auth" style="width:25%;float:right; color: black">
+
+
+                <div id="big-form" class="well auth-box" style="color:#2A363B">
+
+
+                    <form>
+                        <div class="auth-box" style="text-align: center">
+                        <h3 style="color:#2A363B">Filters:</h3>
+                        <label class=" control-label" align="center" style="color:#2A363B">Select city:</label><br>
+                        <select id="state">
+                            <option value="Las_Vegas"> Las Vegas </option>
+                            <option value="Phoenix"> Phoenix </option>
+                            <option value="Charlotte"> Charlotte </option>
+                            <option value="Pittsburgh"> Pittsburgh </option>
+                            <option value="Scottsdale"> Scottsdale </option>
+                            <option value="Cleveland"> Cleveland </option>
+                            <option value="Mesa"> Mesa </option>
+                            <option value="Champaign"> Champaign </option>
+                            <option value="Tempe" SELECTED> Tempe </option>
+                            <option value="Henderson"> Henderson </option>
+                        </select>
+                        <br><label align="center" style="color:#2A363B">Cuisine: </label><br>
+
+                        <select id="cuisine">
+                            <option value="All" selected> --Select a cuisine-- </option>
+                            <option value="American"> American </option>
+                            <option value="Mexican"> Mexican </option>
+                            <option value="Italian"> Italian </option>
+                            <option value="Japanese"> Japanese </option>
+                            <option value="Seafood"> Seafood </option>
+                            <option value="Chinese"> Chinese </option>
+                            <option value="Thai"> Thai </option>
+                            <option value="Fast Food"> Fast Food </option>
+                            <option value="Vegan"> Vegan </option>
+                            <option value="Vegetarian"> Vegetarian </option>
+                            
+                        </select><br>
+
+                        <br><label align="center" style="color:#2A363B">Additional Features: </label><br>
+                        <select id="AdditionalFeatures"><br>
+                            <option value="All" selected> --Select a Feature-- </option>
+                            <option value="valet"> Valet Parking </option>
+                            <option value="bike"> Bike Parking </option>
+                            <option value="street"> Street Parking </option>
+                        </select>
+                        </div>
+
+
+
+                        <!--<input type="checkbox" name="vehicle" value="Car" id="car"> car<br>-->
+
+                        <!--<div id="div1" data-role="rangeslider">-->
+                            <!--<label for="price-min">Ratings:</label>-->
+                            <!--<input type="range" name="price-min" id="price-min" value="1.0" min="1.0" max="5.0" step="0.1">-->
+                            <!--<input type="range" name="price-max" id="price-max" value="5.0" min="5.0" max="5.0">-->
+
+                        <!--</div>-->
+
+                        <div class="auth-box" id="div1" style="text-align: center" data-role="rangeslider">
+                            <div class="slider">
+                                <label class=" control-label" style="color:#2A363B"><br>Rating >= <span id="demo"></span></label>
+
+                                <input name="range" type="range" min="1" max="5" value="1" class="slider"
+                                       id="myRange"><br>
+                            </div>
+                        </div>
+                        <div class="auth-box" style="text-align: center">
+                        <label style="color:#2A363B"> Search by Restaurant Name: </label><br>
+                        <input type="text" id="nameSearch"  ><br>
+                        <br><input type="button" style="color: white; background-color: #2A363B; text-align: center" id="formSubmit" onclick="formsubmitAction()" value="Submit!">
+
+                        </div>
+
+
+                    </form>
+
+
+                </div>
+            </div>
+            <script>
+                function hello() {
+                    console.log("formSubmit!");
+                    formsubmitAction();
+
+                }
+				var slider = document.getElementById("myRange");
+                var output = document.getElementById("demo");
+                console.log(slider)
+                output.innerHTML = slider.value;
+                console.log(output.innerHTML)
+
+                slider.oninput = function() {
+                    output.innerHTML = this.value;
+                    console.log(this.value)
+
+                }
+
+                function formsubmitAction(){
+
+                    console.log("pahunch gaye");
+                    //alert("You have selected : " + document.getElementById("state").value + " and " + document.getElementById("cuisine").value);
+                    selectedCity = document.getElementById("state").value;
+                    selectedCuisine = document.getElementById("cuisine").value;
+                    selectedFeature = document.getElementById("AdditionalFeatures").value;
+					var selectedRating = slider.value;
+                    //var slider = document.getElementById("range");
+                    var output = document.getElementById("demo");
+                    //console.log(slider);
+					
+					
+
+
+                    console.log("Selected City: "+ selectedCity);
+                    console.log("Selected Cuisine: " + selectedCuisine.toLowerCase());
+                    console.log("Selected Feature: " +selectedFeature.toLowerCase());
+					console.log("Selected Range: " + selectedRating);
+                    qNumber = 2;
+                    var isSelected = 0;
+                    console.log("isSelected " +isSelected);
+                    
+					
+					
+					var searchByName = document.getElementById("nameSearch").value;
+					if(searchByName == null || searchByName == ""){
+						searchByName = "default";
+					}else{
+					   // document.getElementById("nameSearch").value = "";
+					    document.getElementById("cuisine").selectedIndex = 0;
+                        document.getElementById("AdditionalFeatures").selectedIndex = 0;
+                        selectedCuisine = "all";
+                        selectedFeature = "all";
+
+
+                    }
+					
+					console.log("Entered Name is: " +searchByName);
+					
+					if((selectedCuisine.toLowerCase() !== "all" || selectedFeature.toLowerCase() != "all") && (searchByName !== "default")){
+						alert("You can either search by Restaurant Name or Cuisine and Additional Features");
+						console.log("Alert Shown");
+					}else{
+						for (var k = 0; k < markerSet.length;k++){
+                        //console.log(markerSet[k]);
+                        markerSet[k].setMap(null);
+						}
+						initMap(selectedCity,qNumber,selectedCuisine,selectedFeature,selectedRating,searchByName);
+						
+					}
+
+
+                    //secondInit(selectedCity,qNumber);
+                    
+					
+                    console.log("Here");
+                }
+
+                //ratings value
+                
+
+            </script>
+
+
+            <div class="container auth" align="left">
+
+
+                <ul class="legend">
+                    <li><span class="Recommended"></span> Recommended</li>
+                    <li><span class="HighlyRated"></span> Highly Rated</li>
+                    <li><span class="ModeratelyRated"></span> Moderately Rated</li>
+                    <li><span class="PoorlyRated"></span> Not Awesome</li>
+                </ul>
+
+                <div id="map" class="well auth-box1"></div>
+
+
+
+                <script type='text/javascript' src='JS/googleMap.js'></script>
+                <script async defer
+                        src="https://maps.googleapis.com/maps/api/js?key=
+AIzaSyBoXjNEG-fyKxtcbZveW8jJSbYCMOkwEnI
+&callback=initMap">
+                </script>
+                <!--</div>-->
+            </div>
+
+
+        </div>
+
+    </div>
+
+    <!--<div class="col-xs-6">-->
+    <!--<h2 style="color: white">&nbsp;&nbsp;Best Rated</h2>-->
+
+    <!--<div class="col-xs-6">-->
+    <!--<div class="small-box bg-green">-->
+    <!--<div class="inner" style="text-align: center; background-color: #1FDA9A">-->
+    <!--<h3><span>Number of Restaurants</span></h3>-->
+    <!--</div>-->
+    <!--</div>-->
+    <!--</div>-->
+
+    <!--<div class="col-xs-6">-->
+    <!--<div class="small-box bg-green">-->
+    <!--<div class="inner" style="text-align: center; background-color: #28ABE3">-->
+    <!--<h2><span>Average People Visiting</span></h2>-->
+    <!--</div>-->
+    <!--</div>-->
+    <!--</div>-->
+
+    <!--<div class="col-xs-6">-->
+    <!--<div class="small-box bg-green">-->
+    <!--<div class="inner" style="text-align: center; background-color: #DB3340">-->
+    <!--<h3><span>Number of Restaurants</span></h3>-->
+    <!--</div>-->
+    <!--</div>-->
+    <!--</div>-->
+
+
+    <!--<div class="col-xs-6">-->
+    <!--<div class="small-box bg-green">-->
+    <!--<div class="inner" style="text-align: center; background-color: #DB3340">-->
+    <!--<h2><span>Number of Restaurants</span></h2>-->
+    <!--</div>-->
+    <!--</div>-->
+    <!--</div>-->
+    <!--</div>-->
+
+    <div class="auth-box1" style="text-align: center">
+
+    <div class="col-xs-6">
+
+
+        <h2 style="color: #2A363B; text-align: center">Most Popular</h2>
+
+
+        <!--<div class="col-xs-6">-->
+        <!--<div>-->
+        <!--<div class="button glow-button" style="text-align: center; background-color: #1FDA9A">-->
+        <!--<a href="#works">-->
+        <!--<h1>Latest Projects</h1>-->
+        <!--</a></div>-->
+        <!--</div>-->
+        <!--</div>-->
+
+
+        <div class="col-xs-6">
+            <div>
+                <div class="smoothscroll btn btn--stroke" style="text-align: center; background-color:#2A363B; width: 17rem" onclick="asbd('b1')">
+                    <a href="#busy">
+                        <h2 id="recRestaurent1" style="color: white">Aiello's East Coast</h2>
+                    </a></div>
+            </div>
+        </div>
+
+        <div class="col-xs-6">
+            <div>
+                <div class="smoothscroll btn btn--stroke" style="text-align: center; background-color:#2A363B; width: 17rem" onclick="asbd('b2')">
+                    <!--<h2><span>Average People Visiting</span></h2>-->
+
+                    <a href="#busy">
+                        <h2 id="recRestaurent2" style="color: white">Palms Restaurant</h2>
+                    </a>
+                </div>
+            </div>
+            <br>
+
+        </div>
+
+        <div class="col-xs-6">
+            <div class="small-box bg-green">
+                <div class="smoothscroll btn btn--stroke" style="text-align: center; background-color:#2A363B; width: 17rem" onclick="asbd('b3')">                    <!--<h2><span>Average People Visiting</span></h2>-->
+
+                    <a href="#busy">
+                        <h2 id="recRestaurent3" style="color:white;" >Spinato's Pizza</h2>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-xs-6">
+            <div>
+                <div class="smoothscroll btn btn--stroke" style="text-align: center; background-color:#2A363B; width: 17rem" onclick="asbd('b4')">                    <!--<h2><span>Average People Visiting</span></h2>-->
+
+                    <a href="#busy">
+                        <h2 id="recRestaurent4" style="color:white;">Zabari Grill</h2>
+                    </a>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    </div>
+
+	<script>
+		function asbd(buttonID){
+		var business_id;
+		console.log("Hlashdlas: " + buttonID);
+		if (buttonID == "b1"){
+			console.log("B1");
+			business_id = "l0WauZ92kRg9bu2oxHj4TQ";
+		} else if (buttonID == "b2"){
+			console.log("B2");
+			business_id = "Yar8jR2a1XA2JuRKfmNDcw" ;
+		} else if (buttonID == "b3"){
+			console.log("B3");
+			business_id = "TolwZ3L28or4E8SVTZUf6Q";
+		} else if (buttonID == "b4"){
+			console.log("B4");
+			business_id = "ahfAFuFHO9tfFkoBIkVdmg";
+		} else if (buttonID == "b5"){
+			console.log("B5");
+			business_id = "YhV93k9uiMdr3FlV4FHjwA" ;
+		} else if (buttonID == "b6"){
+			console.log("B6");
+			business_id = "U1ZVgF-kfkvv_rcoe0RglQ";
+		} else if (buttonID == "b7"){
+			console.log("B7");
+			business_id = "_eKvk2GoGKb3CoYolHgRlg";
+		} else if (buttonID == "b8"){
+			console.log("B8");
+			business_id = "frCxZS7lPhEnQRJ3UY6m7A";
+		}
+
+		changeHeatmap(business_id);
+		changeRating(business_id);
+		changeImage();
+		document.getElementById('myDiv').scrollIntoView;
+		}
+	</script>
+
+    <!--<div class="col-xs-6">-->
+        <!--<div class="small-box bg-green">-->
+        <!--<div class="inner" style="text-align: center; background-color: #DB3340">-->
+        <!--<h2><span>Number of Restaurants</span></h2>-->
+        <!--</div>-->
+        <!--</div>-->
+        <!--</div>-->
+
+        <!--<div>-->
+        <!--<a href="#works" class="smoothscroll btn btn&#45;&#45;stroke">-->
+        <!--Latest Projects-->
+        <!--</a>-->
+        <!--<a href="#about" class="smoothscroll btn btn&#45;&#45;stroke">-->
+        <!--More About Me-->
+        <!--</a>-->
+        <!--</div>-->
+
+
+        <!--<div class="col-xs-6">-->
+        <!--<div class="small-box bg-green">-->
+        <!--<div class="inner" style="text-align: center; background-color: #DB3340">-->
+        <!--<h2><span>Number of Restaurants</span></h2>-->
+        <!--</div>-->
+        <!--</div>-->
+        <!--</div>-->
+        <!--</div>-->
+
+    <div class="auth-box1" style="text-align: center">
+
+    <div class="col-xs-6">
+        <h2 style="color: #2A363B ;text-align: center">Top Picks</h2>
+
+
+        <div class="col-xs-6">
+            <div class="small-box bg-green">
+                <div class="smoothscroll btn btn--stroke" style="text-align: center; background-color:#2A363B; width: 17rem" onclick="asbd('b5')">
+                    <a href="#busy">
+                        <h2 id="recRestaurent5" style="color:white;">Caviness Studio</h2>
+                    </a></div>
+            </div>
+        </div>
+
+        <div class="col-xs-6">
+            <div>
+                <div class="smoothscroll btn btn--stroke" style="text-align: center; background-color:#2A363B; width: 17rem" onclick="asbd('b6')">                    <!--<h2><span>Average People Visiting</span></h2>-->
+
+                    <a href="#busy">
+                        <h2 id="recRestaurent6" style="color:white;">Pho Noodles</h2>
+                    </a>
+                </div>
+            </div>
+            <br>
+
+        </div>
+
+        <div class="col-xs-6">
+            <div class="small-box bg-green">
+                <div class="smoothscroll btn btn--stroke" style="text-align: center; background-color:#2A363B; width: 17rem" onclick="asbd('b7')">                    <!--<h2><span>Average People Visiting</span></h2>-->
+
+                    <a href="#busy">
+                        <h2 id="recRestaurent7" style="color:white;">Fresko</h2>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-xs-6">
+            <div>
+                <div class="smoothscroll btn btn--stroke" style="text-align: center; background-color:#2A363B; width: 17rem" onclick="asbd('b8')">                    <!--<h2><span>Average People Visiting</span></h2>-->
+
+                    <a href="#busy">
+                        <h2 id="recRestaurent8" style="color:white;">La Santisima</h2>
+                    </a>
+                </div>
+            </div>
+
+        </div>
+    </div>
+        
+
+        <!--<div class="col-xs-6">-->
+        <!--<div class="small-box bg-green">-->
+        <!--<div class="inner" style="text-align: center; background-color: #DB3340">-->
+        <!--<h2><span>Number of Restaurants</span></h2>-->
+        <!--</div>-->
+        <!--</div>-->
+        <!--</div>-->
+
+        <!--<div>-->
+        <!--<a href="#works" class="smoothscroll btn btn&#45;&#45;stroke">-->
+        <!--Latest Projects-->
+        <!--</a>-->
+        <!--<a href="#about" class="smoothscroll btn btn&#45;&#45;stroke">-->
+        <!--More About Me-->
+        <!--</a>-->
+        <!--</div>-->
+
+
+        <!--<div class="col-xs-6">-->
+        <!--<div class="small-box bg-green">-->
+        <!--<div class="inner" style="text-align: center; background-color: #DB3340">-->
+        <!--<h2><span>Number of Restaurants</span></h2>-->
+        <!--</div>-->
+        <!--</div>-->
+        <!--</div>-->
+        <!--</div>-->
+
+        <!--<div class="card" style="width: 18rem;">-->
+        <!--<img class="card-img-top" src="..." alt="Card image cap">-->
+        <!--<div class="card-body">-->
+        <!--<h5 class="card-title">Card title</h5>-->
+        <!--<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>-->
+        <!--<a href="#" class="btn btn-primary">Go somewhere</a>-->
+        <!--</div>-->
+        <!--</div>-->
+
+    </div>
+</section>
+
+<section id=restaurant>
+    <div>
+        <div>
+            <div class="heatmap" id="busy" style="width:50%;float: left" align="left" id="heatMap">
+                <script>
+				/*
+
+				negative color scales in increasing magnitude	
+				#EF9FAE, #C76475, #781426
+
+				positive color scales in increasing magnitude
+				#ABDB92, #77B75B, #2E6E12
+
+				*/
+
+			function RMS(arr){
+				return Math.pow(arr.reduce(function(acc,pres){
+					return acc+ Math.pow(pres,2);
+				})/arr.length,.5)
+			}
+
+			// mean
+			function mean(arr){
+				return arr.reduce(function(acc,prev){
+				return acc+prev;
+			})/arr.length;
+			}
+
+var lPatchWidth=200;
+var itemSize = 22,
+    cellSize = itemSize - 3,
+    margin = {top: 50, right: 20, bottom: 120, left: 70};
+
+var data;
+
+var width = 750 - margin.right - margin.left,
+    height = 300 - margin.top - margin.bottom;
+var colorScale;
+
+colorHold=["#D3D3D3","#77B75B","#ABDB92","#EF9FAE","#C76475","#781426"];
+
+colorLText=["< -66%","-66% to -33%","-33% to 0%","0% to 33%","33% to 66%","> 66%"]
+
+function bandClassifier(val,multiplier)
+{
+    if(val>=0)
+    {
+        return (Math.floor((val*multiplier)/(.33*multiplier))+1)>3?3:Math.floor((val*multiplier)/(.33*multiplier))+1
+    }
+    else{
+        return (Math.floor((val*multiplier)/(.33*multiplier)))<-3?-3:Math.floor((val*multiplier)/(.33*multiplier))
+    }
+}
+
+
+window.onload=function(){
+        d3.csv('Data/3Mc-LxcqeguOXOVT_2ZtCg.csv', function ( response ) {
+
+            data = response.map(function( item ) {
+                var newItem = {};
+                newItem.country = item.x;
+                newItem.product = item.y;
+                newItem.value = +item.value;
+
+                return newItem;
+            })
+
+
+            invertcolors=0;
+            // Inverting color scale
+            if(invertcolors){
+                colorHold.reverse();
+
+
+            }
+
+            var x_elements = d3.set(data.map(function( item ) { return item.product; } )).values(),
+                y_elements = d3.set(data.map(function( item ) { return item.country; } )).values();
+
+            var xScale = d3.scaleBand()
+                .domain(x_elements)
+                .range([0, x_elements.length * itemSize])
+                .paddingInner(20).paddingOuter(cellSize/2)
+
+            var xAxis = d3.axisBottom()
+                .scale(xScale)
+                .tickFormat(function (d) {
+                    return d;
+                });
+
+            var yScale = d3.scaleBand()
+                .domain(y_elements)
+                .range([0, y_elements.length * itemSize])
+                .paddingInner(.2).paddingOuter(.2);
+
+            var yAxis = d3.axisLeft()
+                .scale(yScale)
+                .tickFormat(function (d) {
+                    return d;
+                });
+
+
+            // Finding the mean of the data
+            var mean=window.mean(data.map(function(d){return +d.value}));
+
+            //setting percentage change for value w.r.t average
+            data.forEach(function(d){
+                d.perChange=(d.value-mean)/mean
+            })
+
+            colorScale = d3.scaleOrdinal()
+                .domain([-3,-2,-1,1,2,3])
+                .range(colorHold);
+
+            var rootsvg = d3.select('.heatmap')
+                .append("svg")
+                .attr("width", width + margin.left + margin.right)
+                .attr("height", height + margin.top + margin.bottom)
+            var svg=rootsvg.append("g")
+                .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+            // tooltip
+            tooltip=d3.select("body").append("div").style("width","80px").style("height","40px").style("background","#C3B3E5")
+                .style("opacity","1").style("position","absolute").style("visibility","hidden").style("box-shadow","0px 0px 6px #7861A5").style("padding","10px");
+            toolval=tooltip.append("div");
+
+
+            var cells = svg.selectAll('rect')
+                .data(data)
+                .enter().append('g').append('rect')
+                .attr('class', 'cell')
+                .attr('width', cellSize)
+                .attr('height', cellSize)
+                .attr('y', function(d) { return yScale(d.country); })
+                .attr('x', function(d) { return xScale(d.product)-cellSize/2; })
+                .attr('fill', function(d) { return colorScale(window.bandClassifier(d.perChange,100));})
+                .attr("rx",3)
+                .attr("ry",3)
+                .on("mouseover",function(d){
+                    console.log(d);
+                    //d3.select(this).attr("fill","#655091");
+                    d3.select(this).style("stroke","orange").style("stroke-width","3px")
+                    d3.select(".trianglepointer").transition().delay(100).attr("transform","translate("+(-((lPatchWidth/colorScale.range().length)/2+(colorScale.domain().indexOf(bandClassifier(d.perChange,100))*(lPatchWidth/colorScale.range().length) )))+",0)");
+
+                    d3.select(".LegText").select("text").text(colorLText[colorScale.domain().indexOf(bandClassifier(d.perChange,100))])
+
+
+                })
+                .on("mouseout",function(){
+                    //d3.select(this).attr('fill', function(d) { return colorScale(window.bandClassifier(d.perChange,100));});
+                    d3.select(this).style("stroke","none");
+                    tooltip.style("visibility","hidden");
+                })
+                .on("mousemove",function(d){
+                    tooltip.style("visibility","visible")
+                        .style("top",(d3.event.pageY-30)+"px").style("left",(d3.event.pageX+20)+"px");
+
+                    console.log(d3.mouse(this)[0])
+                    tooltip.select("div").html("<strong>"+d.product+"</strong><br/> "+(+d.value).toFixed(2))
+
+                })
+
+
+            svg.append("g")
+                .attr("class", "y axis")
+                .call(yAxis)
+                .selectAll('text')
+                .attr('font-weight', 'normal');
+
+            svg.append("g")
+                .attr("class", "x axis")
+                .attr("transform","translate(0,"+(y_elements.length * itemSize +cellSize/2)+")")
+                .call(xAxis)
+                .selectAll('text')
+                .attr('font-weight', 'normal')
+                .style("text-anchor", "end")
+                .attr("dx", "-.8em")
+                .attr("dy", "-.5em")
+                .attr("transform", function (d) {
+                    return "rotate(-65)";
+                });
+
+            // Legends section
+
+
+            legends=svg.append("g").attr("class","legends")
+                .attr("transform","translate("+((width+margin.right)/2-lPatchWidth/2 -margin.left/2)+","+(height+margin.bottom-35-20)+")");
+
+            // Legend traingle pointer generator
+            var symbolGenerator = d3.symbol()
+                .type(d3.symbolTriangle)
+                .size(64);
+
+            legends.append("g").attr("transform","rotate(180)").append("g").attr("class","trianglepointer")
+                .attr("transform","translate("+(-lPatchWidth/colorScale.range().length)/2+")")
+                .append("path").attr("d",symbolGenerator());
+            //Legend Rectangels
+            legends.append("g").attr("class","LegRect")
+                .attr("transform","translate(0,"+15+")")
+                .selectAll("rect").data(colorScale.range()).enter()
+                .append("rect").attr("width",lPatchWidth/colorScale.range().length+"px").attr("height","10px").attr("fill",function(d){ return d})
+                .attr("x",function(d,i){ return i*(lPatchWidth/colorScale.range().length) })
+
+            // legend text
+            legends.append("g").attr("class","LegText")
+                .attr("transform","translate(0,45)")
+                .append("text")
+                .attr("x",lPatchWidth/2)
+                .attr('font-weight', 'normal')
+                .style("text-anchor", "middle")
+                .text(colorLText[0])
+
+            // Heading
+            rootsvg.append("g")
+                .attr("transform","translate(0,980)")
+                .append("text")
+                .attr("x",(width+margin.right+margin.left)/2)
+                .attr('font-weight', 'bold')
+                .attr('font-size', '22px')
+                .attr('font-family', 'Segoe UI bold')
+                .style("text-anchor", "middle")
+                .text("Busy Hours")
+
+
+        });
+    }
+	</script>
+
+            </div>
+
+            <div id="myDiv" style="width:50%;float: right" align="right">
+
+                <script>
+           Plotly.d3.csv("Data/rating_66D9bO-p8FG01OfmfX14LA.csv", function(err, rows) {
+
+    function unpack(rows, key) {
+        return rows.map(function (row) {
+            return row[key];
+        });
+    }
+
+    var trace1 = {
+        type: "scatter",
+        mode: 'lines+markers',
+
+        marker: {
+            color: 'rgb(128, 0, 128)',
+            size: 8
+        },
+
+        line: {
+            color: 'rgb(55, 128, 191)',
+            width: 3,
+            shape: 'spline'
+        },
+        name: 'stars',
+        x: unpack(rows, 'date'),
+        y: unpack(rows, 'stars'),
+        // x: ["2006","2007"],
+        // y: graph_json.rating
+        line: {color: '#17BECF'}
+    };
+    console.log("Ready function rating_graph");
+    console.log(trace1);
+
+    //
+    // var trace2 = {
+    //     type: "scatter",
+    //     mode: 'lines+markers',
+    //     marker: {
+    //         color: 'rgb(128, 0, 128)',
+    //         size: 8
+    //     },
+    //     line: {
+    //         color: 'rgb(55, 128, 191)',
+    //         width: 3
+    //     },
+    //     name: 'McDonald',
+    //     x: unpack(rows, 'Year'),
+    //     y: unpack(rows, 'McDonald')
+    // }
+    //
+    // var data = [trace1,trace2];
+    var data = [trace1];
+    var layout = {
+        // title: 'McDonald Restaurant Rating', color: '#17BECF',
+
+        xaxis: {
+            range: ['2006', '2017'],
+            // type: 'linear',
+            title: 'Year',
+            showgrid: false,
+            showline: true,
+            color: '#17BECF'
+
+        },
+        yaxis: {
+            range: [0, 5],
+            type: 'linear',
+            title: 'Rating',
+            showgrid: false,
+            showline: true,
+            color: '#17BECF'
+
+        },
+        paper_bgcolor: 'rgba(0,0,0,0)',
+        plot_bgcolor: 'rgba(0,0,0,0)'
+
+    };
+    Plotly.newPlot('myDiv', data, layout, {displayModeBar: false});
+
+});
+</script>
+
+                <!--<button onclick="rating_graph(2)"></button>-->
+            </div>
+
+
+        </div>
+
+
+        <!--<div>-->
+
+        <!--&lt;!&ndash;<script src="https://d3js.org/d3.v4.min.js"></script>&ndash;&gt;-->
+        <!--&lt;!&ndash;<div style="width:50%;float: right" align="right">&ndash;&gt;-->
+        <!--&lt;!&ndash;<script type='text/javascript' src='JS/rating.js' ></script>&ndash;&gt;-->
+        <!--&lt;!&ndash;</div>&ndash;&gt;-->
+        <!--</div>-->
+    </div>
+
+
+<script type='text/javascript' src='JS/slider.js'></script>
+
+<div class="auth-box1" style="text-align: center">
+
+<div class="col-xs-12" style="text-align: center">
+    <h4 style="text-align: center;color:#2A363B;">Reviews</h4>
+
+    <div class="col-xs-6" >
+
+
+        <div class="card" style="width: 30rem; left: 160px;  text-align: center">
+            <img class="card-img-top" src="Data/Graphs-NLP/GRAPH_1/1_good_.png" id="imageGood" alt="Positive Reviews Not Available">
+            <div class="card-body">
+                <h5 class="card-title">Positive Reviews</h5>
+                <p class="card-text">Here are the most used positive words for this restaurant</p>
+                <!--<a href="#" class="btn btn-primary">Go somewhere</a>-->
+            </div>
+        </div>
+    </div>
+
+    <div class="col-xs-6">
+        <div class="card" style="width: 30rem; text-align: center" >
+            <img class="card-img-top" src="Data/Graphs-NLP/GRAPH_1/1_bad_.png" id="imageBad" style=" text-align: center" alt="Negative Reviews Not Available">
+            <div class="card-body">
+                <h5 class="card-title">Negative Reviews</h5>
+                <p class="card-text">Some things to take care about this restaurant!</p>
+                <!--<a href="#" class="btn btn-primary">Go somewhere</a>-->
+            </div>
+        </div>
+    </div>
+</div>
+
+
+</div>
+
+<!--<link rel="stylesheet" href="https://cdn.metroui.org.ua/v4/css/metro.min.css">-->
+
+<!--<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>-->
+<!--<script src="https://cdn.metroui.org.ua/v4/js/metro.min.js"></script>-->
+</section>
+<!--<div style="text-align: center">-->
+    <!--<p>Thank you for visiting EatHub! Have a great time! :)</p>-->
+
+<!--</div>-->
+<script>
+
+    function changeImage() {
+        console.log("Hello");
+        var imgBad = document.getElementById("imageBad");
+        var imgGood = document.getElementById("imageGood");
+//        d3.select("#images1").remove();
+        //img.src="Data/Graphs-NLP/GRAPH_10/10_bad_.png";
+
+        var value = (Math.floor(Math.random() * 12) + 1);
+        console.log("Random Value Generated " + value  );
+        console.log("Data/Graphs-NLP/GRAPH_"+ value + "/" + value + "_bad_.png");
+        console.log("Data/Graphs-NLP/GRAPH_"+ value + "/" + value + "_good_.png");
+
+        imgBad.setAttribute("src","Data/Graphs-NLP/GRAPH_"+ value + "/" + value + "_bad_.png");
+        imgGood.setAttribute("src","Data/Graphs-NLP/GRAPH_"+ value + "/" + value + "_good_.png");
+
+
+
+    }
+	
+	
+		function updateRec(){
+			var selectetdCity = document.getElementById("selectbasic1").value;
+			console.log("selected City: " +selectetdCity);
+			console.log("Hello World!");
+			
+
+
+
+            setTimeout(function() {
+                d3.select("#chartContainer").select("svg").remove();
+                var svg = dimple.newSvg("#chartContainer", 1300, 600);
+                d3.tsv("Data/Recommendation_data/" + selectetdCity.toLowerCase() +".tsv", function (data) {
+
+                    var myChart = new dimple.chart(svg, data);
+                    myChart.setBounds(50, 30, 1150, 510);
+                    myChart.addMeasureAxis("x", "Reviews");
+                    //Change by Malav
+                    var y = myChart.addCategoryAxis("y", "Rating");
+                    myChart.addMeasureAxis("z", "Checkins");
+                    var s = myChart.addSeries(["Name", "RestaurantID", "Recommended"], dimple.plot.bubble);
+                    //Change by Malav
+                    y.addOrderRule("Rating");
+                    y.assignColors = "#FFFFFF";
+
+//            myChart.addSeries("Name", dimple.plot.bubble);
+//            var s = myChart.addSeries("Name", dimple.plot.bubble);
+//                x.shapes.selectAll("path.dimple-custom-axis-line").style("stroke", "white");
+//            x.shapes.select("*").style("fill", "white")
+
+                    myChart.assignColor("Jewel of a place!","#00FF00");
+                    myChart.assignColor("Must Visit!","#80FF00");
+                    myChart.assignColor("Worth Visiting","#FFFF00");
+                    myChart.assignColor("At your own risk","#FF8000");
+                    myChart.assignColor("Its your say finally!","#FF0000");
+
+                    var myLegend = myChart.addLegend(1120, 400, 60, 300, "Right");
+
+                    myChart.draw();
+
+                    myChart.legends = [];
+
+                    var filterValues = dimple.getUniqueValues(data, "Recommended");
+
+
+                    svg.selectAll("title_text")
+                        .data(["Click legend to show/hide Recommendations"])
+                        .enter()
+                        .append("text")
+                        .attr("x", 1000)
+                        .attr("y", 500)
+                        .style("font-family", "sans-serif")
+                        .style("font-size", "10px")
+                        .style("color", "Black")
+                        .text(function (d) { return d; });
+
+                    myLegend.shapes.selectAll("rect")
+                    // Add a click event to each rectangle
+                        .on("click", function (e) {
+                            // This indicates whether the item is already visible or not
+                            var hide = false;
+                            var newFilters = [];
+                            // If the filters contain the clicked shape hide it
+                            filterValues.forEach(function (f) {
+                                if (f === e.aggField.slice(-1)[0]) {
+                                    hide = true;
+                                } else {
+                                    newFilters.push(f);
+                                }
+                            });
+                            // Hide the shape or show it
+                            if (hide) {
+                                d3.select(this).style("opacity", 0.2);
+                            } else {
+                                newFilters.push(e.aggField.slice(-1)[0]);
+                                d3.select(this).style("opacity", 0.9);
+                            }
+                            // Update the filters
+                            filterValues = newFilters;
+                            console.log(filterValues);
+                            for(var i = 0; i < 5; i++){
+                                console.log("entered");
+                                if(filterValues[i] === "Not everyone likes it!") {
+                                    break;
+                                }else {
+                                    if (i === 4) {
+                                        console.log("jugaad");
+                                        filterValues[i] = "Not everyone likes it!"
+                                    }
+                                }
+                            }
+                            // Filter the data
+                            console.log(data)
+                            //myChart.data = dimple.filterData(data, "Recommended", filterValues);
+                            // Passing a duration parameter makes the chart animate. Without
+                            // it there is no transition
+                            myChart.draw(500);
+                        });
+
+
+
+
+
+                    s.shapes.on("click", function (e) {
+                        console.log(e.aggField[1]);
+                        changeHeatmap(e.aggField[1]);
+                        changeRating(e.aggField[1]);
+                        document.getElementById('myDiv').scrollIntoView();
+                    });
+//            myChart.on("click", function (e) {
+//                dimple._showPointTooltip(e, this, myChart, addSeries("Name", dimple.plot.bubble));
+                });
+
+
+
+            },700);
+
+		}
+
+		function changeHeatmap(id){
+			var bId = id;
+			console.log("Heatmap change required by: " +bId);
+
+						function RMS(arr){
+				return Math.pow(arr.reduce(function(acc,pres){
+					return acc+ Math.pow(pres,2);
+				})/arr.length,.5)
+			}
+
+			// mean
+			function mean(arr){
+				return arr.reduce(function(acc,prev){
+				return acc+prev;
+			})/arr.length;
+			}
+
+var lPatchWidth=200;
+var itemSize = 22,
+    cellSize = itemSize - 3,
+    margin = {top: 50, right: 20, bottom: 120, left: 70};
+
+var data;
+
+var width = 750 - margin.right - margin.left,
+    height = 300 - margin.top - margin.bottom;
+var colorScale;
+
+colorHold=["#D3D3D3","#77B75B","#ABDB92","#EF9FAE","#C76475","#781426"];
+
+colorLText=["< -66%","-66% to -33%","-33% to 0%","0% to 33%","33% to 66%","> 66%"]
+
+function bandClassifier(val,multiplier)
+{
+    if(val>=0)
+    {
+        return (Math.floor((val*multiplier)/(.33*multiplier))+1)>3?3:Math.floor((val*multiplier)/(.33*multiplier))+1
+    }
+    else{
+        return (Math.floor((val*multiplier)/(.33*multiplier)))<-3?-3:Math.floor((val*multiplier)/(.33*multiplier))
+    }
+}
+			
+			var filePath = "Data/Heatmap/Heatmap/" + bId +".csv";
+			console.log("Filepath is : " +filePath);
+			
+			//var path = "Data/Cities_data/champaign_data.json";
+			if(!fileExists(filePath)){
+			//alert("NO FILE FOUND");
+			console.log("asd");
+			var value = (Math.floor(Math.random() * 10) + 1);
+                d3.select('.heatmap').selectAll("*").remove();
+			filePath = "Data/Heatmap/Heatmap/random_" + value + ".csv";
+		}
+			console.log("File Path is: " +filePath);
+            d3.select('.heatmap').selectAll("*").remove();
+
+
+
+
+            d3.csv(filePath, function ( response ) {
+				
+            data = response.map(function( item ) {
+                var newItem = {};
+                newItem.country = item.x;
+                newItem.product = item.y;
+                newItem.value = +item.value;
+
+                return newItem;
+            })
+
+
+            invertcolors=0;
+            // Inverting color scale
+            if(invertcolors){
+                colorHold.reverse();
+
+
+            }
+
+            var x_elements = d3.set(data.map(function( item ) { return item.product; } )).values(),
+                y_elements = d3.set(data.map(function( item ) { return item.country; } )).values();
+
+            var xScale = d3.scaleBand()
+                .domain(x_elements)
+                .range([0, x_elements.length * itemSize])
+                .paddingInner(20).paddingOuter(cellSize/2)
+
+            var xAxis = d3.axisBottom()
+                .scale(xScale)
+                .tickFormat(function (d) {
+                    return d;
+                });
+
+            var yScale = d3.scaleBand()
+                .domain(y_elements)
+                .range([0, y_elements.length * itemSize])
+                .paddingInner(.2).paddingOuter(.2);
+
+            var yAxis = d3.axisLeft()
+                .scale(yScale)
+                .tickFormat(function (d) {
+                    return d;
+                });
+
+
+            // Finding the mean of the data
+            var mean=window.mean(data.map(function(d){return +d.value}));
+
+            //setting percentage change for value w.r.t average
+            data.forEach(function(d){
+                d.perChange=(d.value-mean)/mean
+            })
+
+            colorScale = d3.scaleOrdinal()
+                .domain([-3,-2,-1,1,2,3])
+                .range(colorHold);
+
+            var rootsvg = d3.select('.heatmap')
+                .append("svg")
+                .attr("width", width + margin.left + margin.right)
+                .attr("height", height + margin.top + margin.bottom)
+            var svg=rootsvg.append("g")
+                .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+            // tooltip
+            tooltip=d3.select("body").append("div").style("width","80px").style("height","40px").style("background","#C3B3E5")
+                .style("opacity","1").style("position","absolute").style("visibility","hidden").style("box-shadow","0px 0px 6px #7861A5").style("padding","10px");
+            toolval=tooltip.append("div");
+
+
+            var cells = svg.selectAll('rect')
+                .data(data)
+                .enter().append('g').append('rect')
+                .attr('class', 'cell')
+                .attr('width', cellSize)
+                .attr('height', cellSize)
+                .attr('y', function(d) { return yScale(d.country); })
+                .attr('x', function(d) { return xScale(d.product)-cellSize/2; })
+                .attr('fill', function(d) { return colorScale(window.bandClassifier(d.perChange,100));})
+                .attr("rx",3)
+                .attr("ry",3)
+                .on("mouseover",function(d){
+                    console.log(d);
+                    //d3.select(this).attr("fill","#655091");
+                    d3.select(this).style("stroke","orange").style("stroke-width","3px")
+                    d3.select(".trianglepointer").transition().delay(100).attr("transform","translate("+(-((lPatchWidth/colorScale.range().length)/2+(colorScale.domain().indexOf(bandClassifier(d.perChange,100))*(lPatchWidth/colorScale.range().length) )))+",0)");
+
+                    d3.select(".LegText").select("text").text(colorLText[colorScale.domain().indexOf(bandClassifier(d.perChange,100))])
+
+
+                })
+                .on("mouseout",function(){
+                    //d3.select(this).attr('fill', function(d) { return colorScale(window.bandClassifier(d.perChange,100));});
+                    d3.select(this).style("stroke","none");
+                    tooltip.style("visibility","hidden");
+                })
+                .on("mousemove",function(d){
+                    tooltip.style("visibility","visible")
+                        .style("top",(d3.event.pageY-30)+"px").style("left",(d3.event.pageX+20)+"px");
+
+                    console.log(d3.mouse(this)[0])
+                    tooltip.select("div").html("<strong>"+d.product+"</strong><br/> "+(+d.value).toFixed(2))
+
+                })
+
+
+            svg.append("g")
+                .attr("class", "y axis")
+                .call(yAxis)
+                .selectAll('text')
+                .attr('font-weight', 'normal');
+
+            svg.append("g")
+                .attr("class", "x axis")
+                .attr("transform","translate(0,"+(y_elements.length * itemSize +cellSize/2)+")")
+                .call(xAxis)
+                .selectAll('text')
+                .attr('font-weight', 'normal')
+                .style("text-anchor", "end")
+                .attr("dx", "-.8em")
+                .attr("dy", "-.5em")
+                .attr("transform", function (d) {
+                    return "rotate(-65)";
+                });
+
+            // Legends section
+
+
+            legends=svg.append("g").attr("class","legends")
+                .attr("transform","translate("+((width+margin.right)/2-lPatchWidth/2 -margin.left/2)+","+(height+margin.bottom-35-20)+")");
+
+            // Legend traingle pointer generator
+            var symbolGenerator = d3.symbol()
+                .type(d3.symbolTriangle)
+                .size(64);
+
+            legends.append("g").attr("transform","rotate(180)").append("g").attr("class","trianglepointer")
+                .attr("transform","translate("+(-lPatchWidth/colorScale.range().length)/2+")")
+                .append("path").attr("d",symbolGenerator());
+            //Legend Rectangels
+            legends.append("g").attr("class","LegRect")
+                .attr("transform","translate(0,"+15+")")
+                .selectAll("rect").data(colorScale.range()).enter()
+                .append("rect").attr("width",lPatchWidth/colorScale.range().length+"px").attr("height","10px").attr("fill",function(d){ return d})
+                .attr("x",function(d,i){ return i*(lPatchWidth/colorScale.range().length) })
+
+            // legend text
+            legends.append("g").attr("class","LegText")
+                .attr("transform","translate(0,45)")
+                .append("text")
+                .attr("x",lPatchWidth/2)
+                .attr('font-weight', 'normal')
+                .style("text-anchor", "middle")
+                .text(colorLText[0])
+
+            // Heading
+            rootsvg.append("g")
+                .attr("transform","translate(0,980)")
+                .append("text")
+                .attr("x",(width+margin.right+margin.left)/2)
+                .attr('font-weight', 'bold')
+                .attr('font-size', '22px')
+                .attr('font-family', 'Segoe UI bold')
+                .style("text-anchor", "middle")
+                .text("Busy Hours")
+
+
+        });
+		}
+		
+		function updateButton(){
+			var count = 0;
+			var i = 0;
+			var isRecommended = [];
+			var restaurantName = [];
+			var restaurantId = [];
+			
+			var file = document.getElementById("selectbasic1").value;
+			var filePath = "Data/Cities_data/" + file.toLowerCase() + "_data.csv";
+			d3.csv(filePath, function (data) {
+			data.forEach(function(valueObj){
+				if(count<=8){
+					//restaurantName[i] = valueObj['Name'];
+					isRecommended[i] = valueObj['is_recommended'];
+					restaurantName[i] = valueObj['name'];
+					restaurantId[i] = valueObj['business_id'];
+					if((isRecommended[i] == 1) && (restaurantName[i].length <= 15)){
+						restaurantName[count] = valueObj['name'];
+						restaurantId[count] = valueObj['business_id'];
+					//	console.log(restaurantName[i] + " " + isRecommended[i] + " " + restaurantId[i]);
+						count = count + 1;
+					}else{
+						//i = i;
+					}
+					
+					
+				}
+				i = i + 1;
+			});
+			
+			document.getElementById("recRestaurent1").innerHTML = restaurantName[0];
+			document.getElementById("recRestaurent1").onclick = function() {
+			    //changeHeatmap(restaurantId[0]);
+                changeRating(restaurantId[0]);
+				//changeImage();
+                document.getElementById('myDiv').scrollIntoView();}
+			document.getElementById("recRestaurent2").innerHTML = restaurantName[1];
+			document.getElementById("recRestaurent2").onclick = function() { //changeHeatmap(restaurantId[1]);
+			changeRating(restaurantId[1]);
+				changeImage(); document.getElementById('myDiv').scrollIntoView();}
+			document.getElementById("recRestaurent3").innerHTML = restaurantName[2];
+			document.getElementById("recRestaurent3").onclick = function() { //changeHeatmap(restaurantId[2]);
+			changeRating(restaurantId[2]);
+				changeImage(); document.getElementById('myDiv').scrollIntoView();}
+			document.getElementById("recRestaurent4").innerHTML = restaurantName[3];
+			document.getElementById("recRestaurent4").onclick = function() {// changeHeatmap(restaurantId[3]);
+			changeRating(restaurantId[3]);
+				changeImage(); document.getElementById('myDiv').scrollIntoView();}
+			document.getElementById("recRestaurent5").innerHTML = restaurantName[4];
+			document.getElementById("recRestaurent5").onclick = function() {// changeHeatmap(restaurantId[4]);
+			changeRating(restaurantId[4]);
+				changeImage(); document.getElementById('myDiv').scrollIntoView();}
+			document.getElementById("recRestaurent6").innerHTML = restaurantName[5];
+			document.getElementById("recRestaurent6").onclick = function() {// changeHeatmap(restaurantId[5]);
+			changeRating(restaurantId[5]);
+				changeImage(); document.getElementById('myDiv').scrollIntoView();}
+			document.getElementById("recRestaurent7").innerHTML = restaurantName[6];
+			document.getElementById("recRestaurent7").onclick = function() {// changeHeatmap(restaurantId[6]);
+			changeRating(restaurantId[6]);
+				changeImage(); document.getElementById('myDiv').scrollIntoView();}
+			document.getElementById("recRestaurent8").innerHTML = restaurantName[7];
+			document.getElementById("recRestaurent8").onclick = function() {// changeHeatmap(restaurantId[7]);
+			changeRating(restaurantId[7]);
+				changeImage(); document.getElementById('myDiv').scrollIntoView();}
+		});
+		
+		}
+		
+		function changeRating(id){
+			var bId = id;
+			console.log("Rating change Request by : " +bId);
+			//d3.select("myDiv").selectAll().remove();
+			Plotly.purge('myDiv');
+			
+			
+			
+			var filePath = "Data/Ratings_f/rating_" + bId + ".csv";
+			console.log("File Path is: " +filePath);
+			
+				if(!fileExists(filePath)){
+			//alert("NO FILE FOUND");
+			console.log("asd");
+			var value = (Math.floor(Math.random() * 10) + 1);
+			
+			filePath = "Data/Ratings_f/rating_random_" +value+ ".csv";
+			}
+			console.log("File Path is: " +filePath);
+
+			
+			Plotly.d3.csv(filePath, function(err, rows) {
+
+    function unpack(rows, key) {
+        return rows.map(function (row) {
+            return row[key];
+        });
+    }
+
+    var trace1 = {
+        type: "scatter",
+        mode: 'lines+markers',
+
+        marker: {
+            color: 'rgb(128, 0, 128)',
+            size: 8
+        },
+
+        line: {
+            color: 'rgb(55, 128, 191)',
+            width: 3,
+            shape: 'spline'
+        },
+        name: 'stars',
+        x: unpack(rows, 'date'),
+        y: unpack(rows, 'stars'),
+        // x: ["2006","2007"],
+        // y: graph_json.rating
+        line: {color: '#17BECF'}
+    };
+    console.log("Ready function rating_graph");
+    console.log(trace1);
+
+    //
+    // var trace2 = {
+    //     type: "scatter",
+    //     mode: 'lines+markers',
+    //     marker: {
+    //         color: 'rgb(128, 0, 128)',
+    //         size: 8
+    //     },
+    //     line: {
+    //         color: 'rgb(55, 128, 191)',
+    //         width: 3
+    //     },
+    //     name: 'McDonald',
+    //     x: unpack(rows, 'Year'),
+    //     y: unpack(rows, 'McDonald')
+    // }
+    //
+    // var data = [trace1,trace2];
+    var data = [trace1];
+    var layout = {
+        // title: 'McDonald Restaurant Rating', color: '#17BECF',
+
+        xaxis: {
+            range: ['2006', '2017'],
+            // type: 'linear',
+            title: 'Year',
+            showgrid: false,
+            showline: true,
+            color: '#17BECF'
+
+        },
+        yaxis: {
+            range: [0, 5],
+            type: 'linear',
+            title: 'Rating',
+            showgrid: false,
+            showline: true,
+            color: '#17BECF'
+
+        },
+        paper_bgcolor: 'rgba(0,0,0,0)',
+        plot_bgcolor: 'rgba(0,0,0,0)'
+
+    };
+    Plotly.newPlot('myDiv', data, layout, {displayModeBar: false});
+
+});
+		
+	
+		}
+		
+			function fileExists(url){
+		try{
+		var http = new XMLHttpRequest();
+		http.open('HEAD',url,false);
+		http.send();
+		return http.status != 404;
+	}
+	
+	catch(exception){
+		if(exception.name == "NetworkError"){
+		//console.log("saksdshiuahd");
+		}
+	}
+}
+	</script>
+
+
+
+</script>
+
+</body>
+
+</html>

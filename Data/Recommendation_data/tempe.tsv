@@ -1,0 +1,918 @@
+	address	RestaurantID	Checkins	Recommended	Name	range	Rating	Reviews	
+0	1825 E Baseline Rd.	M9fOuiesoUSaouOqNQ3U2w	277.0	Must Visit!	Wong's Place	4.0	3.9	149	
+1	2145 E University Dr	IqsQRoiVE535Z2JR-7xoWQ	41.0	Its your say finally!	Jack in the Box	2.0	2.1	12	
+2	149 S Farmer	aiX_WP7NKPTdF9CfI-M-wg	2393.0	Jewel of a place!	Culinary Dropout	4.0	4.0	984	
+3	2602 W Southern Ave	ObV7olsEsNYjuMGNJ75jNw	39.0	At your own risk	Vaqueros Carne Asada	4.0	3.7	17	
+4	130 E University Dr, Ste C	VtQxGoCzAFSzCb1JSFV2bQ	37.0	At your own risk	Subway	4.0	3.6	5	
+5	1342 W Warner Rd	etylBefPKEMjm9nS9c1qiw	87.0	Its your say finally!	Port of Subs	3.0	2.7	36	
+6	2700 S Mill Ave	TAoN9nsibXOxsOnnG7Kd_g	233.0	Worth Visiting	Riazzi's Italian Garden	4.0	3.6	141	
+7	6402 S Rural Rd	px5RbIZm3rxRzi-g2f83KQ	82.0	Its your say finally!	Burger King	2.0	1.8	24	
+8	111 W University Dr	2rLuOMi6Q6zzqUU8ltreSA	236.0	Must Visit!	First Watch - Breakfast, Brunch & Lunch	5.0	4.5	140	
+9	521 S College Ave, Ste 110	ySRaNkXgv0jmuT4HhmgSog	16.0	At your own risk	WisePies Pizza & Salad	4.0	3.9	14	
+10	4715 S Rural Rd	H-gllDEH0DHqE-HmzdHtKg	16.0	Its your say finally!	Jersey Mike's Subs	3.0	2.5	22	
+11	655 W Warner Rd	9hPqmpOpH-POC0D0nlix3A	84.0	At your own risk	Silver Mine Subs	4.0	3.7	14	
+12	33 W Baseline Rd	ef28eNdWA3g7OMsnf_fbSA	13.0	Must Visit!	Water Ice Cream & More	5.0	5.0	5	
+13	690 S Mill Ave	qMJyOW1FdPOf8sli8DIq_A	329.0	Must Visit!	Délice Bistro	4.0	3.5	174	
+14	6428 S Mcclintock Rd, Ste 104	AtSEe-B2mFmLFHBf4PLTrw	1331.0	Must Visit!	Wildflower Bread Company	4.0	3.9	234	
+15	15 E 6th St	L2iT7pipc455Tgpbo35_mw	953.0	Worth Visiting	CASA Sunbá	3.0	2.8	220	
+16	1335 W University Dr, Ste 6	EuPaczO6rMpDMrn-GtE_eA	301.0	Worth Visiting	Tokyo Stop	4.0	3.8	81	
+17	2535 E University Dr	fQclKmk5G2_g98cDNPvj0g	109.0	Worth Visiting	El Tlacoyo	4.0	4.2	49	
+18	2700 W Baseline Rd	HvsTnw0GhhQaBuB45FJJag	62.0	At your own risk	Subway	4.0	3.7	14	
+19	1831 E Baseline Rd	UK2sK9SkdBdK1uxv8TcWGg	21.0	Its your say finally!	Chuy's Mesquite Broiler	3.0	3.0	13	
+20	920 E University Dr, Ste 103	MqJCtE12yfzQZCg8KGzNTw	13.0	At your own risk	Nick's NY Pizzeria	3.0	3.3	27	
+21	5350 S Lakeshore Dr	Gw-ozqLSHoP3BQPKaiXJGg	483.0	Must Visit!	The Watershed	3.0	3.1	380	
+22	1035 E Lemon St	p6FPcgLymnpk_gAyQuW_Mw	81.0	Must Visit!	El Paisano Market and Laila Check Cashing	5.0	4.6	70	
+23	2000 E Rio Salado Pkwy, Ste 1215	PK_yJS579FjaNiCkGGa6iA	284.0	Worth Visiting	MAD Greens - Tempe	4.0	3.7	99	
+24	2020 E Elliot Rd, Suite 101	-Gy0BAMgRN4sGlY7theqxQ	304.0	Must Visit!	MOD Pizza	4.0	4.2	90	
+25	5000 S Arizona Mills Cir	kWNdx7NBa5Kx2NDKWYzUWA	21.0	Its your say finally!	South Philly Steak & Fries	1.0	1.5	32	
+26	3401 S McClintock Dr	Cwv0Mv70w8fNMd-ApwSnUQ	26.0	At your own risk	Mandalay Noodle World Restaurant	3.0	3.0	14	
+27	601 W Rio Salado Pkwy	Dz5NDfPpXcID1qJbEfre4g	141.0	Must Visit!	Press Coffee	4.0	4.5	50	
+28	555 North Scottsdale Rd, Ste 103	tamr4J75GguGhF1hm1wEaA	496.0	Worth Visiting	Jersey Mike's Subs	3.0	3.4	85	
+29	515 W Warner Rd	xJxfGReFZqZ1DDppESxMVA	63.0	Its your say finally!	Wendy's	2.0	1.6	11	
+30	502 S College Ave	pTCyou_1EKkm1MUeejFLag	99.0	Must Visit!	Royal Coffee Bar and Roasting	4.0	4.5	47	
+31	933 E University Dr, Ste 115	dmLMOm9mXO-Hd41UxihOqQ	144.0	Worth Visiting	Tsom Vegetarian Flavors	4.0	3.6	54	
+32	525 S Mill Ave	JwyH48vqADWY6HieOMDxgQ	711.0	Must Visit!	My Big Fat Greek Restaurant	4.0	3.6	267	
+33	2323 W 14th St	qYGJCgG24rQlNwWkFFZ3og	116.0	Worth Visiting	Cafe @ Rio	4.0	4.1	9	
+34	9954 S Rural Rd	g5Y4swQmgMPjeIyBNEo1xA	18.0	At your own risk	Arby's	3.0	3.2	9	
+35	655 W Warner Rd, Ste 114	5lZpyuWjC7L9uJfLfqIQ_w	168.0	Must Visit!	Hachi Ramen	4.0	4.1	129	
+36	115 E Baseline Rd, Ste 5	tduDcM1hWHPeyQ9SRPTQmQ	270.0	Worth Visiting	Tom's BBQ	3.0	3.5	170	
+37	690 South Mill Ave	ycd3DfIYG-oAiyHXPPZjBA	106.0	At your own risk	Pita Pit	3.0	2.9	55	
+38	909 E Elliot Rd	V6WEgXWlYmOnH0a1FrH43A	8.0	At your own risk	John Henry's	3.0	3.2	14	
+39	222 S Mill Ave, Ste 125	FFy_b5ylhCYUrAjbJSEvOw	388.0	Worth Visiting	Which Wich	4.0	3.6	48	
+40	1831 E Baseline Rd	lpD3xIYuVaQA8xRSlKwn-Q	270.0	At your own risk	La Fonda Mexican Restaurant & Cantina	3.0	3.0	128	
+41	403 W University Dr	QYIhMNwxXejDoCr-F1BxDg	1064.0	Jewel of a place!	Thai Basil	4.0	4.1	362	
+42	922 E Apache Blvd, Ste 106	1zgcF2M_rXYdK03BTewM4g	9.0	Its your say finally!	NY Bagels	3.0	2.6	9	
+43	615 S College Ave	qgAZPDQStZP_Y5XTiQ6UqA	1964.0	Jewel of a place!	Postino Annex	4.0	4.3	513	
+44	1219 W Baseline Rd	zS3-CKZVVvUYvasJnAg-aA	333.0	Must Visit!	Poliberto's Taco Shop	4.0	4.0	168	
+45	1734 E Southern Ave	yeTKcKUlTq-W7EJ5hPkqbw	653.0	Worth Visiting	Outback Steakhouse	3.0	3.5	131	
+46	2210 N Scottsdale Rd	SzHP4_x-ECuBDVK6npb-Ow	137.0	At your own risk	Lo Cascio's Italian Restaurant	3.0	3.4	64	
+47	2000 E Rio Salado Pkwy, Ste 1064	Dk3H2CPh_yb6CaN11XEFMA	241.0	Must Visit!	Sydney's Cafe & Market	4.0	4.1	114	
+48	933 E University Dr	Yoc9_4sv6AT1AIohPPiGbA	76.0	At your own risk	Chennai Express	4.0	3.6	38	
+49	2000 E Rio Salado Pkwy, Ste 1213	x60RbvQEFlvImnqzuBVk3Q	224.0	Worth Visiting	Nekter Juice Bar	4.0	4.2	61	
+50	1730 E Warner Rd	ZrucPqD_AGAZM53BwtsdTw	25.0	At your own risk	Rosatis Pizza	3.0	3.4	53	
+51	105 W University Dr	_uMRu3765QYo0Qg1z1LKqw	215.0	Must Visit!	Blaze Fast-Fire'd Pizza	4.0	4.4	113	
+52	1804 E Southern Ave, Ste 1	rhKzcgMm8CDhu7RZz_XxqQ	410.0	Must Visit!	Sahara Middle Eastern Restaurant	4.0	4.2	173	
+53	810 Forest Ave	28hruDLwF_5s0QtDWH4rpg	27.0	Worth Visiting	Charlies Terrace Cafe	4.0	4.0	5	
+54	715 S Rural Rd	PF6IipxqHx0i2cFBAraXPw	88.0	At your own risk	Cafe Rio	3.0	3.3	46	
+55	1870 E Apache Blvd	4jWZByIPL_S-UFczMuD3yw	17.0	Must Visit!	Sweetest Season	5.0	4.8	27	
+56	1810 W Elliot Rd	7AbGkqgXXHhjktaXi_YmrA	98.0	Its your say finally!	Wendy's	2.0	1.9	20	
+57	1122 E Broadway Rd	KYb1uDE-knfgYf_u7mofaA	269.0	Its your say finally!	Sonic Drive-In	2.0	2.4	76	
+58	5 E Southern Ave	1wU_10DtV6aJbGT26kATuw	39.0	Its your say finally!	Burger King	2.0	1.9	19	
+59	825 W Baseline Rd, Ste 7	dCX6CvWGn8oiPSD_yxrm0Q	98.0	Worth Visiting	China Jade	3.0	3.3	122	
+60	1180 W Elliot, Ste 101	2GjI7LMmVBt0ZCC8HV4c6Q	11.0	Its your say finally!	Souper Salad	3.0	2.8	4	
+61	1801 East Guadalupe	xTBhu4RsILyo82lVPBMG8A	204.0	At your own risk	Taco Bell	4.0	3.6	17	
+62	825 W Baseline Rd, Ste 1	1x8_aJQ-iqvymhRK3SNbLg	123.0	Worth Visiting	Sharky's Tacos & Tequila	3.0	3.2	102	
+63	3141 S McClintock Dr, Ste 7	RpSo3IF05gZJdZcvrVntJA	88.0	Its your say finally!	Subway	3.0	2.7	14	
+64	3109 S Mill Ave	rz--nAbc7Jx91uQMPRZp8g	36.0	Must Visit!	Subway	5.0	5.0	7	
+65	505 S Mill Ave	DEBqmgxv2yhJ93LqGpKltg	589.0	Worth Visiting	Earl Of Sandwich	4.0	3.8	113	
+66	225 E Apache Blvd	eDw3UUcM_T20WrsKldracw	194.0	At your own risk	International House of Pancakes	3.0	3.0	28	
+67	1212 E Apache Blvd	GdPWJo3z4ySEXpF7Wkn3FA	875.0	Jewel of a place!	Curry Corner	4.0	3.5	490	
+68	908 E Broadway Ave	O3PiNOj1vv5dCCywdw3_og	88.0	At your own risk	Panda Express	3.0	3.0	26	
+69	1139 W Broadway Rd	acUEny04AjPiKC3zRbDYYw	30.0	Its your say finally!	Burger King	3.0	2.7	13	
+70	1470 E Southern Ave	AZQKMMvX9m1-uTdLPMzK3g	1401.0	Must Visit!	Spokes On Southern	4.0	3.8	261	
+71	119 E Southern Ave	xdphjWZymq-3dqOWmA_wwA	263.0	Worth Visiting	Henry's Taiwan Kitchen	3.0	3.5	118	
+72	40 E University Dr	oxHmTO6MwNPs524_-J-FRQ	45.0	Must Visit!	1865 Coffee	5.0	4.9	10	
+73	1625 W Fountainhead Pkwy	jAO8qYbiYZNbmhK8Knr9Mg	80.0	At your own risk	Rev Bistro	4.0	3.6	8	
+74	222 S Mill Ave	l_B0JtF2UraFqhDpp5go0Q	97.0	Worth Visiting	Corner Bakery Cafe	4.0	4.1	36	
+75	1290 S Normal Ave	aYdcqAQbQRSnSz-1Xp65LA	4.0	At your own risk	Chick-fil-A	3.0	3.2	4	
+76	149 S Farmer	8XFDd4uX-g5B4JJzIahPHg	1117.0	Must Visit!	The Yard at Farmer Arts District	4.0	3.9	115	
+77	1639 E Apache Blvd	6-ZXctu-Duee3rGY3lC-uQ	57.0	Worth Visiting	Mandi House	4.0	3.8	47	
+78	414 S Mill Ave	aVKOO7rBVo2lCj-KElxp5Q	26.0	Its your say finally!	Hippies Cove	3.0	2.9	20	
+79	1755 E Broadway Rd	tWiFat101ID5w_wgAPMXhA	1912.0	Jewel of a place!	Ted's Hot Dogs	4.0	4.0	601	
+80	5004 S. Price Rd	laforpFQiWb1s3w9BtnR0w	2.0	Worth Visiting	Around the Board A Board Game Cafe	5.0	4.8	4	
+81	933 E University Dr, Ste 103	Wrd9LAbc8IOoAS5H6uw9sw	472.0	Must Visit!	Delhi Palace Cuisine of India	4.0	3.6	199	
+82	955 E University Dr	U8rHQ_Sg8A2m291Y7WEfIg	1164.0	Must Visit!	Devil's Advocate	4.0	3.5	179	
+83	216 E University Dr	ba4jRrqz6xlWgg0YIjAoAw	76.0	Its your say finally!	Barney's Boathouse	2.0	2.4	14	
+84	4 E University Dr	oLod-GlOLEH4KAvyddKuQQ	9.0	At your own risk	Sucker Punch Sally's Diner	3.0	2.8	46	
+85	603 W University Dr	MbAsfN3wwV22K7GZsgcBqA	450.0	Worth Visiting	Mucho Gusto Taqueria Mexican Bistro	3.0	3.5	148	
+86	3135 S 48th St	-2A9emZwBK8zYHPnAmM0hw	13.0	Its your say finally!	China Farm Chinese Buffet	3.0	2.7	9	
+87	440 W Warner Rd., Ste 104	-XW3Peaen5jsnvGRrue_Qw	67.0	At your own risk	My Big Fat Greek Express	4.0	3.8	12	
+88	727 E Tyler St	65f0pXB1bSwHH1Pi7kkryw	59.0	Its your say finally!	Bio Bistro	3.0	2.7	9	
+89	1740 E Broadway, Ste 109	V3erF_OvXVcp1HgQiRLQ1g	29.0	At your own risk	Pizza Hut	3.0	3.2	11	
+90	505 S Mill Ave	aZVtg450O51eenM25tDkEQ	1.0	Its your say finally!	La Pita Bar & Grill	2.0	2.4	5	
+91	2000 E Rio Salado Pkwy, Ste A-4	EL3cj9qG8CIS-sqS-t3dRw	7.0	Its your say finally!	Teriyaki Experience	3.0	2.6	10	
+92	1616 W Ruby Dr	Xw2o0GKWxDRMFPR0a4IOoQ	205.0	At your own risk	Life Cafe	4.0	3.5	13	
+93	2700 W Baseline Rd	s_LBvWoe1Vsfhw3vdmiLuw	21.0	Its your say finally!	Chinatown Restaurant	2.0	2.4	17	
+94	1001 E 8th St	lm3DeasThkVSve9HAEBkpg	41.0	Its your say finally!	Rocky Point Cantina	2.0	2.5	6	
+95	1805 E Elliot Rd, Ste 106	GC9Re0tKAnecMww3DB638g	56.0	Worth Visiting	Jalsa Ice Cream and Bakery	4.0	3.8	40	
+96	3135 S 48th St, Ste 102	N_ML37GOTOLtGKWqRnbJRA	72.0	At your own risk	Big Wa Chinese	4.0	3.5	54	
+97	1628 E Southern Ave, Ste 2	LEYZb8jiD36RQTElxy0YrQ	434.0	Worth Visiting	Back East Bagels	3.0	3.5	153	
+98	777 S College Ave	GB6bZTCMmqZncRSxurNblA	64.0	Worth Visiting	Nocawich	4.0	4.0	49	
+99	Apache  Terrace Rd	CIU0NCEOof6qF6AasxUvTA	4.0	Must Visit!	Vaquero's	5.0	5.0	3	
+100	510 W Broadway Rd	l3bmBkr8_Pw3G-QkX0tPrw	587.0	Must Visit!	Tasty Thai Restaurant	4.0	4.0	139	
+101	1301 E. Broadway Rd.	Z890syqhhoShqFnIyIu9EA	803.0	Worth Visiting	Native Grill & Wings	3.0	2.9	163	
+102	930 W Broadway Rd, Ste 1	naY7HcWB4kkHBmxOcOl0ag	303.0	At your own risk	Sub Factory	4.0	3.5	48	
+103	1158 W Washington St, Ste 105	62HZvu4RyAnhRswWn3e7qA	175.0	At your own risk	Haiku Grill	3.0	3.0	44	
+104	1212 E Apache Blvd	wnKcNv7wHfZpTIALz64BQQ	121.0	Must Visit!	Hangover Hoagies	5.0	4.6	52	
+105	6428 S McClintock Dr	cBZi2dtlWywtSDver2h0fQ	9.0	At your own risk	Wildflower Restaurant & bakery	3.0	3.4	5	
+106	6022 S McClintock Dr	SYKIUCvN9JdSkVampgccfA	282.0	Worth Visiting	Amados Mexican Food	4.0	3.7	97	
+107	909 E Broadway Rd	Oj6W90G1ZVay9cRl6_uKXg	363.0	At your own risk	Applebee's Neighborhood Grill & Bar	3.0	2.6	105	
+108	1528 E Southern Ave	h-Oq86DZfZad9kKXe8m7Lg	550.0	Must Visit!	Los Reyes De La Torta	4.0	4.0	209	
+109	1324 S Rural Rd	sEvsx89wie9oSU5AlvCBGg	207.0	Worth Visiting	Costa Vida Fresh Mexican Grill	4.0	3.5	72	
+110	1340 E Broadway Rd, Ste 105	-IZvuqxekWEvJqDw308daQ	920.0	Must Visit!	Los Favoritos Tacos Shop	4.0	3.5	174	
+111	625 E Baseline Rd	J1gvlBxU7_YqgYDHTQIgbA	35.0	Its your say finally!	McDonald's	3.0	3.0	12	
+112	5000 Arizona Mills Cir	H7PB7JoyEkr2RBMt5SjxLw	2.0	Its your say finally!	Nathans Famous Hotdogs	2.0	2.0	3	
+113	5235 S Kyrene Rd, Ste 104	Chv2JIBZ4nxz19u9A5BZ8w	54.0	At your own risk	Nacho Mamas	3.0	3.4	29	
+114	219 E Baseline St, Ste H001	ZHQU79PMUGCX0fEoyCcWlw	408.0	Must Visit!	Caribbean Spice	4.0	3.6	211	
+115	414 W University Dr	TkgEHV_4Qmamb_wUvkgdTg	118.0	Worth Visiting	Biscuits Cafe	4.0	3.9	39	
+116	680 S Mill Ave	E_eIph8IT10Uo06ZdWwoUw	2075.0	Must Visit!	The Handlebar Tempe	3.0	3.5	269	
+117	1400 S McClintock Dr, Ste 14	In1B_y225-bJw3jfbk1uAA	8.0	Worth Visiting	Ako International Market	4.0	4.3	3	
+118	1813 E Southern Ave	bhosqo-Q1xp67iLqrd1Rbw	50.0	Its your say finally!	Papa John's Pizza	2.0	2.5	20	
+119	411 S  Mill Ave, Ste 102	21fK0m8sQFbRQv3RlskE2w	191.0	At your own risk	Corleone's	3.0	3.1	114	
+120	1135 E Apache Blvd	8B1TIuaqhaZ7QMEhDUu-Gg	1229.0	Must Visit!	D'Lite Healthy On The Go	4.0	4.1	235	
+121	922 E Apache Blvd	6_lNZXYsz0SIOakNyBF0zQ	186.0	Worth Visiting	Brosenbrus Cafe	4.0	4.2	44	
+122	SCNM Southwest College of Naturopathic Medicine, 2152 E Broadway Rd	zpf-9NlOGSGGIIbJLO27eg	45.0	Worth Visiting	Nourish	4.0	3.8	25	
+123	1849 N Scottsdale Rd	Gtw-SpnhyNa0TwNETlysyw	62.0	At your own risk	Southern Spice	3.0	3.4	28	
+124	1138 E Baseline Rd	o56LV-WnalGB0URVvoOh4A	29.0	Worth Visiting	Lychee Inn	4.0	3.8	22	
+125	5144 S Rural Rd	lgIa0COVEmsiFI_ZWXn6_g	89.0	Its your say finally!	McDonald's	2.0	2.0	9	
+126	524 W University Dr	H94fBucKEuNKsjbSy7WODg	178.0	Must Visit!	Little Szechuan	4.0	3.8	187	
+127	1805 E Elliot Rd	6ylM5QEoE24BR83RtuKHNg	2.0	At your own risk	Luigi's Pizza	4.0	3.7	3	
+128	1415 West Elliot Road	-wUKgQXAMC4H5hiBOgpT6g	156.0	Its your say finally!	Taco Bell	3.0	2.9	25	
+129	1845 E Broadway Rd	S1jjDv8mwJ4psGQA4b8RjA	35.0	Worth Visiting	Memo's Cafe	4.0	3.9	22	
+130	2107 S Rural Rd	rBTlmcEEQka-7cdU6ByrYg	10.0	At your own risk	Maya New York Pizza & Grill	3.0	3.4	37	
+131	1020 S Mill Ave, Ste A	lC2hnEYBN_97HXDQnpGpZA	109.0	Must Visit!	King Coffee	5.0	4.6	64	
+132	502 S College	2fsJzlV09zPV12wT037pig	141.0	At your own risk	Dave's Electric Brewpub	3.0	2.8	52	
+133	804 South Mcclintock Ave	6YrmJ_pxLSTabcM_FFZhlQ	139.0	At your own risk	Wienerschnitzel	3.0	3.2	42	
+134	1043 E Lemon St	0zTLMQOZhiCp9GFtegiFsw	259.0	Must Visit!	Kohinoor Cuisine of India	4.0	3.7	214	
+135	5394 S Lakeshore Dr	wL-wZmYgogR2jtwMMBisUw	4.0	Worth Visiting	Boathouse	4.0	4.3	3	
+136	2000 E Rio Salado Pkwy	Jc2X0JqdBupkOzTPZtbcWA	3.0	At your own risk	Cheeburger Cheeburger	3.0	3.4	40	
+137	1821 W Baseline Rd	8DAPLb2_IIFGfD8ltw0NBQ	43.0	Its your say finally!	Taco Migo	3.0	2.8	15	
+138	Tempe Marketplace, 2000 E Rio Salado Pkwy	2qlaSFyYFuzEo76jaL_ghQ	11.0	Its your say finally!	Stella's Kitchen	3.0	3.0	9	
+139	1290 S Normal Ave	TWSKXlz2niDh9Pyuj90Dng	185.0	Worth Visiting	Engrained Cafe	4.0	3.9	35	
+140	11 E 6th St	futvxFkM42RYxXr8ROogBQ	430.0	Must Visit!	The Munchies Cafe	4.0	3.9	123	
+141	9955 S Priest Dr	ljD9NsZzpLAsX9yva7lqJw	78.0	Its your say finally!	McDonald's	2.0	2.2	18	
+142	1845 E University Dr	w3XZf4qnRUE3cSQZVcaSMw	353.0	Must Visit!	Kona 13 Coffee & Tea	5.0	4.5	96	
+143	2700 W Baseline Rd, Ste 103-104	jNLfGkcspKdHjnz7c_zrLQ	5.0	Its your say finally!	Wingstop	2.0	1.8	12	
+144	2155 E University Dr	SkZ7f-zFsKrthhhppDn6Tg	13.0	Worth Visiting	Arlie's Bar & Grill	4.0	4.2	18	
+145	528 W Broadway Rd	d3C5QTYpZCdp2pV1Cq5G_g	7.0	Its your say finally!	Mr Goodcents Subs & Pastas	3.0	2.9	12	
+146	1994 W Baseline Rd	WMcNyg68PVCwWQH_pOl6WA	238.0	At your own risk	Denny's	3.0	2.9	54	
+147	521 S College Ave, Ste 9	mbV5FSZjiUViAdwcYRY0Rw	115.0	At your own risk	Dickey's BBQ Pit	3.0	3.2	48	
+148	839 W University Dr	aXsmmtepl0JZNcl3pkXqww	417.0	Must Visit!	Sacks Sandwiches - Hardy	4.0	4.1	99	
+149	777 S College Ave	CMx3FbuKpEIUNUMyQdKncw	17.0	Its your say finally!	Extreme Pita	2.0	2.3	6	
+150	960 W University Dr	6QIzCTSZfXL3r2mIWn58bQ	8.0	Its your say finally!	Cafe Roma	2.0	2.3	6	
+151	15 W 5th St	9jOGMcH1pxDDhgSMLBnb-g	135.0	Worth Visiting	Thirsty Dog 2 Go	4.0	3.8	46	
+152	35 S McClintock Dr	vJvEKFtQ8Am95tWEkiwOGA	757.0	Must Visit!	King's Fish House - Tempe	4.0	3.5	302	
+153	933 E University Dr	7NXSKpruXOrm9_INkZAFEQ	29.0	Worth Visiting	Chix Char Broiled Grill	4.0	4.5	11	
+154	1619 W Baseline Rd	E3ODMVUoz27BJ17r58E-5g	117.0	Its your say finally!	Popeyes Louisiana Kitchen	3.0	2.6	27	
+155	815 E Baseline Rd, Ste B113	I-VD-o4JDGSG5GHQ2EbrVA	844.0	Worth Visiting	Smashburger	3.0	3.2	197	
+156	2000 E Rio Salado Pkwy	hAioxEk3WU-SzlqIM4TI7w	36.0	At your own risk	Maria Maria	3.0	3.0	90	
+157	1743 E Broadway	ad0LjmuXhUGBxTSkve5LZA	373.0	Must Visit!	Beaver Choice	4.0	4.4	180	
+158	21 E 6th St, Ste 146	awPIH7K4WA5BKJfiQlZcow	539.0	Worth Visiting	Bison Witches Bar & Deli	3.0	3.3	118	
+159	3320 S Priest Dr	l9B72QwKjUhEA-pLumCa5w	185.0	Worth Visiting	Golden Egg Roll	3.0	3.4	96	
+160	1845 E Broadway Rd, Ste 101	-8QlV3b_9H4BAh6LgMIr1g	432.0	Jewel of a place!	Nandini Indian Cuisine	4.0	4.2	436	
+161	7520 S Rural Rd, Ste A7	eiywQMru9IZF-Bq_IplyJg	4.0	Worth Visiting	Tempe Water & Ice Store	4.0	4.0	4	
+162	7520 S Rural Rd	pa-C-Vsk9ntuXBGjTr0tBQ	388.0	Must Visit!	P.croissants	4.0	3.6	156	
+163	9 E Southern Ave	lCxtNddU4aDWMCgnzRYbsw	63.0	Worth Visiting	Paldo Market	4.0	4.5	23	
+164	725 S Rural Rd, Ste 103	nChi_8Gygb6NUMa_kg_tlQ	289.0	Worth Visiting	Asian Fusion Cafe	4.0	3.8	85	
+165	1490 E Weber Dr	OJBn0HFMvVB9TDcr4OLttw	38.0	Worth Visiting	Singh Meadows	5.0	4.6	16	
+166	9845 S Priest Dr	9U6K2_IImm3nYTna_69fFw	27.0	At your own risk	Steakies Cheesesteaks	3.0	3.4	28	
+167	2000 E Rio Salado Pkwy	KMYLwjpx6cjanynnc4mJvw	49.0	Its your say finally!	Yum Yum China	3.0	2.9	18	
+168	744 W Elliot Rd	x5vSE0-NO_YSZtOnitLWuQ	247.0	Worth Visiting	Gandolfo's New York Delicatessen	3.0	3.2	100	
+169	2107 S Rural Rd	S7d4PCHIl2uO2hLxSHASqQ	47.0	At your own risk	Jamie's Pizza and Pitas	3.0	3.2	48	
+170	605 S Mill Ave	0aSvr56wz4gRAA5TtV7_Tw	613.0	Its your say finally!	Zuma Grill	3.0	2.5	80	
+171	9845 S Priest Dr, Ste 103	f0pIB6KkSRxc1mxPG70ACQ	201.0	Worth Visiting	NYPD Pizza	4.0	3.9	45	
+172	1730 E Warner Rd	8dolrPYCAgqzPzZCv23lvQ	27.0	Worth Visiting	Scotti's Market & Eatery	4.0	4.5	34	
+173	690 S Mill Ave	Vrwc9RPievPfQl4VCReXow	1.0	Its your say finally!	Uno's	2.0	2.5	11	
+174	2314 E Apache Blvd	lOW5kH6nHVOYfmoAfpWvHw	231.0	Worth Visiting	Miu's Cuisine	4.0	3.9	88	
+175	1927 E Ellis Dr	nn8RDkUz0cWLcEhuga4f7Q	1.0	Worth Visiting	Handy AZ Man	5.0	4.7	15	
+176	200 E 5th St	u22akZ9o7DPQ3En_9AQ1lg	36.0	At your own risk	Revo Pizzabar	4.0	3.7	30	
+177	222 S Mill Ave	HkbNItNrnXlNo59M0YyoMg	807.0	Must Visit!	Loco Patron	4.0	3.6	186	
+178	301 E Orange Mall	89Tgq6_T1m8CQ-8l_VPcDQ	5.0	Its your say finally!	Pitchforks Restaurant	3.0	2.7	3	
+179	1801 E Baseline Rd, Ste 104	x_SK4kvfWdCDDBmA_ErxqA	26.0	At your own risk	Pasand	3.0	3.0	35	
+180	1537 W Broadway Rd	rXceWs_H4PLmY99rGcbk6w	31.0	At your own risk	Jersey Mike's Subs	3.0	3.2	20	
+181	1202 W Broadway Rd	QprcsinZiEmrE3fNtzpyDg	10.0	At your own risk	Long John Silver's	3.0	3.3	3	
+182	715 S Rural Rd, Ste 107	ZDE5QPR5Q9sL50bhK3qv1A	16.0	Worth Visiting	McAlister's Deli	4.0	4.3	11	
+183	640 S Mill Ave, Ste 120	1Z4_zSITNVQ_Bt027R0S1g	1556.0	Worth Visiting	Robbie Fox's Public House	4.0	3.6	128	
+184	780 W Elliot Rd	jbwyl98wXrEKDkgFz2PiwQ	456.0	At your own risk	Jimmy John's	3.0	3.3	68	
+185	1006 E Warner Rd, Ste 113	3b-jZX9Ms0U9B2Oy_ZmNMA	99.0	Worth Visiting	Sushi Kee	4.0	4.0	66	
+186	1429 W Baseline Rd	OXSVjoMQflcB1xRb6T7eFA	107.0	Its your say finally!	McDonald's	1.0	1.5	17	
+187	3141 S McClintock Dr, Ste 10	bqMEml5HIFSMo4CPfjlG0A	58.0	Worth Visiting	Chill	4.0	4.3	51	
+188	616 S Forest Dr	bKyjGqmnP4goQRYYp4ARhg	11.0	At your own risk	Salam's Market & Deli	3.0	3.4	7	
+189	1805 E Elliot Rd	fXqlzAM6PTXUGrU4y33LzQ	241.0	Must Visit!	La Casa De Juana	4.0	3.8	190	
+190	9900 S Rural Rd	6MKdilxYLP3W02wnu3UFmQ	172.0	Its your say finally!	Einstein Bros Bagels	3.0	2.5	31	
+191	222 East University Dr	nirw-sDOBF12TA6Mh8ju7g	100.0	At your own risk	The Pita Pit	3.0	3.0	22	
+192	325 W Elliot Rd, Ste 101	ipxip8n5xVHx_ORLhDwqZA	2.0	Its your say finally!	PIZZAM!	3.0	3.0	3	
+193	100 W University Dr, Ste 113	pmjwA8fI0scEBA7HRtbI3w	409.0	Worth Visiting	Capriotti's Sandwich Shop	4.0	4.1	46	
+194	3141 S McClintock Dr, Unit 13	AbnpKkW0mpv34jtRps4C0A	1244.0	Jewel of a place!	Lobbys Burgers	4.0	4.2	316	
+195	9880 S Rural Rd	Cdywb13_07M1_g3U85VKTA	244.0	Worth Visiting	Hong Kong Asian Diner	3.0	3.3	104	
+196	735 E University Dr	vBV5IbpTgUKuu2HlneE2NA	585.0	Worth Visiting	America's Taco Shop	3.0	3.4	142	
+197	1813 E Baseline Rd	UBj-25LU5dxJ9meb-TPc9w	195.0	Worth Visiting	Little India	4.0	3.5	109	
+198	400 E Rio Salado Pkwy	utR8Ei5_c2CRAIffpYtdZQ	333.0	Must Visit!	Matt's Big Breakfast	4.0	3.7	177	
+199	405 W University Dr	mKf7pIkOYpEhJTqjw4_Fxg	69.0	Worth Visiting	Tessio's Pizza	4.0	3.7	68	
+200	927 E University Dr	TQur3w5rlpsxRZxuomz-Xw	135.0	Worth Visiting	BurgerFi	4.0	4.1	64	
+201	1320 W Elliot Rd	maGqjGXYPzal3YydKu8wjQ	144.0	Its your say finally!	Panda Express	2.0	1.9	40	
+202	201 E Baseline Rd	O6obMXRKCnLMygvm2fSp0w	535.0	Worth Visiting	Brick & Barley	3.0	3.2	121	
+203	655 W Warner Rd, Ste 110	vQtlv7CEiOjpUqh8Kb7iDQ	24.0	Its your say finally!	Taquito Rosita	2.0	2.4	11	
+204	926 E Guadalupe Rd	oWxiT2PasutHFyZp8Yh2mA	288.0	Must Visit!	Salazar Bros Mexican Food	4.0	4.3	82	
+205	815 E Baseline Rd, Ste 109	kuRBSlWaAJkzxlDRW4FjZA	36.0	At your own risk	Subway	3.0	3.1	14	
+206	2010 E Elliot Rd	p8H_WsH1SltPmo0-c67gFQ	236.0	At your own risk	Smashburger	3.0	3.2	66	
+207	1245 W Elliot Rd, Ste 101	DS0E9qEyVTyV_BGWoPgjGQ	99.0	Its your say finally!	Kyoto Bowl	2.0	2.4	30	
+208	3231 S Mill Ave	2zB-y-kobzrMXs0XMjavgw	35.0	Its your say finally!	Olive Branch Restaurant	2.0	2.2	16	
+209	225 E Apache Blvd	6lCFq6RQxctSW37yNYZ5wg	196.0	At your own risk	Tapacubo	3.0	3.1	100	
+210	1158 W Washington St	ZuNVijvXJmWCQG7xoV6nFA	144.0	Worth Visiting	Cafe Roma	4.0	3.8	36	
+211	2210 N Scottsdale Rd	FsCujpVh9Za2Dl5MIYLCxA	1307.0	Jewel of a place!	Zu Izakaya Asian Kitchen	5.0	4.6	463	
+212	400 W University Dr	_MzJncLDDFC7-0QLt1KQcg	165.0	At your own risk	Chili's	3.0	3.0	52	
+213	1301 E University Dr	OoYwJANV9zD-_OA4Atu-gg	1738.0	Jewel of a place!	Republic Ramen + Noodles	3.0	3.3	571	
+214	1805 E Elliot Rd, Ste 105	gONNfEoNaRLNtgaAcxwsLQ	1273.0	Must Visit!	Flanny's Bar & Grill	4.0	3.7	180	
+215	2000 E Rio Salado Pkwy, Ste 1226	CQokoa1vN8j6OP7dyizJDw	936.0	Worth Visiting	Chipotle Mexican Grill	3.0	3.4	84	
+216	9920 S Rural Rd, Ste 105	YJS7cXGLAvWw9DUDXpw84Q	443.0	Worth Visiting	Babbo Italian Eatery	4.0	3.5	141	
+217	1250 E Apache Blvd, Ste 101	QT4Ub4DlaDX52vdnKutD0A	47.0	At your own risk	Copper Kettle	4.0	3.6	44	
+218	505 S Mill Ave	OiaoUB_UjY-VZ_xd5WKDmg	208.0	At your own risk	Crave Cafe & Lounge	3.0	3.2	48	
+219	1320 E Broadway Rd, Ste 102	WnrK19zBdW3ATWRc9RjYMA	47.0	Must Visit!	Vertigo Hookah Lounge & Cafe	5.0	4.7	32	
+220	1807 E Baseline Rd	pdr6U7qSa9jIivVy_glF-w	116.0	Its your say finally!	China Town Buffet	2.0	2.2	86	
+221	699 S Mill Ave, Ste 117	3KFWuiz8lla9SospgQn6Yg	992.0	Jewel of a place!	Slickables	4.0	4.3	282	
+222	8750 S McClintock Dr	HKoPaMZc1iG8XYzYRhwBKw	20.0	At your own risk	Rosati's Pizza	3.0	3.1	11	
+223	521 S College Ave, Ste 107	Qk49X8OrbzbG5Qa7VXhV2w	20.0	Its your say finally!	Jimmy John's	2.0	2.1	17	
+224	7425 S Harl Ave	4hf_GXJjDK1cZJvWpVUVOg	6.0	Its your say finally!	Apple Spice Junction	3.0	3.0	8	
+225	2020 E Elliot Rd, Ste 102	2CNaSduqZIsCRuNvdO_TAQ	71.0	At your own risk	Chipotle Mexican Grill	3.0	3.0	32	
+226	208 W Southern Ave	dSEcQPPUlATxZf5pvN_t5Q	195.0	Worth Visiting	Red Devil Italian Restaurant & Pizzeria	3.0	3.4	91	
+227	1475 W Elliot Rd	ZvtELJTUOh0yRrPxyyiakQ	1471.0	Must Visit!	Oregano's Pizza Bistro	4.0	4.0	284	
+228	1301 E University Dr, Ste 112	xAVj_vQj9eTHorWMxY4CPQ	92.0	Worth Visiting	Kolby's Corner Pocket Billards	4.0	4.4	24	
+229	960 N Scottsdale Rd, Ste 101	CmgNyXaBPsn6hLLtWPL_qg	257.0	Must Visit!	Berry Divine Acai Bowls	4.0	4.3	131	
+230	5000 S Arizona Mills Cir	CU4LgHxH0EwXnPUmQsWFSQ	9.0	Its your say finally!	Church's Chicken	2.0	2.0	7	
+231	8707 S Priest Dr, Ste 108	F6981E_sIQLhPzImbBagAQ	374.0	At your own risk	Tropical Smoothie Cafe	3.0	2.8	111	
+232	1825 E Guadalupe Rd	9lJvU8ymisVHNa-pnowCWA	2.0	Worth Visiting	Papa Razzini	4.0	3.9	15	
+233	1726 E Southern Ave, Ste 3	qOd7QUh-sIB7zN7RbP1-qw	595.0	Worth Visiting	Genuine Fresche	3.0	3.5	150	
+234	5000 S Arizona Mills Cir	lm9gDpvhJcZ-m2Y0feYtkA	63.0	Its your say finally!	Mo' Burger	3.0	2.7	63	
+235	5000 S Arizona Mills Cir	cpuLjGxFQqJceW4zzJdvaw	19.0	Its your say finally!	Sukotto Japanese Grill	1.0	1.4	20	
+236	9920 S Rural Rd, Ste 111	BPAm6_JH34HB9FG5Jx1Nig	125.0	Must Visit!	Poké Wave	5.0	4.7	50	
+237	920 E University Dr	tgDUi6vtF1cI3DQe5sqQBw	15.0	Its your say finally!	Devil's Pizza Factory	2.0	2.2	22	
+238	219 E Baseline Rd	8VwDchHdgV7xJFGAjay2jw	19.0	Its your say finally!	Carmen's Bistro	2.0	2.0	21	
+239	325 W Elliot Rd, Ste 104	Yv9IJnHVvToCTetM0vSwcA	1.0	At your own risk	Paytons Place	3.0	3.2	5	
+240	1158 W Washington St	qnql60YyttH_nMfufiHHtw	251.0	At your own risk	Sami's Gyros	3.0	3.0	68	
+241	818 W Broadway Rd	OD09pm-MzynigAvD5KoGPA	588.0	Jewel of a place!	Maskadores Taco Shop	4.0	4.5	379	
+242	825 W Baseline Rd, Ste 101	QBLl3bVLWZB4-jS-O_MKug	62.0	Worth Visiting	Barro's Pizza	4.0	3.8	29	
+243	1604 E Southern Ave	iPyhXWQ2LVSgBlQA4vqKJw	373.0	At your own risk	Joe's Crab Shack	3.0	2.9	116	
+244	Tempe Marketplace	70GtD32xaw1_Rd_sVaOEnQ	37.0	At your own risk	Ruby Tuesday	3.0	3.1	18	
+245	1731 E Broadway	5-cghsJrQjAz9nN4DNClEw	6.0	Its your say finally!	Oasis Cafe	2.0	2.4	5	
+246	2000 E Rio Salado Pkwy, Ste 1064	AJ8DDFm6QaihAPZI3wFBHw	257.0	Worth Visiting	Tea Infusion	4.0	3.7	99	
+247	1717 S Rural Rd, Ste 102	x9p1WdRz7FSRy0Q38PiGlA	395.0	Worth Visiting	Potbelly Sandwich Shop	4.0	4.0	77	
+248	1038 S Mill Ave	sahppzQJ0HtvMC7L8ILTVg	793.0	At your own risk	Chipotle Mexican Grill	3.0	3.2	64	
+249	1815 E Elliot Rd	DLv9d4CVzk8gPKSAEKpTSw	147.0	At your own risk	Windy City Cafe	3.0	3.2	46	
+250	202 E University Dr	U6P56MjLrraN0JBNvOjxaA	1695.0	Jewel of a place!	The Chuck Box	4.0	4.2	596	
+251	1857 N Scottsdale Rd	3_n3JdLWkyPCDtPSU-UyUQ	9.0	At your own risk	Cafe Villaggio	3.0	3.4	5	
+252	933 E University Dr, Ste 112	WGfalBzV-u0gXKb6149ZCQ	81.0	Must Visit!	Blue Nile Cafe	4.0	4.0	102	
+253	825 W Baseline Rd	_V4I3DfzYbIHL77XDaVM-Q	24.0	At your own risk	Gourmet Wok	3.0	3.2	16	
+254	501 S Mill Ave, Ste 201	oO6J78pMW4s8OzSUm75SpQ	411.0	At your own risk	Hooters	3.0	2.7	68	
+255	203 E 7th St	_k3PJI3mSS3eIpV8FZ6Tqg	48.0	At your own risk	Gluttons	4.0	3.6	26	
+256	933 E University Dr, Ste 115	8CRXSMiyTR9DOMOdrTDRUw	432.0	Must Visit!	Gangnam Sushi & Grill	4.0	4.0	221	
+257	414 S Mill Ave, Ste 117	-tcJmqzfaeEnpFMAelB7bA	343.0	Must Visit!	MedFresh Grill	4.0	3.7	161	
+258	1835 E Southern Ave	NrZLuREHIfKIeVwSH4G43A	17.0	Its your say finally!	Taco Bell	3.0	2.7	6	
+259	1400 S McClintock Dr	cTgTtdw_O-C7VO3oNzGRvg	164.0	At your own risk	Starters Sports Bar and Grill	4.0	3.6	28	
+260	420 S Mill Ave, Ste 201	aVkVDJ01OgvNwhlCUz_bng	1420.0	Must Visit!	Gordon Biersch Brewery Restaurant	3.0	3.1	314	
+261	1314 S Rural Road	q-9wprAg0B4_5o2ZWeR20g	37.0	Its your say finally!	Wendy's Old Fashioned Hamburgers	3.0	2.8	6	
+262	2070 E Apache Blvd, Ste 103	Tl0_JsPz8B3I-opvSZXRGg	30.0	Worth Visiting	Metro Espresso & Sandwiches	5.0	4.8	5	
+263	615 S College Ave, Ste 103	vK1_qKEG7zHvjiTOsN0CRg	1872.0	Jewel of a place!	Snooze An AM Eatery	4.0	4.3	708	
+264	1021 W University Dr	Rj3wnYT1QAxpJlRT5mMc-g	1629.0	Jewel of a place!	Harlow's Cafe	4.0	3.9	430	
+265	1801 E Baseline Rd, Ste 102	sZf_KrF9ZLC7z4jiLGgVOw	760.0	Must Visit!	Steve's Espresso	4.0	4.2	139	
+266	2350 E Southern Ave	xUvgrDdKhcmaP6Zv0ssb6A	511.0	Worth Visiting	Manuel's Mexican Restaurant - Tempe	4.0	3.6	131	
+267	1400 S McClintock Dr, Ste 3	XyaOCULIHZjssQoM-FJLpA	58.0	Its your say finally!	Hubbly Bubbly Hookah Bar & Lounge	3.0	2.5	35	
+268	960 W University Dr, Ste 116	G7Ull-QUaNXyPwtEErHZ8g	161.0	At your own risk	Mr. Hunan	3.0	2.6	86	
+269	710 E Gilbert Dr	w0p0kLkEp4djkzJBmSkpuA	31.0	Its your say finally!	Crazy Fish & 202 Sushi	3.0	2.6	23	
+270	Arizona Mills Mall, 5000 Arizona Mills Cir	0Oskle2GkyYMseuJ3TDwRA	23.0	At your own risk	Tilt Studio	3.0	3.2	30	
+271	6505 S Mcclintock Dr	Tt4SLmht8LORplkdhpcwhw	125.0	Its your say finally!	Panera Bakery & Cafe	3.0	2.6	36	
+272	1125 E Apache Blvd	pxpLVCInGwLClbnwJwxInw	227.0	Worth Visiting	King Tut Cafe & Catering	4.0	4.1	49	
+273	2525 S Rural Rd, Ste 8N	oWM1ZEsqgJYMgvLbWUwuaw	34.0	At your own risk	SpaMassage For You	4.0	3.5	52	
+274	7510 S Priest Dr, Ste 104	RMtnJYAAiXmUFrMngttEoQ	527.0	Worth Visiting	Tzikii Pita Grill	4.0	3.8	115	
+275	699 S Mill Ave, Ste 201	mZsvMd5RCat1d3KMSD5tsg	183.0	Worth Visiting	Endgame Bar	3.0	3.4	83	
+276	777 College Ave, Ste 101, Arizona State University	xQLfpn1qaXt_j3osW86Iwg	144.0	At your own risk	Cupz Coffee	3.0	3.4	45	
+277	1111 S Rural Rd	7N3q70C_mwEYQ2QcGfjvgA	769.0	Must Visit!	Thai Basil	4.0	4.0	235	
+278	710 W Elliot Rd, Ste 101	b1s8c1CTlHmLIlNGI9q-mQ	292.0	Must Visit!	Donna's Bakery Cafe	4.0	4.1	90	
+279	1701 E Guadalupe Rd	ROMFVEFKEYi7qhyITX6jfA	436.0	Must Visit!	24 Carrots Juice Bar & Cafe	4.0	4.1	210	
+280	681 E Apache Blvd, Ste 107	NVvjplHvDAoMOEGbYws4Sw	14.0	At your own risk	Doner Dudes	4.0	3.7	25	
+281	705 W Baseline Rd	MkKMmLQGtuZnjw-5GqLwqQ	73.0	Its your say finally!	KFC	2.0	2.1	25	
+282	4 E University Dr	CRLvROAjgX-aKI7VIfPLFg	283.0	Worth Visiting	Pita Jungle	4.0	3.7	98	
+283	19 E Broadway Rd	xRbAlgd3UjNM1UO831a7hg	50.0	At your own risk	Mad G's Grill & Tavern	3.0	3.2	15	
+284	1415 N Mill Ave	BBiHfu0tFmJki_1h1bqHag	148.0	At your own risk	Rolling Hills Golf Course	4.0	3.7	22	
+285	1817 E Baseline Rd	44vEjV59_w0cm_Lhyif3bQ	239.0	Worth Visiting	Senor Taco	4.0	3.9	91	
+286	7520 S Rural Rd, Ste A9	2zo1Gg_ERRjn5LzX9hzR5w	545.0	Must Visit!	Clockwork Pizza	4.0	4.1	224	
+287	2070 E Apache Blvd	rIv4K_LvVbPwC9tPO_fwYw	8.0	Worth Visiting	NY Classic Subs	4.0	4.0	4	
+288	960 W University Dr	VO-p1uczeMbzH8bEAv-RgA	391.0	Worth Visiting	Rosita's Fine Mexican Food	3.0	2.9	156	
+289	818 W Broadway Rd	WBxR9IC6E9-4szNzq7_Y3Q	212.0	Worth Visiting	Lemongrass Thai Cafe	4.0	3.7	102	
+290	1210 N Scottsdale Rd	ZARxy5Orzk9Ocay0IkU_-Q	48.0	Its your say finally!	Carl's Jr	2.0	2.1	11	
+291	3101 S Mill Ave	yzgiakgxJnZKa7gn6bo7dw	77.0	Its your say finally!	Kyoto Bowl	2.0	2.5	37	
+292	1295 W Washington St, Ste 102	bSbo_LTI2HR9wXyosRCIvQ	417.0	Worth Visiting	Ladybug Cafe	4.0	4.2	27	
+293	1849 N Scottsdale Rd	q7T-qCW0WLemnnLt88OuWQ	11.0	At your own risk	Bombay Palace	4.0	3.9	7	
+294	1045 Lemon St, Ste B	Cl5PHhHfOzimUTCWjC5yNA	142.0	At your own risk	Hungry Howie's Pizza	2.0	2.4	124	
+295	2090 E University Dr	ufA5ebLmVAqCuhMrApaONg	279.0	Must Visit!	Munch A Mania	5.0	4.6	101	
+296	2755 W Southern Ave	hE_U-gUwu-3-7CVKXU9vAQ	56.0	At your own risk	Wendy's	4.0	3.5	8	
+297	930 University Dr	euhSHOJzcYrff3B6F-okkw	168.0	At your own risk	Copper Blues	4.0	3.6	30	
+298	21 E 6th St, Ste 114	IZq8vOqGy__PMUnYJbiHuw	67.0	At your own risk	The Center Bistro	4.0	3.7	23	
+299	1402 S Priest Dr	k57YAz2gkeXgAYij7JIxjw	158.0	At your own risk	Philly's Sports Bar & Grill	3.0	3.4	62	
+300	950 E Baseline Rd, Ste 101	ygZSfAsnlztdeWZOlJA2Ug	164.0	Worth Visiting	Barro's Pizza	4.0	3.9	72	
+301	1804 E Elliot Rd	4FFhq0e4bxAG4uXqgT14jQ	102.0	At your own risk	Boston Market	4.0	3.6	20	
+302	21 E 6th St	9kjk05G50XWnmJQBz_wcnw	505.0	Must Visit!	Umami	4.0	3.9	205	
+303	5000 S Arizona Mills Cir	_58OWmDQ7IUFe8WnKvwzhw	23.0	Its your say finally!	Tinta Mexicana	3.0	2.6	24	
+304	1205 S Rural Rd	m-KkjBgtiRhtXA10_jwh2Q	78.0	Its your say finally!	McDonald's	2.0	1.7	29	
+305	502 S College Ave	Ps4tmjscZNPHKF2rCS8tnA	200.0	At your own risk	Mad Hatter Brew Pub	3.0	2.8	57	
+306	740 S Mill Ave, Ste 140	6W20fKnjqPTSU2irnSVmSQ	772.0	Worth Visiting	P.F. Chang's	3.0	3.2	175	
+307	2032 E Golf Ave	8WA2kwCm7AEcDPTJaJjVuQ	209.0	At your own risk	Shalimar Country Club	3.0	3.2	44	
+308	5000 S Arizona Mills Cir	c3zYwxR1TcpeO2fugLTxEA	35.0	Its your say finally!	Raspados Paradise Mexican Restaurant	3.0	2.8	28	
+309	630 W Elliot Rd	X33BIVfxrbNa5l_53w2FpQ	245.0	Its your say finally!	Sonic Drive-In	2.0	2.2	46	
+310	960 W University Dr, Ste 105	EHgGscaiJBghjZVT9hsBFw	40.0	At your own risk	Mister G's Pizzeria	4.0	3.7	19	
+311	1405 W Baseline Rd	gpivFNirREOyEAwxVebR5g	111.0	Its your say finally!	Wendy's	2.0	2.5	23	
+312	1010 W Elliot Rd	fckUjXz1GKpafT4x7-MVJA	614.0	Worth Visiting	Olive Garden Italian Restaurant	3.0	3.3	118	
+313	939 E Guadalupe Rd, Ste 1	0ebavvJVXAzKKQ8C9cOt6g	70.0	At your own risk	Chopstick Express	3.0	2.9	141	
+314	1501 W Fountainhead Pkwy	iJthKdobWpJ1Re7kUdUEDA	2.0	At your own risk	Dagwood's	4.0	3.5	4	
+315	7420 S Rural Rd, Ste B-1	d4pXR8yVuJIm6Q3HuRYBfw	20.0	At your own risk	Subway	4.0	3.5	4	
+316	1101 W University Dr, Ste 101	3teomZyQ8z0SuXeJF734xg	2.0	Worth Visiting	Sidewalk Cafe	5.0	4.6	8	
+317	1712 E Guadalupe Rd, Ste 102	ia1Q47ANt6OZDMpQPzkqJQ	15.0	Its your say finally!	Pizza Hut	2.0	2.2	8	
+318	1932 E University Dr	gp9ZESRRNLqWfgJtEzPThA	875.0	Worth Visiting	Original Geno's Pizza & Cheesesteak	3.0	3.1	156	
+319	780 W Elliot Rd, Ste 101	9pvJiPUzB5JTqhNTloKjvA	258.0	Its your say finally!	America's Taco Shop	2.0	2.5	73	
+320	560 S College Ave	h301hAHfIGqVYIlBzs5EgA	151.0	Must Visit!	Nush	4.0	4.5	61	
+321	6430 S McClintock Dr	ELUUibdDcrZHyvE-e-QsVw	652.0	Must Visit!	Mac's Broiler & Tap	4.0	3.6	179	
+322	1537 E Apache Blvd	UY13CTgUqriT-fMxT2APLw	1322.0	Jewel of a place!	Khai Hoàn Restaurant	4.0	4.2	358	
+323	93 E Southern Ave	Nm-45TlwfszqbJtaIalbtw	5.0	Its your say finally!	The Sets	3.0	2.7	10	
+324	1817 E Baseline Rd	zZJlMZ4yXuZ8K9XC4x7SVQ	79.0	Its your say finally!	Jack-In-the Box Drive Thru	2.0	2.4	17	
+325	815 W University Dr, Ste 111	Z0ukPkDOC7GqgS8xAMuI6Q	9.0	At your own risk	5 R Cha Thai Go	4.0	3.6	25	
+326	203 E 7th St	3jy3CXO6gVEat4uB-E2msA	283.0	Worth Visiting	Orange Table Tempe	4.0	3.7	103	
+327	1805 E Southern Ave	mVDXeHkpWK-GNqdi7fN4MQ	33.0	Its your say finally!	Long John Silver's	3.0	2.8	4	
+328	2019 W Baseline Rd	RyJIi1IP0UQ5qGbwazgsIA	693.0	Worth Visiting	Aunt Chilada's Tempe	3.0	2.8	318	
+329	2000 E Rio Salado Pkwy, Ste 1146	BLISNIoF179UUfCBTxNUOA	205.0	At your own risk	Yogis Grill	3.0	2.9	53	
+330	555 N Scottsdale Rd, Ste 101	R_wW7aDtoRjGw8lgM2dB3w	11.0	At your own risk	WaBa Grill	3.0	3.3	14	
+331	960 W University Dr	wl0QZqAzr1DelslQ02JGCQ	5019.0	Jewel of a place!	Cornish Pasty	4.0	4.3	1504	
+332	1849 N Scottsdale Rd	VCYhWAkuxl2Irj_vgnraYw	112.0	Worth Visiting	Taj Mahal Indian Cuisine	4.0	3.7	64	
+333	2755 W Southern Ave	3eMNpEW9idRWUx88ZZbVXw	15.0	Its your say finally!	Arby's Roast Beef	3.0	2.7	3	
+334	1805 E Elliot Rd, Ste 115	kj1p6NwUGROOoqNySf0I1Q	1830.0	Jewel of a place!	Yupha's Thai Kitchen	4.0	4.1	552	
+335	5000 S Arizona Mills Cir	krAgdtJ-2CcNGpuwKCbt9A	322.0	At your own risk	Garcia's Mexican Restaurant	3.0	3.2	81	
+336	3223 S Mill Ave	6Z3lZEEIKv6opbyavmnGbA	746.0	Worth Visiting	Monkey Pants Bar & Grill	3.0	3.4	168	
+337	940 E University Dr, Ste 102	_v1LoEQz_JR1pilS2p3s5A	17.0	At your own risk	Venue 104 - A Performance Cafe	4.0	3.8	4	
+338	227 E Baseline Rd, Ste J007	gMN6VKmu4E1EmlMYzz9A3w	285.0	Must Visit!	OPA Life Greek Cafe	4.0	4.1	147	
+339	1845 E Broadway Rd, Ste 101	h1MxTLZ1b2FkU6ituL1yHA	119.0	Worth Visiting	Royal Taj	4.0	3.7	99	
+340	414 W University Dr	5idlmsT1O86_ywGJtqot5w	117.0	At your own risk	Baja Fresh Mexican Grill	4.0	3.6	14	
+341	1825 E Guadalupe Rd, Ste F-112	vU8-ATy2-MASm-bQXdhRaw	714.0	At your own risk	Pei Wei	3.0	2.9	139	
+342	1845 E. Guadalupe Rd	b65Ugu0VDKDNbLq7sW9RDQ	374.0	Worth Visiting	Filiberto's Mexican Food	3.0	3.5	73	
+343	3415 S McClintock Dr, Unit 107	SFwOkS8pe25qpaSRZ_gGsA	202.0	Its your say finally!	Silver Mine Subs	3.0	2.7	48	
+344	15 E 6th St	5k34OJo3BsEaoyMsW86eZg	430.0	At your own risk	Chronic Cantina	3.0	3.4	69	
+345	2010 E Elliot Rd, Ste 103	napimcgem1KAu8d5tILkww	38.0	Its your say finally!	Jimmy John's	3.0	2.7	18	
+346	6434 S McClintock Dr	Hjfp1i2kVSyZCH5d-MC42g	11.0	Worth Visiting	Sacred Pi	4.0	4.0	29	
+347	5000 Arizona Mills Cir	AOWP-Th_u8C3qLfOlaC0ng	191.0	At your own risk	Johnny Rockets	3.0	3.2	62	
+348	1158 West Washington St, Ste 107	CcTvk2-unBwmAZmU3PlKww	191.0	At your own risk	Port of Subs	4.0	3.7	30	
+349	2000 E Rio Salado Pkwy	fCaJNz9ff4x0x46fPA8nXg	340.0	Must Visit!	It's All Greek To Me	4.0	4.0	138	
+350	1810 E Apache Blvd	WPUf-Eo6PHxDNqPygahiUA	576.0	Worth Visiting	Tempe Tavern	3.0	3.4	104	
+351	Graduate Tempe, 225 E Apache Blvd	diAJlvbE8UrRQ9RN2nZ5Tw	685.0	Must Visit!	The Normal	3.0	3.5	264	
+352	699 S Mill Ave, Ste 201	jY40NI_cGJp1OId4O9TWJw	91.0	Its your say finally!	Antar's Sports Bistro	2.0	2.5	20	
+353	26 E University Dr	v0YATh4rCiPlBpSyNmh3tQ	203.0	Worth Visiting	Umami	4.0	3.8	89	
+354	825 W Baseline Rd, Ste 1	POzMNUmUWFNDinWrspiBEA	117.0	At your own risk	Poppy's Place	3.0	2.9	44	
+355	835 W Baseline Rd	57dbqYYLpyvTH5RRKkIWrg	77.0	Its your say finally!	Taco Bell	2.0	1.9	14	
+356	640 S Mill Ave, Ste 120	1sdwgcMd1BNlzw-wz3TXKQ	532.0	Worth Visiting	Dierks Bentley's Whiskey Row	3.0	3.2	148	
+357	1636 N Scottsdale Rd	DKusRJUxgsye1cdrlGgQOg	577.0	Must Visit!	Udupi	4.0	3.9	271	
+358	1719 E Southern Ave	EI0CoVr2iQd__EdaAkT1YA	1.0	Worth Visiting	Andrews Restaurant Supply	4.0	4.2	4	
+359	2000 E Rio Salado Pkwy	ZhjU0FkCIaG43F83TwSN8w	2244.0	Must Visit!	Dave & Buster's	3.0	3.2	294	
+360	1125 E Rio Salado Pkwy	Zmm5ksQu39aKkFiBxXNajA	664.0	Worth Visiting	ASU Karsten Golf Course	4.0	4.0	42	
+361	7470 South Priest Dr	YYZGRUCevWS41VZFxp4rrA	581.0	Worth Visiting	Fuddruckers	4.0	3.5	91	
+362	1860 E Warner Rd, Ste 107	HhOgTTbHY1-r37Yghw1www	72.0	Its your say finally!	Subway	3.0	2.9	10	
+363	808 W Broadway Rd	bVwFqYiz9acU1W24ZmYofQ	17.0	Its your say finally!	Pizza Hut	2.0	1.8	19	
+364	501 S Mill Ave, Ste 101	HFyMS_9yLaYN7GIcXzcboA	734.0	Worth Visiting	Gringo Star Street Bar	3.0	3.2	135	
+365	650 N Scottsdale Rd	McsAPsIJPXHrZ1jY2FzmNw	193.0	Its your say finally!	Denny's	3.0	2.6	24	
+366	1410 East Southern Ave	ZrFqa9sUaF_X8wbNz29Qbw	1444.0	Must Visit!	Sweet Tomatoes	4.0	3.8	155	
+367	850 E Guadalupe Rd	npVGM0e3IxTn_pILRA_JQg	130.0	At your own risk	Jack In The Box	3.0	3.0	16	
+368	777 S College Ave, Ste 105	luI3vBj9ciPBWT2bQ7dXXg	215.0	Worth Visiting	Smashburger	4.0	3.7	67	
+369	825 S 48th St	T_s4IcIJf5ZHyy8zC28UGw	138.0	Its your say finally!	Denny's	3.0	2.9	28	
+370	37 W Baseline Rd	ZMp18tQQTjloj0pKSdENBw	211.0	Worth Visiting	Bosa Donuts	4.0	4.2	73	
+371	20 E University Dr, Ste 191	-zVrFYgs09w8lIUSuAvp2Q	92.0	At your own risk	Firehouse Subs	4.0	3.8	17	
+372	2155 E University Dr	oz-U184llqjVIt398hLntQ	80.0	Worth Visiting	Sub Factory	4.0	4.1	11	
+373	1415 E University Dr, Ste 112	j6HrPOSwCo499xbCfP1R0w	2.0	Worth Visiting	Picnic Company Restaurants	4.0	4.4	7	
+374	7425 S Harl Ave, Ste 2	UhSMiTT66glIIoiL9UI-fA	17.0	Worth Visiting	Sunshine's Motor City Cafe	5.0	4.6	5	
+375	1835 E Guadalupe Rd, Ste D111	L9qDnDHSnINNjePwrJz-uQ	235.0	Must Visit!	Miele's Italian Bistro	4.0	3.9	211	
+376	1125 W Elliot Rd	POO5_d0RwzjJVhIpN-oulg	640.0	Must Visit!	Kobe Teppan & Sushi	3.0	3.4	222	
+377	440 W Warner Rd, Ste 104	DEeGnshpgUOIOjhq_dd5Ug	847.0	Must Visit!	DOZO Izakaya	4.0	4.1	234	
+378	1250 E Apache Blvd, Ste 116	IUTU_8qM7M8j9A1TbmMjYA	255.0	Must Visit!	Tasty Kabob	4.0	3.9	166	
+379	325 W Elliot Rd, Ste 101	B7rX9AReRGFQQ6abuq6d5w	25.0	Worth Visiting	Az Poki	4.0	4.0	16	
+380	801 E Apache Blvd	9mIm1ef-NVDQHFE39Faxxg	384.0	Worth Visiting	Vine Tavern & Eatery	3.0	3.5	116	
+381	1110 E Baseline Rd	Oa36vjcNukdm7xXcLZ6IPQ	71.0	Its your say finally!	Wendy's	2.0	1.9	23	
+382	1212 E Apache Blvd, Ste 103	i2PbfQCPE_MQ4tYERaBoyA	3.0	Worth Visiting	Urban Cafe	4.0	4.0	4	
+383	1825 E University Dr	VM_e8snkXt6DgU1XnBZc0g	62.0	Worth Visiting	Niro's Gyros	4.0	4.2	17	
+384	1080 W Elliot Rd	7AYbCvQ_cgS_pqS6BCmzcw	39.0	At your own risk	Archie's Deli	3.0	3.1	20	
+385	1750 N Scottsdale Rd	R-Me-p4Rbb0q-2pjSzyDbw	268.0	Worth Visiting	Jim's Coney Island Cafe	4.0	3.8	99	
+386	7510 S Rural Rd	W4LRU508M_TRjShk8lqVyw	150.0	Its your say finally!	Dairy Queen	3.0	2.6	25	
+387	1712 E Guadalupe Rd, Ste 109	rb9B9v8TJk-sjpJe3BbkBQ	407.0	Worth Visiting	Rubio's Coastal Grill	4.0	3.7	75	
+388	801 S Mill Ave	ydE2SjvSd9_NMoEBAE2PuA	434.0	At your own risk	Chili's Grill & Bar	4.0	3.5	51	
+389	1403 W 10th Pl, Ste B105	KcbFFh7xfBLl2YeXQRhUNg	52.0	Worth Visiting	Munch A Lunch	4.0	3.7	35	
+390	80 E Rio Salado Pkwy, Ste 410	9D7h2xfVJrGkkwXDsnfV_Q	519.0	Must Visit!	Romancing the Bean	4.0	4.0	105	
+391	710 E Gilbert Dr	m8Cbph-0tlMaYyXDwvKc3A	668.0	Worth Visiting	Pho Cao	4.0	3.6	127	
+392	7707 S Kyrene	OMxgLbrSCEU12265nz9JVA	154.0	Worth Visiting	Goodcents Deli Fresh Subs	4.0	3.9	48	
+393	825 W University Dr	UBQRhqRMW4Sk7kSZvZ1iAQ	1285.0	Jewel of a place!	Essence Bakery Café	4.0	3.8	439	
+394	5000 S Arizona Mills Cir	T-0707ku9Ovt-Y8fLA2TrA	51.0	Its your say finally!	America's Taco Shop	3.0	2.7	16	
+395	1290 S Normal Ave, Memorial Union Building	A_vo-3ZKB2hFmoARMxBoxw	6.0	Its your say finally!	QDOBA Mexican Eats	3.0	3.0	4	
+396	920 E University Dr, Ste 104	tLpZp3HKgXD-gG3RNqObYw	4.0	At your own risk	Bo Ali	3.0	3.4	9	
+397	1301 E University Dr, Ste 136	jga_2HO_j4I7tSYf5cCEnQ	24.0	Must Visit!	LaGattara Cat Lounge & Boutique	5.0	4.6	36	
+398	1706 E Warner Rd, Ste 3	4kjoVsi3tb-vVtFZ6WPNvg	31.0	At your own risk	Spitfire Grill & Tavern	4.0	3.5	27	
+399	414 W University Dr	jiOREht1_iH8BPDBe9kerw	633.0	Must Visit!	Dilly's Deli	4.0	3.9	163	
+400	414 S Mill Ave	3IY-JtcZHBOSzFD53SSXLA	184.0	Worth Visiting	US Fries Tempe	4.0	3.9	106	
+401	740 S Mill Ave, Ste 185	IWOQNyRqWrnqQA5K49eK5g	950.0	Must Visit!	Hot N Juicy Crawfish	4.0	3.5	363	
+402	1030 E Baseline Rd, Ste 156	dEq4Yj50tWOSzxqXloahsw	171.0	Worth Visiting	Classic Italian Pizza	4.0	3.8	109	
+403	1425 W Southern Ave	0cFCPxFRWReXer2D_mCp1A	6.0	Worth Visiting	Last Exit Bar & Grill	4.0	4.5	4	
+404	1435 E University D, Ste C111-112	7eEfpzUTAd1hAxXKlLQaJA	1.0	Worth Visiting	Tipp's 88 Thai Restaurant	4.0	4.2	17	
+405	930 W Broadway Rd	Ee3bI8VXPU2PGE_vJg3Pqg	158.0	Worth Visiting	Tailgate Sports Bar & Grill	4.0	3.5	52	
+406	420 S Mill Ave, Ste 101	iY-qwquw8Wd4yphXnhnFqQ	832.0	Worth Visiting	Spinelli's Pizzeria	3.0	3.3	148	
+407	1030 W Broadway Rd	7SfpjStnkYSPZwEDSklHWA	54.0	Its your say finally!	Salsitas	3.0	2.8	6	
+408	3141 S McClintock Dr, Unit 13	ZO2-nQjKZBoZUSOzJb4CUQ	667.0	Must Visit!	Johnny's Burgers & Dogs	4.0	4.2	137	
+409	425 S Mill Ave, Ste 111	1TLJ5dSPAa-ZFnPXPjp7LA	67.0	Its your say finally!	Paisan's Pizza & Italian Kitchen	3.0	2.9	20	
+410	1402 S Priest Dr	QJfnq_F3qb3raMCZa48_3A	33.0	At your own risk	Hail Mary's On Priest	3.0	3.0	24	
+411	699 S Mill Ave	LBAkHJJfCoDj9aa5sc0Mxw	522.0	Worth Visiting	Steak 'n Shake	3.0	2.7	232	
+412	27 E Southern Ave	CRVtzesMuwHK-phmS_ojaA	2497.0	Jewel of a place!	Venezias New York Style Pizzeria	4.0	4.0	447	
+413	829 S Rural Ave	LnKoH4eWM1mznCDOLrEpWQ	21.0	At your own risk	Moreno's Mexican Grill	4.0	3.6	24	
+414	1825 E Guadalupe Rd	r0rtl4OsZy-F099jeO_DKA	187.0	Its your say finally!	Paradise Bakery and Cafe	3.0	2.7	39	
+415	2000 Rio Salado Pkwy, Ste 1220	ACb637NG7EnswRs8U_BX_w	1620.0	Must Visit!	Bar Louie	3.0	3.0	307	
+416	699 S Mill Ave, Ste 107	aqMfCbFNeWn1a4Evds83fg	1154.0	Must Visit!	Ike's Love & Sandwiches	4.0	4.4	229	
+417	Tempe Marketplace, 2000 E Rio Salado Pkwy	VGBSw_36OQLh1b9SwUyW1g	47.0	Its your say finally!	Stadium Sports Grill	3.0	2.9	19	
+418	1807 E Baseline Rd, Ste 101	emMNb3q6cbEDZyc_JAgoww	641.0	Worth Visiting	Lucky Break Bar	3.0	3.2	144	
+419	414 S Mill Ave, Ste 111	zDmvN4_WX7kTQpuRdKXDCw	71.0	Worth Visiting	In Season Deli	4.0	3.8	24	
+420	5000 S Arizona Mills Cir	gpiRpdG-8ccLlmPet0Vp0g	28.0	Its your say finally!	Far East Asian Fire	1.0	1.4	31	
+421	410 S Mill Ave	EC91SvTJeO6sEYRxjKrFLQ	25.0	Worth Visiting	Cabin Tempe	4.0	4.4	20	
+422	3223 S Mcclintock Dr	wa8QgXQu1ZxwPgdRl9lYlg	1120.0	Jewel of a place!	Tampopo Ramen	4.0	3.9	458	
+423	681 East Apache Blvd, Ste 108	bbdzEANvzR3EZwXykSHNKA	27.0	Its your say finally!	Osaka Grill Teriyaki & Roll	2.0	2.4	29	
+424	350 S Mill Ave	qhkfJbMCFE7bgKDM-J6bmA	80.0	Worth Visiting	The Grill on Mill	4.0	3.6	63	
+425	933 E University Dr, Ste 110	Cy46zHlSVkCGZRpaHwlkVA	41.0	Worth Visiting	Alibaba Hookah Lounge	4.0	4.3	35	
+426	740 S Mill Ave, D130	2RQuRcchOgTvFVrSARMHMQ	16.0	Worth Visiting	H O T House Of Tacos	5.0	4.5	13	
+427	107 E Baseline Rd, Ste A1	Y_UdgWtGdmetumEcS3C8bQ	34.0	Its your say finally!	Firehouse Subs	3.0	2.5	22	
+428	1849 E Guadalupe Rd	GFsZyatl9BFg9F3rDtR9aQ	30.0	Worth Visiting	Subway	4.0	4.4	10	
+429	1158 W. Washington St	syQBNfPzUKGnZE6w8cLuYA	214.0	Its your say finally!	Filiberto's Mexican Food	3.0	2.7	39	
+430	7520 S Rural Rd, Ste A12	uKKNw68mZZaa1jcyszEbyA	3663.0	Jewel of a place!	Crêpe Bar	4.0	4.4	704	
+431	1102 E Baseline Rd	8bWS1Sp2m3fa9cDcuBTOag	52.0	Its your say finally!	Church's Chicken	2.0	1.9	10	
+432	414 S Mill Ave	HoRfE-2ry_RKR_b2DZNAWQ	52.0	At your own risk	The Beach Pit	3.0	3.4	18	
+433	300 E Orange Mall Hayden Library	DBhvq_yJYv2OC6Z3BtWFkQ	20.0	At your own risk	Café Biblioteca	3.0	3.3	6	
+434	1730 E Warner Rd, Ste 1	Ue4wtaeyhPKvdkXlULimCw	330.0	Must Visit!	Great Harvest Bread	4.0	4.1	88	
+435	690 S Mill Ave, Ste 110	GgX6-0pL0_MWdGj2Nr8xEA	13.0	At your own risk	Dog Town Chili Dogs	4.0	3.5	6	
+436	1101 W University Dr	S5799sTa2892AMpPJoWf5A	10.0	Worth Visiting	Mama's Italian Deli	4.0	4.0	8	
+437	1212 E Apache Blvd	5KgZD0CDNpUjbdV7OjUuXA	59.0	At your own risk	Jorge's Chicken and Waffles	3.0	3.5	49	
+438	114 E 7th St	SurnOSM2bVVN4-Js3G23RQ	1640.0	Jewel of a place!	House of Tricks	4.0	4.1	875	
+439	850 S Ash Ave	AfN3Z1U6QPEgAb5F2CQm8w	4227.0	Jewel of a place!	Casey Moore's Oyster House	4.0	3.9	713	
+440	221 W University Dr	6C_8Mh4lmLc_QEs3hHleBg	483.0	Must Visit!	El Pollo Supremo	4.0	4.2	209	
+441	777 S College Ave	Athxc1MbotCHRpKOPNnBuw	82.0	Its your say finally!	Panda Express	2.0	2.5	22	
+442	1290 N Scottsdale Road	TNQfCB929TbkUdWLn0afLA	1.0	Its your say finally!	Layalena	2.0	2.3	3	
+443	1753 E Broadway	r7OJ0-Mv84Wp9SRi3IC80Q	2.0	At your own risk	Antonio's Bistro	4.0	3.9	8	
+444	901 E Curry Rd	qH-EsuOC3k8ZZVBDuybEYQ	80.0	Its your say finally!	Jack in the Box	2.0	2.0	5	
+445	1290 N Scottsdale Rd	dimv16yFu0JXR1n1SAqedQ	901.0	Must Visit!	Mijana	4.0	3.7	314	
+446	7720 S Priest Dr	nl_gkvVXtsIlhGE0sP0qFw	189.0	At your own risk	Crazy Buffet	2.0	2.5	111	
+447	1753 E Broadway Rd, Ste 103	3MdLnbpkvTcsKkMszUv_3g	1409.0	Must Visit!	Pokedon	5.0	4.6	184	
+448	699 S Mill Ave	Mul_BVwcnhqmp2h_7QFepQ	2766.0	Jewel of a place!	La Bocca Urban Pizzeria + Wine Bar	4.0	4.0	670	
+449	1801 E Baseline Rd, Ste 104	-s_U95xEEmJu5GK-srqpUA	480.0	Must Visit!	Chutney's Indian Cuisine	4.0	3.8	256	
+450	1617 W Warner Rd	t6w--u6k-SZP2g0QvQIWuw	955.0	Worth Visiting	Tilted Kilt Pub & Eatery	3.0	2.7	193	
+451	1428 N Scottsdale Rd	ioY-a1TntpsAGJAG5_1Zyw	106.0	At your own risk	Oliveo Pizza	3.0	3.0	81	
+452	681 E Apache Blvd, Ste 103	2aLyQgYUNQDc33U0ZxTT3A	59.0	At your own risk	French Fry Heaven	3.0	3.2	50	
+453	7770 S Priest Dr	_9W8i0ZLcz8oCsjQIc3_Ww	16.0	At your own risk	Firehouse Subs	4.0	3.8	13	
+454	9845 S Priest Dr	t53w4JlkxTau-G-TzhSWog	2594.0	Jewel of a place!	Teharu Sushi	3.0	3.2	586	
+455	6340 S Rural Rd, Ste 120	fBxDUu5ftmNHbbX5qD_FcA	686.0	Jewel of a place!	Mark's Cafe	4.0	4.3	309	
+456	3401 S McClintock Dr	JLh_3ID6DaKvmD_2hQ6J-w	48.0	Worth Visiting	Betito's Mexican Restaurant	4.0	4.0	13	
+457	60 E 5th St, Ste 101	ncIFLVPKpozvUyZBAheyzw	58.0	At your own risk	Harry's Lounge Tempe Mission Palm's Hotel	3.0	3.4	12	
+458	4427 S Rural Rd	YR202Rbw0E4aiUJNeAJjOg	3.0	Worth Visiting	Sheba's	4.0	4.3	7	
+459	1435 E University Dr, Ste C-112	xGUlFQnGLGnJnvbuvCirsg	81.0	At your own risk	Sayuri Sushi Bar	4.0	3.7	27	
+460	1806 E Southern Ave	93kdIq8Ao3KJgXWiuD4ZIw	26.0	Its your say finally!	Happy Joes's Pizza & Ice Cream	3.0	2.8	33	
+461	818 W Broadway Rd	xpd4W43hUtoBYc6dzo-xBQ	6.0	Worth Visiting	Taqueria Durango	4.0	4.0	6	
+462	2000 E Rio Salado Pkwy, Ste 1253	uwDyxK92ae5kNjeZE8uCgA	985.0	Worth Visiting	California Pizza Kitchen	3.0	3.4	153	
+463	5004 S Price Rd	qhX4mMB4RuxbQ_hAcIJmzg	5.0	Its your say finally!	Azucar Cuban Restaurant	3.0	3.0	3	
+464	752 W Elliot Rd	0NgePUfXd2TG0kWgsQRq0A	632.0	Must Visit!	YC's Mongolian Grill	4.0	4.1	160	
+465	1805 E Elliot Rd, Ste 106	KvRh-exPg_KegOM_HXeskw	18.0	Worth Visiting	Curry & Scoop	5.0	4.5	24	
+466	4 E University Dr	oN8LWCHqpLguNYW6_Fk9Cg	302.0	At your own risk	Firehouse Tempe	3.0	3.1	43	
+467	640 S Mill Ave	3ky17eHU-4gSl3knpI__-w	3176.0	Must Visit!	Canteen Modern Tequila Bar	3.0	3.5	225	
+468	1701 E Warner Rd	D6RDpCS1lfgZdPuLHlpsHA	158.0	Worth Visiting	Marcello's Pasta Grill	3.0	3.1	114	
+469	404 S Mill Ave	zB4TOI3Ci9BOidw55TREbA	842.0	Worth Visiting	The Tavern On Mill	3.0	3.4	103	
+470	1101 W University Dr	GAPwjahm6fywOttzPCJLNw	3.0	Worth Visiting	Arizona Sandwich	4.0	4.0	3	
+471	29 W Southern Ave	SqL19z7A7LB91RkWWwWvnQ	1628.0	Must Visit!	Yucca Tap Room	4.0	4.0	193	
+472	101 E Baseline Rd	tIauOelAC3BZk_xhMoDBUg	655.0	Must Visit!	Someburros	3.0	3.5	227	
+473	937 E Broadway Rd, Ste 2	Zw9wEAk9L6oTZi63f4zVvA	203.0	At your own risk	YZ's Hot Pot & BBQ	3.0	3.2	84	
+474	9206 S Avenida Del Yaqui	DUAKXNEh7c2v8mu8nWKYOg	88.0	Worth Visiting	Loreto's Mexican Food	4.0	4.4	27	
+475	3138 S Mill Ave	P6c0lV9DeJ6ofntpTWyqhA	436.0	Must Visit!	Casa Reynoso	4.0	3.6	216	
+476	530 W Broadway	BTf8sELl1TjovRc0f-tgJg	2986.0	Jewel of a place!	Boulders On Broadway	4.0	3.8	397	
+477	1342 West Warner Rd, Ste B104	im5wDqyQOWVL_OEAB1vOXQ	33.0	At your own risk	The Flame Broiler	4.0	3.7	22	
+478	400 W University Dr	0xR-5RQ7FWDL09XsnUZI6g	3.0	Its your say finally!	The Corner Office	2.0	2.2	6	
+479	6438 S McClintock Dr	H-KtEcY90TAPBFkvKZpJ7w	6.0	Its your say finally!	China Max	3.0	2.8	8	
+480	1310 E Apache Blvd	OicSihRji2HmUlv7_4YEBg	264.0	Must Visit!	Cafe Istanbul & Market	4.0	4.0	104	
+481	2403 W Huntington Dr, Ste 103	LWqhTRCZW7amUTa_JYHtQA	22.0	At your own risk	Incredible Subs	3.0	3.4	11	
+482	1221 E Apache Blvd	2nFwsGBpikkDh74biLfeaA	31.0	Must Visit!	Press Coffee	5.0	4.9	13	
+483	933 E University Dr, Ste 112	jj7zJSRfS3lb49zQ94ysGg	100.0	Worth Visiting	Juba	4.0	3.9	49	
+484	1285 W Elliot Rd	r8hVqm9DeasZ0Bf2KMhbeg	1412.0	Jewel of a place!	Crackers & Co Cafe	4.0	4.0	377	
+485	849 W University Dr	0TBTV3q6QXCn9vNhy3Xi2w	992.0	Jewel of a place!	Café Lalibela	4.0	4.2	423	
+486	2155 E University Dr	UPoM5nmUiklwqBV5pLuK7Q	49.0	At your own risk	Red Owl Sports Grill	4.0	3.7	6	
+487	1530 W Baseline Rd	zDyv4CoaYvAgQhgr1IK1sg	925.0	Must Visit!	Claim Jumper	3.0	3.1	293	
+488	1717 S Rural Rd	sV7EW4BNZtx4UGayzLQjeQ	7.0	Worth Visiting	Plaza Bonita	4.0	4.5	4	
+489	2700 W Baseline Rd	5euk5_UKqnAWcrbOPNYt0g	478.0	Jewel of a place!	Chanpen Thai Cuisine	4.0	4.4	265	
+490	65 S McClintock Dr	6t7mlTVjDA9fhuFAZmVzAQ	1159.0	Jewel of a place!	Portillo's Hot Dogs	4.0	3.6	569	
+491	840 E Southern	-4g68Hwm892_KPUuW5g1_Q	137.0	Its your say finally!	Jimmy John's	3.0	2.7	40	
+492	1342 W Warner Rd, Ste B106	5J1SoLkAM2zAOKqrRB7rCQ	485.0	Must Visit!	King of Gyros	5.0	4.5	180	
+493	2148 E Apache Blvd	nSTDc9_ETRO9mZwvc-WY9w	47.0	Worth Visiting	Guerrero's	4.0	4.1	21	
+494	1825 E University Dr	y1u4TdxkvBowbpDJyS4vYQ	6.0	Worth Visiting	Sunrise Cafe	4.0	4.3	3	
+495	414 S Mill Ave	QV2echCErxFY4VbH-z6eOg	194.0	At your own risk	Fatburger	3.0	3.1	47	
+496	1845 E Broadway Rd, Ste 127	PWW_jT4tHP_r1S18ePJyTQ	317.0	Must Visit!	Herb 'n Flavors	4.0	3.8	169	
+497	2000 E. Rio Salado Parkway, Space 1215	vQbRA1rqSFz7R5JNyaNILg	44.0	Its your say finally!	Great Steak	2.0	2.3	10	
+498	1024 E Vista Del Cerro Dr	CpJRzbebSyHwOFNsOixK1w	3.0	Worth Visiting	Devil's Mo	4.0	4.4	9	
+499	1817 E Guadalupe Rd, Ste 102	4yIOZXIYJiQlkqW_MUtVgQ	797.0	Must Visit!	The Habit Burger Grill	4.0	3.9	220	
+500	3223 S McClintock Dr, Ste 103	HgJGwePlWjhzOEL028pSig	128.0	At your own risk	Cafe Wasabi	3.0	2.9	79	
+501	457 W Broadway Rd	4K3EHSn_DHjdxUEoYos95Q	245.0	At your own risk	Popeyes Louisiana Kitchen	4.0	3.6	47	
+502	1849 N Scottsdale Rd	5cE4IXLzN4-MmQ4NH4ubRw	66.0	Worth Visiting	Shahrazad Middle Eastern Cuisine	4.0	4.1	64	
+503	2602 W Southern Ave	Ga2Bt7xfqoggTypWD5VpoQ	43.0	Worth Visiting	Amando's Bros	4.0	4.2	9	
+504	1250 E Apache Blvd	XvTBQotmJpVPjPNaMM7qLA	1453.0	Jewel of a place!	Pita Jungle	4.0	4.0	372	
+505	8510 S Emerald Dr	wopyolJM2hOAt3dPRmahNA	619.0	Worth Visiting	Texas Roadhouse	4.0	3.5	148	
+506	4400 South Rural Rd	WPkUWu5Ja_lAx0XljgPF7A	50.0	At your own risk	Urban Craft	4.0	3.6	12	
+507	1346 S Rural Rd	AcgtsEyOco2WVJLgCGVwQA	236.0	At your own risk	Whataburger	3.0	3.3	64	
+508	455 S 48th St, Ste 110	XvBZBafJRvDi1HWbLggoKQ	6.0	Worth Visiting	Supreme Lunch Break	4.0	4.0	14	
+509	937 E Broadway	i5snLVanPG1R9foC0QfkXQ	267.0	Must Visit!	Rock-n-Roll Fingers	4.0	4.4	84	
+510	3330 S Price Rd	8ci0d-HKFK8MgHrf8kPF8g	59.0	At your own risk	Pong Pong Restaurant	3.0	3.1	55	
+511	3135 S 48th St, Ste 110	4jm-et6RMcjOkmrC_IcuCg	317.0	Worth Visiting	Mariscos Sinaloa	4.0	3.7	122	
+512	Tempe Marketplace, 2000 E Rio Salado Pkwy, Bldg1, Ste 1143	bY8K4r_RGOm_1cspCOKdPQ	792.0	At your own risk	Paradise Bakery & Cafe	3.0	2.8	73	
+513	2240 N Scottsdale Rd	5FIOXmUE3qMviX9GafGH-Q	3346.0	Jewel of a place!	Green New American Vegetarian	4.0	4.3	1068	
+514	119 E Southern Ave	4PqqRa7o_eNydKdGWYdIog	190.0	Must Visit!	TC Tacos	4.0	4.3	215	
+515	790 W Broadway Rd	atAjzQ7CUw_wM-GNh8piSA	265.0	Must Visit!	Burger Rush	3.0	3.3	211	
+516	1126 N Scottsdale Rd	mKRKhFuJX4nhJykUvZO8hQ	62.0	At your own risk	La Fonda Mexican Foods	3.0	3.3	30	
+517	829 S Rural Rd	AxluhyBhbxz0Ndfmi0GjwA	156.0	Its your say finally!	Geno's Pizza ,Cheesesteak & Deli	3.0	2.6	70	
+518	930 W Broadway Rd	ke0VibsrfCMh5FMWOLh1Ag	15.0	Its your say finally!	Domino's Pizza	3.0	2.9	19	
+519	5000 S Arizona Mills Cir	En6qaWnBQsQwTxNIp8SwsA	17.0	Its your say finally!	Kelly's Cajun Grill	3.0	2.6	5	
+520	2076 E University Dr, Ste A	b2-K2sJtXv7dynBDFqusBQ	58.0	Worth Visiting	Coyote Coffee Cafe	4.0	4.4	41	
+521	1410 East Southern Ave	DHJiH3C7qQyzY_I3VwD-Qw	19.0	Its your say finally!	Sweet Tomatoes Field Kitchen	2.0	2.4	41	
+522	2030 E Elliot Rd	CMCAZVvZlP0ztWo6fhwnGg	213.0	Worth Visiting	Kneaders Bakery and Cafe - Tempe	3.0	3.2	121	
+523	1825 E University Dr	3wGsvZj5-_YtM-4D4JndDQ	667.0	Must Visit!	Sunny's Diner	4.0	3.7	234	
+524	7670 S Priest Dr	VcDKXH8PsnrccsotD60e9g	156.0	At your own risk	Honey Bear's BBQ	3.0	2.8	68	
+525	930 W Broadway Rd, Ste 14	2kro_WXlgmk6nJlkXvN9Qw	34.0	Its your say finally!	WikiWiki Hawaiian Grill	2.0	2.4	28	
+526	2700 W Baseline Rd	LYBimndA7OQQptmaJ-Eipg	16.0	At your own risk	Little Caesars	3.0	3.2	5	
+527	1290 S Normal Ave	YCxRU8kBb58gAus4tFmziw	9.0	Worth Visiting	Fàn Boy at ASU	5.0	4.8	8	
+528	1725 W University Dr, Ste 108	stPpU3S-OCLZOoxOwgJb4A	97.0	Worth Visiting	Yvonne's Cafe	4.0	3.5	61	
+529	2433 E University Dr	DkclJocfsr7gr1GRAxA5Ew	165.0	Worth Visiting	Stray Cat Bar & Grill	4.0	3.8	30	
+530	829 S Rural Rd	tLCZdAt83gvD6Me_Vshu1w	84.0	At your own risk	Gus's New York Pizza	3.0	2.6	152	
+531	690 S Mill Ave	HVbCRVlw-vGcPZrOcO5L_w	122.0	At your own risk	Kanpai Sushi & Bar	3.0	3.4	35	
+532	1805 E Baseline Rd	wyVYljjqF2SW3QiXHuVmbQ	116.0	Its your say finally!	Peter Piper Pizza	3.0	2.8	24	
+533	560 S College Ave	Q5CFijcygcSLxALuRl4tyg	158.0	At your own risk	Sol Diablo Cantina	3.0	3.4	34	
+534	119 E Southern Ave	ofAbFXOMz2-Di7p2oDsfhQ	6.0	Its your say finally!	Quik Wok	2.0	2.4	17	
+535	1606 W Baseline Rd	JR2ma-JU1CO_xVD_p5-RPw	915.0	Must Visit!	Joe's Crab Shack	3.0	3.3	275	
+536	580 S College Ave, Ste 103	QZJpXx1TbOXqzLx6u6xmaQ	522.0	Must Visit!	Paradise Hawaiian BBQ	4.0	3.6	180	
+537	943 S 48th St, Ste 104	9nhUfBLbsT_oLmIhB1jdgw	2.0	Worth Visiting	Smackin' Wings	5.0	4.7	12	
+538	2000 W Westcourt Way	w4CqCGPubjKRpNsBsW7W9g	105.0	At your own risk	Market Cafe	3.0	3.5	21	
+539	7510 S Priest Dr	gS95Lei8i0mXANdCz7Nhbg	199.0	Worth Visiting	Nara Hookah Lounge & Bar	4.0	4.3	43	
+540	1731 E Broadway Rd	IKpVBsOTixsnoU4r0Sc42A	120.0	At your own risk	Papaya Thai Restaurant	3.0	2.7	182	
+541	5394 S Lakeshore Dr	DjvpsmdtEvnyMk2vXxpc-w	473.0	Worth Visiting	Pier 54	3.0	3.3	193	
+542	710 W Elliot Rd, Ste 108	16xoDNtEWbth_s--xqZxrQ	5.0	At your own risk	Amaravati Indian Cuisine	4.0	3.8	9	
+543	19 E Broadway	YGaowC1J4GfkQYyYLYWnQQ	6.0	At your own risk	El Penasco Mexican Kitchen	3.0	3.3	20	
+544	735 E University Dr	PME4cAEPtinot4LG53SYRw	2.0	Worth Visiting	Papa John's	4.0	4.3	3	
+545	914 N Scottsdale Rd	3lyrgCW4jb3sB8oJQTJd4A	62.0	Worth Visiting	Chicago's Taylor Street	4.0	4.0	31	
+546	5000 S Arizona Mills Cir	Un-n51GNA0xx0mDOpGKUXA	10.0	At your own risk	Subway	3.0	3.4	5	
+547	933 E University Dr, Ste 106	vW1P-SytRsF20a3ka9mBtw	48.0	Worth Visiting	Los Arielitos Taco Shop	4.0	4.1	21	
+548	920 E University Dr, Ste D101	0xfVubbU3z8O2NcuEYSQNg	1316.0	Must Visit!	Sushi 101 Bar and Grill	3.0	3.4	302	
+549	1135 E Apache Blvd	kxUo6kQvQVgjIfpbi8hv9g	46.0	At your own risk	Texano's Carne Asada	4.0	3.8	11	
+550	1015 S Rural Rd	HJLiVxuvtN0n73BASSZKoQ	406.0	Must Visit!	The Halal Guys	3.0	3.4	246	
+551	706 S College Ave	cFyeqi2ClsEE9W6AqoWXow	19.0	Its your say finally!	Subway	1.0	1.2	5	
+552	1320 W Elliot Rd, Ste 108	3Jg5iFVFm9PxRpGJWLR6ng	84.0	Its your say finally!	Subway	3.0	2.9	24	
+553	933 E University Dr, Ste 116	3Ll-F55gm-tDXy3I37beJA	200.0	Worth Visiting	Pho Nhat	3.0	3.3	97	
+554	777 S College Ave	fasduK6l1bu2ngRSLDNkIw	22.0	Worth Visiting	Za Cucina	4.0	4.1	9	
+555	4403 S Rural Rd	1p76_EWPbPcTprNrEVw3-g	231.0	Its your say finally!	Denny's	3.0	2.6	45	
+556	411 N Central Ave	LVnb9jPDLpllxHshS0kjpA	15.0	Must Visit!	Barrett Dining Hall	5.0	5.0	4	
+557	500 E University Dr	dQxowi8M1a0F6QFLzp8T7Q	4.0	Its your say finally!	Devils Den Sports Grill	3.0	2.6	5	
+558	1250 E Apache Blvd, Ste 101	6WDDksGLLehfQDIvQXzR5w	190.0	Worth Visiting	Chou's Kitchen	4.0	3.9	103	
+559	7707 S Kyrene Rd	momjERcb6G6ienrfPuNArw	983.0	Must Visit!	Pho Da Lat	4.0	3.7	295	
+560	1221 W Warner Rd, Ste 105	3JnO3AEqRD8DbXkWP-gTFw	349.0	Must Visit!	Arizona Sandwich Company & Catering	4.0	3.9	122	
+561	1335 W University Dr, Ste 5	3vta1BSPwdSulcCFMpBjDw	348.0	Worth Visiting	Fujiya Market	4.0	4.0	91	
+562	967 E Guadalupe Rd	FOAAgwfA_1sLoSBB1RcJrw	24.0	Its your say finally!	Little Caesars Pizza	2.0	2.4	13	
+563	1805 E Elliot Rd, Ste 108 & 109	VUIkepUdEJRmFCI72DtdZw	4.0	Its your say finally!	Pizza 'N Greens	3.0	2.9	14	
+564	414 S Mill Ave, Ste 111	OoKNxTMu5YAaNgQKQ4SrzA	723.0	Jewel of a place!	Desert Roots Kitchen	5.0	4.7	218	
+565	2000 E Rio Salado Pkwy, Ste 1155	sArY4vj_AtHLZoKHscD4ew	714.0	Worth Visiting	Smashburger	4.0	3.8	107	
+566	2030 E Rio Salado Pkwy	PRbIMseOwPCCRv5C4SfTDQ	1812.0	Jewel of a place!	Lucille's Smokehouse Bar-B-Que	4.0	3.6	619	
+567	705 S Forest Ave	S1XhpND8AUrenZFNd1tWJw	3.0	Worth Visiting	Mai Island Grill	4.0	4.5	27	
+568	933 E University Dr, Ste 108	WWqdy9PKOSyhLgHIGaNFrA	925.0	Worth Visiting	Oliveo Grill	3.0	3.2	189	
+569	1219 S McClintock Dr, Ste 102	TM5RSrqaKlr4t0aDg_mBvQ	4.0	Worth Visiting	Devil Apple Hookah Lounge	5.0	4.8	5	
+570	780 W Elliot Rd	j3ppEEFTU6ZMnMff2iv3Lw	128.0	Its your say finally!	Baja Fresh Mexican Grill	3.0	2.7	6	
+571	818 W Broadway Rd	XnUb7yulkX8akT0A5RHI8g	32.0	At your own risk	Subway	3.0	3.4	11	
+572	1324 S Rural Rd	eBGVIfM9gn2OlBotixaE2Q	4.0	At your own risk	Ichiban Korean BBQ & Sushi	4.0	3.7	3	
+573	1505 W Baseline Rd	1O4E4Ott6nnwcpRo-m5Utw	23.0	At your own risk	La Katra Hot Dog Cart	4.0	3.7	10	
+574	60 E 5th St	GC6p25n0QNhRWZw6YMuMcw	34.0	At your own risk	Mission Grille	3.0	3.4	20	
+575	730 S Mill Ave, Ste 102	jJDKPJLzkoPeytWIzstJrA	978.0	Must Visit!	Pedal Haus Brewery	4.0	3.6	271	
+576	827 S Rural Rd	6ksBg7LoD06ctMU3OfNFUQ	10.0	Worth Visiting	Taco Shack	4.0	4.0	7	
+577	Arizona State University - Wilson Hall	ijYzvkUe6w7RKnzqgE-B_Q	228.0	Worth Visiting	Dave's Dog House	4.0	4.0	72	
+578	709 E Guadalupe Rd	PcEh92PK4vmbcDpPcGrsWw	30.0	Its your say finally!	Domino's Pizza	3.0	2.8	36	
+579	1519 W Baseline Rd	z_m9GstWrDagyZv9lNSKjQ	162.0	Its your say finally!	Carl's Jr	3.0	2.5	25	
+580	808 S Priest Dr	j4PI9fjIV3BKYJAHHi8NoQ	51.0	At your own risk	Subway	3.0	3.3	9	
+581	414 S Mill Ave, Ste 115	XfNDmxQiG5nZVZe-JY10NA	39.0	At your own risk	Stan's Metro Deli	3.0	3.3	15	
+582	2000 E Rio Salado Pkwy	jIlk4NUkoShYJVqA0edEpA	87.0	Its your say finally!	Axxio Pizza	2.0	2.5	15	
+583	1600 S 52st St	fi-SzL6uKzsprqsvo7MMnA	175.0	At your own risk	Fire + Spice	3.0	3.3	42	
+584	680 Mill Ave, Ste 101	8F-CalsRSKiPjjsx8ql8Lg	95.0	Worth Visiting	Five Guys	3.0	3.1	129	
+585	1050 E Lemon St	feFckrNF9-QzGrY4T9dAvQ	5.0	Its your say finally!	Copper Kettle-Salads Balti & Taandoori Grill	3.0	3.0	9	
+586	2000 E Rio Salado Pkwy, Ste 1056	EveFgxNoHkrs8ncSjkoINA	356.0	Must Visit!	Gen Korean BBQ House	4.0	4.0	261	
+587	3332 S Mill Ave	eN8mkjt_q686hGKi-A9ceg	203.0	Must Visit!	Byblos Restaurant	4.0	4.2	167	
+588	1826 N Scottsdale Rd	DD4d-8-DjnnXBE7lJ6w92A	41.0	At your own risk	Spacoli's Pizza and Wings	3.0	3.5	40	
+589	1857 N Scottsdale Rd	JT7cr4C-_ZjjxilGXVrpIA	204.0	Worth Visiting	Villa Peru Restaurant & Bar	4.0	3.6	124	
+590	26 S Farmer Ave	3L8D5tGJ4FzQQo6ZMvbVYg	266.0	Worth Visiting	The Lodge Sasquatch Kitchen	4.0	3.6	101	
+591	414 S Mill Ave	BBt-H2kcXYGumD0Ey84hQw	34.0	Worth Visiting	Delicious Factory	4.0	4.1	42	
+592	1761 E Warner Rd, Ste 5	7BIbvCkI7AXQMVC1-DHpCA	11.0	At your own risk	Priya Indian Cuisine	3.0	3.1	18	
+593	203 E7th St	ef9bmkR23POPI4uSEC5k5A	26.0	Worth Visiting	5 R Cha Thai Diner	4.0	3.9	14	
+594	5118 S Rural Rd	YZGAUc8CaWWc6ICSfeecoA	282.0	Worth Visiting	Pita Shack	4.0	4.0	91	
+595	10745 E Apache Trl	-17CAGmIRBHpPFlWBTDGuw	2.0	Its your say finally!	Papa John's Pizza	2.0	2.3	3	
+596	2000 E Rio Salado Pkwy, Ste 1001	ydt5yifyYhF5s430llv_Hw	1273.0	At your own risk	San Felipe's Cantina	2.0	2.4	192	
+597	26 E University Dr	iFGC7CIcVKWdIKjIO7w6Tw	200.0	At your own risk	Shady Park	3.0	3.3	68	
+598	149 S Farmer Ave	TaRpPKpoANfKd7av6KBMlw	42.0	At your own risk	Over Easy	3.0	3.1	28	
+599	2107 S Rural Rd	HlkjT-4MXW_efuEydjrR1A	6.0	Worth Visiting	Smile Thai Cuisine	5.0	4.8	8	
+600	3139 S Mill Ave	iD-D6tIN7o17HIb8bbxuXQ	389.0	Must Visit!	Zesty Zzeeks Pizza and Wings	4.0	4.2	123	
+601	681 E Apache Blvd, Ste 104	-0Sgh0QlUKVsWosCWJzGqQ	23.0	Its your say finally!	Domino's Pizza	2.0	2.0	44	
+602	1835 E Elliot Rd, Ste C109	zUgDrRtGvK5ZTFlHCsTHwA	645.0	Jewel of a place!	VinciTorio's	4.0	3.9	358	
+603	219 E Baseline Rd, Ste H-2	zfiSQ1dl3vTJ-og96eqXGA	205.0	Must Visit!	Beijing Express	4.0	4.0	204	
+604	1435 E University Dr, Ste 12	pHpU8lnnxMuPWRHOysuMIQ	1929.0	Jewel of a place!	Salut Kitchen Bar	4.0	4.1	628	
+605	1717 S Rural Rd	FOIXozPYq11mU407XIpv_A	4.0	Its your say finally!	3 Margaritas	3.0	3.0	11	
+606	100 S Mill Ave	1hkksm102yQY1DyfTPSzmA	928.0	Must Visit!	Monti's La Casa Vieja	3.0	3.4	253	
+607	927 E University Dr	U2W22Vy1oSs4G7W-2vdQ4w	281.0	Worth Visiting	Thai Rama	3.0	3.4	108	
+608	526 Mill Ave	3vOWSanFt56CwRJOE9Kj_g	1856.0	Worth Visiting	World Of Beer	3.0	3.2	213	
+609	1815 E Elliot Rd	l_4c__U60fVeTe4IYZBR3w	145.0	Worth Visiting	Biscuits	4.0	3.8	81	
+610	1721 E Warner Rd	ogcWPQvYDGlCHLkGOBjv4A	10.0	At your own risk	The Magic Wok	4.0	3.9	7	
+611	11 E 6th St	Nf1ZtgHwg0Mu5lOaJYgDGQ	727.0	Worth Visiting	Slices	4.0	3.6	109	
+612	2000 E Rio Salado Pkwy, Ste 2105	WEoivlVObGE03PiWvVvXYA	774.0	At your own risk	Cadillac Ranch	2.0	2.3	175	
+613	26 E University Dr	wk49hcW-f1VZG1CeWBzCMg	109.0	Worth Visiting	Bad Mother Cluckers	4.0	3.6	42	
+614	414 S Mill Ave, Ste 114	BaPKO2rV_uaOtRliKtaFcQ	187.0	At your own risk	Silver Mine Subs	4.0	3.5	46	
+615	933 E University Dr, Ste 106	nmFmOu9UuMcwghDV-IT-og	283.0	Worth Visiting	The Flame Broiler	4.0	4.1	22	
+616	804 S Ash Ave	sKWZ_tAOVMZoC4Qk8_Bd4A	293.0	Must Visit!	Otto Pizza & Pastry	4.0	4.3	138	
+617	414 S Mill Ave, Ste 118	F4zvnOsgjEV9aVbKqBYRng	233.0	Worth Visiting	4one4 Pizza	3.0	3.4	129	
+618	2126 E Apache Blvd	5Jf-9U16kMW-o2k8OUvTLg	70.0	Must Visit!	Golden Restaurant and Bakery	5.0	4.7	53	
+619	930 W Broadway Rd, Ste 11	gMJRFH_zFh_UrQeU5KHvng	2.0	Its your say finally!	Rice King Restaurant	2.0	1.9	10	
+620	Arizona State University, Memorial Union Room M182	9uhQx8mHK-C1h-cPoDnStA	163.0	Its your say finally!	Einstein Bros Bagels	3.0	2.6	18	
+621	640 S Mill Ave, Ste 110	UJb1PrUWDFfuzwUPc1pP4Q	1972.0	Must Visit!	El Hefe	3.0	3.0	413	
+622	1674 E Southern Ave	1pytOeO_PhT4EVpk2MXQBA	115.0	At your own risk	Taco Bell	3.0	3.4	21	
+623	2405 E University Dr	FtLibezRe7HsT13BLpR-Dg	225.0	Worth Visiting	Susie's Mexican Cafe	4.0	3.6	100	
+624	777 S College Ave	4A_KR6E3ziZvuNVruEJ2lA	9.0	Its your say finally!	Baja Fresh Express	2.0	1.7	3	
+625	2000 East Rio Salado Pkwy	IRpZS7EmmBeSM7oBnDd5iw	237.0	At your own risk	Jimmy John's	3.0	3.4	45	
+626	2000 E Rio Salado Pkwy	eo3_XpZegejq_V-tAHAaVA	6.0	At your own risk	Salad Creations	4.0	3.8	4	
+627	4 E University Dr	3RrBdVGWWMxZhVvisrEDKA	86.0	At your own risk	Diverti Bar and Grill	3.0	3.1	18	
+628	788 E Baseline Rd	yvwK4MO2qnSZE5ggYGyk1A	391.0	Must Visit!	Flo's	4.0	3.7	240	
+629	960 E University Drive	mW97sJ9JVjs_REfp6XjRhQ	1117.0	Must Visit!	Raising Cane's	4.0	3.8	182	
+630	5000 S Arizona Mills Cir	JVYtwesjVNYNJvAruBOB6A	18.0	Its your say finally!	Green Leaf's Beyond Great Salad	2.0	2.1	13	
+631	1030 W Broadway Rd	0uhgtpLf__CnZB1ggPVzSQ	4.0	Its your say finally!	Mr Burrito	2.0	2.2	4	
+632	1825 E Baseline Rd, Ste 2	alWRFbDdU3_F1c2C4nG2dw	18.0	At your own risk	Mandarin House	3.0	3.3	42	
+633	805 W Baseline Rd, Ste 3	wxqx3Jxlfo9qTtIQ782fdQ	16.0	Its your say finally!	Subway	2.0	1.8	7	
+634	1300 E 8th St, Ste 100	4jPerp3OfFiWgBPQi8SOUw	245.0	Must Visit!	Infusion Coffee & Tea	4.0	4.4	117	
+635	1314 S Rural Rd	Sz33V_SCMJw9fhnIOpZrmQ	12.0	Worth Visiting	El Pollo Loco	4.0	4.0	7	
+636	1125 S Terrace Rd	mBFGYVLh588BrvfmGsOhrA	112.0	Worth Visiting	Dragon Flame Chinese Grill	4.0	4.0	20	
+637	1250 E Apache Blvd	LIIZ-Mjqj2da2YigHy73Jw	16.0	Its your say finally!	Eddie's Pizza And Lounge	3.0	2.6	28	
+638	240 E Orange Mall	2YDCiSR77FZV5_L0UcaGbA	38.0	At your own risk	E2	3.0	3.0	14	
+639	815 W University Dr	db12Hn9hdoE-Ne4_NsVKSw	502.0	Worth Visiting	Taco Shack	4.0	3.8	120	
+640	2700 S Mill Ave	n_xqf8Es-k2XBOneXfYGRg	5.0	Its your say finally!	Quartiere	3.0	2.9	15	
+641	942 E Broadway Rd	vY4MVT7UoQzlDHwhB8QlPA	42.0	Its your say finally!	Jack in the Box	2.0	2.4	13	
+642	715 W Baseline Rd, Ste 2	FlSC47gipnoXP64XMOXxcA	191.0	Must Visit!	Sweet Dessert Café	5.0	4.5	137	
+643	1639 E Apache Blvd	WN5ON423ZCOy3_4F6XYikA	253.0	At your own risk	Long Wong's At the Firehouse	3.0	2.9	58	
+644	3330 S Price Rd, Ste 101	4fbH3Yr1D5r5-QD-HReDlg	691.0	Must Visit!	Dilly's Deli	4.0	4.1	129	
+645	912 E Apache Blvd	w95B_YptshIE_y68NTyylQ	139.0	At your own risk	Taco Bell	3.0	3.0	32	
+646	1825 E University Dr	fZSvBAEDfnHskfbDBizjBw	5.0	Its your say finally!	Theo's Spartan Grill	3.0	3.0	4	
+647	1857 N Scottsdale Rd	oXtNK3A31VrWb43gLnEPdA	26.0	Worth Visiting	MAS Peruvian Restaurant & Bar	4.0	4.3	50	
+648	730 E Guadalupe Rd, Ste 101	LxNoSrtJYB7HvP5I-8p-Ow	325.0	Must Visit!	Andrew's BBQ	4.0	3.9	136	
+649	1730 E Elliot Rd	VB-Cw7YKC9SWlzR4KUyGlA	126.0	At your own risk	Boston's Bar & Grille	3.0	3.2	36	
+650	5025 S Arizona Mills Cir	6Rrlg6hnM0ir7ijhKG2ybA	101.0	At your own risk	5 & Diner	3.0	3.1	31	
+651	400 W University Dr	tJyXQ8xziSqK7dtB0Md3mw	247.0	At your own risk	Boston's Restaurant & Sports Bar	3.0	2.8	65	
+652	1500 N Priest Dr	HmRtRrxieDpk2ANibPFPSA	64.0	Its your say finally!	City Market Deli	2.0	2.0	10	
+653	2189 E University Dr	Ffzhzidm9OesdEzR-MLuwg	626.0	At your own risk	Waffle House	3.0	3.2	74	
+654	1826 N Scottsdale Rd	uIE9H0cz2AvxorEqy5cZ0w	1184.0	Worth Visiting	Philly's Sports Grill	4.0	3.5	143	
+655	8830 S Kyrene Rd, Ste 106	XvYwUnuWEai7p-95cj8S1w	253.0	At your own risk	Barro's Pizza	3.0	3.2	34	
+656	6440 S Rural Rd	wd-pzPYNehT6QTsc1qr7pA	418.0	Worth Visiting	Serranos Mexican Food	3.0	3.3	128	
+657	6350 S McClintock Dr	IU31IE28AnAduEqJ5Gzvkg	363.0	At your own risk	Einstein Bros Bagels	3.0	3.2	44	
+658	555 N Scottsdale Rd	arFyWH26WkKjGEnh3FNXww	196.0	At your own risk	Wingstop	3.0	3.1	48	
+659	2000 E Rio Salado Pkwy, Ste 1041	iBihgoxc6Ot7m2D4D3z0QA	3358.0	Jewel of a place!	Thirsty Lion Gastropub & Grill	4.0	3.6	569	
+660	740 S Mill Ave	smheJ4YvpiMObas1mrfAjQ	4.0	At your own risk	Grilled Expedition On Mill Cafe	4.0	3.5	4	
+661	1323 W University Dr	SC6tscP1fuJXTmAd0tcoMQ	7.0	At your own risk	Big Belly's BBQ	3.0	3.4	12	
+662	131 E Baseline Rd	hq17ShjPKHnGn5DGnHrsXw	1387.0	Jewel of a place!	U.S. Egg	4.0	3.9	335	
+663	1015 S Rural Rd	DF6kMTHYuKKME_00AinR-w	329.0	Must Visit!	Even Stevens Sandwiches	4.0	4.4	102	
+664	922 E Apache Blvd	hl_Iatne0Aehb9whpdH3cw	113.0	At your own risk	Sal's Pizza	3.0	3.1	48	
+665	501 S Mill Ave, Ste 101	pdF7iJgA4ViACgA4t1OymQ	13.0	At your own risk	Library Bar & Grill	3.0	2.9	39	
+666	100 S Mill Ave	2hO-2tBcwZOhsbf64LcfWw	87.0	At your own risk	Tempe's Front Porch	4.0	3.7	34	
+667	2000 E Rio Salado Pkwy	Z2L0j0MZ9m0IwaWmcvnxGQ	316.0	At your own risk	D'Arcy McGee's	3.0	2.6	78	
+668	1401-1525 W Elliot Rd	wHvhLj3aTaVgD27PdC6lIw	20.0	Its your say finally!	McDonald's	2.0	1.9	17	
+669	8747 S Priest Dr	lv8UKx6WzqCAdIakvFZNPQ	77.0	At your own risk	Gyros Express	4.0	3.7	16	
+670	1220 W Alameda Dr, Ste 101	X1twjafYxMCpKt2MqvY5Tw	513.0	Jewel of a place!	Morning Star Cafe	5.0	4.5	273	
+671	655 W Warner Rd	jYX-4_AJZGRttHy9daPuOQ	42.0	Worth Visiting	Hot Burrito Mexican Food	4.0	4.2	35	
+672	930 W Broadway Rd	QuybD_bJcAB2CHcpTfREYg	1536.0	Jewel of a place!	Detroit Coney Grill	5.0	4.6	546	
+673	8707 S Priest Dr, Ste 101	hIgGkG1JnHX4xmVuOgegDw	1112.0	Jewel of a place!	Forefathers Gourmet Cheesesteaks & Fries	4.0	4.3	377	
+674	1522 N Scottsdale Rd	uLtLJ9sbSYak2WwCb4jjDQ	84.0	Worth Visiting	Tropical Snowflake Raspados	4.0	4.0	32	
+675	2000 W Westcourt Wy	fE9SP84G6TZrv36FLbCy7w	984.0	Must Visit!	Top of the Rock Restaurant	4.0	3.6	246	
+676	8545 S Emerald Dr	i631pRlq0u29VvaMshW67A	866.0	Worth Visiting	Main Event Entertainment	3.0	2.8	231	
+677	911 E Broadway Rd	x4RtR4O2lfRqUFLO0zifAw	10.0	Its your say finally!	Subway	3.0	3.0	3	
+678	5128 S Rural Rd	WMXEeBFSuzfvP9uK4B6ZwA	1.0	Its your say finally!	Hogi Yogi	3.0	3.0	3	
+679	3435 S McClintock Dr	rCiHu1nHXc0dqymEvKqSfw	164.0	At your own risk	Boston Market	4.0	3.5	31	
+680	1405 W Southern Ave	9MJDPVeLqAWLqdWF4Heqvg	152.0	At your own risk	Taco Nazo	3.0	2.9	56	
+681	1202 W Broadway Rd	DKrGFydT_4CrxM7iM2qm7A	17.0	At your own risk	Long John Silver's	4.0	3.7	3	
+682	3128 South Mill Avenue	7CQsM9nN53hOWRzBPSesJw	29.0	Worth Visiting	Papa Murphy's	4.0	4.2	11	
+683	640 S Mill Ave, Ste 118	Px4jJPkR56noH67rTku8aQ	92.0	Worth Visiting	Devil's Diner	4.0	4.2	27	
+684	1946 E University Dr	F-VyyskhdoAg1L7WEwpgVA	33.0	Worth Visiting	Wessen International Kitchen	4.0	4.4	51	
+685	1015 W Broadway Rd	V1hH7vAq5wNDo2P3z8zJLg	172.0	Worth Visiting	Palo Verde Lounge	4.0	3.9	55	
+686	1655 W Elliot	CaF9FC8GEBfDDbptPgkgBw	330.0	Its your say finally!	Applebee's Neighborhood Grill & Bar	3.0	2.5	84	
+687	9920 S Rural Rd, Ste 111	vDEmA4KkKgP5htnp9qMHbA	165.0	Worth Visiting	TOGO'S Sandwiches	4.0	4.0	28	
+688	222 E University Dr	prh-RlduJU3z3ynA5lU3Wg	1778.0	Jewel of a place!	Original ChopShop	4.0	3.8	395	
+689	4427 S Rural Rd, Ste 3	BngVzrOVcYoCTmPT7CpIlg	63.0	Worth Visiting	Pita Licious	4.0	4.0	41	
+690	9845 S Priest Dr	t61eGISz7qMOxEe7o3vwEw	710.0	Jewel of a place!	Perfect Pear Bistro	4.0	4.4	327	
+691	2100 S Priest Dr	iJ4asegD61MbFZ16CYI5mw	75.0	At your own risk	Milagros Restaurant	3.0	3.1	14	
+692	660 S College Ave, Fl 2	P5VtqamycWfDkS2_v-qU_Q	20.0	Worth Visiting	Pitchforks & Corks	5.0	4.5	13	
+693	35 E 9th St	5Xzjb7ATQHCozQGedQTiyA	251.0	At your own risk	Sacks Sandwiches - ASU	4.0	3.5	42	
+694	227 E Baseline Rd	vcMD6mZfvjtAxuCMoAfSNA	382.0	Worth Visiting	My Big Fat Greek Express	4.0	3.7	88	
+695	1290 S Normal Ave	qGqMAC1r7fStx1qJkFsyOQ	1.0	Its your say finally!	Sun Devil Dining	2.0	2.3	3	
+696	117 E 5th St	4cuvlrnhnLA9r2TOmwSvfw	20.0	At your own risk	Erbert And Gerbert's	3.0	3.3	27	
+697	2000 E Rio Salado Pkwy	iWGO0_z8Rdwd3ZViapwRhg	91.0	Its your say finally!	Panera Bread	3.0	2.6	37	
+698	6340 S Rural Rd, Ste 120	WulCmMT3OpYjqms71v-A2Q	7.0	At your own risk	Culinary Solutions Cafe	4.0	3.6	11	
+699	777 South College Dr, Ste 103	F5iUtmlMqPva4aUDz6xK6g	60.0	Worth Visiting	Port of Subs	4.0	3.9	24	
+700	1765 E University Dr	ZxEvVRbOltIF0fua5SQssg	15.0	Must Visit!	The Human Bean Tempe	5.0	4.9	16	
+701	1714 E Guadalupe Rd	GibwaDiqJJ_62x0h3oCyxA	123.0	Its your say finally!	Panda Express	2.0	2.3	26	
+702	1015 S Rural Rd	Crhm6oKCj7raPlakwltbVQ	155.0	Must Visit!	Ahipoki Bowl	4.0	4.2	97	
+703	1330 E Apache Blvd	SvNzj0dE6UMFfp55bIze_A	122.0	Worth Visiting	Big Jimmy's	3.0	3.3	107	
+704	2000 E Rio Salado Pkwy	qpARa33W5bzzn-M7xBbotA	154.0	At your own risk	Slices	3.0	3.3	54	
+705	681 E Apache Blvd, Ste 107	7gioEp7-iwcexseCiXZWqA	47.0	Worth Visiting	Big City Burrito	5.0	4.8	4	
+706	1043 E Lemon St	IlYNJUylnAinXsuytty70Q	1.0	Worth Visiting	Chen's Noodle House	5.0	4.6	5	
+707	950 S Mill Ave	O4YxrrQ8Rg1Kc4Mel3cAyg	80.0	Its your say finally!	Subway	2.0	2.5	15	
+708	300 S Ash Ave	EVbEdWYLE9GDpVG97MGw-w	1091.0	Must Visit!	Macayo's Depot Cantina	3.0	3.1	290	
+709	603 West University Dr	2VdCHCPFzow7zcBSaPMbKA	197.0	Must Visit!	Perfect Pear Bistro	4.0	4.3	124	
+710	1001 E. 8th St.	3TxhQKVNLKqRKITPrZQlGg	73.0	At your own risk	Trailer Park Restaurant	3.0	3.2	27	
+711	3126 S Mill Ave	PhMfnMldVKXo7HqHw6DSrg	344.0	Must Visit!	DaYung's Tea	5.0	4.8	81	
+712	440 W Warner Rd, Ste 104	Nh5gWjOzKQOb8kSq48uaoA	31.0	Worth Visiting	Cafe Greco	4.0	4.4	16	
+713	5000 S Arizona Mills Cir	pFc8lUoe8p30_QHm7dX4rg	37.0	Its your say finally!	Red Ribbon Bakeshop	3.0	2.8	11	
+714	1600 W Broadway Rd	kpJinFc_7yTK9v7iYhLxqw	34.0	At your own risk	Wendys	3.0	3.2	5	
+715	1818 E Elliot Rd	DpSuDR5AT7DF0QZhNUD2Aw	208.0	Worth Visiting	Freddy's Frozen Custard And Steakburgers	4.0	3.9	57	
+716	960 W University Dr, Ste 108	0pMsVlUu_MbFqmvbA8F79Q	1484.0	Jewel of a place!	Cheba Hut	4.0	3.7	357	
+717	2000 E Rio Salado Pkwy, Ste 1151	xxo0GsAFxQzUGStmCG6jWw	1459.0	Must Visit!	Genghis Grill	3.0	3.5	323	
+718	1290 S Normal Ave	WrkOKBHkRxhBVpX8qu7zDA	27.0	Its your say finally!	Freshii	3.0	2.6	14	
+719	1045 E Lemon St, Ste A	G6V99_DIFF10uTDSmTklpA	3.0	Worth Visiting	Shawarma Paradise	4.0	4.1	9	
+720	405 W University Dr, Ste 101	puQ2WGO0L2KvKqNQCJYZRw	180.0	Must Visit!	Loving Hut Tempe	5.0	4.7	124	
+721	414 S Mill Ave, Ste 115	4K5NUsinIgtq-yuxdp2HdA	1645.0	Must Visit!	Fuzzy's Taco Shop	3.0	3.5	316	
+722	8825 S Jewel St	ZGHynQJk7RagG2uNNAMynw	83.0	Its your say finally!	Carl's Jr.	2.0	2.1	13	
+723	680 S Mill Ave	vhIJ91MDgUuk4Cr9Kpj1Nw	350.0	Worth Visiting	Jimmy John's	3.0	3.3	122	
+724	1701 E Warner Rd	n1AWiP49A5ROroNnbtm0ow	232.0	Must Visit!	The Oink Cafe	4.0	3.7	194	
+725	909 E Lemon St	DHoUaeL5XqRX083cptIHBA	6.0	Worth Visiting	Lemon Street Tacos	4.0	4.4	9	
+726	1775 W University Dr, Ste 130	hH36Av7cncv499KS3kjcXg	424.0	Must Visit!	Arizona Sandwich Co & Catering	4.0	4.0	116	
+727	1375 W. Elliott	VwwwBUwayQOi6tc3ATeKlA	590.0	At your own risk	Red Robin Gourmet Burgers	3.0	2.9	100	
+728	1513 E Apache Blvd	2GmGT-7QjowR1ihup3FbVA	2101.0	Jewel of a place!	Haji-Baba	4.0	4.4	720	
+729	555 N Scottsdale Rd, Ste 105	q6igRYs2UTO-4nTwlttrAQ	404.0	At your own risk	Pancheros Mexican Grill	3.0	3.1	93	
+730	3102 S Mill Ave	OZwIcrbQy2LLMuXEtPumeQ	28.0	Its your say finally!	Jack in The Box	2.0	1.6	8	
+731	780 W Elliot Rd, Ste 104	2q2gGuigGrCFmx3juLAVww	319.0	Must Visit!	Mika's Greek	4.0	4.0	126	
+732	4715 S Rural Rd, Ste 104	lamNK6ivdxNxlCnLu_uqBw	148.0	Worth Visiting	Tokyo Joe's	4.0	3.5	58	
+733	1392 W Elliot Rd	h8ZB8cLiPo3x2f1fZr7e-A	75.0	At your own risk	Arby's Roast Beef	4.0	3.8	16	
+734	398 S Mill Ave	Hr5h_LG9TMBLlFz_Oici0A	1068.0	Jewel of a place!	Caffe Boa	3.0	3.4	522	
+735	1740 E Elliot Rd	Msp69CY6JdXTY9guRx-qkQ	177.0	At your own risk	McDonald's	4.0	3.6	25	
+736	690 South Mill Ave.	tS2Y2hMWZMvwjiY3z6LuUg	2.0	Its your say finally!	Regions Bistro & Bar	2.0	2.4	24	
+737	4400 S Rural Rd	Cv3NIg9Ahl-x86riaalXSA	20.0	At your own risk	The Dinner Detective Murder Mystery Dinner Show	3.0	3.4	25	
+738	51 W Southern Ave	lcbvgL5Sgx8ibQEhtbAEdg	28.0	Worth Visiting	Fifty One West	4.0	4.2	17	
+739	843 W University Dr	EIvHIqxB1n7lfECTt8Ssuw	11.0	At your own risk	Papa John's Pizza	3.0	3.2	9	
+740	2000 E Rio Salado Pkwy	CO8MpD1bSkBPArXKBKkIfA	421.0	Worth Visiting	Noodles & Company	4.0	3.5	109	
+741	1020 S Mill Ave	xZhCCireQYwcRHh5Nc1Vkw	14.0	Worth Visiting	3 Roots Coffee House and Cafe	4.0	3.7	39	
+742	1006 E Warner Rd, Ste 113	tkSk6jdenjbYEcqSchFR7g	180.0	Worth Visiting	Sushi Kee	4.0	3.9	62	
+743	1101 West University Dr, Ste 101	-xIrVu_7prj_0GDl1tds1w	84.0	Must Visit!	Los Dos Diablitos	5.0	4.6	70	
+744	2070 E Apache Blvd	u9va4ksYFYJe6FkXkHOo7Q	33.0	Worth Visiting	Ny Boyz Subz N Wingz	4.0	3.8	18	
+745	315 W Elliot Rd, Ste 107	f-7sTbx8u7c9t1-r_Fdoow	875.0	Must Visit!	AZ Bread	4.0	4.1	225	
+746	925 E Apache Blvd	GJ9CgvTBKaDb9qLFEBbzHg	30.0	Worth Visiting	ThaiTini	5.0	4.8	17	
+747	240 E Orange Mall	fRNCVV9fS-_-oW5S6ZmK9w	21.0	Worth Visiting	Chick-In	4.0	4.3	16	
+748	721 S Mill Ave	VYRxbF0fq_fdC5WCqCYCwA	119.0	Its your say finally!	Jack in the Box	1.0	1.4	33	
+749	630 E Southern Ave	GjjSC7aAXdff8jERc3URYw	256.0	Worth Visiting	Culver's	4.0	3.8	63	
+750	5150 S Rural Rd	h8XdexOcJlfLOwXIDtyalg	56.0	At your own risk	Cafe Rio	3.0	3.1	35	
+751	425 S Mill Ave, Ste 111	rof8X8-2R6Z2sLuDrr1OXg	143.0	Must Visit!	Cornish Pasty Co	4.0	4.3	69	
+752	27 S Mcclintock Drive, Lot 15	s1500k_u6yScouzQ-RUb6A	344.0	At your own risk	Ruby Tuesday	3.0	3.1	93	
+753	1024 E Broadway Rd	ZdGWAv90dY81kpKzMLMvvA	242.0	At your own risk	Prankster's Gar and Brill	4.0	3.6	48	
+754	603 W University Dr	gPc4tXMS_wt4g2yVUmco8w	164.0	Worth Visiting	The Revival	4.0	4.1	73	
+755	951 East Playa Del Norte Dr	5LJ6wKhh7zuJn4XNei9rQA	161.0	Worth Visiting	W XYZ Bar	4.0	4.2	9	
+756	815 E Baseline Rd, Ste 118	iikAHVLZrZn7Zy1aEPD25A	916.0	Worth Visiting	Chipotle Mexican Grill	4.0	3.6	89	
+757	1402 S Priest Dr	QFHbUR4bY09yp2vO8QlICQ	31.0	Its your say finally!	Mary's Place	3.0	3.0	3	
+758	240 W Southern Ave	BUVgOVIeyipLxHdoDtBIoA	220.0	At your own risk	Rivas Mexican Food	3.0	3.2	45	
+759	1320 W Elliot Rd, Ste 102	gDOuHjntsN37XEjROoQ2Aw	1759.0	Jewel of a place!	Santa Madre Taco Shop	4.0	4.4	373	
+760	1410 W University Dr	TSReAmFxNVCZggcx49Gf3A	182.0	At your own risk	Rally's	3.0	2.7	69	
+761	777 S College Ave	feu6_wWLD5l_2Ha3In_ENA	67.0	Worth Visiting	My Pie Pizza	4.0	4.4	47	
+762	930 W Broadway Rd, Ste 11	Jzth-y32SyvOhJNgbIPTqQ	1910.0	Jewel of a place!	Hummus Xpress	5.0	4.5	475	
+763	5000 S Arizona Mills Cir	SIVi2UQp1UT0lMIoqHP0QA	688.0	Worth Visiting	Rainforest Cafe	2.0	2.4	293	
+764	1340 E 8th St, Ste 104	JzOp695tclcNCNMuBl7oxA	12703.0	Jewel of a place!	Four Peaks Brewing	4.0	4.3	1965	
+765	1872 E Apache Blvd	yet0Pww_ouW49T7V41ecSw	1459.0	Jewel of a place!	The Dhaba	4.0	3.9	521	
+766	1017 E Apache Blvd	W7hCuNdn2gzehta6eSHzgQ	133.0	Its your say finally!	Pete's Fish & Chips	2.0	1.9	83	
+767	920 E University Dr, Ste 104	_BJdRw73rGb35ofd3ElTUA	18.0	Worth Visiting	YS Restaurant	4.0	4.4	25	
+768	1490 E Weber Dr	ImLXYkhmd9ELwL3b9xAmsQ	4.0	Worth Visiting	Tempe Meadows	4.0	4.4	7	
+769	1850 E Warner Rd	SWhHaWFuijy_KDs0zVCJog	1679.0	Jewel of a place!	RigaTony's Authentic Italian	4.0	4.0	560	
+770	216 E University Dr	ssZx3Jzhme38YTbLzaDY6Q	5.0	At your own risk	Mamacita's Cantina	3.0	3.2	4	
+771	1000 E Apache Blvd	NNkMbPtBCGelD2_hNxH0og	10.0	Must Visit!	The Shire Cafe	5.0	5.0	3	
+772	414 S Mill Ave, Ste 114	MOUW8p7oXI08InzvSJwMYg	45.0	Must Visit!	Poke2U	5.0	4.7	45	
+773	440 W Warner Rd	Zt4ljpwfmBufatNM1zPNcQ	789.0	Must Visit!	Picazzo's Healthy Italian Kitchen	4.0	3.7	282	
+774	3318 S Mill Ave	cbbidA4huw2XQQWlmbUQgw	32.0	Its your say finally!	Cervantes Restaurant	3.0	2.6	23	
+775	240 W Southern Ave	VOzk2CKZMG5JeXSTZvIhYA	9.0	Its your say finally!	Torres Mexican Food	2.0	2.0	18	
+776	975 E Elliott Rd	KUIzGuOo6fw2cRAdgFhmew	14.0	At your own risk	Pizza Chicago	4.0	3.5	29	
+777	1401 West Southern Ave	-gcS8S7aiHTwYROMC5QP5A	243.0	At your own risk	Schlotzsky's	3.0	3.1	61	
+778	1212 E Apache Blvd	ePjHWTk1AzpYbuh4lFzhxg	119.0	Must Visit!	Moroccan Paradise	4.0	4.2	128	
+779	227 S Smith Rd	366FaRQ1MWEHBhaEKTcriQ	1336.0	Jewel of a place!	Spinato's Pizza	4.0	4.4	530	
+780	1220 W Elliot Rd	65r0LP3I5sWH-1HXM6eQAg	86.0	Its your say finally!	Burger King	2.0	2.2	19	
+781	325 W Elliot Rd, Ste 101	PQTtKaBK_WdvLm-zp4fQ1g	60.0	Worth Visiting	Aachi Southindian Kitchen	4.0	3.9	29	
+782	1380 N Scottsdale Rd	bO_VQFG2hMMdgZiwbEY4bA	27.0	At your own risk	Subway	3.0	3.2	6	
+783	681 E Apache Blvd, Ste 102	4BZ7jlzQBAP94FZNyHr2dA	80.0	At your own risk	Jimmy John's	3.0	3.4	22	
+784	414 S Mill Ave, Ste 114	SoCVWvr5f5lYJEY_62bgAw	95.0	Must Visit!	Bacus Bros Hotdogs and Beer	5.0	4.7	50	
+785	1100 S McAllister Ave	EX_daRmTI61Eq0kiXBuDsw	5.0	Its your say finally!	Charlie's Cafe	2.0	1.8	9	
+786	1726 E Southern Ave, Ste 3	d0v7c1SnmlEyK5TWfHCo8w	1.0	At your own risk	Capri Cafe	4.0	3.9	9	
+787	525 W Broadway Rd	uNYBY0-josscxkihdfovYA	47.0	Its your say finally!	Arby's	3.0	2.8	17	
+788	404 S Mill Ave, Ste 101	1zsM7weLS8fNHomDAqCh4Q	792.0	Must Visit!	Blasted Barley Beer Company	4.0	3.7	217	
+789	20 W 6th St	Wnq5to0-jXyh0-_jRZ6VOQ	1488.0	Must Visit!	Z Tejas	4.0	3.6	276	
+790	3134 S Mill Ave	vyHjtNO4TgQSXi27i6Zmjg	13.0	Worth Visiting	Caribbean Palm Tempe	4.0	4.4	8	
+791	1707 W Warner Rd	XpnkPS-56dYTdjwC8RRLuw	32.0	Its your say finally!	Panera Bread	2.0	2.5	24	
+792	933 E University Dr	uLL2uKqYnPAFwBw11LzDUQ	213.0	Its your say finally!	Gus's New York Pizza	2.0	2.1	128	
+793	933 E University Dr	22so15K1aqikL9FHt37CSQ	498.0	Worth Visiting	DP Dough	4.0	3.5	90	
+794	1525 W Elliot Rd	SFF55aiTPLvxX5b4pbpvDA	47.0	Its your say finally!	Coco's Family Restaurant	3.0	2.6	10	
+795	325 W Elliot Rd, Ste 101	GyHJAwBQ58L3ORBLm0G-hg	248.0	Worth Visiting	India Grill	4.0	3.9	57	
+796	2000 E Rio Salado Pkwy	fZM_o3kKZ9mR-1pvBeow8A	9644.0	Must Visit!	Tempe Marketplace	4.0	3.6	220	
+797	425 S Mill Ave	K8ZeT5Y5L0SDh18wO0ZOAQ	4.0	Its your say finally!	Famous Potato	2.0	1.8	9	
+798	526 S Mill Ave	km4B50FnxFX22hrtZRtiUg	13.0	Its your say finally!	Wasted Grain	2.0	2.0	3	
+799	325 W Elliot Rd, Ste 101	uaFhlzoJbiqlnkUgfSjpdA	41.0	At your own risk	Aachi South Indian Kitchen	3.0	3.0	61	
+800	909 E Elliot Rd	KgKEmnnzL2EvfLRv0Ep4RA	47.0	Its your say finally!	Garlic & Shots	2.0	2.1	31	
+801	1501 W Fountainhead Pkwy, Ste 140	Ct4daXJf_1yzJukZJeq33Q	115.0	Worth Visiting	Lucy's Fountainhead Cafe	4.0	4.5	15	
+802	1860 E Warner Rd	QbtJvTQfTFbPqBhjkI59BA	1240.0	Worth Visiting	Zipps Sports Grill	3.0	3.2	206	
+803	705 S Forest Ave	0o_JtYrz5FRVMcAEVmf42w	345.0	Worth Visiting	Grilled Ave Teriyaki House	4.0	3.6	85	
+804	225 W University Dr, Ste 101	NxjUiGBNgyDErKXnmQ3s3w	3262.0	Jewel of a place!	Cartel Coffee Lab	4.0	4.1	654	
+805	705 S Rural Ave, Ste 101	qiR7S83_7Du_XQyj_U0zWw	105.0	At your own risk	IHOP	3.0	2.9	53	
+806	1160 E University Dr	riM-pBsdqRRVXtAVbLfsxQ	2788.0	Jewel of a place!	Chompie's Deli	4.0	3.6	575	
+807	818 W Broadway Rd	0HSY1jGtyFuETZwaJN6rQQ	16.0	At your own risk	Hunan Express Chinese Restaurant	3.0	3.3	73	
+808	8000 S Priest Rd	8PBq-MHyLDrhkaTf72Foww	688.0	Worth Visiting	Dos Gringos	3.0	3.0	171	
+809	1743 E Broadway Rd	LiqKk5cteNMf46-JYvnwCw	18.0	Worth Visiting	Lucky Star Asian Dining	4.0	3.9	16	
+810	725 S Rural Rd	pAvGcgYhnU1RjnV-xy5SmQ	283.0	At your own risk	Einstein Bros Bagels	3.0	3.1	36	
+811	5009 S Arizona Mills Cir	OU5RFlwAoNaG32P-ZTlgYQ	195.0	At your own risk	El Pollo Loco	3.0	3.2	43	
+812	740 S Mill Ave	HjXI6lKGPVNQ8dYJPtaOCg	1962.0	Jewel of a place!	Mellow Mushroom	3.0	3.4	473	
+813	3218 S McClintock Rd	A501H7iyCmHFovaZ8L3Pkg	177.0	Its your say finally!	McDonald's	2.0	2.0	26	
+814	425 S Mill Ave, Ste 111	39irKvcTTf6sj8WimdRXxQ	4.0	At your own risk	Boston Vs. New York	4.0	3.7	3	
+815	1806 E Southern Ave	j-SSlq3__BQr3H7lAyVvkw	509.0	Worth Visiting	Nello's	3.0	3.4	159	
+816	19 S McClintock Dr	5GoBfhIyEN-BMzVjO5QLeA	1339.0	Must Visit!	Red Robin Gourmet Burgers	3.0	3.3	197	
+817	815 W University Dr, Ste 108	NUhHkT1wfXsTLxt_tWwVXw	946.0	Must Visit!	Thai Elephant	4.0	3.8	327	
+818	1250 E Apache Blvd, Ste 101	TutpyTJYzXb2Y1HJw81KXA	35.0	At your own risk	Barzinis	4.0	3.6	14	
+819	401 S Mill Ave	utoTa3Ngv_oSfB5TIMgN_Q	2813.0	Jewel of a place!	Rula Bula	4.0	3.7	480	
+820	550 E Tyler Mall	aXLcRseq_EfurNZ3MEmpxg	9.0	Worth Visiting	The Crepe Club	4.0	4.1	8	
+821	680 S Mill Ave	-cBQKodqi77Q0vk-9iDvQA	1665.0	Must Visit!	Fat Tuesday	3.0	3.5	186	
+822	501 S Mill Ave, Ste 101	K36554FQDOYRuw5o-UXvDA	268.0	Its your say finally!	Blondie's Sports Bar	2.0	2.2	27	
+823	655 W Warner Rd, Ste 117	tVVZcFFt3ZlWVE7nptN3EQ	74.0	At your own risk	Hot Wok Mr Cook	3.0	3.0	67	
+824	690 S Mill Ave, Bldg C, Ste 103	hmYnzs8-aHbltaOOGDgmbA	1069.0	Worth Visiting	Zipps Sports Grill	3.0	2.6	238	
+825	222 S Mill Ave, Ste 127	poOnGeQlHEnWRAH9t_0KMg	135.0	Must Visit!	NYPD Pizza	4.0	4.5	62	
+826	715 S Mcclintock Dr	bZ3-_GQZkHv5YI_zzqLNWA	492.0	Must Visit!	The Mission at Minder Binder	4.0	3.8	175	
+827	21 E 6th St, Ste 146	Uk9-e66y4oWIZ5u946iJiQ	177.0	Must Visit!	Rehab Burger Therapy	4.0	4.3	133	
+828	1805 E Elliot Rd	ycx58j9LCHDUp-boy0-y2w	6.0	Worth Visiting	Fusion Mediterranean Delight	4.0	4.0	8	
+829	1615 West Elliot Rd	sFZqXGuACgeUys0C1F4GSQ	49.0	Its your say finally!	Popeyes Louisiana Kitchen	3.0	2.5	46	
+830	3415 S McClintock Dr, Ste 107	WAWWO9PCDTDiXwkKdkw5yA	140.0	Must Visit!	Ramen Dozo	4.0	4.2	79	
+831	920 E Playa Del Norte	W2CzAePJakvARgoQuohbOA	4273.0	Jewel of a place!	In-N-Out Burger	4.0	4.3	361	
+832	3333 S Rural Rd	Y8KeJZjYvuN5t0GMyTFyhw	8.0	Its your say finally!	Ichiban Japanese Restaurant & Sushi	2.0	2.5	4	
+833	5000 S Arizona Mills Cir	6xbQJ3VdB5a0pZklDjHjCQ	8.0	Its your say finally!	Villa Italian Kitchen	3.0	2.6	7	
+834	1825 E Guadalupe Rd	lx_HJMFpKEZW-e9_-LyuQg	66.0	Its your say finally!	Panera Bread	3.0	2.7	34	
+835	5000 S Arizona Mills Cir, Ste 655	aw7i9IpuQHTa3VdNRMJFpQ	3.0	Its your say finally!	Firehouse Subs	1.0	1.0	3	
+836	1785 E University Dr	7y8wJmvouRJSXgpUw94wYA	114.0	Its your say finally!	McDonald's	2.0	2.0	25	
+837	1343 W Broadway	O3swSW2vRXaPrfe0G00ngw	135.0	At your own risk	Denny's	3.0	2.9	36	
+838	625 S Smith Rd	LXKVQdkTXW--JcB3ahZ9AQ	5.0	Worth Visiting	Nighttime Nosh	5.0	4.6	14	
+839	5034 S Price Rd	AqYLbchnIxVSBdUJuLVdrA	90.0	Worth Visiting	The Siamese Cat	4.0	4.0	63	
+840	711 E Broadway	U6IrfKFT88TV-cWkZb3ZDQ	48.0	Its your say finally!	Little Caesars	2.0	2.1	23	
+841	2000 E Rio Salado Pkwy, #1051	hRL_qCrcu9UL773su0QabQ	3688.0	Jewel of a place!	Kabuki Japanese Restaurant	4.0	3.7	542	
+842	920 E University Dr, Ste 103	Iqu-RwRA4XfwILKQLKQZew	199.0	Worth Visiting	Pastries N Chaat	4.0	3.7	40	
+843	2070 E Apache Blvd	KEwpIojt2zYIIt47FTlGCA	26.0	Must Visit!	Shawarma Stop	5.0	4.9	47	
+844	4400 S Rural Rd	s6oqPVuLpDRoKnrfFdRIxQ	159.0	At your own risk	Garcia's Mexican Restaurants	3.0	3.1	25	
+845	1845 E Broadway Rd, Ste 127	Pj9DDbTmjBEKXezLb0qmTw	261.0	Must Visit!	Bp Street Cafe	4.0	4.2	105	
+846	1270 E. Apache Blvd	9XkK3G5juzkCeiQn_99V2g	6.0	At your own risk	Filiberto's Mexican Food	3.0	2.8	57	
+847	7700 S Priest Dr	6q7TLSWByKGeIkt1HYBUgw	189.0	Worth Visiting	Black Bear Diner	3.0	3.1	128	
+848	2714 W Southern Ave	W39H8GlLXXj6X8E6fgrQ-A	32.0	Its your say finally!	Subway	3.0	3.0	5	
+849	5128 S Rural Rd	dDZqtA1me453GrMtpcpYOQ	198.0	At your own risk	Jimmy John's	3.0	3.0	58	
+850	25 W University Dr	Y_3wdqZUoi8qyW7ZugIQNw	443.0	Worth Visiting	Chick-fil-A	4.0	3.6	95	
+851	528 W Broadway Rd	bFfWZ4TEyejefj4yk41M5Q	196.0	Worth Visiting	Bite Me Subs	4.0	3.7	77	
+852	1250 W. Broadway Rd	QMaaLfedGzNhHz6PZKAUkw	293.0	Its your say finally!	Filiberto's Mexican Food	2.0	2.0	101	
+853	5130 S Mcclintock Dr	Jm8q8_hOH8VPmLSTMqF9vA	174.0	Its your say finally!	El Pollo Loco	3.0	2.6	38	
+854	4 E University Dr	6KgGE8B1RsR7jc9R5nuH0Q	12.0	Its your say finally!	Ruby Tuesday	2.0	2.2	8	
+855	3206 S McClintock Dr	JhEtJbGjAqKDHCZ11i3qoQ	665.0	Must Visit!	YC's Mongolian Grill	4.0	4.2	215	
+856	9960 S Rural Rd	q4eeqVYRrO--vFFr3pBuNw	67.0	Its your say finally!	Taco Bell	2.0	2.3	21	
+857	7650 S McClintock Dr, Ste 112	jCg6MSfu3fgXxO2QrpDV7w	87.0	Worth Visiting	Li's Asian	4.0	3.8	71	
+858	1123 W Broadway Rd	OmGErC2xoH6AJcGMwT_3WQ	2.0	At your own risk	Manuel's Fine Mexican Food	3.0	3.1	9	
+859	1325 W Broadway Rd	n2HkJt3y4Uvwex5AT5IeRA	147.0	Its your say finally!	McDonald's	2.0	2.1	32	
+860	1731 E Broadway Rd, Ste 1	A_mXYtarKK_N2XbyU52k_A	75.0	At your own risk	Pho Tempe	3.0	2.6	100	
+861	5150 S Rural Rd	DTvcpHf2gGKgSujUVXA7sA	299.0	At your own risk	Qdoba Mexican Grill	3.0	3.2	57	
+862	930 W Broadway Rd, suit 10	RQ07VP-YioitUWlM-PbIFA	8.0	Its your say finally!	Bamboo Grill Yard	2.0	2.3	9	
+863	3118 S Mill Ave	kPi1prVK54oQcUp1qKcSKw	4.0	Its your say finally!	Cousins Subs	3.0	2.9	7	
+864	1202 W Broadway Rd	ApeTrSttf8f4KUrBVtcKgw	66.0	Must Visit!	Jimmy Hula's	4.0	4.0	97	
+865	9880 S Rural Rd, Ste B108	J8RCVmyCB35fFdPKiC0cBA	12.0	At your own risk	Little Caesars	4.0	3.7	3	
+866	5000 S Arizona Mills Cir	75ibA4xCKllkq97xsSe1Jw	26.0	At your own risk	Suki Hana	3.0	3.2	6	
+867	1401-1525 W Elliot Rd	q3iohdSxqYerc_0uBOvcQw	98.0	Its your say finally!	McDonalds	1.0	1.5	15	
+868	1335 W University Dr, Ste 2	RCX3zz86OvwqLCr6X290EQ	89.0	Worth Visiting	The Original Hoagie Shop	4.0	3.9	37	
+869	725 S Rural Rd, Ste 117	0HgLKI1T9WT3hJXskDtUrQ	958.0	Must Visit!	Tea Swirl	4.0	4.2	118	
+870	23 S McClintock Dr	Dqzkdf0sz8lm9AFjfsDmIw	1165.0	Must Visit!	The Keg Steakhouse + Bar	4.0	3.9	300	
+871	3255 S 48th St	UcVAkJIpGKnha1dzszep8g	84.0	Its your say finally!	McDonald's	2.0	2.3	13	
+872	310 S Mill Ave, Ste A101	YmOWkved7K8q3eXgf4NNnA	2789.0	Jewel of a place!	Ncounter	4.0	3.9	619	
+873	2107 S Rural Rd	O_cvS8uAocco3R3Pg9np-g	212.0	Must Visit!	Smile Lao Thai	4.0	4.2	150	
+874	414 W University Dr	iNbAht5CVY4KH_cympbHMA	99.0	Worth Visiting	Fired Pie	4.0	4.1	45	
+875	1537 W Broadway Rd, Ste 105	fSJFRzOF92gBuJ2ePitCEQ	19.0	Worth Visiting	Flame Broiler	4.0	4.0	20	
+876	921 E University Dr	IrXlXhmSHlIllxZSAARjLA	159.0	Worth Visiting	Flaming Kabob	4.0	3.6	107	
+877	5136 S Rural Rd	_nB8HNT2IDRhlAoY9TPYew	322.0	Must Visit!	Sushi Time	4.0	3.8	140	
+878	523 W University Dr	ndQTAJzhhkrl1i5ToEGSZw	1745.0	Jewel of a place!	Oregano's Pizza Bistro	4.0	4.1	537	
+879	1706 E Warner Rd	UZ34XAw1GJ3chCOuKL69Mg	240.0	At your own risk	Garcia's	3.0	3.0	83	
+880	616 S Forest Ave	HwjhWHbNp56t-dRiv3-wPA	704.0	Must Visit!	Phoenicia Cafe	4.0	3.8	191	
+881	725 South Rural Rd	UVs04bUfNR95WZd_k2pncg	9.0	At your own risk	Caribou Coffee & Einstein Bros. Bagels	4.0	3.5	8	
+882	25 W University Dr	WZIKjz9Pq50xOZUBfAebhw	14.0	Its your say finally!	Burger King	2.0	1.5	4	
+883	705 S Rural Rd, Ste 101	v8QuF4YX9Bb-qEtKLVPrmA	1562.0	Worth Visiting	Buffalo Wild Wings	3.0	2.6	236	
+884	5000 S Arizona Mills Cir, Ste 645	M9N2eaO8PkT7MHGLLA6V3Q	21.0	Its your say finally!	Panda Express	2.0	2.0	3	
+885	1705 E Broadway Rd	W9NUdpRX7gLXHLM2-NeKeA	1101.0	Must Visit!	SakeBomber Sushi & Grill	4.0	3.8	265	
+886	3232 S Mill Ave	2Ne7F6TMuUdRUGhyjj7abg	438.0	At your own risk	Fry's Food Stores	3.0	3.3	29	
+887	3118 S Mill Ave	kPBJwCX3CW5ejO6jdMgTwQ	40.0	Must Visit!	Mika's Greek	5.0	4.7	43	
+888	5030 S Mill Ave, Ste D20-21	8jm_9vT-tGT-rFe-XckCqA	442.0	Worth Visiting	Final Round Sports Bar & Grill	4.0	3.8	59	
+889	2011 S McClintock Dr	OuRmSRMJMgbKWkB0IcUveA	65.0	Its your say finally!	Burger King	2.0	1.9	16	
+890	475 W Guadalupe Rd	qspzfqFNq0iXqsW2QrDB2Q	147.0	Its your say finally!	McDonald's	2.0	2.4	8	
+891	720 E Apache Blvd	JyaVTsBrys7l73o9eTI3Ag	14.0	Its your say finally!	Hassayampa Dining Center	2.0	2.0	3	
+892	640 S Mill Ave, Ste 140	Sg9R6OwNBq5Zf-kjiVBxuw	55.0	Its your say finally!	Public House On Sixth	3.0	2.9	23	
+893	5000 S Arizona Mills Cir, Ste 669	1_v_fooGLY3FQkO5tH3m-A	297.0	Its your say finally!	Gameworks	2.0	2.5	83	
+894	1006 E Warner Rd	_GcAYVlZtzmruRQ128KJnA	140.0	At your own risk	Barro's Pizza	4.0	3.7	12	
+895	710 W Elliot Rd, Ste 108	biVQDp3K_vNP1eK5wGZOJg	237.0	Worth Visiting	Kabab Palace	4.0	3.5	138	
+896	975 E Elliot Rd	LjTK9yifZBHgj2HZn8Znww	910.0	Worth Visiting	Vine Tavern & Eatery	4.0	3.5	110	
+897	1836 E 3rd St	CyCa2Oco5NjPZhxA2h_TjA	1.0	Its your say finally!	Costantino's Italian Kitchen	2.0	2.0	5	
+898	1325 W Elliot Rd	PDAVTbXvP9yDlID8lk6L8A	12.0	At your own risk	Jersey Mike's Subs	3.0	3.4	12	
+899	2700 W Baseline Rd	44zSIjPU09F2UBYUn_KZ3Q	165.0	Worth Visiting	Salazar Bros Mexican Food	4.0	3.9	20	
+900	1740 E Broadway Rd	EyE2NntpQyVPaLX7gSC9dA	145.0	Must Visit!	Sa Bai On The Fly	4.0	4.2	116	
+901	410 S Mill Ave	0BbRoMwVTZgYV1oqgtsHOw	378.0	At your own risk	Moonshine Whiskey Bar & Grill	3.0	2.6	83	
+902	1320 E Broadway Rd	_YfwjvhsqDPLow4775ZFEg	8.0	At your own risk	Horse & Hound Sports Grill	3.0	3.4	25	
+903	1741 E Warner Rd	_NQxJx-69on26wDXaaEDlQ	65.0	Its your say finally!	Wendy's Old Fashioned Hamburgers	2.0	1.8	4	
+904	1320 East Broadway Rd, Ste 101	5MxHxh4O5BgpQuuPBElvWg	81.0	Worth Visiting	Palm Beach Middle Eastern Restaurant	4.0	3.9	36	
+905	2000 E Rio Salado Pkwy,, Suite 1026	VEorEVsg8z7Ame1oSYNBdA	6.0	Worth Visiting	MOD Pizza	5.0	4.9	8	
+906	1250 E Apache Blvd, Ste 113	UBv8heCQR0RPnUQG0zkXIQ	10.0	At your own risk	Biryani House	3.0	3.3	23	
+907	6434 S McClintock Dr	MedWQ7ljpXnfyNnXPZaBmA	118.0	Worth Visiting	Classic Italian Pizza	4.0	3.7	81	
+908	975 E Elliot Rd, Ste 103	dnB7SD38_lwiC9E-BJxq-Q	160.0	Must Visit!	Squarz Bakery & Cafe	5.0	4.7	125	
+909	411 S Mill Ave, Ste 103	RN0PTeMSF_eaeXN6VV7RwA	1601.0	Must Visit!	RA Sushi Bar Restaurant	3.0	3.0	349	
+910	909 E Elliot Rd	KfxPrJ5PzgFRm2XltnbBLQ	237.0	Must Visit!	Passage To India	4.0	3.7	185	
+911	715 S Mcclintock Dr	thR2m3O_PBCCbc5nZSF1Pg	55.0	At your own risk	Minder Binder	3.0	3.4	52	
+912	440 W Warner Rd, Ste 101	u92upJ5hzfE50tM90-iU0w	68.0	Worth Visiting	Buon Gusto Gourmet Pizzas & Salads	4.0	4.1	27	
+913	423 S Mill Ave	hVC6E29dg5Rx4ADSxt3kTA	222.0	Worth Visiting	Restaurant Mexico	3.0	3.4	152	
+914	440 W Warner Rd	5zva2MTtB5IX6TaoVLL-NA	5.0	Its your say finally!	Zorbas Grill	3.0	2.7	3	
+915	627 E Green St	kyXEnWKQGWSThY6EcjORuw	3.0	Its your say finally!	Zorba's Restaurant	1.0	1.1	4	
+916	627 E Green St	kyXEnWKQGWSThY6EcjORuw	3.0	Its your say finally!	Zorba's Restaurant	1.0	1.3	4	
