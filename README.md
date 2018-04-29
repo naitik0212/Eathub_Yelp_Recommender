@@ -1,0 +1,2 @@
+# Eathub_Yelp_Recommender
+EATHUB is an intelligent interactive visualization system. It is developed based on hidden insights in the yelp dataset. This system has an user-centric design which helps user to browse through any restaurant of any city based on various criterias, preferences and recommendations. We also provide detailed information about the selected restaurant visually to the user. *The dataset used is for educational purpose and in no way binding. It is based on the Yelp Dataset used for academic purpose!*
